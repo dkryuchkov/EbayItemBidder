@@ -1,0 +1,39 @@
+attributeMap['cars.greyimport']=
+postcode=2067
+houseNumber=
+streetName=
+adType=OFFER
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+_showLocationOnMap=on
+unacceptableGeocode=false
+level2CategoryId=
+quickOffer=
+_renew=on
+repost=false
+categoryId=20063
+price.amount=400
+price.type=FIXED
+minimumOfferPrice=
+title=NEW Kleenmaid 60cm Stainless Steel Warming Drawer RRP $999
+name=Dimitri
+phoneNumber=0410381932
+locationId=3003844
+mapAddress=Chatswood 2067, NSW
+geocodeLat=-33.882417
+geocodeLng=151.154762
+geocodeLocality=Chatswood
+description=NEW Kleenmaid 60cm Stainless Steel Warming Drawer (WD14010).Recommended Retail Price (RRP) - $999 as of September 2017.15 cm Warming Drawer Convection fanStainless SteelTouch-ProofCompletely-extractable drawerTempered glass internal surfacePreheating of crockeryPreheating of coffee cupsMaintaining the temperature of cooked foodsDefrostingLeavening doughSlow cooking at 70 °CThermostat adjustable from 30 °C to 70 °COperating indicator lightCold frontDimensions: 594mm (w) x 145mm (h) x 562mm (d)
+attributeMap['hg_appliances_ovens.paypal_accepted_seller_s']=false
+attributeMap['hg_appliances_ovens.automatic_repost_ad_s']=false
+attributeMap['hg_appliances_ovens.condition_s']=new
+attributeMap['hg_appliances_ovens.website_s']=gumtree-intforce.rhcloud.com
+attributeMap[hg_appliances_ovens.slogan_s]=Kleenmaid 60cm Stainless Steel Warming Drawer &#40;WD14010&#41;
+hourstomarket=24
+images=https://i.ebayimg.com/00/s/MjYxWDcwMA==/z/pTkAAOSwXhZZ31VX/$_20.JPG
+images=https://i.ebayimg.com/00/s/NTc5WDg4MA==/z/0zoAAOSwoL5Z31Vc/$_20.JPG
+images=https://i.ebayimg.com/00/s/NjY2WDg4MA==/z/mgEAAOSw8stZ31Vk/$_20.JPG
+ctk=WCSXyN_DADjFe8X3w8vNYA
+csrft=f7d3d62bb39f0f910c930a0f6d09c5e7

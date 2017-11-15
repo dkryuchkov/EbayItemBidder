@@ -1,0 +1,35 @@
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+attributeMap['cars.greyimport']=
+houseNumber=
+unacceptableGeocode=false
+level2CategoryId=
+_renew=on,_showLocationOnMap
+categoryId=20059
+price.amount=299
+price.type=FIXED
+minimumOfferPrice=
+attributeMap[hg_appliances_cooktop_rangehood.condition_s]=new
+title=NEW Schweigen Single External Motor Rangehood ISODRIVE650
+name=Dimitri
+phoneNumber=0410381932
+locationId=3004117
+geocodeLat=-33.794095
+geocodeLng=151.188817
+geocodeLocality=Chatswood
+description=Absolute bargin for this price!&lt;br&gt;German Manufactured Motor. &lt;br&gt;650 cubic metres per hour. &lt;br&gt;Installation Distance: Minimum recommended 3 metres. &lt;br&gt;Suit Australian style cooking. &lt;br&gt;Type of installations: roof, wall and eaves. &lt;br&gt;Motor comes with high quality flexi ducting, solid roof extension pipe and bell housing. &lt;br&gt;The 650 is ASA the longest lived of the plastics in direct sunlight, the electrics are totally sealed and not affected by the weather. &lt;br&gt;Item may show marks/scratches/dents or imperfections to the outer shell. &lt;br&gt;&lt;br&gt;Please Note: No Fixings or other accessories included.
+attributeMap['hg_appliances_cooktop_rangehood.paypal_accepted_seller_s']=false
+attributeMap['hg_appliances_cooktop_rangehood.condition_s']=new
+attributeMap['hg_appliances_cooktop_rangehood.highest_price_s']=299.0
+attributeMap['hg_appliances_cooktop_rangehood.automatic_repost_ad_s']=false
+images=https://i.ebayimg.com/00/s/NDcyWDMxMQ==/z/2HAAAOSwa~BYdPUi/$_20.JPG
+images=https://i.ebayimg.com/00/s/NDAwWDQwMA==/z/cWoAAOSwbiFZOmm-/$_20.JPG
+images=https://i.ebayimg.com/00/s/Nzg5WDg4MA==/z/b4gAAOSw8d5ZOmnJ/$_20.JPG
+images=https://i.ebayimg.com/00/s/Mzg0WDM4NA==/z/PbgAAOSwZQRYdPUm/$_20.JPG
+ctk=O4AuFPOKD3gBLoQj03qpxA
+csrft=7c4c1c6017f48ec84e6bb10aa34c1e3e
+_showLocationOnMap=on
+bbUserInput=9944
+bbToken=e974f4ff12c6b9471e0235d0b43271391a91059a3738411e8597f356c395a32f09d1a6d58b91a64e6679a858b0ebd0ab347de8f6b1ea38b619a92a80ccdeb4ad

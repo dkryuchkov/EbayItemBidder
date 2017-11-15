@@ -1,0 +1,36 @@
+attributeMap['cars.greyimport']=
+postcode=2040
+houseNumber=
+streetName=
+adType=OFFER
+adId=
+geocodeConfidence=OK
+files[]=
+bbImageBaseUrl=/bb-image.html
+galleryImageIndex=
+_showLocationOnMap=on
+unacceptableGeocode=false
+level2CategoryId=
+quickOffer=
+_renew=on
+repost=false
+categoryId=20093
+price.amount=250
+price.type=FIXED
+minimumOfferPrice=
+title=NEW Keyang South Korea PHD-30 3kg SDS Plus Rotary Hammer Drill
+images=https://i.ebayimg.com/00/s/NDQwWDY3MA==/z/oEgAAOSwEzxYT8Kw/$_20.JPG
+images=https://i.ebayimg.com/00/s/NDgwWDY0MA==/z/kcEAAOSwo4pYT443/$_20.JPG
+images=https://i.ebayimg.com/00/s/NDgwWDY0MA==/z/bPwAAOSwCEdYT447/$_20.JPG
+images=https://i.ebayimg.com/00/s/NDgwWDY0MA==/z/RAIAAOSwEzxYT45D/$_20.JPG
+name=Dimitri
+phoneNumber=0410381932
+locationId=3003844
+geocodeLat=-33.882417
+geocodeLng=151.154762
+geocodeLocality=Leichhardt
+description=http://www.keyang.com.au/&lt;br&gt;KEYANG AUSTRALIA - Industrial Power Tools&lt;br&gt;Keyang manufactures in South Korea and is the number 1 in Industrial Power Tools and has remained market leader for the last 10 years, in Korea, ahead of all the major brands known in the world wide market place.&lt;br&gt;Since the birth of Keyang over 30 years ago, our values have remained true. To manufacture high quality Power Tools without compromise.&lt;br&gt;This is a top quality professional tools brand, more expensive than DeWalt or Makita&lt;div class=&quot;content-section&quot;&gt; &lt;h3&gt;Description&lt;/h3&gt;    &lt;div class=&quot;sanitised-markup&quot;&gt;&lt;p&gt;Keyang PHD-30 3kg SDS Plus Rotary Hammer Drill (236814-7)&lt;/p&gt;&lt;p&gt;&lt;/p&gt;    &lt;/div&gt;  &lt;/div&gt;&lt;br&gt;&lt;br&gt;KEYANG PHD-30 &ndash; 3KG INDUSTRIAL SDS PLUS ROTARY HAMMER DRILL&lt;br&gt;&lt;br&gt;Keyang&rsquo;s NEW 3kg SDS Plus Hammer Drill comes with the advanced VCS anti vibration technology through its low noise damping mechanism. The full metal gearbox delivers maximum performance and long machine life. One touch sliding chuck for easy bit installation and removal, along with the variable lock system, which rotates and locks the chisel into 16 different positions, make this tool the perfect partner for varied operation
+attributeMap['hg_tools_diy_power_tools.paypal_accepted_seller_s']=false
+attributeMap['hg_tools_diy_power_tools.condition_s']=new
+attributeMap['hg_tools_diy_power_tools.automatic_repost_ad_s']=false
+attributeMap['hg_tools_diy_power_tools.highest_price_s']=250.0

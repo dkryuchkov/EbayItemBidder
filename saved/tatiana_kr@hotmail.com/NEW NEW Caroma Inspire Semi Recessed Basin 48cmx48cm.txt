@@ -1,0 +1,37 @@
+attributeMap['cars.greyimport']=
+postcode=2040
+houseNumber=
+streetName=
+adType=OFFER
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+_showLocationOnMap=on
+unacceptableGeocode=false
+level2CategoryId=
+quickOffer=
+_renew=on
+repost=false
+categoryId=20103
+price.amount=99
+price.type=FIXED
+minimumOfferPrice=
+title=NEW Caroma Inspire Semi Recessed Basin 48cmx48cm
+name=Dimitri
+phoneNumber=0410381932
+locationId=3003844
+mapAddress=Leichhardt, NSW, 2040
+geocodeLat=-33.882417
+geocodeLng=151.154762
+geocodeLocality=Leichhardt
+description=&lt;div class="content-section"&gt; &lt;h3&gt;Description&lt;/h3&gt;    &lt;div class="sanitised-markup"&gt;&lt;p&gt;&lt;strong&gt;New Caroma Inspire Semi Recessed Basin 48cm x 48cm - White&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &#40;SN&#58;IS6048&#41; &#40;223773-236&#41;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;    &lt;/div&gt;    &lt;/div&gt;&lt;br&gt;&lt;br&gt;THIS ADVERT IS MANAGED BY https://gumtree-intforce.rhcloud.com
+attributeMap['building_materials.paypal_accepted_seller_s']=false
+attributeMap['building_materials.automatic_repost_ad_s']=false
+attributeMap['building_materials.condition_s']=used
+attributeMap['building_materials.website_s']=gumtree-intforce.rhcloud.com
+attributeMap[building_materials.slogan_s]=Inspire Semi Recessed Basin 48cm x 48cm - White
+bbImageBaseUrl=/bb-image.html
+images=https://i.ebayimg.com/00/s/ODEzWDg4MA==/z/e5sAAOSwjDZYhfQm/$_20.JPG
+ctk=U9QZenZdDRj-5LMwuDuXyw
+csrft=c5615265b4b85c0edb1d112ec889001f

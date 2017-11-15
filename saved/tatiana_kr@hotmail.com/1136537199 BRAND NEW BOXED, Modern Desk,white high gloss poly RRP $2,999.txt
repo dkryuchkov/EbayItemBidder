@@ -1,0 +1,35 @@
+attributeMap['cars.greyimport']=
+postcode=2040
+houseNumber=
+streetName=
+adType=OFFER
+adId=
+geocodeConfidence=OK
+files[]=
+bbImageBaseUrl=/bb-image.html
+galleryImageIndex=
+_showLocationOnMap=on
+unacceptableGeocode=false
+level2CategoryId=
+quickOffer=
+_renew=on
+repost=false
+categoryId=21016
+price.amount=699
+price.type=FIXED
+minimumOfferPrice=
+title=BRAND NEW BOXED, Modern Desk,white high gloss poly RRP $2,999
+images=https://i.ebayimg.com/00/s/NTg3WDg4MA==/z/hOEAAOSw4DJYf0Zb/$_20.JPG
+images=https://i.ebayimg.com/00/s/NTg3WDg4MA==/z/1x0AAOSwt5hYf0Zp/$_20.JPG
+images=https://i.ebayimg.com/00/s/MTYwMFg5MDE=/z/kWkAAOSwZQRYgqGt/$_20.JPG
+name=Dimitri
+phoneNumber=0410381932
+locationId=3003844
+geocodeLat=-33.882417
+geocodeLng=151.154762
+geocodeLocality=Leichhardt
+description=THIS IS A BRAND NEW, BOXED ITEM ! REFER TO THE PICTURES&lt;br&gt;&lt;br&gt;&lt;div class=&quot;content-section&quot;&gt; &lt;h3&gt;Description&lt;/h3&gt;    &lt;div class=&quot;sanitised-markup&quot;&gt;&lt;p&gt;Desk, white high gloss polyurethane finish, L/H return with 2 x door, 2 x drawers, approx 1700 x 1200mm, RRP$2,999 &lt;/p&gt;&lt;p&gt;&lt;/p&gt;    &lt;/div&gt;    &lt;/div&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;THIS ADVERT IS MANAGED BY https://gumtree-intforce.rhcloud.com
+attributeMap['hg_garden_lounging_relaxing.highest_price_s']=699.0
+attributeMap['hg_garden_lounging_relaxing.automatic_repost_ad_s']=false
+attributeMap['hg_garden_lounging_relaxing.condition_s']=new
+attributeMap['hg_garden_lounging_relaxing.paypal_accepted_seller_s']=false

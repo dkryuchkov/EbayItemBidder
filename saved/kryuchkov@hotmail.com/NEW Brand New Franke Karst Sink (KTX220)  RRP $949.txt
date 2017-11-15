@@ -1,0 +1,35 @@
+description=Franke Karst Sink (KTX220)Recommended Retail Price (RRP) - $949 Depth x Height x Width: 480 x 200 x 855 mm Bowl Type: 1 & 3&#47;4
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+attributeMap['cars.greyimport']=
+houseNumber=
+unacceptableGeocode=false
+level2CategoryId=
+_renew=on,_showLocationOnMap
+categoryId=20103
+adType=OFFER
+price.amount=250
+price.type=FIXED
+minimumOfferPrice=
+attributeMap[building_materials.condition_s]=new
+title=Brand New Franke Karst Sink (KTX220)  RRP $949
+name=Dimitri
+phoneNumber=0410381932
+locationId=3004117
+geocodeLat=-33.794095
+geocodeLng=151.188817
+geocodeLocality=Chatswood
+attributeMap['building_materials.paypal_accepted_seller_s']=false
+attributeMap['building_materials.automatic_repost_ad_s']=false
+attributeMap['building_materials.condition_s']=new
+attributeMap['building_materials.highest_price_s']=250.0
+_showLocationOnMap=on
+images=https://i.ebayimg.com/00/s/NDk1WDg4MA==/z/f9oAAOSw5bFZYgkf/$_20.JPG
+images=https://i.ebayimg.com/00/s/NzIzWDg4MA==/z/xHIAAOSwkttZYgkw/$_20.JPG
+images=https://i.ebayimg.com/00/s/NDk1WDg4MA==/z/MusAAOSwg0pZYgk7/$_20.JPG
+ctk=bHO8_lQKCo9mD9K3Dl6kaA
+csrft=60c39da70a1aca3ee7424bffac01d22c
+bbUserInput=8464
+bbToken=fdd2cdec54e78bd5a687bd16fcbe6287851e7fa3b4393c67ae534b7d2ccffc9b09622c174e760a3be5bff718fcf6467d8d815302a67abd5bab9f90fe0f1380ae

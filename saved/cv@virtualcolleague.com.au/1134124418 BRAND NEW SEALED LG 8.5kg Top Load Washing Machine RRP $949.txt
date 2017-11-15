@@ -1,0 +1,34 @@
+attributeMap['cars.greyimport']=
+postcode=2040
+houseNumber=
+streetName=
+adType=OFFER
+adId=
+geocodeConfidence=OK
+files[]=
+bbImageBaseUrl=/bb-image.html
+galleryImageIndex=
+_showLocationOnMap=on
+unacceptableGeocode=false
+level2CategoryId=
+quickOffer=
+_renew=on
+repost=false
+categoryId=20066
+price.amount=499
+price.type=FIXED
+minimumOfferPrice=
+title=BRAND NEW SEALED LG 8.5kg Top Load Washing Machine RRP $949
+images=https://i.ebayimg.com/00/s/NDAwWDQwMA==/z/R~0AAOSw9GhYYcGu/$_20.JPG
+images=https://i.ebayimg.com/00/s/NDgwWDc1MA==/z/SEwAAOSw9GhYYcGw/$_20.JPG
+name=Dimitri
+phoneNumber=0410381932
+locationId=3003844
+geocodeLat=-33.882417
+geocodeLng=151.154762
+geocodeLocality=Leichhardt
+description=&lt;div class=&quot;content-section&quot;&gt; &lt;h3&gt;Description&lt;/h3&gt;    &lt;div class=&quot;sanitised-markup&quot;&gt;&lt;p&gt;&lt;strong&gt;LG 8.5kg Top Load Washing Machine (White)(WF-T8582)&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Recommended Retail Price (RRP) - $949 as of July 2016&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Colour: White&lt;/li&gt;&lt;li&gt;Motor: Conventional&lt;/li&gt;&lt;li&gt;Capacity: 8.5kg&lt;/li&gt;&lt;li&gt;Lid Type: Transparent Glass&lt;/li&gt;&lt;li&gt;Spin Speed: 1000RPM&lt;/li&gt;&lt;li&gt;Energy Star Rating: 3 Stars&lt;/li&gt;&lt;li&gt;Energy consumption: 708 Kwh&lt;/li&gt;&lt;li&gt;Water Star Rating: 4 Stars&lt;/li&gt;&lt;li&gt;Water consumption: 125 L&lt;/li&gt;&lt;li&gt;Heating element&lt;/li&gt;&lt;li&gt;7 Wash Programs&lt;/li&gt;&lt;li&gt;Air Dry Moisture Reduction Cycle: 60/90/120 mins&lt;/li&gt;&lt;li&gt;3 Water Temperature&lt;/li&gt;&lt;li&gt;2 Stars Energy rating&lt;/li&gt;&lt;li&gt;3 Stars WELS Water Rating&lt;/li&gt;&lt;li&gt;Auto lint clean system&lt;/li&gt;&lt;li&gt;6 Motion Wash Technology&lt;/li&gt;&lt;li&gt;Dimensions (HxWxD): 1020 x 632 x 670 mm&lt;/li&gt;&lt;li&gt;Weight: 44.5kg&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Please Note:&lt;/strong&gt; Products listed as `Resealed` have not been sold to a consumer before. Items will generally still have their original packaging but it may have been opened for testing or other purposes or may have carton damaged only. In some instances accessories may vary from the standard (for example, software or manuals may be missing or different).&lt;/p&gt;&lt;p&gt; (SN:WF-T8582)&lt;/p&gt;&lt;/div&gt;    &lt;/div&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;THIS ADVERT IS MANAGED BY https://gumtree-intforce.rhcloud.com
+attributeMap['hg_appliances_washing_drying.paypal_accepted_seller_s']=false
+attributeMap['hg_appliances_washing_drying.condition_s']=used
+attributeMap['hg_appliances_washing_drying.automatic_repost_ad_s']=false
+attributeMap['hg_appliances_washing_drying.highest_price_s']=499.0

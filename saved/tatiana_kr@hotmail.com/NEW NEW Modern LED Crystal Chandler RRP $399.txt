@@ -1,0 +1,37 @@
+description=NEW Modern LED Crystal Chandler 40cm x 21cm x 80cm H Pendant Height can be adjusted to required lengthex display , newPlease note: it&#39;s an entertainment chandler, not a main supply of electricity in a room, as it slowly changes light color every 20 - 30 seconds ( red, purple, blue).
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+attributeMap['cars.greyimport']=
+houseNumber=
+unacceptableGeocode=false
+level2CategoryId=
+_renew=on,_showLocationOnMap
+categoryId=21023
+adType=OFFER
+price.amount=89
+price.type=FIXED
+minimumOfferPrice=
+attributeMap[hg_lighting_ceiling.condition_s]=new
+title=NEW Modern LED Crystal Chandler RRP $399
+name=Dimitri
+phoneNumber=0410381932
+locationId=3004117
+geocodeLat=-33.794095
+geocodeLng=151.188817
+geocodeLocality=Chatswood
+attributeMap['hg_lighting_ceiling.paypal_accepted_seller_s']=false
+attributeMap['hg_lighting_ceiling.automatic_repost_ad_s']=false
+attributeMap['hg_lighting_ceiling.condition_s']=new
+attributeMap['hg_lighting_ceiling.highest_price_s']=89.0
+images=https://i.ebayimg.com/00/s/MTYwMFg5MDE=/z/T-AAAOSwhGlZmBdw/$_20.JPG
+images=https://i.ebayimg.com/00/s/OTAxWDE2MDA=/z/kYYAAOSwAk9ZmBdy/$_20.JPG
+images=https://i.ebayimg.com/00/s/OTAxWDE2MDA=/z/-MgAAOSwohdZmBdw/$_20.JPG
+images=https://i.ebayimg.com/00/s/MTYwMFg5MDE=/z/oJgAAOSwkRpZmBdx/$_20.JPG
+images=https://i.ebayimg.com/00/s/MTg1WDMwMA==/z/hmYAAOSwSnFZmBfO/$_20.JPG
+ctk=-LxgoIYllXCJbdJqtNjDBw
+csrft=5a5bf22032b3711b1ebb3e525c317c7e
+_showLocationOnMap=on
+bbUserInput=5903
+bbToken=56c1acb6f7c5aece652e6ff72a0bb38b21ee0dd16586595be60c4993a01a17ceed92d1c9527ba28ccab5f9c6b835975040f18360a77c919d97bf1f3d8121a5ed

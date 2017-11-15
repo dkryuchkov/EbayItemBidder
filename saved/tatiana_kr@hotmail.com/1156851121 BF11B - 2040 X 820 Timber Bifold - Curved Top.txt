@@ -1,0 +1,29 @@
+description=Description  BF11B - 2040 X 820 Timber Bifold - Curved Top Features: Dimensions:2040 X 820 Glass: Unglazed. Pack Number(s): 113 Online is acting as the official clearance partner of Doors Plus to move nearly $2 million in excess stock. With a wide range of interior doors, entry doors, bifolds, handles, and more, you?ll be sure to find the perfect doors to complete your home improvement with ?no fuss?!As this is a clearance program, there is no change of mind offered on your purchase. Please ensure you have fully understood what the product is before placing your bid. Any pre or post-purchase enquiries should be referred to the Online Customer Service Team, not to Doors Plus. (SN:BF11B) (244041-269) Note:
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+attributeMap['cars.greyimport']=
+houseNumber=
+unacceptableGeocode=false
+level2CategoryId=
+_renew=on,_showLocationOnMap
+categoryId=20103
+adType=OFFER
+price.amount=100
+price.type=FIXED
+minimumOfferPrice=
+attributeMap[building_materials.condition_s]=used
+title=BF11B - 2040 X 820 Timber Bifold - Curved Top
+images=https://i.ebayimg.com/00/s/NDAwWDIwOA==/z/kQMAAOSwENpZkh0L/$_20.JPG
+images=https://i.ebayimg.com/00/s/MjY1WDQwMA==/z/TrYAAOSwtPhZkh0V/$_20.JPG
+name=Dimitri
+phoneNumber=0410381932
+locationId=3003844
+geocodeLat=-33.882417
+geocodeLng=151.154762
+geocodeLocality=Leichhardt
+attributeMap['building_materials.paypal_accepted_seller_s']=false
+attributeMap['building_materials.automatic_repost_ad_s']=false
+attributeMap['building_materials.condition_s']=used
+attributeMap['building_materials.highest_price_s']=100.0

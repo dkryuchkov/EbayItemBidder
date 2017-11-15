@@ -1,0 +1,34 @@
+description=<div id="ad_description_details_content"> New unglazed external door solid wood, meranti timber, 870x2040, 2 lites&lt;br&gt;&lt;br&gt;RRP $480&lt;br&gt;</div> </div>
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+attributeMap['cars.greyimport']=
+houseNumber=
+unacceptableGeocode=false
+level2CategoryId=
+_renew=on,_showLocationOnMap
+categoryId=20103
+adType=OFFER
+price.amount=110
+price.type=FIXED
+minimumOfferPrice=
+attributeMap[building_materials.condition_s]=new
+title=New unglazed external/internal door solid wood 870x2040 RRP $480
+name=Dimitri
+phoneNumber=0410381932
+locationId=3004117
+geocodeLat=-33.794095
+geocodeLng=151.188817
+geocodeLocality=Chatswood
+attributeMap['building_materials.paypal_accepted_seller_s']=false
+attributeMap['building_materials.automatic_repost_ad_s']=false
+attributeMap['building_materials.condition_s']=new
+attributeMap['building_materials.highest_price_s']=110.0
+images=https://i.ebayimg.com/00/s/MTYwMFgxMjAw/z/qMQAAOSwak5Zz1kD/$_20.JPG
+images=https://i.ebayimg.com/00/s/MzAwWDQwMA==/z/iRsAAOSwkWNZm2YV/$_20.JPG
+ctk=0tpyXP_z3tkbSo2pwy_e1Q
+csrft=a99c9b7965f84fd2da14ed84acddebda
+_showLocationOnMap=on
+bbUserInput=3867
+bbToken=ee6a5adaa5884ab687a00f047891d8523a3373c67e78f5132d96ae52c264d870f3816910066bee18fe793dd301c927925aff0f97e804bfc87c5d48aab43554ac

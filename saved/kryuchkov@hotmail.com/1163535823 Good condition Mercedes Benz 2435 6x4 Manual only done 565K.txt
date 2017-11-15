@@ -1,0 +1,41 @@
+description=<div id="ad_description_details_content">                    Ring Feeder is an ex driving school truck in good condition. Drives well. Never been carried any heavy load or done hard work&lt;br&gt;&lt;br&gt;Give away price ! These are sold for 35K with twice as many miles.&lt;br&gt;1991 Mercedes Benz 2435 6x4 Table Top Manual Cab Chassis Truck&lt;br&gt;Body Type: Cab Chassis&lt;br&gt;Build Date: 08&#47;1991&lt;br&gt;Compliance Date: 08&#47;1991&lt;br&gt;VIN: WDB65813765515000&lt;br&gt;No. of Cylinders: 8&lt;br&gt;Fuel Type: Turbo Diesel&lt;br&gt;Transmission: 18 gears Manual&lt;br&gt;Odometer: 565918 km indicated&lt;br&gt;Registration Expiry: Sold Unregistered, Without Plates</div>        </div>
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+attributeMap['cars.greyimport']=
+houseNumber=
+unacceptableGeocode=false
+level2CategoryId=
+_renew=on,_showLocationOnMap
+categoryId=21128
+adType=OFFER
+price.amount=12000
+price.type=FIXED
+minimumOfferPrice=11500
+title=Good condition Mercedes Benz 2435 6x4 Manual only done 565K
+images=https://i.ebayimg.com/00/s/NDgwWDY0MA==/z/wQAAAOSwYc5Z5blp/$_20.JPG
+images=https://i.ebayimg.com/00/s/NDgwWDY0MA==/z/XwoAAOSwOA1Z5blr/$_20.JPG
+images=https://i.ebayimg.com/00/s/NDgwWDY0MA==/z/XxUAAOSwOA1Z5blu/$_20.JPG
+images=https://i.ebayimg.com/00/s/NDgwWDY0MA==/z/lwMAAOSwonBZ5blz/$_20.JPG
+images=https://i.ebayimg.com/00/s/NDgwWDY0MA==/z/XUUAAOSwYeRZ5bl5/$_20.JPG
+images=https://i.ebayimg.com/00/s/NDgwWDY0MA==/z/bPIAAOSwI59Z5bmC/$_20.JPG
+images=https://i.ebayimg.com/00/s/NDgwWDY0MA==/z/jOAAAOSwPzhZ5bmH/$_20.JPG
+images=https://i.ebayimg.com/00/s/NDgwWDY0MA==/z/aVEAAOSwTEBZ6qd~/$_20.JPG
+images=https://i.ebayimg.com/00/s/NDgwWDY0MA==/z/0J8AAOSwdW9Z6q3Z/$_20.JPG
+name=Dimitri
+phoneNumber=0410381932
+locationId=3004117
+geocodeLat=-33.794095
+geocodeLng=151.188817
+geocodeLocality=Chatswood
+attributeMap['trucks.minimum_offer_price_s']=11500
+attributeMap['trucks.truckmileageinkms_i']=565918
+attributeMap['trucks.truckmake_s']=mercedesbenz
+attributeMap['trucks.registered_s']=n
+attributeMap['trucks.highest_price_s']=12000.0
+attributeMap['trucks.fueltype_s']=diesel
+attributeMap['trucks.automatic_repost_ad_s']=false
+attributeMap['trucks.forsaleby_s']=ownr
+attributeMap['trucks.truckyear_i']=1991
+attributeMap['trucks.truckmodel_s']=mercedes 2435

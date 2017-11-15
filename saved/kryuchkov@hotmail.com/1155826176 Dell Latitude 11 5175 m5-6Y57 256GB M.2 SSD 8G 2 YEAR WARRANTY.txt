@@ -1,0 +1,33 @@
+description=Manufacture refurbished, as new condition&lt;br&gt;Dell Premium Next Business Day on site support until 4th of Aug 2019 that is worth $499 on its own!&lt;br&gt;Comes with Windows 10 64bit Professional Edition&lt;br&gt;This is a serious piece of professional gear, not a toy. With powefull 6th generation M5 CPU, 8GB RAM and super fast 256GB M.2 SSD this little laptop will outperform many much larger models.&lt;br&gt;Spec:&lt;br&gt;Intel Core m5-6Y57 Processor (4M Cache, up to 2.80 GHz)&lt;br&gt;&lt;br&gt;8GB LPDDR3 Memory&lt;br&gt;&lt;br&gt;M.2 256GB SATA Class 20 Solid State Drive&lt;br&gt;&lt;br&gt;Intel HD graphics&lt;br&gt;&lt;br&gt;10.8 inch Display with FHD (1920 x 1080) resolution with 10-pt capacitive touch&lt;br&gt;&lt;br&gt;Integrated audio&lt;br&gt;&lt;br&gt;Intel 8260 Dual band 2x2 802.11ac 2.4&#47;5GHz + Bluetooth 4.1&lt;br&gt;&lt;br&gt;Integrated HD Webcam&lt;br&gt;&lt;br&gt;Micro SD Memory Card Reader&lt;br&gt;&lt;br&gt;1 x USB 3.0 Type C, 1 x USB 3.0 Type C, 1 x Headphone and microphone combo jack, 1 x Micro HDMI Port&lt;br&gt;&lt;br&gt;Built In Primary Battery&lt;br&gt;&lt;br&gt;AC Power Adapter And Power Cord&lt;br&gt;Note: TABLET ONLY, Keyboard NOT included
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+attributeMap['cars.greyimport']=
+houseNumber=
+unacceptableGeocode=false
+level2CategoryId=
+_renew=on,_showLocationOnMap
+categoryId=18553
+adType=OFFER
+price.amount=599
+price.type=FIXED
+minimumOfferPrice=
+attributeMap[laptops.condition_s]=new
+title=Dell Latitude 11 5175 m5-6Y57 256GB M.2 SSD 8G 2 YEAR WARRANTY
+images=https://i.ebayimg.com/00/s/MjExWDQwMA==/z/z4YAAOSw5gxZddLe/$_20.JPG
+images=https://i.ebayimg.com/00/s/MjU4WDQwMA==/z/EAMAAOSwUrdZddLa/$_20.JPG
+images=https://i.ebayimg.com/00/s/MTY5WDQwMA==/z/UaoAAOSwPzpZddLd/$_20.JPG
+images=https://i.ebayimg.com/00/s/MjI1WDQwMA==/z/FOUAAOSw5vBZddLf/$_20.JPG
+images=https://i.ebayimg.com/00/s/MjI1WDQwMA==/z/PhcAAOSwhSVZddLj/$_20.JPG
+images=https://i.ebayimg.com/00/s/MjI1WDQwMA==/z/KwsAAOSwAtFZddLf/$_20.JPG
+name=Dimitri
+phoneNumber=0410381932
+locationId=3004117
+geocodeLat=-33.794095
+geocodeLng=151.188817
+geocodeLocality=Chatswood
+attributeMap['laptops.paypal_accepted_seller_s']=false
+attributeMap['laptops.automatic_repost_ad_s']=false
+attributeMap['laptops.highest_price_s']=699.0
+attributeMap['laptops.condition_s']=new

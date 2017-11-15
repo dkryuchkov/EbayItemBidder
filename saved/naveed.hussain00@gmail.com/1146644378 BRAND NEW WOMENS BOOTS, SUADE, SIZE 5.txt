@@ -1,0 +1,36 @@
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+attributeMap['cars.greyimport']=
+houseNumber=
+unacceptableGeocode=false
+level2CategoryId=
+_renew=on,_showLocationOnMap
+categoryId=18572
+price.amount=50
+price.type=NEGOTIABLE
+minimumOfferPrice=
+attributeMap[womens_shoes.condition_s]=new
+title=BRAND NEW WOMENS BOOTS, SUADE, SIZE 5
+images=https://i.ebayimg.com/00/s/OTMyWDU2Mw==/z/mysAAOSwVm5Y~Ff2/$_20.JPG
+images=https://i.ebayimg.com/00/s/MTI4MFg3MjA=/z/dTYAAOSwWkJY9Igc/$_20.JPG
+images=https://i.ebayimg.com/00/s/MTI4MFg3MjA=/z/dTwAAOSwWkJY9Igc/$_20.JPG
+images=https://i.ebayimg.com/00/s/MTI4MFg3MjA=/z/3fkAAOSwvKtY9Igd/$_20.JPG
+images=https://i.ebayimg.com/00/s/MTI4MFg3MjA=/z/CWUAAOSwHHFY9Igc/$_20.JPG
+images=https://i.ebayimg.com/00/s/NzIwWDEyODA=/z/GQ4AAOSw7U5Y9Ige/$_20.JPG
+images=https://i.ebayimg.com/00/s/MTI4MFg3MjA=/z/jsAAAOSwRUhY9Ige/$_20.JPG
+images=https://i.ebayimg.com/00/s/ODQwWDcyMA==/z/6Z8AAOSwmCVY~FgD/$_20.JPG
+images=https://i.ebayimg.com/00/s/ODk1WDcyMA==/z/va0AAOSwN6JY~FgR/$_20.JPG
+images=https://i.ebayimg.com/00/s/NzIwWDEyODA=/z/4qUAAOSwBOtY9IiM/$_20.JPG
+name=Nav
+phoneNumber=0402602979
+locationId=3003499
+geocodeLat=-33.771962
+geocodeLng=150.843234
+geocodeLocality=Rooty Hill
+description=Brand New and comes with the boxSize 5Black suadeTie up lace detailSide zip (half only)$50 or near offerPostage can be arranged anywhere in Aus Call me on 0402 602 979
+attributeMap['womens_shoes.paypal_accepted_seller_s']=true
+attributeMap['womens_shoes.condition_s']=new
+attributeMap['womens_shoes.automatic_repost_ad_s']=false
+attributeMap['womens_shoes.highest_price_s']=50.0

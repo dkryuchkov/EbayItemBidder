@@ -1,0 +1,45 @@
+attributeMap['cars.greyimport']=
+postcode=2040
+houseNumber=
+streetName=
+adType=OFFER
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+_showLocationOnMap=on
+unacceptableGeocode=false
+level2CategoryId=
+quickOffer=
+_renew=on
+repost=false
+categoryId=20061
+price.amount=999
+price.type=FIXED
+minimumOfferPrice=
+title=NEW Panasonic NR-CY54AGSAU 547L French Door Fridge
+name=Dimitri
+phoneNumber=0410381932
+locationId=3003844
+mapAddress=Leichhardt, NSW, 2040
+geocodeLat=-33.882417
+geocodeLng=151.154762
+geocodeLocality=Leichhardt
+description=&lt;div class="content-section"&gt; &lt;h3&gt;Description&lt;/h3&gt;    &lt;div class="sanitised-markup"&gt;&lt;p&gt;&lt;strong&gt;Panasonic NR-CY54AGSAU 547L French Door Fridge with Glass Finish &#40;Refurbished&#41;&lt;/strong&gt; &lt;/p&gt;&lt;p&gt;Recommended Retail Price &#40;RRP&#41; - &#36;2499 as of August 2016 based on a new product.&lt;/p&gt;&lt;p&gt;This premium refrigerator boasts the largest capacity of any French Door Fridge for its size, along with a practical design and stylish glass finish. It also features energy saving ECONAVI technology, flat touch panel control and easy access bottom mount freezer.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;CAPACITY&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Gross Capacity&lt;/p&gt;&lt;ul&gt;&lt;li&gt;547L Total &lt;/li&gt;&lt;li&gt;394L Refrigerator &lt;/li&gt;&lt;li&gt;153L Freezer &lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Storage Capacity&lt;/p&gt;&lt;ul&gt;&lt;li&gt;452L Total &lt;/li&gt;&lt;li&gt;353L Refrigerator &lt;/li&gt;&lt;li&gt;99L Freezer &lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;FEATURES&lt;/strong&gt; &lt;/p&gt;&lt;ul&gt;&lt;li&gt;Stylish French Doors &lt;/li&gt;&lt;li&gt;R600a Refrigerant &lt;/li&gt;&lt;li&gt;Vitaminsafe System &#47; ECONAVI System &#47; Inverter Motor &#47; Ag Clean Anti-Bacteria &#47; Ag Clean Deodoriser &lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;REFRIGERATOR&lt;/strong&gt; &lt;/p&gt;&lt;ul&gt;&lt;li&gt;Drawer Freezer Door&lt;/li&gt;&lt;li&gt;Twist ice Tray&lt;/li&gt;&lt;li&gt;Ice Box&lt;/li&gt;&lt;li&gt;Quick Ice Making&lt;/li&gt;&lt;li&gt;Door Control Panel&#58; Touch Screen&lt;/li&gt;&lt;li&gt;Compressor Inverter&lt;/li&gt;&lt;li&gt;Quick Freezing&lt;/li&gt;&lt;li&gt;Energy Saving&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;GENERAL&lt;/strong&gt; &lt;/p&gt;&lt;ul&gt;&lt;li&gt;Dimensions &#40;W x H x D&#41;&#58; Approx 770 x 743 x 1714 mm &#47; Weight&#58; Approx 90kg &lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;PLEASE NOTE&#58;&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Item may show marks&#47;scratches&#47;dents or imperfections. Accessories may vary from standard. Item may not be in original box or Not boxed or may have carton damaged.&lt;/li&gt;&lt;li&gt;Returns&#47;refunds based on marks&#47;scratches&#47;dents or imperfections will not be accepted &lt;/li&gt;&lt;li&gt;This item is classified as Grade 1 &#40;please refer to below Grading info&#41; &lt;/li&gt;&lt;/ul&gt;&lt;p&gt; &#40;SN&#58;236756-3&#41; &#40;236756-3&#41;&lt;/p&gt;&lt;p&gt;&lt;strong&gt; Note&#58;&lt;/strong&gt;  &lt;/p&gt;    &lt;/div&gt;    &lt;/div&gt;&lt;br&gt;&lt;br&gt;THIS ADVERT IS MANAGED BY https://gumtree-intforce.rhcloud.com
+attributeMap['hg_appliances_fridge_freezer.paypal_accepted_seller_s']=false
+attributeMap['hg_appliances_fridge_freezer.automatic_repost_ad_s']=false
+attributeMap['hg_appliances_fridge_freezer.condition_s']=new
+attributeMap['hg_appliances_fridge_freezer.website_s']=gumtree-intforce.rhcloud.com
+attributeMap[hg_appliances_fridge_freezer.slogan_s]=NEW Panasonic NR-CY54AGSAU 547L French Door Fridge with Glass Fin
+hourstomarket=30
+bbImageBaseUrl=/bb-image.html
+images=https://i.ebayimg.com/00/s/ODgwWDQxMw==/z/eEcAAOSwopRYYcWN/$_20.JPG
+images=https://i.ebayimg.com/00/s/NTk4WDMxNw==/z/NTcAAOSwnHZYYcWR/$_20.JPG
+images=https://i.ebayimg.com/00/s/NDQ1WDU5OA==/z/lN8AAOSwA3dYYcWX/$_20.JPG
+images=https://i.ebayimg.com/00/s/MzQ3WDU1NQ==/z/RwgAAOSwa~BYYcWd/$_20.JPG
+images=https://i.ebayimg.com/00/s/NTgxWDMzMQ==/z/4VwAAOSw241YYcWh/$_20.JPG
+images=https://i.ebayimg.com/00/s/NTg5WDM1OA==/z/Ci0AAOSwImRYYcWl/$_20.JPG
+ctk=_g58JfbQFLLoZmZ6I00ByA
+csrft=3cb7a49e56f743f87061200176ba58b8
+bbUserInput=2428
+bbToken=2aaab4762a02af66819ed0dff112f22038a5acdfc764f27c07eff29b19b5f537da491b42718ae3979071093d00c20501f3c9dcb18b4f5d246f99904c65762cbb

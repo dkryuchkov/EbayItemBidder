@@ -1,0 +1,35 @@
+attributeMap['cars.greyimport']=
+postcode=2040
+houseNumber=
+streetName=
+adType=OFFER
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+_showLocationOnMap=on
+unacceptableGeocode=false
+level2CategoryId=
+quickOffer=
+_renew=on
+repost=false
+categoryId=20059
+price.amount=200
+price.type=FIXED
+minimumOfferPrice=
+title=BRAND NEW Signature SS Exhaust Hood - wall type 600, RRP 1,300
+images=https://i.ebayimg.com/00/s/ODgwWDU4NA==/z/Q74AAOSwA3dYMpTW/$_20.JPG
+images=https://i.ebayimg.com/00/s/NTg0WDg4MA==/z/o6UAAOSwHMJYMpTV/$_20.JPG
+images=https://i.ebayimg.com/00/s/NTg0WDg4MA==/z/QxcAAOSwA3dYMpTP/$_20.JPG
+name=Tatiana
+phoneNumber=0410381932
+locationId=3003845
+mapAddress=Mary St, Lilyfield, NSW
+geocodeLat=-33.87109
+geocodeLng=151.161166
+geocodeLocality=Lilyfield
+description=MOVING HOUSE AND GIVING IT AWAY. BRAND NEW IN ORIGINAL BOX.&lt;br&gt;RRP $1,300&lt;br&gt;&lt;br&gt;Signature Harware Quality Stainless steel Exhaust Hood &lt;br&gt;Wall mounting&lt;br&gt;Width approx 600&lt;br&gt;&lt;br&gt;BE QUICK !
+attributeMap['hg_appliances_cooktop_rangehood.paypal_accepted_seller_s']=false
+attributeMap['hg_appliances_cooktop_rangehood.condition_s']=new
+attributeMap['hg_appliances_cooktop_rangehood.highest_price_s']=200.0
+attributeMap['hg_appliances_cooktop_rangehood.automatic_repost_ad_s']=false

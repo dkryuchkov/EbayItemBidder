@@ -1,0 +1,37 @@
+attributeMap['cars.greyimport']=
+postcode=2040
+houseNumber=
+streetName=
+adType=OFFER
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+_showLocationOnMap=on
+unacceptableGeocode=false
+level2CategoryId=
+quickOffer=
+_renew=on
+repost=false
+categoryId=20103
+price.amount=70
+price.type=FIXED
+minimumOfferPrice=
+attributeMap['building_materials.condition_s']=new
+title=Brand new Porcher Ovale Above Counter Basin, retails for $199
+images=https://i.ebayimg.com/00/s/MTIwMFgxNjAw/z/IZ0AAOSw~oFXI~4~/$_14.JPG
+images=https://i.ebayimg.com/00/s/MTIwMFgxNjAw/z/RtYAAOSw3mpXI~5D/$_14.JPG
+images=https://i.ebayimg.com/00/s/MTIwMFgxNjAw/z/JRMAAOSwFEFXI~5C/$_14.JPG
+images=https://i.ebayimg.com/00/s/NDIyWDY2Nw==/z/bDsAAOSwZjhXIwTS/$_14.JPG
+images=https://i.ebayimg.com/00/s/NzY4WDEzNjY=/z/mJkAAOSw5b1XIwPm/$_14.JPG
+name=Tatiana
+phoneNumber=0410381932
+locationId=3003844
+mapAddress=Leichhardt, NSW, 2040
+geocodeLat=-33.882417
+geocodeLng=151.154762
+geocodeLocality=Leichhardt
+description=Porcher Ovale Above Counter BasinThe Porcher Ovale Above Counter Basin offers a luxurious bowl depth and free flowing contours. Practical yet personal this Porcher basin brings enduring quality and timeless design that give you the flexibility to create a sensible, stylish bathroom you can be proud of.Features:Recommended use Domestic, hotel and commercialMaterial Vitreous ChinaWeight 10kg (basin)Fixing Sealed to countertop with waterproof sealantFixing Sealed to benchtop with waterproof sealant.Integral overflow1 Tap holePlug and waste Suits: 32 x 40mm overflow wasteOverflow dress ring(227278-3)GST Note: GST is included in the final bid price of this item. GST is included in the buyers premium.
+attributeMap['building_materials.paypal_accepted_seller_s']=false
+attributeMap['building_materials.automatic_repost_ad_s']=false
+attributeMap['building_materials.highest_price_s']=70.0

@@ -1,0 +1,41 @@
+attributeMap['cars.greyimport']=
+postcode=2067
+houseNumber=
+streetName=
+adType=OFFER
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+_showLocationOnMap=on
+unacceptableGeocode=false
+level2CategoryId=
+quickOffer=
+_renew=on
+repost=false
+categoryId=20059
+price.amount=230
+price.type=FIXED
+minimumOfferPrice=
+title=Siemens iQ500 60cm Slideout Rangehood (LI46630/04 )
+name=Dimitri
+phoneNumber=0410381932
+locationId=3003844
+mapAddress=Chatswood 2067, NSW
+geocodeLat=-33.882417
+geocodeLng=151.154762
+geocodeLocality=Leichhardt
+description=&lt;div class="content-section"&gt; &lt;h3&gt;Description&lt;/h3&gt;    &lt;div class="sanitised-markup"&gt;&lt;p&gt;&lt;strong&gt;Siemens iQ500 60cm Slideout Rangehood &#40;LI46630&#47;04 &#41;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Recommended Retail Price &#40;RRP&#41; - &#36;908 as of December 2016 based on a new product.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Colour&#58; Silver Metallic&lt;/li&gt;&lt;li&gt;Installation type&#58; Half-integrated&lt;/li&gt;&lt;li&gt;Material body&#58; Lacquered&lt;/li&gt;&lt;li&gt;Number of motors&#58; 2&lt;/li&gt;&lt;li&gt;Operating mode&#58; Convertible&lt;/li&gt;&lt;li&gt;Typology&#58; Pull-out&lt;/li&gt;&lt;li&gt;630 m&#179;&#47;h max. extraction rate&lt;/li&gt;&lt;li&gt;Ducted or recirculating operation&lt;/li&gt;&lt;li&gt;Powerful twin motor&lt;/li&gt;&lt;li&gt;7 segments display&lt;/li&gt;&lt;li&gt;3 power levels plus intensive setting&lt;/li&gt;&lt;li&gt;Saturation indicator for metal grease filter&lt;/li&gt;&lt;li&gt;Electronic control with LED-display&lt;/li&gt;&lt;li&gt;Sliding switch control controls for power and light&lt;/li&gt;&lt;li&gt;Max. recirculation &#40;m&#179;&#47;h&#41;&#58; 330&lt;/li&gt;&lt;li&gt;Sound pressure max. normal&#58; 46&lt;/li&gt;&lt;li&gt;Controls&#58; LED, Slide switch&lt;/li&gt;&lt;li&gt;Energy efficiency class &#40;2010&#47;30&#47;EC&#41;&#58; D&lt;/li&gt;&lt;li&gt;Dimensions &#40;WxD&#41;&#58; 597 mm x 273 mm&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;Item may show marks&#47;scratches&#47;dents or imperfections. Accessories may vary from standard.&lt;/li&gt;&lt;li&gt;Returns&#47;refunds based on marks&#47;scratches&#47;dents or imperfections will not be accepted&lt;/li&gt;&lt;li&gt;This item is classified as Grade 2 &#40;please refer to Grading tab for details&#41;&lt;/li&gt;&lt;li&gt;ORANGE &#35; Dent in the items Baffle&lt;/li&gt;&lt;li&gt;YELLOW &#35; Scratch to Stainless Handle Strip&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Please note&#58; Includes Siemens LZ46050 - Stainless Steel Handle Strip. No Fixings or any other accessories.&lt;/p&gt;&lt;p&gt; &#40;SN&#58;9000143013&#41; &#40;237201-93&#41;&lt;/p&gt;&lt;p&gt;&lt;strong&gt; Note&#58;&lt;/strong&gt;  &lt;/p&gt;    &lt;/div&gt;    &lt;/div&gt;&lt;br&gt;&lt;br&gt;THIS ADVERT IS MANAGED BY https://gumtree-intforce.rhcloud.com
+attributeMap['hg_appliances_cooktop_rangehood.paypal_accepted_seller_s']=false
+attributeMap['hg_appliances_cooktop_rangehood.automatic_repost_ad_s']=false
+attributeMap['hg_appliances_cooktop_rangehood.condition_s']=used
+attributeMap['hg_appliances_cooktop_rangehood.website_s']=gumtree-intforce.rhcloud.com
+attributeMap[hg_appliances_cooktop_rangehood.slogan_s]=Siemens iQ500 60cm Slideout Rangehood (LI46630/04 )
+hourstomarket=24
+bbImageBaseUrl=/bb-image.html
+images=https://i.ebayimg.com/00/s/NTE1WDQzNQ==/z/5HAAAOSwCU1YqFdn/$_20.JPG
+images=https://i.ebayimg.com/00/s/NDUyWDg4MA==/z/3FEAAOSw~AVYqFd1/$_20.JPG
+images=https://i.ebayimg.com/00/s/NzIyWDg4MA==/z/vOwAAOSw2gxYqFeA/$_20.JPG
+images=https://i.ebayimg.com/00/s/NTA1WDg4MA==/z/3rAAAOSw~AVYqFeH/$_20.JPG
+ctk=GCCBWTw76RV6uSL70q54yw
+csrft=0af167bcefd0fd52e7e4809dc3695369

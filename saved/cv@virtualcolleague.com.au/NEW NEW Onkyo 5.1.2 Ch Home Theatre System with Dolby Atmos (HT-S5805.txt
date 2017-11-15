@@ -1,0 +1,41 @@
+attributeMap['cars.greyimport']=
+postcode=2040
+houseNumber=
+streetName=
+adType=OFFER
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+_showLocationOnMap=on
+unacceptableGeocode=false
+level2CategoryId=
+quickOffer=
+_renew=on
+repost=false
+categoryId=21118
+price.amount=600
+price.type=FIXED
+minimumOfferPrice=
+title=NEW Onkyo 5.1.2 Ch Home Theatre System with Dolby Atmos (HT-S5805
+name=Dimitri
+phoneNumber=0410381932
+locationId=3003844
+mapAddress=Leichhardt, NSW, 2040
+geocodeLat=-33.882417
+geocodeLng=151.154762
+geocodeLocality=Leichhardt
+description=&lt;div class="content-section"&gt; &lt;h3&gt;Description&lt;/h3&gt;    &lt;div class="sanitised-markup"&gt;&lt;p&gt;&lt;strong&gt;Onkyo 5.1.2 Ch Home Theatre System with Dolby Atmos &#40;HT-S5805B&#41;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Recommended Retail Price &#40;RRP&#41; - &#36;1699 as of September 2016 based on a new product.&lt;/p&gt;&lt;p&gt;AccuEQ is an Onkyo-original room acoustic calibration technology that measures and corrects speaker distances, output levels, crossover frequencies, and frequency response to ensure balanced surround-sound.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Specification&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Finish Colour&#58; Black&lt;/li&gt;&lt;li&gt;Channels&#58; 5.1 Ch&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;SKF-594 2-Way Bass Reflex Front Speakers&#47;Full-Range Acoustic-Suspension Height Speakers&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Frequency Response &#40;Front &#47; Height&#41;&#58; 55 Hz&#8211;50 kHz &#47; 80 Hz&#8211;20 kHz&lt;/li&gt;&lt;li&gt;12 cm Cone Woofer&lt;/li&gt;&lt;li&gt;2.5 cm Balanced-Dome Tweeter&lt;/li&gt;&lt;li&gt;8 cm Cone &#40;Separately Powered By Height Channel&#41;&lt;/li&gt;&lt;li&gt;Max. Input Power&#58; 130 W&lt;/li&gt;&lt;li&gt;Wall-Mounting Capability&lt;/li&gt;&lt;li&gt;Dimensions &#40;W x H x D&#41;&#58; 155 x 467 x 183 mm&lt;/li&gt;&lt;li&gt;Weight&#58; 3.6 kg&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;SKC-594 2-Way Bass Reflex Center Speaker&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Frequency Response&#58; 65 Hz&#8211;50 kHz&lt;/li&gt;&lt;li&gt;8 cm Cone Woofer x 2&lt;/li&gt;&lt;li&gt;2.5 cm Balanced-Dome Tweeter&lt;/li&gt;&lt;li&gt;Max. Input Power&#58; 130 W&lt;/li&gt;&lt;li&gt;Wall-Mounting Capability&lt;/li&gt;&lt;li&gt;Dimensions &#40;W x H x D&#41;&#58; 409 x 115 x 121 mm&lt;/li&gt;&lt;li&gt;Weight&#58; 2.2 kg&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;SKR-594 Full-Range Acoustic-Suspension Surround Speakers&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Frequency Response&#58; 80 Hz&#8211;20 kHz&lt;/li&gt;&lt;li&gt;8 cm Cone&lt;/li&gt;&lt;li&gt;Max. Input Power&#58; 130 W&lt;/li&gt;&lt;li&gt;Wall-Mounting Capability&lt;/li&gt;&lt;li&gt;Dimensions &#40;W x H x D&#41;&#58; 115 x 230 x 96 mm&lt;/li&gt;&lt;li&gt;Weight&#58; 1.0 kg&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;SKW-658 Bass Reflex Powered Subwoofer&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Frequency Response&#58;27 Hz&#8211;150 Hz&lt;/li&gt;&lt;li&gt;20 cm Cone&lt;/li&gt;&lt;li&gt;Rated Output Power&#58; 80 W &#40;Minimum Continuous Power, 4 Ohms, 100 Hz, 1&#37;, IEC&#41;&lt;/li&gt;&lt;li&gt;Energy-Saving High Power Amplifier&lt;/li&gt;&lt;li&gt;Down-Firing Design&lt;/li&gt;&lt;li&gt;Dimensions &#40;W x H x D&#41;&#58; 230 x 425 x 410 mm&lt;/li&gt;&lt;li&gt;Weight&#58; 7.7 kg&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;A&#47;V RECEIVER&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Power Output&#58; 100 W&#47;Ch &#40;6 Ohms, 1 kHz, 1&#37; THD, 1 Channel Driven, IEC&#41;&#59; &lt;/li&gt;&lt;li&gt;100 W&#47;Ch &#40;6 Ohms, 1 kHz, 1&#37; THD, 1 Channel Driven, JEITA&#41;&lt;/li&gt;&lt;li&gt;Frequency Response&#58; 10 Hz&#8211;100 kHz&#47;&#43;1 dB, -3 dB &#40;Direct Mode&#41;&lt;/li&gt;&lt;li&gt;Dimensions &#40;W x H x D&#41;&#58; 435 x 160 x 328 mm&lt;/li&gt;&lt;li&gt;Weight&#58; 8.0 kg&lt;/li&gt;&lt;li&gt;Please note&#58; No other accessories included.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt; &#40;233427-3&#41;&lt;/p&gt;&lt;p&gt;&lt;strong&gt; Note&#58;&lt;/strong&gt;  &lt;/p&gt;    &lt;/div&gt;    &lt;/div&gt;&lt;br&gt;&lt;br&gt;THIS ADVERT IS MANAGED BY https://gumtree-intforce.rhcloud.com
+attributeMap['home_theatre_systems.paypal_accepted_seller_s']=false
+attributeMap['home_theatre_systems.automatic_repost_ad_s']=false
+attributeMap['home_theatre_systems.condition_s']=new
+attributeMap['home_theatre_systems.website_s']=gumtree-intforce.rhcloud.com
+attributeMap[home_theatre_systems.slogan_s]=NEW Onkyo 5.1.2 Ch Home Theatre System with Dolby Atmos (HT-S5805
+hourstomarket=0
+bbImageBaseUrl=/bb-image.html
+images=https://i.ebayimg.com/00/s/NDAxWDg4MA==/z/u5sAAOSw6DtYV5T8/$_20.JPG
+images=https://i.ebayimg.com/00/s/NDUyWDQ2OA==/z/gUYAAOSwImRYV5UF/$_20.JPG
+ctk=qFIv5nTUGvjep4GI0h251A
+csrft=9c41a6c067c67fbbb794f9889b25f5bb
+bbUserInput=8869
+bbToken=f64ed969ff35ca46dd26aa0926687e91dd2178de0eb2334fe011a2982f2fb9d96ef3a788a7464c5ef51846f1170b0fc38f0ec2b2712f1db2216a6d9e200e3df2

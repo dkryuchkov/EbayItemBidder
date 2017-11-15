@@ -1,0 +1,31 @@
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+attributeMap['cars.greyimport']=
+houseNumber=
+unacceptableGeocode=false
+level2CategoryId=
+_renew=on,_showLocationOnMap
+categoryId=21034
+adType=OFFER
+price.amount=139
+price.type=FIXED
+minimumOfferPrice=
+attributeMap[hg_tools_diy_garden.condition_s]=used
+title=US made Victa Sprint 375 Lawn Mowerpowered by Briggs and Stratton
+images=https://i.ebayimg.com/00/s/OTAxWDE2MDA=/z/nvEAAOSwlMFZJqGa/$_20.JPG
+images=https://i.ebayimg.com/00/s/OTAxWDE2MDA=/z/WO8AAOSwaeRZJqGb/$_20.JPG
+images=https://i.ebayimg.com/00/s/MTYwMFg5MDE=/z/RssAAOSwJH1ZJqGg/$_20.JPG
+images=https://i.ebayimg.com/00/s/MTYwMFg5MDE=/z/HcoAAOSw~FJZJqGb/$_20.JPG
+name=Tania
+phoneNumber=0410381932
+locationId=3004117
+geocodeLat=-33.794095
+geocodeLng=151.188817
+geocodeLocality=Chatswood
+description=Excellent condition US made Victa Sprint 375 Lawn Mower, powered by 4 stroke Briggs and Stratton engine, with catcher. &lt;br&gt;These are very expensive brand new. Grab a bargain&lt;br&gt;&lt;br&gt;THIS ADVERT IS MANAGED BY https://gumtree-intforce.rhcloud.com
+attributeMap['hg_tools_diy_garden.automatic_repost_ad_s']=false
+attributeMap['hg_tools_diy_garden.highest_price_s']=139.0
+attributeMap['hg_tools_diy_garden.condition_s']=used
+attributeMap['hg_tools_diy_garden.paypal_accepted_seller_s']=false

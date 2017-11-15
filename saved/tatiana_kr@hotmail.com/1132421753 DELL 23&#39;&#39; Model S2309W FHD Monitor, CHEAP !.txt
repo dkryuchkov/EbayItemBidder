@@ -1,0 +1,36 @@
+attributeMap['cars.greyimport']=
+postcode=2040
+houseNumber=
+streetName=
+adType=OFFER
+adId=
+geocodeConfidence=OK
+files[]=
+bbImageBaseUrl=/bb-image.html
+galleryImageIndex=
+_showLocationOnMap=on
+unacceptableGeocode=false
+level2CategoryId=
+quickOffer=
+_renew=on
+repost=false
+categoryId=21111
+price.amount=50
+price.type=FIXED
+minimumOfferPrice=
+title=DELL 23&#39;&#39; Model S2309W FHD Monitor, CHEAP !
+images=https://i.ebayimg.com/00/s/MjI1WDIyNQ==/z/QD0AAOSwiONYQMTC/$_20.JPG
+images=https://i.ebayimg.com/00/s/OTAwWDE2MDA=/z/GrMAAOSw4GVYQMTL/$_20.JPG
+images=https://i.ebayimg.com/00/s/OTAwWDE2MDA=/z/GmgAAOSw4GVYQMTJ/$_20.JPG
+images=https://i.ebayimg.com/00/s/OTAwWDE2MDA=/z/38kAAOSwo4pYQMTH/$_20.JPG
+name=Tatiana
+phoneNumber=0410381932
+locationId=3003845
+geocodeLat=-33.87109
+geocodeLng=151.161166
+geocodeLocality=Lilyfield
+description=DELL S2309 23&#39;&#39; Monitor in good condition.&lt;br&gt;&lt;br&gt;GENERAL&lt;br&gt;Dimensions (WxDxH) 21.8 in x 8.8 in x 15.8 in&lt;br&gt;Display Type LCD monitor / TFT active matrix&lt;br&gt;Aspect Ratio Widescreen&lt;br&gt;Native Resolution 1920 x 1080&lt;br&gt;Contrast Ratio 1000:1&lt;br&gt;Color Support 16.7 million colors&lt;br&gt;Horizontal Viewing Angle 170&lt;br&gt;Vertical Viewing Angle 160&lt;br&gt;Viewable Size 23&quot;&lt;br&gt;Pixel Pitch 0.266 mm&lt;br&gt;Brightness 300 cd/m&sup2;&lt;br&gt;ManufacturerDell, Inc.&lt;br&gt;CONNECTIVITY&lt;br&gt;Interfaces 1 x VGA - 15 pin HD D-Sub (HD-15)&lt;br&gt;1 x DVI-D - 24 pin digital DVI&lt;br&gt;DISPLAY&lt;br&gt;Image Brightness 300 cd/m2&lt;br&gt;Image Contrast Ratio 1000:1&lt;br&gt;Color Support 24-bit (16.7 million colors)&lt;br&gt;Type LCD monitor&lt;br&gt;MISCELLANEOUS&lt;br&gt;Microsoft Certifications Compatible with Windows 7&lt;br&gt;Features Security lock slot (cable lock sold separately), wall mountable&lt;br&gt;Color black&lt;br&gt;INTERFACE PROVIDED&lt;br&gt;Qty 1&lt;br&gt;Connector Type 15 pin HD D-Sub (HD-15), 24 pin digital DVI&lt;br&gt;VIDEO&lt;br&gt;Video Output none&lt;br&gt;ENVIRONMENTAL STANDARDS&lt;br&gt;EPEAT Compliant EPEAT Silver&lt;br&gt;ENERGY STAR Qualified Yes&lt;br&gt;&lt;br&gt;&lt;br&gt;MECHANICAL&lt;br&gt;Flat Panel Mount Interface Yes&lt;br&gt;Display Position Adjustments Tilt&lt;br&gt;DIMENSIONS &amp; WEIGHT Width 21.8 in&lt;br&gt;&lt;br&gt;Model S2
+attributeMap['monitors.paypal_accepted_seller_s']=false
+attributeMap['monitors.condition_s']=used
+attributeMap['monitors.automatic_repost_ad_s']=false
+attributeMap['monitors.highest_price_s']=50.0

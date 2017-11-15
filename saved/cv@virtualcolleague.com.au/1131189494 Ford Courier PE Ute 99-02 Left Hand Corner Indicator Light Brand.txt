@@ -1,0 +1,33 @@
+attributeMap['cars.greyimport']=
+postcode=2040
+houseNumber=
+streetName=
+adType=OFFER
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+_showLocationOnMap=on
+unacceptableGeocode=false
+level2CategoryId=
+quickOffer=
+_renew=on
+repost=false
+categoryId=18478
+price.amount=10
+price.type=FIXED
+minimumOfferPrice=
+title=Ford Courier PE Ute 99-02 Left Hand Corner Indicator Light Brand
+images=https://i.ebayimg.com/00/s/NDUwWDYwMA==/z/8~8AAOSwImRYOMBk/$_20.JPG
+images=https://i.ebayimg.com/00/s/NDUwWDYwMA==/z/Dz0AAOSwEzxYOMBn/$_20.JPG
+name=Dimitri
+phoneNumber=0410381932
+locationId=3003845
+mapAddress=Lilyfield, NSW, 2040
+geocodeLat=-33.87109
+geocodeLng=151.161166
+geocodeLocality=Lilyfield
+description=RRP $50Ford Courier PE Ute 1/1999 - 10/2002 Left hand side (passengers side) corner indicator lightBrand new non genuine direct replacement lampThis light has a amber lens with a black plastic housing to suit models built ONLY between specified dates above, Please check yours before purchasingPopular replacement light for old faded or broken ones
+attributeMap['other_parts_accessories.condition_s']=new
+attributeMap['other_parts_accessories.automatic_repost_ad_s']=false
+attributeMap['other_parts_accessories.highest_price_s']=10.0

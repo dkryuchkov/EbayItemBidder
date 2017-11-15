@@ -1,0 +1,28 @@
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+attributeMap['cars.greyimport']=
+houseNumber=
+unacceptableGeocode=false
+level2CategoryId=
+_renew=on,_showLocationOnMap
+categoryId=20079
+price.amount=599
+price.type=FIXED
+minimumOfferPrice=
+attributeMap[hg_furniture_sofas.condition_s]=new
+title=NEW Boston 3 seater Lounge Red &amp; Grey RRP $2,683
+images=https://i.ebayimg.com/00/s/ODE4WDg4MA==/z/YT8AAOSw-K9ZK-MQ/$_20.JPG
+images=https://i.ebayimg.com/00/s/NTEwWDg4MA==/z/Q28AAOSwZ4dZK-Mb/$_20.JPG
+name=Dimitri
+phoneNumber=0410381932
+locationId=3004117
+geocodeLat=-33.794095
+geocodeLng=151.188817
+geocodeLocality=Chatswood
+description=Boston 3 seater Lounge &ndash; Red &amp; Grey RRP $2,683&lt;br&gt;&ldquo;If you stay, I`ll make you a night / Like no night has been or will be again&rdquo; &lt;br&gt;&lt;br&gt;The Boston uses an Early Modern design language and introduces two different tactile surfaces &ndash; reconstituted leather and cashmere-feel fabric, creating a rich and multi-referential design. The padding pattern of the inner armrests continues also on the inner backrest, behind the removable cushions, so if the cushions are removed the Boston becomes a low-look settee with extra-deep seats. A very comfortable and unique combination, with special charms, to be used as a full seating system or as a single-piece design feature. &lt;br&gt;&lt;br&gt;Reconstituted buffalo and cowhide leather on front partsMatching grain synthetic leather on rear and hidden parts&lt;br&gt;&lt;br&gt;Back cushions and accents in cashmere-feel fabric&lt;br&gt;Wide stainless steel feet&lt;br&gt;External measurements: W194cm x D87cm x H86cm&lt;br&gt;Colour: Red with grey&lt;br&gt;&lt;br&gt;&lt;br&gt;THIS ADVERT IS MANAGED BY https://gumtree-intforce.rhcloud.com
+attributeMap['hg_furniture_sofas.highest_price_s']=599.0
+attributeMap['hg_furniture_sofas.condition_s']=new
+attributeMap['hg_furniture_sofas.automatic_repost_ad_s']=false
+attributeMap['hg_furniture_sofas.paypal_accepted_seller_s']=false

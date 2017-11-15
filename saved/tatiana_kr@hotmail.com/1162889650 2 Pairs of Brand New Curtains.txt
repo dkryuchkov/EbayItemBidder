@@ -1,0 +1,30 @@
+description=<div id="ad_description_details_content">                    2 Packages of brand new curtains, unopened.&lt;br&gt;&lt;br&gt;Each pack contains 2 panels.&lt;br&gt;&lt;br&gt;Each panel is 120(w)X223 cm(Lenght&#47;drop)&lt;br&gt;&lt;br&gt;Bella Faux Silk Blockout Eyelet curtains, soft teal.&lt;br&gt;&lt;br&gt;Price is for a package.&lt;br&gt;&lt;br&gt;&lt;br&gt;</div>        </div>
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+attributeMap['cars.greyimport']=
+houseNumber=
+unacceptableGeocode=false
+level2CategoryId=
+_renew=on,_showLocationOnMap
+categoryId=20084
+adType=OFFER
+price.amount=50
+price.type=FIXED
+minimumOfferPrice=
+attributeMap[hg_soft_furnishings_curtains_blinds.condition_s]=new
+title=2 Pairs of Brand New Curtains
+images=https://i.ebayimg.com/00/s/ODY3WDczNg==/z/j3sAAOSwf15ZzdyO/$_20.JPG
+images=https://i.ebayimg.com/00/s/MTIwMFgxNjAw/z/j8AAAOSwkzhZzdtE/$_20.JPG
+images=https://i.ebayimg.com/00/s/MTIwMFgxNjAw/z/8zoAAOSwg0BZzdtG/$_20.JPG
+name=Tatiana
+phoneNumber=0410381932
+locationId=3004117
+geocodeLat=-33.794095
+geocodeLng=151.188817
+geocodeLocality=Chatswood
+attributeMap['hg_soft_furnishings_curtains_blinds.paypal_accepted_seller_s']=false
+attributeMap['hg_soft_furnishings_curtains_blinds.automatic_repost_ad_s']=false
+attributeMap['hg_soft_furnishings_curtains_blinds.condition_s']=new
+attributeMap['hg_soft_furnishings_curtains_blinds.highest_price_s']=50.0

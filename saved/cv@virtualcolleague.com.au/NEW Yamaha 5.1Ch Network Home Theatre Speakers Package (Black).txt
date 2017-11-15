@@ -1,0 +1,36 @@
+attributeMap['cars.greyimport']=
+postcode=2040
+houseNumber=
+streetName=
+adType=OFFER
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+_showLocationOnMap=on
+unacceptableGeocode=false
+level2CategoryId=
+quickOffer=
+_renew=on
+repost=false
+categoryId=21118
+price.amount=359
+price.type=FIXED
+minimumOfferPrice=
+title=Yamaha 5.1Ch Network Home Theatre Speakers Package (Black)
+name=Tatiana
+phoneNumber=0410381932
+locationId=3003844
+mapAddress=Leichhardt, NSW, 2040
+geocodeLat=-33.882417
+geocodeLng=151.154762
+geocodeLocality=Leichhardt
+description=&lt;div class="content-section"&gt; &lt;h3&gt;Description&lt;/h3&gt;    &lt;div class="sanitised-markup"&gt;&lt;p&gt;&lt;strong&gt;Yamaha 5.1Ch Network Home Theatre Speakers Package &#40;Black&#41;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Speaker Package includes &#58; 2 x NS-F150 Floor speakers, 1 x YST-SW216 45W subwoofer, 1 x NS-C150 center speaker, 2 x NS-B150 surround speakers&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Front Speaker&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Type&#58; 2-way bass-reflex floorstanding speaker &#40;NS-F150&#41;&lt;/li&gt;&lt;li&gt;Nominal Input Power&#58; 50 W&lt;/li&gt;&lt;li&gt;Maximum Input Power&#58; 180 W&lt;/li&gt;&lt;li&gt;Sensitivity&#58; 88 dB&lt;/li&gt;&lt;li&gt;Weight&#58; 11.2 kg &#47; unit&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Surround and Centre Speaker&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Woofers&#58; Dual 8cm &#40;3-1&#47;4&#8221;&#41; cone&lt;/li&gt;&lt;li&gt;Tweeter&#58; 1.4cm &#40;1&#47;2&#8221;&#41; balanced dome&lt;/li&gt;&lt;li&gt;Frequency Response 65 Hz&#8211;38 kHz&lt;/li&gt;&lt;li&gt;Nominal Input Power&#58; 30 W&lt;/li&gt;&lt;li&gt;Maximum Input Power&#58; 80 W&lt;/li&gt;&lt;li&gt;Sensitivity&#58; 86 dB&#47;2.83 V&#47;1 m&lt;/li&gt;&lt;li&gt;Impedance&#58; 6 ohms&lt;/li&gt;&lt;li&gt;Woofers&#58; 8cm &#40;3-1&#47;4&#8221;&#41; cone&lt;/li&gt;&lt;li&gt;Tweeter&#58; 1.4cm &#40;1&#47;2&#8221;&#41; balanced dome&lt;/li&gt;&lt;li&gt;Frequency Response&#58; 60 Hz&#8211;38 kHz&lt;/li&gt;&lt;li&gt;Nominal Input Power&#58; 20 W&lt;/li&gt;&lt;li&gt;Maximum Input Power&#58; 60 W&lt;/li&gt;&lt;li&gt;Sensitivity&#58; 82 dB&#47;2.83 V&#47;1 m&lt;/li&gt;&lt;li&gt;Impedance&#58; 6 ohms&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Subwoofer&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Type&#58; Advanced YST II and Front Firing&lt;/li&gt;&lt;li&gt;Driver&#58; 25cm cone&lt;/li&gt;&lt;li&gt;Dynamic Power&#58; 100 W&lt;/li&gt;&lt;li&gt;Frequency Response&#58; 25-180 Hz&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Please Note&#58; Not in original box, no other accessories&lt;/p&gt;&lt;p&gt; &#40;231504-85&#41;&lt;/p&gt;&lt;p&gt;&lt;strong&gt; Note&#58;&lt;/strong&gt;  &lt;/p&gt;    &lt;/div&gt;    &lt;/div&gt;
+attributeMap['home_theatre_systems.paypal_accepted_seller_s']=false
+attributeMap['home_theatre_systems.automatic_repost_ad_s']=false
+attributeMap['home_theatre_systems.condition_s']=new
+hourstomarket=35
+bbImageBaseUrl=/bb-image.html
+images=https://i.ebayimg.com/00/s/NTA2WDg4MA==/z/zQgAAOSwEzxYSxdV/$_20.JPG
+ctk=obZa53N4Br-EZourZOl8Nw
+csrft=cdbfa54b7bdca29178387230d3f0a04f

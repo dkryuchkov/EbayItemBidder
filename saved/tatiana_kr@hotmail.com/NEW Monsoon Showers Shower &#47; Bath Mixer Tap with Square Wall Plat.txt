@@ -1,0 +1,40 @@
+attributeMap['cars.greyimport']=
+postcode=2067
+houseNumber=
+streetName=
+adType=OFFER
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+_showLocationOnMap=on
+unacceptableGeocode=false
+level2CategoryId=
+quickOffer=
+_renew=on
+repost=false
+categoryId=20103
+price.amount=50
+price.type=FIXED
+minimumOfferPrice=
+title=Monsoon Showers Shower &#47; Bath Mixer Tap with Square Wall Plat
+name=Dimitri
+phoneNumber=0410381932
+locationId=3003844
+mapAddress=Chatswood 2067, NSW
+geocodeLat=-33.882417
+geocodeLng=151.154762
+geocodeLocality=Chatswood
+description=&lt;br&gt;	 Description&lt;br&gt;    <div class="sanitised-markup">&lt;br&gt;		 Monsoon Showers Shower / Bath Mixer Tap with Square Wall Plate  Monsoon Showers pushes the boundaries of contemporary design in all of their products from kitchens and cabinet hardware, to taps, sinks and bathroom accessories. Monsoon Showers will amaze every time you visit.  Features: This is a genuine Monsoon Showers product Watermark Australian standards approved Mixer tap with a single lever that lifts backwards for water pressure and swivels from side to side for temperature control  Made from polished chrome on solid brass (SN:MS833-48-8195-9S) (237539-9) Note:   is included in the freight and buyers premium.&lt;br&gt;    &lt;br&gt;    &lt;br&gt;&lt;br&gt;THIS ADVERT IS MANAGED BY https://gumtree-intforce.rhcloud.com
+attributeMap['building_materials.paypal_accepted_seller_s']=false
+attributeMap['building_materials.automatic_repost_ad_s']=false
+attributeMap['building_materials.condition_s']=used
+attributeMap['building_materials.website_s']=gumtree-intforce.rhcloud.com
+attributeMap[building_materials.slogan_s]=Monsoon Showers Shower &#47; Bath Mixer Tap with Square Wall Plat
+hourstomarket=24
+images=https://i.ebayimg.com/00/s/MzU0WDMzNg==/z/6fwAAOSw8lpZNM-1/$_20.JPG
+images=https://i.ebayimg.com/00/s/MzE3WDQ0OA==/z/ZV0AAOSwlY1ZNM-2/$_20.JPG
+ctk=jZLkOhfEbx2JqVqgShEZ_Q
+csrft=aab708643c16fc7f86627a47d30ab9b8
+bbUserInput=9946
+bbToken=9c1892b8ec6240c6d7861ff2c0147f58b93bdf4ec54426692d624bb557e2a74d8f864bf4342edf220809157b1a9d5f35abdbbabb45269c024cb4495a8cd799df

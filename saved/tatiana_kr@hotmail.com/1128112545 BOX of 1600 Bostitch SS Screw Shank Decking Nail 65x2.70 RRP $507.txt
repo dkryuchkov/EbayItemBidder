@@ -1,0 +1,34 @@
+attributeMap['cars.greyimport']=
+postcode=2040
+houseNumber=
+streetName=
+adType=OFFER
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+_showLocationOnMap=on
+unacceptableGeocode=false
+level2CategoryId=
+quickOffer=
+_renew=on
+repost=false
+categoryId=20093
+price.amount=79
+price.type=FIXED
+minimumOfferPrice=
+attributeMap['hg_tools_diy_power_tools.condition_s']=new
+title=BOX of 1600 Bostitch SS Screw Shank Decking Nail 65x2.70 RRP $507
+images=https://i.ebayimg.com/00/s/ODgwWDg4MA==/z/iG0AAOSwmLlX2Rzq/$_14.JPG
+images=https://i.ebayimg.com/00/s/ODgwWDg4MA==/z/4gIAAOSwLnBX2Rzt/$_14.JPG
+name=Tatiana
+phoneNumber=0410381932
+locationId=3003844
+mapAddress=Leichhardt, NSW, 2040
+geocodeLat=-33.882417
+geocodeLng=151.154762
+geocodeLocality=Leichhardt
+description=65 x 2.70mm BOX OF BOSTITCH DECKING NAIL DOME HEAD 65 X 2.70 SCREW SHK STAINLESS - 1600/BXQuantity: 1600Brand: STANLEY BOSTITCHProduct Code: BOSHACDH65S270-SSSeries Fasteners - ACDH65S270-SSSKUACDH65S270-SSDescriptionDOME HEAD 65X2.7MM SCREW SSDiameter2.7 mmLength65 mmProfileScrewFinishStainlessCollation angle15&deg;Collation typePlasticQuantity per box1600Pick Up from Leichhardt
+attributeMap['hg_tools_diy_power_tools.paypal_accepted_seller_s']=false
+attributeMap['hg_tools_diy_power_tools.automatic_repost_ad_s']=false
+attributeMap['hg_tools_diy_power_tools.highest_price_s']=99.0

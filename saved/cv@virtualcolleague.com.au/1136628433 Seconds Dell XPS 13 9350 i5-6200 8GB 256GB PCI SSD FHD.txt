@@ -1,0 +1,33 @@
+attributeMap['cars.greyimport']=
+postcode=2040
+houseNumber=
+streetName=
+adType=OFFER
+adId=
+geocodeConfidence=OK
+files[]=
+bbImageBaseUrl=/bb-image.html
+galleryImageIndex=
+_showLocationOnMap=on
+unacceptableGeocode=false
+level2CategoryId=
+quickOffer=
+_renew=on
+repost=false
+categoryId=18553
+price.amount=649
+price.type=FIXED
+minimumOfferPrice=
+title=Seconds Dell XPS 13 9350 i5-6200 8GB 256GB PCI SSD FHD
+images=https://i.ebayimg.com/00/s/ODgwWDg4MA==/z/ImIAAOSw44BYg7nf/$_20.JPG
+name=Dimitri
+phoneNumber=0410381932
+locationId=3003844
+geocodeLat=-33.882417
+geocodeLng=151.154762
+geocodeLocality=Leichhardt
+description=Dell soconds, failed quality check due to some damage to LCD cover and scratches on bottom cover&lt;br&gt;&lt;br&gt;&lt;div class=&quot;content-section&quot;&gt; &lt;h3&gt;Description&lt;/h3&gt;    &lt;div class=&quot;sanitised-markup&quot;&gt;&lt;p&gt;&lt;strong&gt;Dell XPS 13 ( 9350 ) Laptop, Silver &lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;6th Generation Intel(R) Core(TM) i5-6200U (3M Cache, up to 2.8 GHz) &lt;/li&gt;&lt;li&gt;8GB LPDDR3 1866MHz &lt;/li&gt;&lt;li&gt;256GB PCIe Solid State Drive &lt;/li&gt;&lt;li&gt;No Optical Drive&lt;/li&gt;&lt;li&gt;Intel(R) HD Graphics 520&lt;/li&gt;&lt;li&gt;13.3 inch FHD AG (1920 x 1080) InfinityEdge display &lt;/li&gt;&lt;li&gt;Stereo speakers professionally tuned with Waves MaxxAudio&lt;/li&gt;&lt;li&gt;DW1820A 2x2 802.11ac 2.4/5GHz + Bluetooth4.1 &lt;/li&gt;&lt;li&gt;Widescreen HD (720p) webcam with dual array digital microphones &lt;/li&gt;&lt;li&gt;3&ndash;in-1 Card Reader (SD, SDHC, SDXC)&lt;/li&gt;&lt;li&gt;2 x USB 3.0 Port, 1 x Thunderbolt TM 3&lt;/li&gt;&lt;li&gt;Built In Primary Battery, AC Power Adapter And Power Cord&lt;/li&gt;&lt;li&gt;Windows 10 Home 64bits Pre-Installed and OS recovery disc not included&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Damaged LCD cover, scratches on bottom cover&lt;/p&gt;   &lt;/div&gt;    &lt;/div&gt;&lt;br&gt;&lt;br&gt;THIS ADVERT IS MANAGED BY https://gumtree-intforce.rhcloud.com
+attributeMap['laptops.paypal_accepted_seller_s']=false
+attributeMap['laptops.automatic_repost_ad_s']=false
+attributeMap['laptops.highest_price_s']=649.0
+attributeMap['laptops.condition_s']=new

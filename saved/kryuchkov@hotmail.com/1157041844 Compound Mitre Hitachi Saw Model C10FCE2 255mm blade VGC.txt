@@ -1,0 +1,29 @@
+description=This is a high quality professional tool, was very expensive when brand new&lt;br&gt;Features:&lt;br&gt;&lt;br&gt;Thumb actuated positive mitre stops for quick and easy adjustment&lt;br&gt;&lt;br&gt;Soft grip handle reducing vibration to end user&lt;br&gt;&lt;br&gt;Large table Equipped with chip deflector&lt;br&gt;&lt;br&gt;Pivoting sub-fence for supporting larger stock&lt;br&gt;&lt;br&gt;Electric brake to provide increased user safety&lt;br&gt;Specifications:&lt;br&gt;&lt;br&gt;Blade Diameter: 255mm&lt;br&gt;&lt;br&gt;Blade Bore: 25.4mm&lt;br&gt;&lt;br&gt;Power input: 1,520W&lt;br&gt;&lt;br&gt;No Load speed: 5,000&#47;min&lt;br&gt;Mitre Angle: Right: 0 - 52 Left: 0 - 52 Bevel Angle Left: 0 - 45&lt;br&gt;&lt;br&gt;Positive Mitre Angle Stop: 0, 15, 22.5, 31.6 and 45&lt;br&gt;&lt;br&gt;Dimensions (L x W x H): 460mm x 628mm x 561mm&lt;br&gt;&lt;br&gt;Weight: 11.9kg
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+attributeMap['cars.greyimport']=
+houseNumber=
+unacceptableGeocode=false
+level2CategoryId=
+_renew=on,_showLocationOnMap
+categoryId=20093
+adType=OFFER
+price.amount=179
+price.type=FIXED
+minimumOfferPrice=
+attributeMap[hg_tools_diy_power_tools.condition_s]=used
+title=Compound Mitre Hitachi Saw Model C10FCE2 255mm blade VGC
+images=https://i.ebayimg.com/00/s/MTYwMFg5MDE=/z/mEUAAOSwqVBZaMZM/$_20.JPG
+images=https://i.ebayimg.com/00/s/OTAxWDE2MDA=/z/DwwAAOSwTVtZaMZR/$_20.JPG
+name=Dimitri
+phoneNumber=0410381932
+locationId=3004117
+geocodeLat=-33.794095
+geocodeLng=151.188817
+geocodeLocality=Chatswood
+attributeMap['hg_tools_diy_power_tools.paypal_accepted_seller_s']=false
+attributeMap['hg_tools_diy_power_tools.condition_s']=used
+attributeMap['hg_tools_diy_power_tools.automatic_repost_ad_s']=false
+attributeMap['hg_tools_diy_power_tools.highest_price_s']=199.0

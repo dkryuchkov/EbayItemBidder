@@ -1,0 +1,30 @@
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+attributeMap['cars.greyimport']=
+houseNumber=
+unacceptableGeocode=false
+level2CategoryId=
+_renew=on,_showLocationOnMap
+categoryId=20103
+price.amount=459
+price.type=FIXED
+minimumOfferPrice=
+attributeMap[building_materials.condition_s]=new
+title=New Latest Granite Resin Technology Italian made sink  RRP $875 !
+images=https://i.ebayimg.com/00/s/MjI1WDIyNQ==/z/HVEAAOSwcB5ZJYUb/$_20.JPG
+images=https://i.ebayimg.com/00/s/MTIwMFgxNjAw/z/ZAUAAOSwcgNZEBdX/$_20.JPG
+images=https://i.ebayimg.com/00/s/MTIwMFgxNjAw/z/ouUAAOSw-3FZEBdX/$_20.JPG
+images=https://i.ebayimg.com/00/s/MzU1WDM1NQ==/z/CP0AAOSwX61ZJYUT/$_20.JPG
+name=Tatiana
+phoneNumber=0410381932
+locationId=3004117
+geocodeLat=-33.794095
+geocodeLng=151.188817
+geocodeLocality=Chatswood
+description=Retails for $875&lt;br&gt;&lt;br&gt;LATEST GRANITE RESINE TECHNOLOGY ! Extreamly Durable and Very Elegant&lt;br&gt;Made in Italy&lt;br&gt;&lt;br&gt;New in the box&lt;br&gt;Full black &lt;br&gt;Double size&lt;br&gt;Please note: No waste &lt;br&gt;standard waste is available to buy from bunnings for 9.95&lt;br&gt;&lt;br&gt;&lt;br&gt;THIS ADVERT IS MANAGED BY https://gumtree-intforce.rhcloud.com
+attributeMap['building_materials.paypal_accepted_seller_s']=false
+attributeMap['building_materials.automatic_repost_ad_s']=false
+attributeMap['building_materials.condition_s']=new
+attributeMap['building_materials.highest_price_s']=459.0

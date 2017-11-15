@@ -1,0 +1,40 @@
+attributeMap['cars.greyimport']=
+postcode=2067
+houseNumber=
+streetName=
+adType=OFFER
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+_showLocationOnMap=on
+unacceptableGeocode=false
+level2CategoryId=
+quickOffer=
+_renew=on
+repost=false
+categoryId=20079
+price.amount=549
+price.type=FIXED
+minimumOfferPrice=
+title=NEW Boston 2 seater Lounge – Red & Grey
+name=Dimitri
+phoneNumber=0410381932
+locationId=3003844
+mapAddress=Chatswood 2067, NSW
+geocodeLat=-33.882417
+geocodeLng=151.154762
+geocodeLocality=Chatswood
+description=&lt;br&gt;	 &lt;h3&gt;Description&lt;/h3&gt;&lt;br&gt;    &lt;div class="sanitised-markup"&gt;&lt;br&gt;		&lt;p&gt;&lt;strong&gt;Boston 2 seater Lounge &#8211; Red &#38; Grey&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;em&gt; &#8220;If you stay, I&#96;ll make you a night &#47; Like no night has been or will be again&#8221; &lt;/em&gt;&lt;/p&gt;&lt;p&gt;The Boston uses an Early Modern design language and introduces two different tactile surfaces &#8211; reconstituted leather and cashmere-feel fabric, creating a rich and multi-referential design. The padding pattern of the inner armrests continues also on the inner backrest, behind the removable cushions, so if the cushions are removed the Boston becomes a low-look settee with extra-deep seats. A very comfortable and unique combination, with special charms, to be used as a full seating system or as a single-piece design feature. &lt;/p&gt;&lt;ul&gt;&lt;li&gt;Reconstituted buffalo and cowhide leather on front parts&lt;/li&gt;&lt;li&gt;Matching grain synthetic leather on rear and hidden parts&lt;/li&gt;&lt;li&gt;Back cushions and accents in cashmere-feel fabric&lt;/li&gt;&lt;li&gt;Wide stainless steel feet&lt;/li&gt;&lt;li&gt;External measurements&#58; W163cm x D87cm x H86cm&lt;/li&gt;&lt;li&gt;Colour&#58; Red with grey&lt;br&gt;&lt;br&gt;THIS ADVERT IS MANAGED BY https://gumtree-intforce.rhcloud.com
+attributeMap['hg_furniture_sofas.paypal_accepted_seller_s']=false
+attributeMap['hg_furniture_sofas.automatic_repost_ad_s']=false
+attributeMap['hg_furniture_sofas.condition_s']=new
+attributeMap['hg_furniture_sofas.website_s']=gumtree-intforce.rhcloud.com
+attributeMap[hg_furniture_sofas.slogan_s]=NEW Boston 2 seater Lounge – Red & Grey
+hourstomarket=24
+images=https://i.ebayimg.com/00/s/NjQ4WDcwMA==/z/sM8AAOSwIQdZK-N8/$_20.JPG
+images=https://i.ebayimg.com/00/s/NTEwWDg4MA==/z/o~gAAOSws5pZK-OM/$_20.JPG
+ctk=Fe2VMk9Wck5T1v7Hot5DlQ
+csrft=24db1236974ee8aebd3513b3090a868f
+bbUserInput=8841
+bbToken=5772008a4e1db9b9d457cf3035fd947ed268f9fd023210d1debfcd4b2432638e426da1e18d39c82a68c1a25293cf3ec504623fdc967c359709ad742960ef4779

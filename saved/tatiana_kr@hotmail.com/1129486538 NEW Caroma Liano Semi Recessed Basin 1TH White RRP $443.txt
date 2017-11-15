@@ -1,0 +1,36 @@
+attributeMap['cars.greyimport']=
+postcode=2040
+houseNumber=
+streetName=
+adType=OFFER
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+_showLocationOnMap=on
+unacceptableGeocode=false
+level2CategoryId=
+quickOffer=
+_renew=on
+repost=false
+categoryId=20103
+price.amount=70
+price.type=FIXED
+minimumOfferPrice=
+attributeMap['building_materials.condition_s']=new
+title=NEW Caroma Liano Semi Recessed Basin 1TH White RRP $443
+images=https://i.ebayimg.com/00/s/ODAwWDgwMA==/z/XSwAAOSwXeJYI5qY/$_14.JPG
+images=https://i.ebayimg.com/00/s/ODAwWDgwMA==/z/v0MAAOSwA3dYI5qc/$_14.JPG
+images=https://i.ebayimg.com/00/s/ODAwWDgwMA==/z/DNoAAOSwx2dYI5qa/$_14.JPG
+images=https://i.ebayimg.com/00/s/ODAwWDgwMA==/z/N5sAAOSwal5YHvrU/$_14.JPG
+name=Tatiana
+phoneNumber=0410381932
+locationId=3003844
+mapAddress=Leichhardt, NSW, 2040
+geocodeLat=-33.882417
+geocodeLng=151.154762
+geocodeLocality=Leichhardt
+description=ABSOLUTE BARGAIN, FOR QUICK SALE, BRAND NEW IN BOXCaroma Liano Semi Recessed Basin 1TH White (661215W) The Liano semi recessed basin has been designed to meet the needs of the designer market for prestige projects.  An architectural minimalist style was adopted for the square Liano incorporating a generous bowl area and a distinctive tapware platform. The availability of a series of Liano basin design options allows for continuity in basin design throughout a project.Ceramic, whiteShape: SquareOverflow: YesTapholes: 1 Capacity: 4.8L420x470mm(SN:661215W) (223773-233)
+attributeMap['building_materials.paypal_accepted_seller_s']=false
+attributeMap['building_materials.automatic_repost_ad_s']=false
+attributeMap['building_materials.highest_price_s']=70.0

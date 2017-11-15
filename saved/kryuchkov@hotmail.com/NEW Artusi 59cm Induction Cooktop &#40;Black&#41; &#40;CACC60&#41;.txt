@@ -1,0 +1,40 @@
+attributeMap['cars.greyimport']=
+postcode=2067
+houseNumber=
+streetName=
+adType=OFFER
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+_showLocationOnMap=on
+unacceptableGeocode=false
+level2CategoryId=
+quickOffer=
+_renew=on
+repost=false
+categoryId=20059
+price.amount=50
+price.type=FIXED
+minimumOfferPrice=
+title=Artusi 59cm Induction Cooktop &#40;Black&#41; &#40;CACC60&#41;
+name=Dimitri
+phoneNumber=0410381932
+locationId=3003844
+mapAddress=Chatswood 2067, NSW
+geocodeLat=-33.882417
+geocodeLng=151.154762
+geocodeLocality=Chatswood
+description=Description <div class="sanitised-markup">		Artusi 59cm Induction Cooktop (Black) (CACC60)Four zoneResidual heat indicatorEasy clean surfaceTouch control2 small and 2 large zonesCeran glassMinute timerChild lockLow profileDimensions (HxWxD): 48 x 590 x 520 mmItem may show marks/scratches/dents or imperfections. Accessories may vary from standard.Returns/refunds based on marks/scratches/dents or imperfections will not be accepted This item is classified as Grade (3) (please refer to Grading tab for details)Yellow - Mark/Scratches-Top Panel Please note item is not in original packaging, carton damage. (SN:CACC60) (16061-3223) Note:
+attributeMap['hg_appliances_cooktop_rangehood.paypal_accepted_seller_s']=false
+attributeMap['hg_appliances_cooktop_rangehood.automatic_repost_ad_s']=false
+attributeMap['hg_appliances_cooktop_rangehood.condition_s']=used
+attributeMap['hg_appliances_cooktop_rangehood.website_s']=gumtree-intforce.rhcloud.com
+attributeMap[hg_appliances_cooktop_rangehood.slogan_s]=Artusi 59cm Induction Cooktop &#40;Black&#41; &#40;CACC60&#41;
+hourstomarket=24
+images=https://i.ebayimg.com/00/s/NDAwWDQwMA==/z/wnEAAOSw0GJZmTNr/$_20.JPG
+images=https://i.ebayimg.com/00/s/NjQ5WDg4MA==/z/Aa8AAOSwvYZZmTN1/$_20.JPG
+ctk=F_8tI_MfR87rUa_PEkW7bg
+csrft=f5cff39301fe0500722c4492ae758415
+bbUserInput=3553
+bbToken=5d285ecf5d9631937dfa4a8c774cf90666332003decdb44048f2551519766e0981adb08afa3390d3def430b9dca57b9ed0bbbeb8a14ceb07256ca0e129ec55a8

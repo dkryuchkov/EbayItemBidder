@@ -1,0 +1,37 @@
+attributeMap['cars.greyimport']=
+postcode=2040
+houseNumber=
+streetName=
+adType=OFFER
+adId=
+geocodeConfidence=OK
+files[]=
+bbImageBaseUrl=/bb-image.html
+galleryImageIndex=
+_showLocationOnMap=on
+unacceptableGeocode=false
+level2CategoryId=
+quickOffer=
+_renew=on
+repost=false
+categoryId=18402
+price.amount=30
+price.type=FIXED
+minimumOfferPrice=
+title=Prinetti 1450 Watt Steam Station Iron - Blue/White RRP $249
+images=https://i.ebayimg.com/00/s/NDAwWDQwMA==/z/v-sAAOSw4DJYfHIa/$_20.JPG
+images=https://i.ebayimg.com/00/s/NDAwWDQwMA==/z/D6kAAOSw-0xYfHIX/$_20.JPG
+images=https://i.ebayimg.com/00/s/NDAwWDQwMA==/z/2fgAAOSwnHZYfHIY/$_20.JPG
+images=https://i.ebayimg.com/00/s/NDAwWDQwMA==/z/cz0AAOSwNnRYfHIa/$_20.JPG
+images=https://i.ebayimg.com/00/s/MTIwMFgxNjAw/z/MdcAAOSw-0xYfHRO/$_20.JPG
+name=Dimitri
+phoneNumber=0410381932
+locationId=3003845
+geocodeLat=-33.87109
+geocodeLng=151.161166
+geocodeLocality=Lilyfield
+description=Bought 6 months ago for $249. Excellent condition but the steam stopped working (might be easy to fix). The iron still works fine. CHEAP !&lt;br&gt;&lt;br&gt;Prinetti 1450 Watt Steam Station Iron - Blue/White&lt;br&gt;&lt;br&gt;Make light work of hefty ironing baskets with the Prinetti 1450 Watt Steam Station Iron. This steam station boasts a much higher steam output than the average iron, which means you can achieve smooth clothes much faster. Blast away wrinkles with the ergonomic steam controls, and enjoy the smooth slide of the non-stick ceramic soleplate - this Prinetti steam station has got it all, and for a great price.&lt;br&gt;&lt;br&gt;Features&lt;br&gt;Prinetti 1450 Watt Steam Station Iron&lt;br&gt;Reduce your ironing time with high powered steam&lt;br&gt;Ceramic non-stick soleplate&lt;br&gt;1450 watts with 90g/min steam output&lt;br&gt;Easy to use lightweight iron&lt;br&gt;Easy fill 1.5L litre water tank with water inlet design&lt;br&gt;Long 1.65cm cord&lt;br&gt;3.5 bar pressure for crisp results&lt;br&gt;Removable filter in the water tank for clean water&lt;br&gt;Functions include Dry, Steam Burst &amp; Vertical Steam&lt;br&gt;Steam control button&lt;br&gt;Steam control dial&lt;br&gt;Temperature control dial&lt;br&gt;Iron Dimensions: Approx. (L) 28cm x (W) 14cm x (D) 14cm&lt;br&gt;Station Dimensions: Approx. (L) 40cm x (W) 24cm x (d) 24cm&lt;br&gt;Model: IA0526&lt;br&gt;Brand: Prinetti&lt;br&gt;&lt;br&gt;THIS ADVERT IS MANAGED BY https://gumtree-intforce.rhcloud.com
+attributeMap['hg_appliances_other.automatic_repost_ad_s']=false
+attributeMap['hg_appliances_other.paypal_accepted_seller_s']=false
+attributeMap['hg_appliances_other.highest_price_s']=30.0
+attributeMap['hg_appliances_other.condition_s']=used

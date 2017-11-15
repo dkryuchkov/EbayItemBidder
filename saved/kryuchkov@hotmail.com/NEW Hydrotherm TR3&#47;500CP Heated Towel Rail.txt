@@ -1,0 +1,40 @@
+attributeMap['cars.greyimport']=
+postcode=2067
+houseNumber=
+streetName=
+adType=OFFER
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+_showLocationOnMap=on
+unacceptableGeocode=false
+level2CategoryId=
+quickOffer=
+_renew=on
+repost=false
+categoryId=20103
+price.amount=350
+price.type=FIXED
+minimumOfferPrice=
+title=Hydrotherm TR3&#47;500CP Heated Towel Rail
+name=Dimitri
+phoneNumber=0410381932
+locationId=3003844
+mapAddress=Chatswood 2067, NSW
+geocodeLat=-33.882417
+geocodeLng=151.154762
+geocodeLocality=Chatswood
+description=&lt;br&gt;	 Description&lt;br&gt;    <div class="sanitised-markup">&lt;br&gt;		Hydrotherm TR3/500CP Heated Towel RailHydrotherm TR3 is a beautifully simplistic and practical option for any bathroom utilising its generous gaps to allow efficient drying of fabrics. Its contemporary design that utilises hydro technology ensures the longevity you deserve for your bathroom.Measurements:Height: 1500mmWidth: 500mm (centre to centre)Depth: 90mmSpacing: 160mm between bars (centre to centre)Tube: Verticle 25mm, Horizontal 19mmFinish: High Polish Chrome PLEASE NOTE: This item is part of an Insurance Salvage Claim and will be sold as per the listed product condition.Where the product condition is RESEALED - Items have been checked will have only minor packaging damage. These items come with a 3 Month  Warranty. Cartons or packaging may not be original and/or may show signs of water exposure or soiling.Where the product condition is INSURANCE or SECONDS - These products have been subject to an insurance claim and may contain shop soiling, packaging, physical and or other types of damage which may be unknown to us. These items are sold “as is” with no warranty.(SN:TR3/500CP) (242750-61) Note:  &lt;br&gt;    &lt;br&gt;    &lt;br&gt;
+attributeMap['building_materials.paypal_accepted_seller_s']=false
+attributeMap['building_materials.automatic_repost_ad_s']=false
+attributeMap['building_materials.condition_s']=used
+attributeMap['building_materials.website_s']=gumtree-intforce.rhcloud.com
+attributeMap[building_materials.slogan_s]=Hydrotherm TR3&#47;500CP Heated Towel Rail
+hourstomarket=24
+images=https://i.ebayimg.com/00/s/NDM5WDQ2MA==/z/oUQAAOSw0j9ZW1-d/$_20.JPG
+images=https://i.ebayimg.com/00/s/NDYxWDg4MA==/z/g5UAAOSwTf9ZW1-k/$_20.JPG
+ctk=qbwr3PSXSkFDEVav9mCDsA
+csrft=75fb299fee309cca14211a08fbe1e566
+bbUserInput=6234
+bbToken=af8032ffc227b8071f01c0ec751b9ec12789c14a19828a7bef6f424900302376fdccb48840a78fd95c0612d60cf380c33e56749d7f8bb4b55f673067031ee5a2

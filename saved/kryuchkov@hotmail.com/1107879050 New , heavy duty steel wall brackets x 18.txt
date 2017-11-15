@@ -1,0 +1,33 @@
+_showLocationOnMap=on
+unacceptableGeocode=false
+streetName=
+houseNumber=
+galleryImageIndex=
+postcode=2040
+geocodeConfidence=OK
+level2CategoryId=
+adId=
+attributeMap['cars.greyimport']=
+repost=false
+adType=OFFER
+quickOffer=
+files[]=
+_renew=on
+categoryId=20103
+price.amount=70
+price.type=FIXED
+minimumOfferPrice=
+attributeMap['building_materials.condition_s']=new
+title=New , heavy duty steel wall brackets x 18
+images=http://i.ebayimg.com/00/s/NjAwWDgwMA==/z/PsYAAOSwHgVW78N~/$_14.JPG
+images=http://i.ebayimg.com/00/s/NjAwWDgwMA==/z/hXkAAOSwu1VW78OB/$_14.JPG
+name=Tatiana
+phoneNumber=0410381932
+locationId=3003844
+mapAddress=Leichhardt, NSW, 2040
+geocodeLat=-33.882417
+geocodeLng=151.154762
+geocodeLocality=Leichhardt
+description=Giving away the lot of heavy duty steel brakets as pictured, They are 10mm thick and  heavy, each can hold 500kg with ease. Absolute bargain as you would likely to pay $50 per the bracket from a trade.
+attributeMap['building_materials.paypal_accepted_seller_s']=false
+attributeMap['building_materials.highest_price_s']=70.0

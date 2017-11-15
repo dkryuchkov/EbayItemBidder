@@ -1,0 +1,36 @@
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+attributeMap['cars.greyimport']=
+houseNumber=
+unacceptableGeocode=false
+level2CategoryId=
+_renew=on,_showLocationOnMap
+categoryId=20061
+adType=OFFER
+price.amount=850
+price.type=FIXED
+minimumOfferPrice=
+attributeMap[hg_appliances_fridge_freezer.condition_s]=new
+title=NEW Panasonic NR-BX41BXSAU 407L Premium Bottom Mount Fridge
+name=Dimitri
+phoneNumber=0410381932
+locationId=3004117
+geocodeLat=-33.794095
+geocodeLng=151.188817
+geocodeLocality=Chatswood
+description=NEW Panasonic NR-BX41BXSAU 407L Premium Bottom Mount Fridge &lt;br&gt; Recommended Retail Price (RRP) - $1,699&lt;br&gt;CAPACITY 407.0 L Total&lt;br&gt;273.0 L Refrigerator&lt;br&gt;134.0 L Freezer&lt;br&gt;FEATURES 2 Doors R600a Refrigerant&lt;br&gt;ECONAVI Compressor Inverter&lt;br&gt;Quick Freezing Energy Saving Fresh&amp;Clean Ag Clean (Anti Bacteria &amp; Deodorizer) &lt;br&gt;Fresh Safe Electrostatic Touch Control Panel&lt;br&gt;REFRIGERATOR COMPARTMENT (PC)Prime Fresh / Chilled Case&lt;br&gt;Crisper (Vegetable Case)&lt;br&gt;Tempered Glass Shelves&lt;br&gt;Height Adjustable Shelves&lt;br&gt;Egg Tray&lt;br&gt;LED Light&lt;br&gt;FREEZER COMPARTMENT (FC) Twist Ice Tray&lt;br&gt;Ice Box&lt;br&gt;3 Separate Cases&lt;br&gt;Quick Ice Making&lt;br&gt;Dimensions (W x D x H): 685 x 698 x 1624 mm / Weight: 64kg
+attributeMap['hg_appliances_fridge_freezer.automatic_repost_ad_s']=false
+attributeMap['hg_appliances_fridge_freezer.paypal_accepted_seller_s']=false
+attributeMap['hg_appliances_fridge_freezer.highest_price_s']=850.0
+attributeMap['hg_appliances_fridge_freezer.condition_s']=new
+_showLocationOnMap=on
+images=https://i.ebayimg.com/00/s/ODgwWDg4MA==/z/9L0AAOSwuq9ZX1vQ/$_20.JPG
+images=https://i.ebayimg.com/00/s/ODgwWDQxMw==/z/9nYAAOSweIlZX1vV/$_20.JPG
+images=https://i.ebayimg.com/00/s/ODI1WDg4MA==/z/HfMAAOSw0TxZX1vm/$_20.JPG
+images=https://i.ebayimg.com/00/s/NTQxWDg4MA==/z/0w8AAOSwTY9ZX1vw/$_20.JPG
+ctk=P8GqGmLUxyJfVYg2xyyI6A
+csrft=8bd9f971be7c625e00484feb89576dc1
+bbUserInput=9092
+bbToken=38eef48406d8c4b173d9aaef19c84ec977792eeaf3d5f8e51c794a2cab0f7a03408d4273df35902914e8798befb9d950b03e672738999ea9953bd86e457ffb16

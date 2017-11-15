@@ -1,0 +1,35 @@
+description=I have Reebok crossfit&#47;leg day&#47;squats weightlifting shoes&lt;br&gt;&lt;br&gt;&lt;br&gt;I have wore them handful of times, have been well looked after.&lt;br&gt;&lt;br&gt;&lt;br&gt;Size 8.5&lt;br&gt;&lt;br&gt;Comes with the box&lt;br&gt;&lt;br&gt;&lt;br&gt;$100 or near offer&lt;br&gt;&lt;br&gt;&lt;br&gt;Delivery can be arranged anywhere in Aus&lt;br&gt;&lt;br&gt;&lt;br&gt;Call me on ******** 979<span class="ad-phone"></span>&nbsp;<span class="j-reveal-phone c-text-link">+&nbsp;click to reveal</span>&nbsp;
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+attributeMap['cars.greyimport']=
+houseNumber=
+unacceptableGeocode=false
+level2CategoryId=
+_renew=on,_showLocationOnMap
+categoryId=18565
+adType=OFFER
+price.amount=100
+price.type=NEGOTIABLE
+minimumOfferPrice=
+attributeMap[gym_fitness.condition_s]=used
+title=REEBOK CROSSFIT WEIGHT LIFTING SHOWS, SIZE 8.5
+images=https://i.ebayimg.com/00/s/MTYwMFgxNTI5/z/JE8AAOSw7XBY8Zc1/$_20.JPG
+images=https://i.ebayimg.com/00/s/MTExN1gxNjAw/z/EeQAAOSw03lY8Zcz/$_20.JPG
+images=https://i.ebayimg.com/00/s/MTIwMFgxNjAw/z/zm8AAOSwj25Y8Zc1/$_20.JPG
+images=https://i.ebayimg.com/00/s/ODI4WDE2MDA=/z/GM0AAOSwc49Y8Zcy/$_20.JPG
+images=https://i.ebayimg.com/00/s/ODIyWDE2MDA=/z/4x4AAOSw4CFY8Zc3/$_20.JPG
+images=https://i.ebayimg.com/00/s/MTYwMFgxMDM2/z/SGMAAOSwnF9Y8Zc4/$_20.JPG
+images=https://i.ebayimg.com/00/s/MTYwMFgxNDU2/z/7uUAAOSwrddY8Zc8/$_20.JPG
+images=https://i.ebayimg.com/00/s/MTYwMFgxMjAw/z/LooAAOSwZeVY8Zc7/$_20.JPG
+name=Nav
+phoneNumber=0402602979
+locationId=3003499
+geocodeLat=-33.771962
+geocodeLng=150.843234
+geocodeLocality=Rooty Hill
+attributeMap['gym_fitness.paypal_accepted_seller_s']=true
+attributeMap['gym_fitness.highest_price_s']=100.0
+attributeMap['gym_fitness.condition_s']=used
+attributeMap['gym_fitness.automatic_repost_ad_s']=false

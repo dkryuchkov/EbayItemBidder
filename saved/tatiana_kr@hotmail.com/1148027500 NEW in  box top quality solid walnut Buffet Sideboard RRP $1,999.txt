@@ -1,0 +1,28 @@
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+attributeMap['cars.greyimport']=
+houseNumber=
+unacceptableGeocode=false
+level2CategoryId=
+_renew=on,_showLocationOnMap
+categoryId=21011
+price.amount=350
+price.type=FIXED
+minimumOfferPrice=
+attributeMap[hg_furniture_buffets_sidetables.condition_s]=new
+title=NEW in  box top quality solid walnut Buffet Sideboard RRP $1,999
+images=https://i.ebayimg.com/00/s/OTYwWDk2MA==/z/7nkAAOSw3gJZGXYP/$_20.PNG
+images=https://i.ebayimg.com/00/s/NjYwWDg4MA==/z/sV0AAOSwaEhZFniT/$_20.JPG
+name=Tatiana
+phoneNumber=0410381932
+locationId=3004117
+geocodeLat=-33.794095
+geocodeLng=151.188817
+geocodeLocality=Chatswood
+description=New, boxed, RRP $2,999 &lt;br&gt;Solid walnut Top quality Buffet Sideboard &lt;br&gt;&lt;br&gt;Features 4 drawers, 2 storage compartments and 1 bottle storage shelf suiting 5 bottles. Approximate dimensions 1350mm (w) x 400mm (l) x 720mm (h) &lt;br&gt;&lt;br&gt;RRP $1,999&lt;br&gt;&lt;br&gt;THIS ADVERT IS MANAGED BY https://gumtree-intforce.rhcloud.com
+attributeMap['hg_furniture_buffets_sidetables.highest_price_s']=350.0
+attributeMap['hg_furniture_buffets_sidetables.condition_s']=new
+attributeMap['hg_furniture_buffets_sidetables.automatic_repost_ad_s']=false
+attributeMap['hg_furniture_buffets_sidetables.paypal_accepted_seller_s']=false

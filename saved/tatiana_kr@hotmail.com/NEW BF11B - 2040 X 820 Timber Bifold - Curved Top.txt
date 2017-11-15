@@ -1,0 +1,40 @@
+attributeMap['cars.greyimport']=
+postcode=2067
+houseNumber=
+streetName=
+adType=OFFER
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+_showLocationOnMap=on
+unacceptableGeocode=false
+level2CategoryId=
+quickOffer=
+_renew=on
+repost=false
+categoryId=20103
+price.amount=100
+price.type=FIXED
+minimumOfferPrice=
+title=BF11B - 2040 X 820 Timber Bifold - Curved Top
+name=Dimitri
+phoneNumber=0410381932
+locationId=3003844
+mapAddress=Chatswood 2067, NSW
+geocodeLat=-33.882417
+geocodeLng=151.154762
+geocodeLocality=Chatswood
+description=Description <div class="sanitised-markup">		 BF11B - 2040 X 820 Timber Bifold - Curved Top Features: Dimensions:2040 X 820 Glass: Unglazed. Pack Number(s): 113 Online is acting as the official clearance partner of Doors Plus to move nearly $2 million in excess stock. With a wide range of interior doors, entry doors, bifolds, handles, and more, you’ll be sure to find the perfect doors to complete your home improvement with “no fuss”!As this is a clearance program, there is no change of mind offered on your purchase. Please ensure you have fully understood what the product is before placing your bid. Any pre or post-purchase enquiries should be referred to the Online Customer Service Team, not to Doors Plus. (SN:BF11B) (244041-269) Note:
+attributeMap['building_materials.paypal_accepted_seller_s']=false
+attributeMap['building_materials.automatic_repost_ad_s']=false
+attributeMap['building_materials.condition_s']=used
+attributeMap['building_materials.website_s']=gumtree-intforce.rhcloud.com
+attributeMap[building_materials.slogan_s]=BF11B - 2040 X 820 Timber Bifold - Curved Top
+hourstomarket=24
+images=https://i.ebayimg.com/00/s/NDAwWDIwOA==/z/kQMAAOSwENpZkh0L/$_20.JPG
+images=https://i.ebayimg.com/00/s/MjY1WDQwMA==/z/TrYAAOSwtPhZkh0V/$_20.JPG
+ctk=KKwzWdFTMVAiaRw4xHvllA
+csrft=133764760ad3674184e4791e01a265bc
+bbUserInput=4808
+bbToken=99bb2dffd80b8c976f42b3265494eba3246383974b7b7fdef606ac56a806e8d0ede07cf437f20e3c73d8ea97847a21c6331dab375c923bfee2b1b5fb56d8f2d7

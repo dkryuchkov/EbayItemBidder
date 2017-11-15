@@ -1,0 +1,34 @@
+attributeMap['cars.greyimport']=
+postcode=2040
+houseNumber=
+streetName=
+adType=OFFER
+adId=
+geocodeConfidence=OK
+files[]=
+bbImageBaseUrl=/bb-image.html
+galleryImageIndex=
+_showLocationOnMap=on
+unacceptableGeocode=false
+level2CategoryId=
+quickOffer=
+_renew=on
+repost=false
+categoryId=18553
+price.amount=1600
+price.type=FIXED
+minimumOfferPrice=
+title=Seconds Dell XPS 15 9550 i7-6700HQ 32GB 1TB PCIe SSD 4K Ultra
+images=https://i.ebayimg.com/00/s/NDI3WDc4Nw==/z/aaEAAOSw2xRYg9P3/$_20.JPG
+images=https://i.ebayimg.com/00/s/NDI5WDgwNA==/z/9DEAAOSw5cNYg9P7/$_20.JPG
+name=Dimitri
+phoneNumber=0410381932
+locationId=3003844
+geocodeLat=-33.882417
+geocodeLng=151.154762
+geocodeLocality=Leichhardt
+description=TOP SPEC Dell seconds, worth 3K+ just in parts, failed Dell quality check due to &lt;br&gt; Touch Screen Does Not Work, Small Crack On Palm rest, Scratches On The Unit&lt;br&gt;&lt;br&gt;&lt;div class=&quot;content-section&quot;&gt; &lt;h3&gt;Description&lt;/h3&gt;    &lt;div class=&quot;sanitised-markup&quot;&gt;&lt;p&gt;&lt;strong&gt;Dell XPS 15 (9550 ) Laptop&lt;/strong&gt; &lt;/p&gt;&lt;ul&gt;&lt;li&gt;Silver&lt;/li&gt;&lt;li&gt;6th Generation Intel(R) Core(TM) i7-6700HQ Quad Core (6M Cache, up to 3.5 GHz) &lt;/li&gt;&lt;li&gt;32GB Dual Channel DDR4 2133Mhz (16GBx2) &lt;/li&gt;&lt;li&gt;1TB PCIe Solid State Drive &lt;/li&gt;&lt;li&gt;15.6`` 4K Ultra HD (3840 x 2160) InfinityEdge &lt;/li&gt;&lt;li&gt;NVIDIA(R) GeForce(R) GTX 960M with 2GB GDDR5&lt;/li&gt;&lt;li&gt;High Definition Audio with Waves MaxxAudio Pro&lt;/li&gt;&lt;li&gt;Killer 1535 802.11ac 2x2 Wi-Fi and Bluetooth 4.1 &lt;/li&gt;&lt;li&gt;Widescreen HD (720p) webcam with dual array digital microphones &lt;/li&gt;&lt;li&gt;SD card reader (SD, SDHC, SDXC)&lt;/li&gt;&lt;li&gt;HDMI Port, 2 x USB 3.0 Ports with Power Share, Thunderbolt 3 &lt;/li&gt;&lt;li&gt;Built In Primary Battery&lt;/li&gt;&lt;li&gt;AC Power Adapter And Power Cable &lt;/li&gt;&lt;li&gt;Windows 10 Pre-Installed, OS Recovery Disc Not Included&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Please Note: Touch Screen Does Not Work, Small Crack On Palm rest, Scratches On The Unit&lt;/p&gt; &lt;/div&gt;    &lt;/div&gt;&lt;br&gt;&lt;br&gt;THIS ADVERT IS MANAGED BY https://gumtree-intforce.rhcloud.com
+attributeMap['laptops.paypal_accepted_seller_s']=false
+attributeMap['laptops.automatic_repost_ad_s']=false
+attributeMap['laptops.highest_price_s']=1600.0
+attributeMap['laptops.condition_s']=new

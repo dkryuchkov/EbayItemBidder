@@ -1,0 +1,58 @@
+attributeMap['cars.greyimport']=
+postcode=2040
+houseNumber=
+streetName=
+adType=OFFER
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+_showLocationOnMap=on
+unacceptableGeocode=false
+level2CategoryId=
+quickOffer=
+_renew=on
+repost=false
+categoryId=18320
+price.amount=10000
+price.type=FIXED
+minimumOfferPrice=
+title=2010 Alfa Romeo MiTo 1.4Ltr Turbo - 5 Sp Hatchback, 61,366
+images=https://i.ebayimg.com/00/s/NTg5WDg4MA==/z/ejgAAOSwHMJYN6nU/$_20.JPG
+images=https://i.ebayimg.com/00/s/NTg5WDg4MA==/z/NG0AAOSwo4pYN6nU/$_20.JPG
+images=https://i.ebayimg.com/00/s/NTg5WDg4MA==/z/bmsAAOSwImRYN6on/$_20.JPG
+images=https://i.ebayimg.com/00/s/NTg5WDg4MA==/z/hCAAAOSwcUBYN6ol/$_20.JPG
+images=https://i.ebayimg.com/00/s/NTg5WDg4MA==/z/0qIAAOSwiDFYN6nU/$_20.JPG
+images=https://i.ebayimg.com/00/s/NTg5WDg4MA==/z/XpEAAOSwA3dYN6nT/$_20.JPG
+images=https://i.ebayimg.com/00/s/NTg5WDg4MA==/z/ZyUAAOSwImRYN6nQ/$_20.JPG
+images=https://i.ebayimg.com/00/s/NTg5WDg4MA==/z/fSAAAOSwcUBYN6nQ/$_20.JPG
+images=https://i.ebayimg.com/00/s/NTg5WDg4MA==/z/fWoAAOSwcUBYN6nT/$_20.JPG
+name=Tatiana
+phoneNumber=0410381932
+locationId=3003845
+mapAddress=Mary St, Lilyfield, NSW
+geocodeLat=-33.87109
+geocodeLng=151.161166
+geocodeLocality=Lilyfield
+description=2010 Alfa Romeo MiTo 1.4Ltr Turbo - 5 Sp Hatchback, 61,366 km indicated&lt;br&gt;&lt;br&gt;Body Type: Hatchback&lt;br&gt;No. of Seats: 5&lt;br&gt;Build Date: 10/2009&lt;br&gt;Compliance Date: 05/2010&lt;br&gt;VIN: ZAR95500001080006&lt;br&gt;Fuel Type: Petrol&lt;br&gt;Transmission: Manual - 5 Speed&lt;br&gt;Odometer: 61,366 km indicated&lt;br&gt;Exterior Colour: White&lt;br&gt;Interior Colour: Black
+attributeMap['cars.variant_s']=All Others
+attributeMap['cars.nvic_s']=JIU10A
+attributeMap['cars.fueltype_s']=premiumunleaded
+attributeMap['cars.forsaleby_s']=ownr
+attributeMap['cars.engine_capacity_litres_s']=1.4L
+attributeMap['cars.ancap_rating_s']=5
+attributeMap['cars.airconditioning_s']=y
+attributeMap['cars.cylinder_configuration_s']=4 cyl
+attributeMap['cars.carbodytype_s']=htchbck
+attributeMap['cars.colour_s']=white
+attributeMap['cars.highest_price_s']=10000.0
+attributeMap['cars.greyimport_s']=false
+attributeMap['cars.caryear_i']=2010
+attributeMap['cars.carmake_s']=alfaromeo
+attributeMap['cars.paypal_accepted_seller_s']=false
+attributeMap['cars.green_overall_rating_s']=5
+attributeMap['cars.carmileageinkms_i']=61000
+attributeMap['cars.carmodel_s']=alfaromeo_mito
+attributeMap['cars.cartransmission_s']=m
+attributeMap['cars.automatic_repost_ad_s']=false
+attributeMap['cars.drivetrain_s']=fwd

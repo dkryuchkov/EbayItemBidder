@@ -1,0 +1,34 @@
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+attributeMap['cars.greyimport']=
+houseNumber=
+unacceptableGeocode=false
+level2CategoryId=
+_renew=on,_showLocationOnMap
+categoryId=20084
+price.amount=100
+price.type=FIXED
+minimumOfferPrice=
+attributeMap[hg_soft_furnishings_curtains_blinds.condition_s]=new
+title=New Pencil Pleat Curtains
+images=https://i.ebayimg.com/00/s/NDAwWDQwMA==/z/ydcAAOSw-K9ZL98l/$_20.JPG
+images=https://i.ebayimg.com/00/s/MjUwWDI1MA==/z/DHgAAOSwhvFZL98k/$_20.JPG
+images=https://i.ebayimg.com/00/s/MTIwMFgxNjAw/z/7aMAAOSwurZZL93f/$_20.JPG
+images=https://i.ebayimg.com/00/s/MTIwMFgxNjAw/z/LsgAAOSwlndZL92B/$_20.JPG
+images=https://i.ebayimg.com/00/s/MTIwMFgxNjAw/z/YvAAAOSw1WJZL917/$_20.JPG
+images=https://i.ebayimg.com/00/s/MTIwMFgxNjAw/z/8-QAAOSwxu5ZL912/$_20.JPG
+images=https://i.ebayimg.com/00/s/MTIwMFgxNjAw/z/iuIAAOSwn-tZL91-/$_20.JPG
+images=https://i.ebayimg.com/00/s/MTIwMFgxNjAw/z/ixoAAOSwn-tZL92B/$_20.JPG
+name=Dimitri
+phoneNumber=0410381932
+locationId=3004117
+geocodeLat=-33.794095
+geocodeLng=151.188817
+geocodeLocality=Chatswood
+description=To suit widow size &lt;br&gt;w 220 cm - 270 cm&lt;br&gt;Length 221 cm&lt;br&gt;Dakkar Pencil Pleat Curtains&lt;br&gt;2  blockout curtains in a pack&lt;br&gt;Fabric - Texture, Wilson Fabrics, color Silver&lt;br&gt;Ecosmart Blockout Babric&lt;br&gt;100% light reduction&lt;br&gt;Acoustic/noise reduction&lt;br&gt;Keeps heat in during winter&lt;br&gt;Keeps the sun out durig summer&lt;br&gt;Energy saving&lt;br&gt;Brand new in unopened original package&lt;br&gt;RRP $270&lt;br&gt;FREE DELIVERY to Sydney Metro area&lt;br&gt;&lt;br&gt;&lt;br&gt;THIS ADVERT IS MANAGED BY https://gumtree-intforce.rhcloud.com
+attributeMap['hg_soft_furnishings_curtains_blinds.paypal_accepted_seller_s']=false
+attributeMap['hg_soft_furnishings_curtains_blinds.automatic_repost_ad_s']=false
+attributeMap['hg_soft_furnishings_curtains_blinds.condition_s']=new
+attributeMap['hg_soft_furnishings_curtains_blinds.highest_price_s']=100.0

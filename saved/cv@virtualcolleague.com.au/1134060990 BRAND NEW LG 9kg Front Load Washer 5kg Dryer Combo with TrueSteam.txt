@@ -1,0 +1,36 @@
+attributeMap['cars.greyimport']=
+postcode=2040
+houseNumber=
+streetName=
+adType=OFFER
+adId=
+geocodeConfidence=OK
+files[]=
+bbImageBaseUrl=/bb-image.html
+galleryImageIndex=
+_showLocationOnMap=on
+unacceptableGeocode=false
+level2CategoryId=
+quickOffer=
+_renew=on
+repost=false
+categoryId=20066
+price.amount=999
+price.type=FIXED
+minimumOfferPrice=
+title=BRAND NEW LG 9kg Front Load Washer 5kg Dryer Combo with TrueSteam
+images=https://i.ebayimg.com/00/s/NTgwWDg4MA==/z/7lcAAOSw-0xYYcHH/$_20.JPG
+images=https://i.ebayimg.com/00/s/NTgwWDg4MA==/z/OsoAAOSwA3dYYcHL/$_20.JPG
+images=https://i.ebayimg.com/00/s/NTgwWDg4MA==/z/O0IAAOSwA3dYYcHO/$_20.JPG
+images=https://i.ebayimg.com/00/s/NTgwWDg4MA==/z/3ocAAOSwUKxYYcHX/$_20.JPG
+name=Dimitri
+phoneNumber=0410381932
+locationId=3003844
+geocodeLat=-33.882417
+geocodeLng=151.154762
+geocodeLocality=Leichhardt
+description=&lt;div class=&quot;content-section&quot;&gt; &lt;h3&gt;Description&lt;/h3&gt;    &lt;div class=&quot;sanitised-markup&quot;&gt;&lt;p&gt;&lt;strong&gt;LG 9kg Front Load Washer &amp; 5kg Dryer Combo with TrueSteam&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Recommended Retail Price (RRP) - $1899 as of August 2016 &lt;/p&gt;&lt;p&gt;&lt;strong&gt;Features:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;TrueSteam &lt;/li&gt;&lt;li&gt;Maximum Spin Speed 1400rpm&lt;/li&gt;&lt;li&gt;6 Motion Wash Technology&lt;/li&gt;&lt;li&gt;Inverter Direct Drive Motor System&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Specifications&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Colour: White&lt;/li&gt;&lt;li&gt;Wash Capacity: 9kg&lt;/li&gt;&lt;li&gt;Dry Capacity: 5kg&lt;/li&gt;&lt;li&gt;Energy Rating Washing: 4 Star&lt;/li&gt;&lt;li&gt;Energy Rating Drying: 1&frac12; Star&lt;/li&gt;&lt;li&gt;Water Rating Washing: 4&frac12; Star / 77L&lt;/li&gt;&lt;li&gt;Water Rating Drying: 53L&lt;/li&gt;&lt;li&gt;Motor Type: Inverter Direct Drive&lt;/li&gt;&lt;li&gt;Maximum Spin Speed: 1400rpm&lt;/li&gt;&lt;li&gt;Varible Temperature (&deg;c): Cold / 20 / 40 / 60 / 95&lt;/li&gt;&lt;li&gt;Door Diameter: 350mm&lt;/li&gt;&lt;li&gt;Inner Drum Volume: 67L&lt;/li&gt;&lt;li&gt;Washing Programs: 14&lt;/li&gt;&lt;li&gt;Options: 11&lt;/li&gt;&lt;li&gt;Dimensions (W x D x H) 600 x 650 x 850mm&lt;/li&gt;&lt;li&gt;Weight: 70kg&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Please Note:&lt;/strong&gt; Products listed as `Resealed` have not been sold to a consumer before. Items will generally still have their original packaging but it may have been opened for testing or other purposes or may have carton damaged only. In some instances accessories may vary from the standard (for example, software or manuals may be missing or different).&lt;/p&gt;&lt;p&gt; (SN:WD1409HPW)&lt;/p&gt;   &lt;/div&gt;    &lt;/div&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;THIS ADVERT IS MANAGED BY https://gumtree-intforce.rhcloud.com
+attributeMap['hg_appliances_washing_drying.paypal_accepted_seller_s']=false
+attributeMap['hg_appliances_washing_drying.condition_s']=used
+attributeMap['hg_appliances_washing_drying.automatic_repost_ad_s']=false
+attributeMap['hg_appliances_washing_drying.highest_price_s']=999.0

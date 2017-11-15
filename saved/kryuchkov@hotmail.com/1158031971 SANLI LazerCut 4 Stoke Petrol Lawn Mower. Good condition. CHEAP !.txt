@@ -1,0 +1,33 @@
+description=Used in good condition. Goes CHEAP !!!&lt;br&gt;The Sanli LazerCut is packed with all the features you&#39;d expect to find in a large mower, with the size and weight of a much smaller one.&lt;br&gt;Ideal For: Smaller lawns looking for a mower big on features.&lt;br&gt;&lt;br&gt;Heavy duty steel chassis&lt;br&gt;&lt;br&gt;Powder coat finish&lt;br&gt;&lt;br&gt;Advanced OHV 400 4-stroke engine&lt;br&gt;&lt;br&gt;Under chassis skirt for a better quality cut&lt;br&gt;&lt;br&gt;Comfort grip handle&lt;br&gt;&lt;br&gt;Large capacity hard top grass catcher&lt;br&gt;&lt;br&gt;Extra large ball bearing wheels&lt;br&gt;&lt;br&gt;42cm (16.5&quot;) cutting width&lt;br&gt;&lt;br&gt;10 position height adjustment&lt;br&gt;&lt;br&gt;Lightweight and compact&lt;br&gt;&lt;br&gt;Cutting system - 4 swing back blades
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+attributeMap['cars.greyimport']=
+houseNumber=
+unacceptableGeocode=false
+level2CategoryId=
+_renew=on,_showLocationOnMap
+categoryId=20068
+adType=OFFER
+price.amount=90
+price.type=FIXED
+minimumOfferPrice=
+attributeMap[hg_garden_lawn_mowers.condition_s]=used
+title=SANLI LazerCut 4 Stoke Petrol Lawn Mower. Good condition. CHEAP !
+images=https://i.ebayimg.com/00/s/MzAwWDQwMA==/z/oacAAOSw3yVZiWz2/$_20.JPG
+images=https://i.ebayimg.com/00/s/MzAwWDQwMA==/z/PhIAAOSwvv9ZiWz3/$_20.JPG
+images=https://i.ebayimg.com/00/s/MjI1WDQwMA==/z/~vgAAOSwEFZZiWyl/$_20.JPG
+images=https://i.ebayimg.com/00/s/MjI1WDQwMA==/z/eYEAAOSwAr9ZiWyk/$_20.JPG
+images=https://i.ebayimg.com/00/s/MjI1WDQwMA==/z/RC8AAOSwz7JZiWyq/$_20.JPG
+images=https://i.ebayimg.com/00/s/MjI1WDQwMA==/z/ytUAAOSwvp5ZiWyq/$_20.JPG
+name=Dimitri
+phoneNumber=0410381932
+locationId=3004117
+geocodeLat=-33.794095
+geocodeLng=151.188817
+geocodeLocality=Chatswood
+attributeMap['hg_garden_lawn_mowers.automatic_repost_ad_s']=false
+attributeMap['hg_garden_lawn_mowers.paypal_accepted_seller_s']=false
+attributeMap['hg_garden_lawn_mowers.condition_s']=used
+attributeMap['hg_garden_lawn_mowers.highest_price_s']=99.0

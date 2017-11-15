@@ -1,0 +1,27 @@
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+attributeMap['cars.greyimport']=
+houseNumber=
+unacceptableGeocode=false
+level2CategoryId=
+_renew=on,_showLocationOnMap
+categoryId=21023
+price.amount=250
+price.type=FIXED
+minimumOfferPrice=
+attributeMap[hg_lighting_ceiling.condition_s]=used
+title=NEW LED Crystal Chandler With Remote Control For Lounge RRP $599
+images=https://i.ebayimg.com/00/s/MjcwWDI2NQ==/z/CE8AAOSwuMZZNQoL/$_20.JPG
+name=Dimitri
+phoneNumber=0410381932
+locationId=3004117
+geocodeLat=-33.794095
+geocodeLng=151.188817
+geocodeLocality=Chatswood
+description=NEW Modern LED Crystal Chandler For Dining/Lounge 90Cm High With Remote Control  &lt;br&gt;2016 Latest Model  59cm x 39cm x 90cm H cm high &lt;br&gt;Height can be adjusted to required length &lt;br&gt;Includes remote controlled &lt;br&gt;    &lt;br&gt;    &lt;br&gt;&lt;br&gt;THIS ADVERT IS MANAGED BY https://gumtree-intforce.rhcloud.com
+attributeMap['hg_lighting_ceiling.paypal_accepted_seller_s']=false
+attributeMap['hg_lighting_ceiling.automatic_repost_ad_s']=false
+attributeMap['hg_lighting_ceiling.condition_s']=used
+attributeMap['hg_lighting_ceiling.highest_price_s']=250.0

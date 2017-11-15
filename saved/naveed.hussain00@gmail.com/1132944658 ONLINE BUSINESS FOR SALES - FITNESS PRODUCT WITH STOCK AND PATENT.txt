@@ -1,0 +1,40 @@
+attributeMap['cars.greyimport']=
+postcode=2040
+houseNumber=
+streetName=
+adType=OFFER
+adId=
+geocodeConfidence=OK
+files[]=
+bbImageBaseUrl=/bb-image.html
+galleryImageIndex=
+_showLocationOnMap=on
+unacceptableGeocode=false
+level2CategoryId=
+quickOffer=
+_renew=on
+repost=false
+categoryId=18468
+price.amount=12000
+price.type=NEGOTIABLE
+minimumOfferPrice=
+title=ONLINE BUSINESS FOR SALES - FITNESS PRODUCT WITH STOCK AND PATENT
+images=https://i.ebayimg.com/00/s/NjQ2WDEyNjc=/z/R6cAAOSwQjZXPvBy/$_20.JPG
+images=https://i.ebayimg.com/00/s/Mjg1WDM4Nw==/z/t5kAAOSwR5dXS6pe/$_20.JPG
+images=https://i.ebayimg.com/00/s/NjQyWDEyNzM=/z/IcAAAOSwGeBXPvBG/$_20.JPG
+images=https://i.ebayimg.com/00/s/MTA2N1gxNjAw/z/NNcAAOSwrnNXPvBw/$_20.JPG
+images=https://i.ebayimg.com/00/s/MTA2N1gxNjAw/z/Ia0AAOSwbPxXPvBx/$_20.JPG
+images=https://i.ebayimg.com/00/s/MTYwMFgxNjAw/z/-TMAAOSw44BYS9WI/$_20.JPG
+images=https://i.ebayimg.com/00/s/MTYwMFgxMDY3/z/GLsAAOSwQSZXPvBy/$_20.JPG
+images=https://i.ebayimg.com/00/s/MTA2N1gxNjAw/z/NCYAAOSwrnNXPvBm/$_20.JPG
+images=https://i.ebayimg.com/00/s/Mjk0WDQ4Nw==/z/SYoAAOSwQjZXPvCK/$_20.JPG
+images=https://i.ebayimg.com/00/s/NzY4WDEwMjQ=/z/IMAAAOSwCGVYALQ6/$_20.JPG
+name=Nav
+phoneNumber=0402602979
+locationId=3003795
+geocodeLat=-33.868742
+geocodeLng=151.209147
+geocodeLocality=Sydney City
+description=Business for sale &ndash; Fitness product! WWW.ABZILLA.COM.AU&lt;br&gt;&lt;br&gt;&lt;br&gt;MAKE AN OFFER!&lt;br&gt;&lt;br&gt;&lt;br&gt;The business started in Sept 2015.&lt;br&gt;&lt;br&gt;&lt;br&gt;I had total of 1000 items when i started, I have made sales and also gave out samples.&lt;br&gt;&lt;br&gt;&lt;br&gt;Majority of sales have been over gumtree, online, market stalls or baulk sales&lt;br&gt;&lt;br&gt;&lt;br&gt;Reason for selling &ndash; I have limited and time and financial resources to invest into the business.&lt;br&gt;&lt;br&gt;&lt;br&gt;The sale included the following:&lt;br&gt;&lt;br&gt;&lt;br&gt;- Stock worth $20,000 - $25,000 which is currently stored in a warehouse. There are approximately 350 &ndash; 400 items left)&lt;br&gt;&lt;br&gt;&lt;br&gt;- Hosting of website (currently using shopify) which can be changed (assistance will be provided to change over) www.abzilla.com.au, www.abzillafitness.com.au and abzillafitness.com&lt;br&gt;&lt;br&gt;&lt;br&gt;- Details of manufacture (located overseas)&lt;br&gt;&lt;br&gt;&lt;br&gt;- Patents for USA and Trade Marks for Australia (currently registered to Oz Monkey Fitness)&lt;br&gt;&lt;br&gt;&lt;br&gt;- Paypal account, ebay account, facebook and instagram, youtube&lt;br&gt;&lt;br&gt;&lt;br&gt;(https://www.youtube.com/watch?v=sJRKAIp2-dw)&lt;br&gt;&lt;br&gt;&lt;br&gt;Everything is set up for the business. All that it needs is someone with the ability to devote time in marketing the product!&lt;br&gt;&lt;br&gt;&lt;br&gt;HAPPY TO SELL THE STOCK AT A DISCOUNTED PRICE.&lt;br&gt;&lt;br&gt;&lt;br&gt;visit&lt;br&gt;&lt;br&gt;&lt;br&gt;www.abzilla.com.au&lt;br&gt;&lt;br&gt;&lt;br&gt;Promo Video:&lt;br&gt;&lt;br&gt;&lt;br&gt;https://www.youtube.com/watch?v=sJRKAIp2-dw&lt;br&gt;&lt;br&gt;&lt;br&gt;HAPPY TO SELL THE STOCK ONLY&lt;br&gt;&lt;br&gt;&lt;br&gt;Happy to arrange to ship stock&lt;br&gt;&lt;br&gt;&lt;br&gt;MAKE ME AN OFFER TODAY!&lt;br&gt;&lt;br&gt;&lt;br&gt;CALL ME ON 0402 602 979
+attributeMap['business_for_sale.businesstype_s']=retail
+attributeMap['business_for_sale.highest_price_s']=12000.0

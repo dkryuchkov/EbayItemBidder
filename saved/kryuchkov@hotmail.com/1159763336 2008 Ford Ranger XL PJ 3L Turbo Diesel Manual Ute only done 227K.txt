@@ -1,0 +1,54 @@
+description=VGC 2008 Ford Ranger XL (4x2) PJ 3L Turbo Diesel Manual Ute&lt;br&gt;&lt;br&gt;&lt;br&gt;Engine Capacity: 3L&lt;br&gt;&lt;br&gt;&lt;br&gt;Fuel Type: Diesel&lt;br&gt;&lt;br&gt;&lt;br&gt;Transmission: Manual - 5 Speed&lt;br&gt;&lt;br&gt;&lt;br&gt;Odometer: 227K&lt;br&gt;&lt;br&gt;Sold Unregistered, Without Plates&lt;br&gt;&lt;br&gt;Features:&lt;br&gt;&lt;br&gt;&lt;br&gt;Air Conditioning&lt;br&gt;&lt;br&gt;&lt;br&gt;CD Player&lt;br&gt;&lt;br&gt;&lt;br&gt;Central Locking&lt;br&gt;&lt;br&gt;&lt;br&gt;Driver&#47;Passanger Airbag&lt;br&gt;&lt;br&gt;&lt;br&gt;Electric Windows&lt;br&gt;&lt;br&gt;&lt;br&gt;MP3 Capability&lt;br&gt;&lt;br&gt;&lt;br&gt;Power Steering
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+attributeMap['cars.greyimport']=
+houseNumber=
+unacceptableGeocode=false
+level2CategoryId=
+_renew=on,_showLocationOnMap
+categoryId=18320
+adType=OFFER
+price.amount=7500
+price.type=FIXED
+minimumOfferPrice=7400
+title=2008 Ford Ranger XL PJ 3L Turbo Diesel Manual Ute only done 227K
+images=https://i.ebayimg.com/00/s/NDI0WDY0MA==/z/a2EAAOSweD5ZuzC0/$_20.JPG
+images=https://i.ebayimg.com/00/s/NDI0WDY0MA==/z/ZqEAAOSwWjpZuzCu/$_20.JPG
+images=https://i.ebayimg.com/00/s/NDI0WDY0MA==/z/45YAAOSwvTBZuzC5/$_20.JPG
+images=https://i.ebayimg.com/00/s/NDI0WDY0MA==/z/hnYAAOSwM6NZuzDA/$_20.JPG
+images=https://i.ebayimg.com/00/s/NDI0WDY0MA==/z/oDoAAOSwG-1ZuzDK/$_20.JPG
+images=https://i.ebayimg.com/00/s/NDI0WDY0MA==/z/6WIAAOSwn45ZuzDO/$_20.JPG
+images=https://i.ebayimg.com/00/s/NDI0WDY0MA==/z/TrcAAOSwYkBZuzDU/$_20.JPG
+images=https://i.ebayimg.com/00/s/NDI0WDY0MA==/z/SJoAAOSwJb5ZuzDY/$_20.JPG
+images=https://i.ebayimg.com/00/s/NDI0WDY0MA==/z/fIsAAOSwMoFZuzDe/$_20.JPG
+name=Dimitri
+phoneNumber=0410381932
+locationId=3004117
+geocodeLat=-33.794095
+geocodeLng=151.188817
+geocodeLocality=Chatswood
+attributeMap['cars.variant_s']=XL (4x2)
+attributeMap['cars.nvic_s']=HKI08A
+attributeMap['cars.fueltype_s']=diesel
+attributeMap['cars.forsaleby_s']=ownr
+attributeMap['cars.engine_capacity_litres_s']=3.0L
+attributeMap['cars.ancap_rating_s']=3
+attributeMap['cars.airconditioning_s']=y
+attributeMap['cars.cylinder_configuration_s']=4 cyl
+attributeMap['cars.minimum_offer_price_s']=7400
+attributeMap['cars.carbodytype_s']=ute
+attributeMap['cars.colour_s']=white
+attributeMap['cars.highest_price_s']=7500.0
+attributeMap['cars.greyimport_s']=false
+attributeMap['cars.caryear_i']=2008
+attributeMap['cars.carmake_s']=ford
+attributeMap['cars.paypal_accepted_seller_s']=false
+attributeMap['cars.green_overall_rating_s']=2.5
+attributeMap['cars.carmileageinkms_i']=227330
+attributeMap['cars.carmodel_s']=ford_ranger
+attributeMap['cars.cartransmission_s']=m
+attributeMap['cars.registered_s']=n
+attributeMap['cars.automatic_repost_ad_s']=false
+attributeMap['cars.drivetrain_s']=rwd

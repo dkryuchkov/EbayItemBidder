@@ -1,0 +1,54 @@
+attributeMap['cars.greyimport']=
+postcode=2040
+houseNumber=
+streetName=
+adType=OFFER
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+_showLocationOnMap=on
+unacceptableGeocode=false
+level2CategoryId=
+quickOffer=
+_renew=on
+repost=false
+categoryId=18320
+price.amount=30000
+price.type=FIXED
+minimumOfferPrice=
+title=Maserati Quattroporte Executive 4.2 V8 Auto, 60,516km CHEAP
+images=https://i.ebayimg.com/00/s/NTg3WDg4MA==/z/mMYAAOSwa~BYOK1S/$_20.JPG
+images=https://i.ebayimg.com/00/s/NTg3WDg4MA==/z/Ag4AAOSw4GVYOK1Q/$_20.JPG
+images=https://i.ebayimg.com/00/s/NTg3WDg4MA==/z/mfYAAOSwux5YOK1S/$_20.JPG
+images=https://i.ebayimg.com/00/s/NTg3WDg4MA==/z/mcoAAOSwImRYOK1P/$_20.JPG
+images=https://i.ebayimg.com/00/s/NTg3WDg4MA==/z/mZoAAOSwEzxYOK1O/$_20.JPG
+images=https://i.ebayimg.com/00/s/NTg3WDg4MA==/z/mTUAAOSwux5YOK1N/$_20.JPG
+images=https://i.ebayimg.com/00/s/NTg3WDg4MA==/z/AQsAAOSw4GVYOK1K/$_20.JPG
+name=Dimitri
+phoneNumber=0410381932
+locationId=3003845
+mapAddress=Lilyfield, NSW, 2040
+geocodeLat=-33.87109
+geocodeLng=151.161166
+geocodeLocality=Lilyfield
+description=Prestigious and luxury vehical on tight budget ! You wont buy anything like this for the price.&lt;br&gt;&lt;br&gt;2004 Maserati Quattroporte Exec, Aust Delivered, 4.2ltr V8 Auto, 60,516 km&lt;br&gt;&lt;br&gt;    Body Type: Sedan&lt;br&gt;    No. of Seats: 5&lt;br&gt;    Compliance Date: 10/2004&lt;br&gt;    VIN: ZAMCD39D000014625&lt;br&gt;    No. of Cylinders: 8&lt;br&gt;    Fuel Type: Petrol&lt;br&gt;    Transmission: Automatic&lt;br&gt;    Odometer: 60,516 km indicated&lt;br&gt;    Registration No: &amp; State: BZA16U (NSW)&lt;br&gt;    Registration Expiry: 20-04-2017&lt;br&gt;&lt;br&gt;    Exterior Colour: Grey&lt;br&gt;    Interior Colour: Grey &lt;br&gt;&lt;br&gt;Excelent Condition for age and kilometres&lt;br&gt;&lt;br&gt;    Owners Manual: Yes&lt;br&gt;    Service History: Yes&lt;br&gt;    Engine: Good&lt;br&gt;    Seats and Upholstery: Good&lt;br&gt;    Controls and Dash: Good&lt;br&gt;    Paint: Good&lt;br&gt;    Marks &amp; Scratches: Minor (refer to pics &amp; inspection)
+attributeMap['cars.variant_s']=EXECUTIVE
+attributeMap['cars.nvic_s']=DS004H
+attributeMap['cars.fueltype_s']=premiumunleaded
+attributeMap['cars.forsaleby_s']=ownr
+attributeMap['cars.engine_capacity_litres_s']=4.2L
+attributeMap['cars.airconditioning_s']=y
+attributeMap['cars.cylinder_configuration_s']=8 cyl
+attributeMap['cars.carbodytype_s']=sedan
+attributeMap['cars.highest_price_s']=30000.0
+attributeMap['cars.greyimport_s']=false
+attributeMap['cars.caryear_i']=2004
+attributeMap['cars.carmake_s']=maserati
+attributeMap['cars.paypal_accepted_seller_s']=false
+attributeMap['cars.carmileageinkms_i']=60516
+attributeMap['cars.carmodel_s']=maserati_quattroporte
+attributeMap['cars.cartransmission_s']=m
+attributeMap['cars.registered_s']=y
+attributeMap['cars.automatic_repost_ad_s']=false
+attributeMap['cars.drivetrain_s']=rwd

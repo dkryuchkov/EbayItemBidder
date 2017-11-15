@@ -1,0 +1,31 @@
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+attributeMap['cars.greyimport']=
+houseNumber=
+unacceptableGeocode=false
+level2CategoryId=
+_renew=on,_showLocationOnMap
+categoryId=18621
+adType=OFFER
+price.amount=25
+price.type=FIXED
+minimumOfferPrice=
+attributeMap[digital_cameras.condition_s]=new
+title=BRAND NEW VINTAGE SAMSUNG DIGIMAX 35 DIGITAL CAMERA + MP3 PLAYER
+images=https://i.ebayimg.com/00/s/NTAwWDUwMA==/z/PT0AAOSweIlZY3gV/$_20.JPG
+images=https://i.ebayimg.com/00/s/MTIwMFgxNjAw/z/5vcAAOSwKoRZY3gb/$_20.JPG
+images=https://i.ebayimg.com/00/s/MTIwMFgxNjAw/z/Y0AAAOSwYS9ZY3gq/$_20.JPG
+images=https://i.ebayimg.com/00/s/NDA4WDUwMA==/z/VIUAAOSwxxdZY3gr/$_20.JPG
+name=Dimitri
+phoneNumber=0410381932
+locationId=3004117
+geocodeLat=-33.794095
+geocodeLng=151.188817
+geocodeLocality=Chatswood
+description=BRAND NEW ! Here is a truly vintage item that the represents the quality and character of the past that is lost forever ! &lt;br&gt;Only $25 for the item that used to sell for $500. &lt;br&gt;Brand NEW Vintage Samsung Digimax 35 Digital Camera + MP3 player&lt;br&gt;This device is based on a good idea: integrating the functions of a Webcam, and MP3 player, and a stand-alone digital camera.&lt;br&gt;SpecificationsTotal Pixels: 0.49 Megapixels&lt;br&gt;Color Depth: 24 bit&lt;br&gt;Light Sensitivity: 100 ISO&lt;br&gt;Max Resolution: 800 x 600&lt;br&gt;Sensor Dust Reduction: No&lt;br&gt;Lens Aperture Range: F1.8 �?? F1.8&lt;br&gt;Macro Shooting: No&lt;br&gt;Minimal Focus Range: 0.4 m&lt;br&gt;Conversion Lenses Support: No&lt;br&gt;Focal Length Equivalent to 35mm Camera: 38 mm&lt;br&gt;Video Recording: No&lt;br&gt;Image Stabilizer in Video Mode: No&lt;br&gt;Built-in Flash: Yes&lt;br&gt;Hot Shoe: No&lt;br&gt;Red Eye Reduction: No&lt;br&gt;Viewfinder: Optical&lt;br&gt;Display Form Factor: Built-in&lt;br&gt;Supported Flash Memory: Compact Flash&lt;br&gt;Built-in Memory: 2 Mb&lt;br&gt;Self Timer: Yes&lt;br&gt;Audio Comments Record: No&lt;br&gt;Manual setting of shutter speed and aperture: No&lt;br&gt;Live View: No&lt;br&gt;Autofocus Assists Illuminator: No&lt;br&gt;Manual Focus Adjustment: No&lt;br&gt;Face Detection: No&lt;br&gt;White Balance: AutoExposure Bracketing: No&lt;br&gt;Still Image Format: 2 JPEG&lt;br&gt;Built-in Microphone: No&lt;br&gt;Dimensions (WxHxD): 92 x 65 x 36mm
+attributeMap['digital_cameras.condition_s']=new
+attributeMap['digital_cameras.paypal_accepted_seller_s']=false
+attributeMap['digital_cameras.highest_price_s']=25.0
+attributeMap['digital_cameras.automatic_repost_ad_s']=false

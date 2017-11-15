@@ -1,0 +1,33 @@
+description=<div id="ad_description_details_content">                    New Rustic II 1800 Dining Table&lt;br&gt;&lt;br&gt;Hardwood Acacia&lt;br&gt;&lt;br&gt;1.8mX1m&lt;br&gt;&lt;br&gt;&lt;br&gt;</div>        </div>
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+attributeMap['cars.greyimport']=
+houseNumber=
+unacceptableGeocode=false
+level2CategoryId=
+_renew=on,_showLocationOnMap
+categoryId=20080
+adType=OFFER
+price.amount=299
+price.type=FIXED
+minimumOfferPrice=
+attributeMap[hg_furniture_tables.condition_s]=new
+title=New Rustic II 1.8m x 1m acacia hardwood Dining Table RRP $2,200
+images=https://i.ebayimg.com/00/s/ODgwWDg4MA==/z/sToAAOSwZtlZ5Z-9/$_20.JPG
+images=https://i.ebayimg.com/00/s/NjA2WDg4MA==/z/DT8AAOSwCJxZ5Z~P/$_20.JPG
+images=https://i.ebayimg.com/00/s/MTIwMFgxNjAw/z/S-cAAOSwDEtZ5q3k/$_20.JPG
+images=https://i.ebayimg.com/00/s/MTIwMFgxNjAw/z/uP8AAOSwySVZ5q3p/$_20.JPG
+images=https://i.ebayimg.com/00/s/MTIwMFgxNjAw/z/yRMAAOSw-jFZ5q3r/$_20.JPG
+images=https://i.ebayimg.com/00/s/MTIwMFgxNjAw/z/d08AAOSwUYNZ5q4z/$_20.JPG
+name=Dimitri
+phoneNumber=0410381932
+locationId=3004117
+geocodeLat=-33.794095
+geocodeLng=151.188817
+geocodeLocality=Chatswood
+attributeMap['hg_furniture_tables.automatic_repost_ad_s']=false
+attributeMap['hg_furniture_tables.highest_price_s']=299.0
+attributeMap['hg_furniture_tables.condition_s']=new
+attributeMap['hg_furniture_tables.paypal_accepted_seller_s']=false

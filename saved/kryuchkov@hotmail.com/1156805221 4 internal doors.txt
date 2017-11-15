@@ -1,0 +1,30 @@
+description=4 hume hollow internal doors, painted gloss white, 3 of them with handles,&lt;br&gt;and hinges, very good condition, recently painted&lt;br&gt;please take all&lt;br&gt;size approx 820 X 2035 mm&lt;br&gt;pick up from Chatswood
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+attributeMap['cars.greyimport']=
+houseNumber=
+unacceptableGeocode=false
+level2CategoryId=
+_renew=on,_showLocationOnMap
+categoryId=20103
+adType=OFFER
+price.amount=30
+price.type=FIXED
+minimumOfferPrice=
+attributeMap[building_materials.condition_s]=used
+title=4 internal doors
+images=https://i.ebayimg.com/00/s/MzAwWDQwMA==/z/at4AAOSwSj1ZiYhY/$_20.JPG
+images=https://i.ebayimg.com/00/s/MzAwWDQwMA==/z/ewgAAOSwNFVZiYhT/$_20.JPG
+images=https://i.ebayimg.com/00/s/MzAwWDQwMA==/z/ZNsAAOSwhURZiYhY/$_20.JPG
+name=Dimitri
+phoneNumber=0410381932
+locationId=3004117
+geocodeLat=-33.794095
+geocodeLng=151.188817
+geocodeLocality=Chatswood
+attributeMap['building_materials.paypal_accepted_seller_s']=false
+attributeMap['building_materials.automatic_repost_ad_s']=false
+attributeMap['building_materials.condition_s']=used
+attributeMap['building_materials.highest_price_s']=30.0

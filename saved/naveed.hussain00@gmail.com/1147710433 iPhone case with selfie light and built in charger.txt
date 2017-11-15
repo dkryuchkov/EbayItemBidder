@@ -1,0 +1,35 @@
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+attributeMap['cars.greyimport']=
+houseNumber=
+unacceptableGeocode=false
+level2CategoryId=
+_renew=on,_showLocationOnMap
+categoryId=18598
+price.amount=39
+price.type=NEGOTIABLE
+minimumOfferPrice=
+attributeMap[mobile_phone_accessories.condition_s]=new
+title=iPhone case with selfie light and built in charger
+images=https://i.ebayimg.com/00/s/MjI2WDMyNg==/z/In0AAOSwzgBY14fv/$_20.JPG
+images=https://i.ebayimg.com/00/s/ODc2WDQ4Ng==/z/pa8AAOSwB-1Y14f1/$_20.JPG
+images=https://i.ebayimg.com/00/s/ODQzWDQ4Ng==/z/gG0AAOSwTM5Y14f5/$_20.JPG
+images=https://i.ebayimg.com/00/s/ODU2WDQ5MA==/z/SxMAAOSw4A5Y14f9/$_20.JPG
+images=https://i.ebayimg.com/00/s/ODMwWDQ4Nw==/z/76AAAOSwc-tY14f9/$_20.JPG
+images=https://i.ebayimg.com/00/s/MTQ5WDQ4MA==/z/MA0AAOSwsW9Y14f5/$_20.JPG
+images=https://i.ebayimg.com/00/s/MTEzMVgxMTIw/z/FlMAAOSw32lY14gV/$_20.JPG
+images=https://i.ebayimg.com/00/s/NDgwWDQ3MQ==/z/4kAAAOSwax5Y14gA/$_20.JPG
+images=https://i.ebayimg.com/00/s/NzZYMzEx/z/DccAAOSwuxFY14f~/$_20.JPG
+name=Nav
+phoneNumber=0402602979
+locationId=3003795
+geocodeLat=-33.868742
+geocodeLng=151.209147
+geocodeLocality=Sydney City
+description=iPhone case with light and built in charger&lt;br&gt;Different colors to choose from Www.instalightcase.com&lt;br&gt;Free postage anywhere in AustraliaCall me on 0402 602 979
+attributeMap['mobile_phone_accessories.condition_s']=new
+attributeMap['mobile_phone_accessories.highest_price_s']=39.0
+attributeMap['mobile_phone_accessories.paypal_accepted_seller_s']=true
+attributeMap['mobile_phone_accessories.automatic_repost_ad_s']=false

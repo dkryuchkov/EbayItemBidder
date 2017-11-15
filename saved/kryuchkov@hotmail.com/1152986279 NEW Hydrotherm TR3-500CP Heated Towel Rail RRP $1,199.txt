@@ -1,0 +1,29 @@
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+attributeMap['cars.greyimport']=
+houseNumber=
+unacceptableGeocode=false
+level2CategoryId=
+_renew=on,_showLocationOnMap
+categoryId=20103
+adType=OFFER
+price.amount=350
+price.type=FIXED
+minimumOfferPrice=
+attributeMap[building_materials.condition_s]=new
+title=NEW Hydrotherm TR3/500CP Heated Towel Rail RRP $1,199
+images=https://i.ebayimg.com/00/s/NDM5WDQ2MA==/z/oUQAAOSw0j9ZW1-d/$_20.JPG
+images=https://i.ebayimg.com/00/s/NDYxWDg4MA==/z/g5UAAOSwTf9ZW1-k/$_20.JPG
+name=Dimitri
+phoneNumber=0410381932
+locationId=3004117
+geocodeLat=-33.794095
+geocodeLng=151.188817
+geocodeLocality=Chatswood
+description=NEW Hydrotherm TR3/500CP Heated Towel RRP $1,199&lt;br&gt;RailHydrotherm TR3 is a beautifully simplistic and practical option for any bathroom utilising its generous gaps to allow efficient drying of fabrics. Its contemporary design that utilises hydro technology ensures the longevity you deserve for your bathroom.&lt;br&gt;Measurements:&lt;br&gt;Height: 1500mm &lt;br&gt;Width: 500mm (centre to centre)&lt;br&gt;Depth: 90mmSpacing: 160mm between bars (centre to centre)&lt;br&gt;Tube: Verticle 25mm, Horizontal 19mm&lt;br&gt;Finish: High Polish Chrome
+attributeMap['building_materials.paypal_accepted_seller_s']=false
+attributeMap['building_materials.automatic_repost_ad_s']=false
+attributeMap['building_materials.condition_s']=new
+attributeMap['building_materials.highest_price_s']=350.0

@@ -1,0 +1,39 @@
+attributeMap['cars.greyimport']=
+postcode=2040
+houseNumber=
+streetName=
+adType=OFFER
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+_showLocationOnMap=on
+unacceptableGeocode=false
+level2CategoryId=
+quickOffer=
+_renew=on
+repost=false
+categoryId=18553
+price.amount=1600
+price.type=FIXED
+minimumOfferPrice=
+title=Dell XPS 15 (9550) Laptop
+name=Dimitri
+phoneNumber=0410381932
+locationId=3003844
+mapAddress=Leichhardt, NSW, 2040
+geocodeLat=-33.882417
+geocodeLng=151.154762
+geocodeLocality=Leichhardt
+description=&lt;div class="content-section"&gt; &lt;h3&gt;Description&lt;/h3&gt;    &lt;div class="sanitised-markup"&gt;&lt;p&gt;&lt;strong&gt;Dell XPS 15 &#40;9550 &#41; Laptop&lt;/strong&gt; &lt;/p&gt;&lt;ul&gt;&lt;li&gt;Silver&lt;/li&gt;&lt;li&gt;6th Generation Intel&#40;R&#41; Core&#40;TM&#41; i7-6700HQ Quad Core &#40;6M Cache, up to 3.5 GHz&#41; &lt;/li&gt;&lt;li&gt;32GB Dual Channel DDR4 2133Mhz &#40;16GBx2&#41; &lt;/li&gt;&lt;li&gt;1TB PCIe Solid State Drive &lt;/li&gt;&lt;li&gt;15.6&#96;&#96; 4K Ultra HD &#40;3840 x 2160&#41; InfinityEdge &lt;/li&gt;&lt;li&gt;NVIDIA&#40;R&#41; GeForce&#40;R&#41; GTX 960M with 2GB GDDR5&lt;/li&gt;&lt;li&gt;High Definition Audio with Waves MaxxAudio Pro&lt;/li&gt;&lt;li&gt;Killer 1535 802.11ac 2x2 Wi-Fi and Bluetooth 4.1 &lt;/li&gt;&lt;li&gt;Widescreen HD &#40;720p&#41; webcam with dual array digital microphones &lt;/li&gt;&lt;li&gt;SD card reader &#40;SD, SDHC, SDXC&#41;&lt;/li&gt;&lt;li&gt;HDMI Port, 2 x USB 3.0 Ports with Power Share, Thunderbolt 3 &lt;/li&gt;&lt;li&gt;Built In Primary Battery&lt;/li&gt;&lt;li&gt;AC Power Adapter And Power Cable &lt;/li&gt;&lt;li&gt;Windows 10 Pre-Installed, OS Recovery Disc Not Included&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Please Note&#58; Faulty System, Touch Screen Does Not Work, Small Crack On Palm rest, Scratches On The Unit&lt;/p&gt;&lt;p&gt;This Item Is Recommended For Sale To Dealers Or Traders, Not End Consumers. The Item Has Not Been Fully Diagnosed And May Contain Further Faults That May Make The Item Unrepairable. Description Contains Indicative Information Only And Should Not Be Relied Upon - Undescribed Faults Will Not Be Considered As Grounds For Refund. Dell Warranty Purchase Is Not Available On This Item&lt;/p&gt;&lt;p&gt;&#40;SN&#58;6XD6PC2&#41; &#40;236239-113&#41;&lt;/p&gt;&lt;p&gt;&lt;strong&gt; Note&#58;&lt;/strong&gt;   is included in the freight and buyers premium.&lt;/p&gt;    &lt;/div&gt;    &lt;/div&gt;&lt;br&gt;&lt;br&gt;THIS ADVERT IS MANAGED BY https://gumtree-intforce.rhcloud.com
+attributeMap['laptops.paypal_accepted_seller_s']=false
+attributeMap['laptops.automatic_repost_ad_s']=false
+attributeMap['laptops.condition_s']=used
+attributeMap['laptops.website_s']=gumtree-intforce.rhcloud.com
+attributeMap[laptops.slogan_s]=Dell XPS 15 (9550) Laptop
+hourstomarket=12
+bbImageBaseUrl=/bb-image.html
+images=https://i.ebayimg.com/00/s/NDI3WDc4Nw==/z/aaEAAOSw2xRYg9P3/$_20.JPG
+images=https://i.ebayimg.com/00/s/NDI5WDgwNA==/z/9DEAAOSw5cNYg9P7/$_20.JPG
+ctk=0ftRT34dDe6ubt-39iD87w
+csrft=a2a2cebc26d9e5ad4ae1202cdeab8cb2

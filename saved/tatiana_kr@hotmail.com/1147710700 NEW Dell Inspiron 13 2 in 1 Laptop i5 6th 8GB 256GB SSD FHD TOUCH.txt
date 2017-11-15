@@ -1,0 +1,32 @@
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+attributeMap['cars.greyimport']=
+houseNumber=
+unacceptableGeocode=false
+level2CategoryId=
+_renew=on,_showLocationOnMap
+categoryId=18553
+price.amount=699
+price.type=FIXED
+minimumOfferPrice=
+attributeMap[laptops.condition_s]=new
+title=NEW Dell Inspiron 13 2 in 1 Laptop i5 6th 8GB 256GB SSD FHD TOUCH
+images=https://i.ebayimg.com/00/s/MTUwMFgxNTAw/z/06gAAOSwo4pYOmu5/$_20.JPG
+images=https://i.ebayimg.com/00/s/NjAwWDYwMA==/z/noUAAOSwi7RZFRUR/$_20.JPG
+images=https://i.ebayimg.com/00/s/NjAwWDYwMA==/z/AiUAAOSwKytZFRUR/$_20.JPG
+images=https://i.ebayimg.com/00/s/NjAwWDYwMA==/z/9h0AAOSwX61ZFRUP/$_20.JPG
+images=https://i.ebayimg.com/00/s/NjAwWDYwMA==/z/RwsAAOSwR29ZFRUU/$_20.JPG
+images=https://i.ebayimg.com/00/s/NjAwWDYwMA==/z/igoAAOSwn-tZFRUS/$_20.JPG
+name=Dimitri
+phoneNumber=0410381932
+locationId=3004117
+geocodeLat=-33.794095
+geocodeLng=151.188817
+geocodeLocality=Chatswood
+description=This is manufacture refurbished, never used, in the box and is as NEW, not even a single mark on it !&lt;br&gt;&lt;br&gt;Full 12 months Dell warranty !!! Until April 2018 !!!&lt;br&gt;&lt;br&gt;Super fast Dell Inspiron 13 5368 2 in 1 Laptop:&lt;br&gt;&lt;br&gt;The latest generation of i5 6200U CPU&lt;br&gt;8GB OF RAM&lt;br&gt;256GB SSD &lt;br&gt;FHD Super glass TOUCH LCD&lt;br&gt;RRP $1,799&lt;br&gt;&lt;br&gt;I am using another one of this for Java software development and running the whole bunch of heavy soft and dev tools effortlessly. It&#39;s truly excellent machine, powerful, light, slim and super reliable&lt;br&gt;&lt;br&gt;Regulatory model: P57G | Type: P57G002 https://static.bhphotovideo.com/lit_files/121116.pdf&lt;br&gt;&lt;br&gt;FREE SHIPPING !!!&lt;br&gt;SAVE $&lt;br&gt;&lt;br&gt;THIS ADVERT IS MANAGED BY https://gumtree-intforce.rhcloud.com
+attributeMap['laptops.paypal_accepted_seller_s']=false
+attributeMap['laptops.automatic_repost_ad_s']=false
+attributeMap['laptops.highest_price_s']=699.0
+attributeMap['laptops.condition_s']=new

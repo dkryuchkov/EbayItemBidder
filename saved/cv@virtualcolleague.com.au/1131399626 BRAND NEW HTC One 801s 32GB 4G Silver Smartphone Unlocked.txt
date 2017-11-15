@@ -1,0 +1,34 @@
+attributeMap['cars.greyimport']=
+postcode=2040
+houseNumber=
+streetName=
+adType=OFFER
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+_showLocationOnMap=on
+unacceptableGeocode=false
+level2CategoryId=
+quickOffer=
+_renew=on
+repost=false
+categoryId=21113
+price.amount=250
+price.type=FIXED
+minimumOfferPrice=
+title=BRAND NEW HTC One 801s 32GB 4G Silver Smartphone Unlocked
+images=https://i.ebayimg.com/00/s/NTAwWDUwMA==/z/9IMAAOSwo4pYMqVa/$_20.JPG
+images=https://i.ebayimg.com/00/s/NTAwWDUwMA==/z/~Y8AAOSwiDFYMqVf/$_20.JPG
+images=https://i.ebayimg.com/00/s/MTYwMFg5MDA=/z/IF8AAOSwux5YPLrv/$_20.JPG
+name=Tatiana
+phoneNumber=0410381932
+locationId=3003845
+geocodeLat=-33.87109
+geocodeLng=151.161166
+geocodeLocality=Lilyfield
+description=BRAND NEW, NEVER USED. Can post for additional $15A stunning 4.7&rdquo; Full HD display and a powerful Quad-core 1.7Ghz processor are just a couple of impressive features on the HTC One.With 32GB of internal memory, you can download your favorite apps and games from Google Play with plenty of space for your photos or movies. Integrated with HTC BoomSound and Beats Audio, you&rsquo;ll be sure to experience the best sound quality during music and movie playback.Specifications:General2G Network:GSM 850 / 900 / 1800 / 19003G Network:HSDPA 850 / 900 / 1900 / 21004G Network:LTE 1800SIM:Micro-SIMBodyDimensions:137.4 x 68.2 x 9.3 mm (5.41 x 2.69 x 0.37 in)Weight:143 g (5.04 oz)DisplayType:Super LCD3 capacitive touchscreen, 16M colorsSize:1080 x 1920 pixels, 4.7 inches (~469 ppi pixel density)Multitouch:YesProtection:Corning Gorilla Glass 2- HTC Sense UI 5.0SoundAlert types:Vibration, MP3, WAV ringtonesLoudspeaker:Yes, with stereo speakers, built-in amplifiers3.5mm jack:Yes- Beats AudioMemoryCard slot:NoInternal:32/64 GB, 2 GB RAMDataGPRS:YesEDGE:YesSpeed:HSPA, LTE Cat3 100/50 MbpsWLAN:Wi-Fi 802.11 a/b/g/n/ac, Wi-Fi Direct, DLNA, hotspotBluetooth:v4.0, A2DP, apt-XNFC:Yes (Market dependent)Infrared port:YesUSB:microUSB v2.0 (MHL TV-out), USB HostCameraPrimary:4 MP, 2688 x 1520 pixels, autofocus, optical image stabilization, LED flashFeatures:1/3&#39;&#39; sensor size, 2?m pixel size, simultaneous HD video and image recording, geo-tagging, face/smile detectionVideo:1080p@30fps, 720p@60fps, optical stabilization, HDR, stereo sound rec.Secondary:2.1 MP, 1080p@30fps, HDRFeaturesOS:Android OS, v4.1.2 (Jelly Bean), upgradable to v5.0 (Lollipop)Chipset:Qualcomm APQ8064T Snapdragon 600CPU:Quad-core 1.7 GHz Krait 300GPU:Adreno 320Sensors:Accelerometer, gyro, proximity, compassBrowser:HTML5Messaging:SMS (threaded view), MMS, Email, Push EmailRadio:Stereo FM radio with RDSGPS:Yes, with A-GPS, GLONASSJava:Yes, via Java MIDP emulatorOther Features:- Dropbox (25 GB cloud storage)- Active noise cancellation with dedicated mic- DivX/XviD/MP4/H.264/WMV player- MP3/eAAC+/WMA/WAV/FLAC player- Document viewer/editor- Photo viewer/editor- Battery Non-removable Li-Po 2300 mAh battery- Stand-by:Up to 500 h (2G) / Up to 480 h (3G)- Talk time:Up to 27 h (2G) / Up to 18 h (3G)
+attributeMap['android_phones.highest_price_s']=250.0
+attributeMap['android_phones.paypal_accepted_seller_s']=false
+attributeMap['android_phones.automatic_repost_ad_s']=false
+attributeMap['android_phones.condition_s']=new

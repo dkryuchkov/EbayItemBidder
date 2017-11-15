@@ -1,0 +1,44 @@
+attributeMap['cars.greyimport']=
+postcode=2040
+houseNumber=
+streetName=
+adType=OFFER
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+_showLocationOnMap=on
+unacceptableGeocode=false
+level2CategoryId=
+quickOffer=
+_renew=on
+repost=false
+categoryId=20103
+price.amount=500
+price.type=FIXED
+minimumOfferPrice=
+title=NEW LG 14 Place Dishwasher with Inverter Direct Drive (White) (LD
+name=Tatiana
+phoneNumber=0410381932
+locationId=3003844
+mapAddress=Leichhardt, NSW, 2040
+geocodeLat=-33.882417
+geocodeLng=151.154762
+geocodeLocality=Leichhardt
+description=www.gumtree-intforce.rhcloud.com<br><br>&lt;div class="content-section"&gt; &lt;h3&gt;Description&lt;/h3&gt;    &lt;div class="sanitised-markup"&gt;&lt;p&gt;&lt;strong&gt;LG 14 Place Dishwasher with Inverter Direct Drive &#40;White&#41; &#40;LD-1481W4&#41;&#40;Reconditioned&#41;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Recommended Retail Price &#40;RRP&#41; - &#36;1199 as of July 2015 based on a new product.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Colour&#58; White&lt;/li&gt;&lt;li&gt;Capacity &#40;Total&#41;&#58; 14 Place Settings&lt;/li&gt;&lt;li&gt;Type&#58; Free-standing&lt;/li&gt;&lt;li&gt;Smart Diagnosis 2.0&lt;/li&gt;&lt;li&gt;Controls&#58; Fully Electronic&lt;/li&gt;&lt;li&gt;Display Type&#58; LED&lt;/li&gt;&lt;li&gt;Aqua Stop Valve&lt;/li&gt;&lt;li&gt;Motor Type&#58; Inverter Direct Drive&lt;/li&gt;&lt;li&gt;Tub Material&#58; Stainless Steel&lt;/li&gt;&lt;li&gt;Concealed Heating Element&lt;/li&gt;&lt;li&gt;Smart Rack&#8482; &#40;Upper&#41;&lt;/li&gt;&lt;li&gt;Water Softener&lt;/li&gt;&lt;li&gt;5 Spray Directions&lt;/li&gt;&lt;li&gt;Triple Filtration System&lt;/li&gt;&lt;li&gt;Vario Washing System&lt;/li&gt;&lt;li&gt;Soil Sensor&lt;/li&gt;&lt;li&gt;Drying Method&#58; Hybrid Dry&lt;/li&gt;&lt;li&gt;Wash Programmes&#58; 5&lt;/li&gt;&lt;li&gt;Dual Wash &#40;Dual Intensity&#41;&lt;/li&gt;&lt;li&gt;Auto&lt;/li&gt;&lt;li&gt;Quick&lt;/li&gt;&lt;li&gt;Quick Dry&lt;/li&gt;&lt;li&gt;Wash Options&#58; 3&lt;/li&gt;&lt;li&gt;Spray Intensity&#58; Soft&lt;/li&gt;&lt;li&gt;Extra Hot&lt;/li&gt;&lt;li&gt;Rinse Plus&lt;/li&gt;&lt;li&gt;Half Load &#40;Top&#47;Bottom&#41;&lt;/li&gt;&lt;li&gt;Other Options&#58; 3&lt;/li&gt;&lt;li&gt;Child Lock&lt;/li&gt;&lt;li&gt;Delay Start &#40;1-19 Hours&#41;&lt;/li&gt;&lt;li&gt;Beeper On&#47;Off&lt;/li&gt;&lt;li&gt;Energy Consumption&#58; 230kwh&#47;365 uses&lt;/li&gt;&lt;li&gt;Energy Rating&#58; 4 Stars&lt;/li&gt;&lt;li&gt;WELS Water Consumption&#58; 11.5L&lt;/li&gt;&lt;li&gt;WELS Water Ratings&#58; 5 Stars&lt;/li&gt;&lt;li&gt;Dimensions &#40;HxWxD&#41;&#58; 850 x 600 x 600 mm&lt;/li&gt;&lt;li&gt;Weight Stand&#58; 56 kg&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;Item may show marks&#47;scratches&#47;dents or imperfections. Accessories may vary from standard.&lt;/li&gt;&lt;li&gt;Returns&#47;refunds based on marks&#47;scratches&#47;dents or imperfections will not be accepted &lt;/li&gt;&lt;li&gt;This item is classified as Grade &#40;3&#41; &#40;please refer to Grading tab for details&#41;&lt;/li&gt;&lt;li&gt;Blue-Dents-Front Panel &lt;/li&gt;&lt;/ul&gt;&lt;p&gt; &#40;SN&#58;LD-1481W4&#41;  &#40;236047-56&#41;&lt;/p&gt;&lt;p&gt;&lt;strong&gt; Note&#58;&lt;/strong&gt;  &lt;/p&gt;    &lt;/div&gt;    &lt;/div&gt;
+attributeMap['building_materials.paypal_accepted_seller_s']=false
+attributeMap['building_materials.automatic_repost_ad_s']=false
+attributeMap['building_materials.condition_s']=new
+attributeMap['building_materials.website_s']=gumtree-intforce.rhcloud.com
+hourstomarket=21
+bbImageBaseUrl=/bb-image.html
+images=https://i.ebayimg.com/00/s/ODgwWDcyMQ==/z/uZ0AAOSwA3dYTSNB/$_20.JPG
+images=https://i.ebayimg.com/00/s/ODgwWDczOQ==/z/do0AAOSw5cNYTSNI/$_20.JPG
+images=https://i.ebayimg.com/00/s/ODgwWDc1OQ==/z/vS8AAOSwo4pYTSNQ/$_20.JPG
+images=https://i.ebayimg.com/00/s/ODgwWDYyNQ==/z/eesAAOSw5cNYTSNl/$_20.JPG
+images=https://i.ebayimg.com/00/s/ODgwWDY1Mg==/z/g2cAAOSwnHZYTSNu/$_20.JPG
+images=https://i.ebayimg.com/00/s/NDY4WDg4MA==/z/fPkAAOSw5cNYTSN8/$_20.JPG
+ctk=p4PL0CsiC4X9V6DRhK82Cg
+csrft=eac233796692fb9dde9b6a8d3cd4443c
+bbUserInput=8465
+bbToken=21ba7aef989b56af0bd40bab1f2abc0b546677ba5283913ac3c8c4391a4afbfa96d02e923eb940bb990e5988b72ce68e58b2b652fe3a6b154e5f527f9b8bede8

@@ -1,0 +1,42 @@
+attributeMap['cars.greyimport']=
+postcode=2040
+houseNumber=
+streetName=
+adType=OFFER
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+_showLocationOnMap=on
+unacceptableGeocode=false
+level2CategoryId=
+quickOffer=
+_renew=on
+repost=false
+categoryId=20093
+price.amount=200
+price.type=FIXED
+minimumOfferPrice=
+title=NEW Keyang 18V Cordless Reciprocating Saw Skin Only
+name=Dimitri
+phoneNumber=0410381932
+locationId=3003844
+mapAddress=Leichhardt, NSW, 2040
+geocodeLat=-33.882417
+geocodeLng=151.154762
+geocodeLocality=Leichhardt
+description=http://www.keyang.com.au/<br>KEYANG AUSTRALIA - Industrial Power Tools<br>Keyang manufactures in South Korea and is the number 1 in Industrial Power Tools and has remained market leader for the last 10 years, in Korea, ahead of all the major brands known in the world wide market place.<br>Since the birth of Keyang over 30 years ago, our values have remained true. To manufacture high quality Power Tools without compromise.<br>This is a top quality professional tools brand, more expensive than DeWalt or Makita&lt;div class="content-section"&gt; &lt;h3&gt;Description&lt;/h3&gt;    &lt;div class="sanitised-markup"&gt;&lt;p&gt;Keyang 18V Cordless Reciprocating Saw Skin Only &#40;236814-28&#41;&lt;/p&gt;&lt;p&gt;&lt;strong&gt; Note&#58;&lt;/strong&gt;  &lt;/p&gt;    &lt;/div&gt;    &lt;/div&gt;
+attributeMap['hg_tools_diy_power_tools.paypal_accepted_seller_s']=false
+attributeMap['hg_tools_diy_power_tools.automatic_repost_ad_s']=false
+attributeMap['hg_tools_diy_power_tools.condition_s']=new
+attributeMap['hg_tools_diy_power_tools.website_s']=gumtree-intforce.rhcloud.com
+attributeMap[hg_tools_diy_power_tools.slogan_s]=NEW Keyang 18V Cordless Reciprocating Saw Skin Only
+hourstomarket=5
+bbImageBaseUrl=/bb-image.html
+images=https://i.ebayimg.com/00/s/NDgwWDY0MA==/z/k0AAAOSw6DtYTypy/$_20.JPG
+images=https://i.ebayimg.com/00/s/NDgwWDY0MA==/z/uh0AAOSwJ7RYTyp5/$_20.JPG
+images=https://i.ebayimg.com/00/s/NDgwWDY0MA==/z/7S4AAOSw44BYTyp~/$_20.JPG
+ctk=-0P5MpM1O2JwJfqjbem-ZA
+csrft=34013bba85342150651aa15d2db48343
+bbUserInput=2778
+bbToken=8c0706d955b03a5b8174c1bdbca4a0d5b803f867f4e7c3f19e1a0dbbb22a1903c57f84e17c1c27a30e1ad72b3952f494def0cd1a58bbf894d73bcbe2c0216fbc

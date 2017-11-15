@@ -1,0 +1,43 @@
+attributeMap['cars.greyimport']=
+postcode=2040
+houseNumber=
+streetName=
+adType=OFFER
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+_showLocationOnMap=on
+unacceptableGeocode=false
+level2CategoryId=
+quickOffer=
+_renew=on
+repost=false
+categoryId=20066
+price.amount=499
+price.type=FIXED
+minimumOfferPrice=
+title=NEW Panasonic NA-FS95G3WAU ECONAVI Top Loader Washing Machine - 9
+name=Dimitri
+phoneNumber=0410381932
+locationId=3003844
+mapAddress=Leichhardt, NSW, 2040
+geocodeLat=-33.882417
+geocodeLng=151.154762
+geocodeLocality=Leichhardt
+description=&lt;div class="content-section"&gt; &lt;h3&gt;Description&lt;/h3&gt;    &lt;div class="sanitised-markup"&gt;&lt;p&gt;&lt;strong&gt;Panasonic NA-FS95G3WAU ECONAVI Top Loader Washing Machine - 9.5kg &#40;Refurbished&#41;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Recommended Retail Price &#40;RRP&#41; - &#36;1199 as of August 2016 based on a new product.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;SPECIFICATIONS&lt;/strong&gt; &lt;/p&gt;&lt;ul&gt;&lt;li&gt;9.5kg Load Capacity &lt;/li&gt;&lt;li&gt;650rpm Spin Speed &lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;EFFICIENCY&lt;/strong&gt; &lt;/p&gt;&lt;ul&gt;&lt;li&gt;4.0 Star Water Rating &lt;/li&gt;&lt;li&gt;2.5 Star Energy Rating &lt;/li&gt;&lt;li&gt;Energy Consumption&#58; Warm Wash - 630 kWh&#47;year&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;FEATURES&lt;/strong&gt; &lt;/p&gt;&lt;ul&gt;&lt;li&gt;Sazanami Drum&lt;/li&gt;&lt;li&gt;ECONAVI &#40;Cloth Load &#38; Water Temp&#41;&lt;/li&gt;&lt;li&gt;Aquabeat Wash - Single Type&lt;/li&gt;&lt;li&gt;Aqua Spin Rinse&lt;/li&gt;&lt;li&gt;Inverter Motor&lt;/li&gt;&lt;li&gt;Control Panel Type - Double Layer Sheet&lt;/li&gt;&lt;li&gt;Foam Wash&lt;/li&gt;&lt;li&gt;Digital Indicator&lt;/li&gt;&lt;li&gt;Pre Set Timer &#40;Delay Start&#41;&#58; 2 - 24 Hrs &lt;/li&gt;&lt;li&gt;Child Lock&lt;/li&gt;&lt;li&gt;Auto Restart&lt;/li&gt;&lt;li&gt;Big Lint Filter &#40;Big 1 &#43; Small 1&#41;&lt;/li&gt;&lt;li&gt;Tempered Glass Lid &#40;Smoke&#41;&lt;/li&gt;&lt;li&gt;Colour &#40;Lid&#41; White &lt;/li&gt;&lt;li&gt;Colour &#40;Body&#41; White &lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;PROGRAMS &#40;8 Programs&#41;&lt;/strong&gt; &lt;/p&gt;&lt;ul&gt;&lt;li&gt;Normal &#40;Cotton&#41; &lt;/li&gt;&lt;li&gt;Speedy &#40;Quick Wash&#41; &lt;/li&gt;&lt;li&gt;Baby-Care &lt;/li&gt;&lt;li&gt;Comforter &#40;Bedding&#41; &lt;/li&gt;&lt;li&gt;Intensive &lt;/li&gt;&lt;li&gt;Delicate&lt;/li&gt;&lt;li&gt;Power Wash &#40;Soak &#43; Intensive&#41;&lt;/li&gt;&lt;li&gt;Water Save &#40;Cotton-Eco&#41; &lt;/li&gt;&lt;li&gt;Air Dry &#40;30&#47;60&#47;90min&#41; Yes &lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;GENERAL&lt;/strong&gt; &lt;/p&gt;&lt;ul&gt;&lt;li&gt;Dimensions &#40;HxWxD&#41;&#58; 1070 x 640 x 690 mm &#40;With Hose&#41;&lt;/li&gt;&lt;li&gt;Weight&#58; 52 kg &#40;Net&#41;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;PLEASE NOTE&#58;&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Item may show marks&#47;scratches&#47;dents or imperfections. Accessories may vary from standard. Item may not be in original box or Not boxed or may have carton damaged.&lt;/li&gt;&lt;li&gt;Returns&#47;refunds based on marks&#47;scratches&#47;dents or imperfections will not be accepted &lt;/li&gt;&lt;li&gt;This item is classified as Grade &#40;1&#41; &#40;please refer to below Grading info&#41; &lt;/li&gt;&lt;/ul&gt;&lt;p&gt; &#40;SN&#58;236408-7&#41; &#40;236408-7&#41;&lt;/p&gt;&lt;p&gt;&lt;strong&gt; Note&#58;&lt;/strong&gt;  &lt;/p&gt;    &lt;/div&gt;    &lt;/div&gt;&lt;br&gt;&lt;br&gt;THIS ADVERT IS MANAGED BY https://gumtree-intforce.rhcloud.com
+attributeMap['hg_appliances_washing_drying.paypal_accepted_seller_s']=false
+attributeMap['hg_appliances_washing_drying.automatic_repost_ad_s']=false
+attributeMap['hg_appliances_washing_drying.condition_s']=new
+attributeMap['hg_appliances_washing_drying.website_s']=gumtree-intforce.rhcloud.com
+attributeMap[hg_appliances_washing_drying.slogan_s]=NEW Panasonic NA-FS95G3WAU ECONAVI Top Loader Washing Machine - 9
+hourstomarket=30
+bbImageBaseUrl=/bb-image.html
+images=https://i.ebayimg.com/00/s/ODAwWDgwMA==/z/7-gAAOSwa~BYYcF~/$_20.JPG
+images=https://i.ebayimg.com/00/s/ODgwWDU2Nw==/z/IqAAAOSwopRYYcGW/$_20.JPG
+images=https://i.ebayimg.com/00/s/NjIzWDg4MA==/z/I30AAOSwopRYYcGd/$_20.JPG
+images=https://i.ebayimg.com/00/s/NTY1WDg4MA==/z/i9UAAOSw241YYcGl/$_20.JPG
+ctk=p1LMe373MoW7O9dqzGG59g
+csrft=c7a2719a2184255389965f181e9b8aa0
+bbUserInput=5800
+bbToken=d521d1e9bf83c1ef90984e0fb7dfb317a2c24b52e13654bbb44d7367bbc04d3554d139da5b038a26605e471b712fad429a985e3848102597b9ced3cc331243e2

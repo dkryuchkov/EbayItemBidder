@@ -1,0 +1,31 @@
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+attributeMap['cars.greyimport']=
+houseNumber=
+unacceptableGeocode=false
+level2CategoryId=
+_renew=on,_showLocationOnMap
+categoryId=20061
+adType=OFFER
+price.amount=799
+price.type=FIXED
+minimumOfferPrice=
+attributeMap[hg_appliances_fridge_freezer.condition_s]=new
+title=NEW Panasonic NR-BX41BXSAU 407L Premium Bottom Mount Fridge
+images=https://i.ebayimg.com/00/s/ODgwWDg4MA==/z/9L0AAOSwuq9ZX1vQ/$_20.JPG
+images=https://i.ebayimg.com/00/s/ODgwWDQxMw==/z/9nYAAOSweIlZX1vV/$_20.JPG
+images=https://i.ebayimg.com/00/s/ODI1WDg4MA==/z/HfMAAOSw0TxZX1vm/$_20.JPG
+images=https://i.ebayimg.com/00/s/NTQxWDg4MA==/z/0w8AAOSwTY9ZX1vw/$_20.JPG
+name=Dimitri
+phoneNumber=0410381932
+locationId=3004117
+geocodeLat=-33.794095
+geocodeLng=151.188817
+geocodeLocality=Chatswood
+description=NEW Panasonic NR-BX41BXSAU 407L Premium Bottom Mount Fridge Recommended Retail Price (RRP) - $1,699 CAPACITY 407.0 L Total 273.0 L Refrigerator 134.0 L Freezer FEATURES 2 Doors R600a Refrigerant ECONAVI Compressor Inverter Quick Freezing Energy Saving Fresh&amp;Clean Ag Clean (Anti Bacteria &amp; Deodorizer) Fresh Safe Electrostatic Touch Control Panel REFRIGERATOR COMPARTMENT (PC)Prime Fresh / Chilled Case Crisper (Vegetable Case) Tempered Glass Shelves Height Adjustable Shelves Egg Tray LED Light FREEZER COMPARTMENT (FC) Twist Ice Tray Ice Box 3 Separate Cases Quick Ice Making Dimensions (W x D x H): 685 x 698 x 1624 mm / Weight: 64kg
+attributeMap['hg_appliances_fridge_freezer.automatic_repost_ad_s']=false
+attributeMap['hg_appliances_fridge_freezer.paypal_accepted_seller_s']=false
+attributeMap['hg_appliances_fridge_freezer.highest_price_s']=850.0
+attributeMap['hg_appliances_fridge_freezer.condition_s']=new

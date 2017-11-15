@@ -1,0 +1,36 @@
+description=BRAND NEW ! Here is a truly vintage item that the represents the quality and character of the past that is lost forever !Only $25 for the item that used to sell for $500.Brand NEW Vintage Samsung Digimax 35 Digital Camera + MP3 playerThis device is based on a good idea: integrating the functions of a Webcam, and MP3 player, and a stand-alone digital camera.SpecificationsTotal Pixels: 0.49 MegapixelsColor Depth: 24 bitLight Sensitivity: 100 ISOMax Resolution: 800 x 600Sensor Dust Reduction: NoLens Aperture Range: F1.8 �?? F1.8Macro Shooting: NoMinimal Focus Range: 0.4 mConversion Lenses Support: NoFocal Length Equivalent to 35mm Camera: 38 mmVideo Recording: NoImage Stabilizer in Video Mode: NoBuilt-in Flash: YesHot Shoe: NoRed Eye Reduction: NoViewfinder: OpticalDisplay Form Factor: Built-inSupported Flash Memory: Compact FlashBuilt-in Memory: 2 MbSelf Timer: YesAudio Comments Record: NoManual setting of shutter speed and aperture: NoLive View: NoAutofocus Assists Illuminator: NoManual Focus Adjustment: NoFace Detection: NoWhite Balance: AutoExposure Bracketing: NoStill Image Format: 2 JPEGBuilt-in Microphone: NoDimensions (WxHxD): 92 x 65 x 36mm
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+attributeMap['cars.greyimport']=
+houseNumber=
+unacceptableGeocode=false
+level2CategoryId=
+_renew=on,_showLocationOnMap
+categoryId=18621
+adType=OFFER
+price.amount=15
+price.type=FIXED
+minimumOfferPrice=
+attributeMap[digital_cameras.condition_s]=new
+title=BRAND NEW VINTAGE SAMSUNG DIGIMAX 35 DIGITAL CAMERA + MP3 PLAYER
+name=Dimitri
+phoneNumber=0410381932
+locationId=3004117
+geocodeLat=-33.794095
+geocodeLng=151.188817
+geocodeLocality=Chatswood
+attributeMap['digital_cameras.condition_s']=new
+attributeMap['digital_cameras.paypal_accepted_seller_s']=false
+attributeMap['digital_cameras.highest_price_s']=15.0
+attributeMap['digital_cameras.automatic_repost_ad_s']=false
+images=https://i.ebayimg.com/00/s/NTAwWDUwMA==/z/PT0AAOSweIlZY3gV/$_20.JPG
+images=https://i.ebayimg.com/00/s/MTIwMFgxNjAw/z/5vcAAOSwKoRZY3gb/$_20.JPG
+images=https://i.ebayimg.com/00/s/MTIwMFgxNjAw/z/Y0AAAOSwYS9ZY3gq/$_20.JPG
+images=https://i.ebayimg.com/00/s/NDA4WDUwMA==/z/VIUAAOSwxxdZY3gr/$_20.JPG
+ctk=EQul-SV9IAKcQOJVdzokcA
+csrft=89cf1a34760f8a86b3508e114a8ee3e2
+_showLocationOnMap=on
+bbUserInput=0532
+bbToken=14c59c2f8b7320272bea8810dfad12f88985c64f4104f702c8ba8c41c0c3cd01959856d39e92588ad48ba92b477d21fa4085413343919a707efd157a67a02316

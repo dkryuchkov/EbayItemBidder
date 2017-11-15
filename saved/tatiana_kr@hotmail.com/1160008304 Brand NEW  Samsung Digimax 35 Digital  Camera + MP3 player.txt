@@ -1,0 +1,29 @@
+description=BRAND NEW ! Here is a trully vintage item that the represents the quality and character of the past that is lost forever !&lt;br&gt;&lt;br&gt;Perfect gift, First camera for your kids. Easy to use. New in original Box.&lt;br&gt;&lt;br&gt;Only $19 for the item that used to sell for $500.&lt;br&gt;&lt;br&gt;Brand NEW Vintage Samsung Digimax 35 Digital Camera MP3 player&lt;br&gt;&lt;br&gt;This device is based on a good idea: integrating the functions of a Webcam, and MP3 player, and a stand-alone digital camera.&lt;br&gt;&lt;br&gt;Specifications&lt;br&gt;&lt;br&gt;Total Pixels: 0.49 Megapixels&lt;br&gt;&lt;br&gt;Color Depth: 24 bit&lt;br&gt;&lt;br&gt;Light Sensitivity: 100 ISO Max&lt;br&gt;&lt;br&gt;Resolution: 800 x 600&lt;br&gt;&lt;br&gt;Sensor Dust Reduction: No&lt;br&gt;&lt;br&gt;Lens Aperture Range: F1.8 �?? F1.8&lt;br&gt;&lt;br&gt;Macro Shooting: No&lt;br&gt;&lt;br&gt;Minimal Focus Range: 0.4 m&lt;br&gt;&lt;br&gt;Conversion Lenses Support: No&lt;br&gt;&lt;br&gt;Focal Length Equivalent to 35mm Camera: 38 mm&lt;br&gt;&lt;br&gt;Video Recording: No&lt;br&gt;&lt;br&gt;Image Stabilizer in Video Mode: No&lt;br&gt;&lt;br&gt;Built-in Flash: Yes&lt;br&gt;&lt;br&gt;Hot Shoe: No&lt;br&gt;&lt;br&gt;Red Eye Reduction: No&lt;br&gt;&lt;br&gt;Viewfinder: Optical Display Form&lt;br&gt;&lt;br&gt;Factor: Built-in Supported&lt;br&gt;&lt;br&gt;Flash Memory: CompactFlash&lt;br&gt;&lt;br&gt;Built-in Memory: 2 Mb&lt;br&gt;&lt;br&gt;Self Timer: Yes&lt;br&gt;&lt;br&gt;Audio Comments Record: No&lt;br&gt;&lt;br&gt;Manual setting of shutter speed and aperture: No&lt;br&gt;&lt;br&gt;Live View: No&lt;br&gt;&lt;br&gt;Autofocus Assists Illuminator: No&lt;br&gt;&lt;br&gt;Manual Focus Adjustment: No&lt;br&gt;&lt;br&gt;Face Detection: No&lt;br&gt;&lt;br&gt;White Balance: Auto&lt;br&gt;&lt;br&gt;Exposure Bracketing: No&lt;br&gt;&lt;br&gt;Still Image Format: 2 JPEG&lt;br&gt;&lt;br&gt;Built-in Microphone: No&lt;br&gt;&lt;br&gt;Dimensions (WxHxD): 92 x 65 x 36mm
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+attributeMap['cars.greyimport']=
+houseNumber=
+unacceptableGeocode=false
+level2CategoryId=
+_renew=on,_showLocationOnMap
+categoryId=18621
+adType=OFFER
+price.amount=19
+price.type=FIXED
+minimumOfferPrice=
+attributeMap[digital_cameras.condition_s]=new
+title=Brand NEW  Samsung Digimax 35 Digital  Camera + MP3 player
+images=https://i.ebayimg.com/00/s/NTAwWDUwMA==/z/KYUAAOSw3YJZXW~N/$_20.JPG
+images=https://i.ebayimg.com/00/s/NDA4WDUwMA==/z/VCkAAOSwDrNZXW~M/$_20.JPG
+name=Dimitri
+phoneNumber=0410381932
+locationId=3004117
+geocodeLat=-33.794095
+geocodeLng=151.188817
+geocodeLocality=Chatswood
+attributeMap['digital_cameras.condition_s']=new
+attributeMap['digital_cameras.paypal_accepted_seller_s']=false
+attributeMap['digital_cameras.highest_price_s']=19.0
+attributeMap['digital_cameras.automatic_repost_ad_s']=false

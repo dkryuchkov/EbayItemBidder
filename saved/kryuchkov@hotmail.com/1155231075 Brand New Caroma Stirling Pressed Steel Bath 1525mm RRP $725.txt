@@ -1,0 +1,35 @@
+description=Brand New , boxed Caroma Stirling Pressed Steel Bath 1525mm&lt;br&gt;&lt;br&gt;Enjoy the sensation of a long soak, with a generous base and plenty of width.&lt;br&gt;&lt;br&gt;&lt;br&gt;A classic steel design perfect for any bathroom. Complete with a four tile flange for built-in installation.&lt;br&gt;&lt;br&gt;1525 x 770 x 330Plug & Waste not included&lt;br&gt;&lt;br&gt;Overflow Bath: (Does not include Overflow kit )Water Capacity 200L &#47; 135L to overflow)&lt;br&gt;&lt;br&gt;SPECIFICATIONS: Shape - Rectangular Oval&lt;br&gt;&lt;br&gt;Material -Steel&lt;br&gt;&lt;br&gt;Overflow - Yes&lt;br&gt;&lt;br&gt;(Kit not supplied)&lt;br&gt;&lt;br&gt;Capacity - 200L&lt;br&gt;&lt;br&gt;Waste position - End&lt;br&gt;&lt;br&gt;Minimum Bath Size - 1525
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+attributeMap['cars.greyimport']=
+houseNumber=
+unacceptableGeocode=false
+level2CategoryId=
+_renew=on,_showLocationOnMap
+categoryId=20103
+adType=OFFER
+price.amount=250
+price.type=FIXED
+minimumOfferPrice=
+attributeMap[building_materials.condition_s]=used
+title=Brand New Caroma Stirling Pressed Steel Bath 1525mm RRP $725
+images=https://i.ebayimg.com/00/s/MzAwWDQwMA==/z/sLQAAOSwOvZZev8e/$_20.JPG
+images=https://i.ebayimg.com/00/s/MzAwWDQwMA==/z/-cAAAOSw1BtZev8m/$_20.JPG
+images=https://i.ebayimg.com/00/s/MzAwWDQwMA==/z/Cr0AAOSwg09Zev8w/$_20.JPG
+images=https://i.ebayimg.com/00/s/MzAwWDQwMA==/z/Pa4AAOSwighZev87/$_20.JPG
+images=https://i.ebayimg.com/00/s/MzAwWDQwMA==/z/PWIAAOSw8x1Zev9D/$_20.JPG
+images=https://i.ebayimg.com/00/s/MzAwWDQwMA==/z/g4EAAOSwID1Zev9M/$_20.JPG
+images=https://i.ebayimg.com/00/s/MzAwWDQwMA==/z/RPYAAOSwiX5Zev9U/$_20.JPG
+images=https://i.ebayimg.com/00/s/MzAwWDQwMA==/z/A1UAAOSwg2xZev9b/$_20.JPG
+name=Dimitri
+phoneNumber=0410381932
+locationId=3003844
+geocodeLat=-33.882417
+geocodeLng=151.154762
+geocodeLocality=Leichhardt
+attributeMap['building_materials.paypal_accepted_seller_s']=false
+attributeMap['building_materials.automatic_repost_ad_s']=false
+attributeMap['building_materials.condition_s']=used
+attributeMap['building_materials.highest_price_s']=250.0

@@ -1,0 +1,30 @@
+description=<div id="ad_description_details_content">                    Brand NEw in the sealed box&lt;br&gt;Italian Made Emilia 52cm Under Cupobard Rangehood&lt;br&gt;Recommended Retail Price (RRP) - $549&lt;br&gt;Stainless Steel&lt;br&gt;&lt;br&gt;Max Air Flow 700m3&#47;hr&lt;br&gt;&lt;br&gt;Push Button Controsl&lt;br&gt;&lt;br&gt;Twin LED Lights&lt;br&gt;&lt;br&gt;3 Speeds Fans&lt;br&gt;&lt;br&gt;Dimensions (HxWxD): 252 x 520(w) x 315(d) mm&lt;br&gt;&lt;br&gt;&lt;br&gt;</div>        </div>
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+attributeMap['cars.greyimport']=
+houseNumber=
+unacceptableGeocode=false
+level2CategoryId=
+_renew=on,_showLocationOnMap
+categoryId=20059
+adType=OFFER
+price.amount=129
+price.type=FIXED
+minimumOfferPrice=
+attributeMap[hg_appliances_cooktop_rangehood.condition_s]=new
+title=NEW Italian Made Emilia 52cm Under Cupobard Rangehood RRP $549
+images=https://i.ebayimg.com/00/s/MjY2WDQwMA==/z/l90AAOSwsTdZcWxy/$_20.JPG
+images=https://i.ebayimg.com/00/s/MjI1WDQwMA==/z/INkAAOSwVCRZcWxh/$_20.JPG
+images=https://i.ebayimg.com/00/s/NTA1WDc3Mw==/z/pXEAAOSwAGlZy4Xg/$_20.PNG
+name=Dimitri
+phoneNumber=0410381932
+locationId=3004117
+geocodeLat=-33.794095
+geocodeLng=151.188817
+geocodeLocality=Chatswood
+attributeMap['hg_appliances_cooktop_rangehood.paypal_accepted_seller_s']=false
+attributeMap['hg_appliances_cooktop_rangehood.condition_s']=new
+attributeMap['hg_appliances_cooktop_rangehood.highest_price_s']=129.0
+attributeMap['hg_appliances_cooktop_rangehood.automatic_repost_ad_s']=false

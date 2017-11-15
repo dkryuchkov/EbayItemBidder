@@ -1,0 +1,31 @@
+description=<div id="ad_description_details_content">                    NEW LED Art Decor Wall Light 60mm w x 100mm h&lt;br&gt;&lt;br&gt;Light color is blue.&lt;br&gt;&lt;br&gt;Original box contains 2 lights.&lt;br&gt;&lt;br&gt;Price is for a pair.&lt;br&gt;&lt;br&gt;2 boxes are available( 4 lights)&lt;br&gt;&lt;br&gt;&lt;br&gt;</div>        </div>
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+attributeMap['cars.greyimport']=
+houseNumber=
+unacceptableGeocode=false
+level2CategoryId=
+_renew=on,_showLocationOnMap
+categoryId=20085
+adType=OFFER
+price.amount=30
+price.type=FIXED
+minimumOfferPrice=19
+attributeMap[hg_lighting_other.condition_s]=new
+title=4 X NEW LED Art Decor Blue Wall Lights CHEAP !
+images=https://i.ebayimg.com/00/s/MTIwMFgxNjAw/z/BykAAOSwD5ZZ1tmk/$_20.JPG
+images=https://i.ebayimg.com/00/s/NDkzWDQwMQ==/z/QZkAAOSwBt5ZNQlD/$_20.JPG
+images=https://i.ebayimg.com/00/s/MTIwMFgxNjAw/z/rmkAAOSwZuRZ1tmi/$_20.JPG
+name=Dimitri
+phoneNumber=0410381932
+locationId=3004117
+geocodeLat=-33.794095
+geocodeLng=151.188817
+geocodeLocality=Chatswood
+attributeMap['hg_lighting_other.condition_s']=new
+attributeMap['hg_lighting_other.automatic_repost_ad_s']=false
+attributeMap['hg_lighting_other.minimum_offer_price_s']=19
+attributeMap['hg_lighting_other.paypal_accepted_seller_s']=false
+attributeMap['hg_lighting_other.highest_price_s']=30.0

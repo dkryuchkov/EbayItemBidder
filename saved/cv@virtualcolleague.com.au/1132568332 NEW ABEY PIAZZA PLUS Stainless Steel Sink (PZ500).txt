@@ -1,0 +1,35 @@
+attributeMap['cars.greyimport']=
+postcode=2040
+houseNumber=
+streetName=
+adType=OFFER
+adId=
+geocodeConfidence=OK
+files[]=
+bbImageBaseUrl=/bb-image.html
+galleryImageIndex=
+_showLocationOnMap=on
+unacceptableGeocode=false
+level2CategoryId=
+quickOffer=
+_renew=on
+repost=false
+categoryId=20103
+price.amount=350
+price.type=FIXED
+minimumOfferPrice=
+title=NEW ABEY PIAZZA PLUS Stainless Steel Sink (PZ500)
+images=https://i.ebayimg.com/00/s/NTA1WDg4MA==/z/QXUAAOSwnHZYTSDs/$_20.JPG
+images=https://i.ebayimg.com/00/s/NTc3WDg4MA==/z/dwMAAOSwux5YTSD2/$_20.JPG
+images=https://i.ebayimg.com/00/s/NzI5WDg4MA==/z/HZoAAOSw44BYTSED/$_20.JPG
+name=Tatiana
+phoneNumber=0410381932
+locationId=3003844
+geocodeLat=-33.882417
+geocodeLng=151.154762
+geocodeLocality=Leichhardt
+description=www.gumtree-intforce.rhcloud.com&lt;br&gt;&lt;br&gt;&lt;div class=&quot;content-section&quot;&gt; &lt;h3&gt;Description&lt;/h3&gt;    &lt;div class=&quot;sanitised-markup&quot;&gt;&lt;p&gt;&lt;strong&gt;ABEY PIAZZA PLUS Stainless Steel Sink (PZ500)&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Recommended Retail Price (RRP) - $1127 as of August 2016 based on a new product.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Inset Sink &lt;/li&gt;&lt;li&gt;Single Bowl Sink&lt;/li&gt;&lt;li&gt;Sink Size: 550mmL x 460mmW &lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;Item may show marks/scratches/dents or imperfections. Accessories may vary from standard.&lt;/li&gt;&lt;li&gt;Returns/refunds based on marks/scratches/dents or imperfections will not be accepted&lt;/li&gt;&lt;li&gt;This item is classified as Grade 1 (please refer to Grading tab for details)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Please note: No other accessories included.&lt;/p&gt;&lt;p&gt; (SN:N/A) (233055-16)&lt;/p&gt;&lt;p&gt;&lt;strong&gt; Note:&lt;/strong&gt;  &lt;/p&gt;    &lt;/div&gt;    &lt;/div&gt
+attributeMap['building_materials.paypal_accepted_seller_s']=false
+attributeMap['building_materials.automatic_repost_ad_s']=false
+attributeMap['building_materials.condition_s']=new
+attributeMap['building_materials.highest_price_s']=350.0

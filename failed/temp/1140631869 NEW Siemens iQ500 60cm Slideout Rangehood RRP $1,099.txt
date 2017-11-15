@@ -1,0 +1,36 @@
+attributeMap['cars.greyimport']=
+postcode=2040
+houseNumber=
+streetName=
+adType=OFFER
+adId=
+geocodeConfidence=OK
+files[]=
+bbImageBaseUrl=/bb-image.html
+galleryImageIndex=
+_showLocationOnMap=on
+unacceptableGeocode=false
+level2CategoryId=
+quickOffer=
+_renew=on
+repost=false
+categoryId=20059
+price.amount=199
+price.type=FIXED
+minimumOfferPrice=
+title=NEW Siemens iQ500 60cm Slideout Rangehood RRP $1,099
+images=https://i.ebayimg.com/00/s/NTE1WDQzNQ==/z/5HAAAOSwCU1YqFdn/$_20.JPG
+images=https://i.ebayimg.com/00/s/NDUyWDg4MA==/z/3FEAAOSw~AVYqFd1/$_20.JPG
+images=https://i.ebayimg.com/00/s/NzIyWDg4MA==/z/vOwAAOSw2gxYqFeA/$_20.JPG
+images=https://i.ebayimg.com/00/s/NTA1WDg4MA==/z/3rAAAOSw~AVYqFeH/$_20.JPG
+name=Dimitri
+phoneNumber=0410381932
+locationId=3004117
+geocodeLat=-33.794095
+geocodeLng=151.188817
+geocodeLocality=Chatswood
+description=&lt;div class=&quot;content-section&quot;&gt; &lt;h3&gt;Description&lt;/h3&gt;    &lt;div class=&quot;sanitised-markup&quot;&gt;&lt;p&gt;&lt;strong&gt;Siemens iQ500 60cm Slideout Rangehood (LI46630/04 )&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Recommended Retail Price (RRP) - $1,099 as of December 2016 based on a new product.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Colour: Silver Metallic&lt;/li&gt;&lt;li&gt;Installation type: Half-integrated&lt;/li&gt;&lt;li&gt;Material body: Lacquered&lt;/li&gt;&lt;li&gt;Number of motors: 2&lt;/li&gt;&lt;li&gt;Operating mode: Convertible&lt;/li&gt;&lt;li&gt;Typology: Pull-out&lt;/li&gt;&lt;li&gt;630 m&sup3;/h max. extraction rate&lt;/li&gt;&lt;li&gt;Ducted or recirculating operation&lt;/li&gt;&lt;li&gt;Powerful twin motor&lt;/li&gt;&lt;li&gt;7 segments display&lt;/li&gt;&lt;li&gt;3 power levels plus intensive setting&lt;/li&gt;&lt;li&gt;Saturation indicator for metal grease filter&lt;/li&gt;&lt;li&gt;Electronic control with LED-display&lt;/li&gt;&lt;li&gt;Sliding switch control controls for power and light&lt;/li&gt;&lt;li&gt;Max. recirculation (m&sup3;/h): 330&lt;/li&gt;&lt;li&gt;Sound pressure max. normal: 46&lt;/li&gt;&lt;li&gt;Controls: LED, Slide switch&lt;/li&gt;&lt;li&gt;Energy efficiency class (2010/30/EC): D&lt;/li&gt;&lt;li&gt;Dimensions (WxD): 597 mm x 273 mm&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;p&gt;Please note: Includes Siemens LZ46050 - Stainless Steel Handle Strip. No Fixings or any other accessories.&lt;/p&gt; &lt;/div&gt;    &lt;/div&gt;&lt;br&gt;&lt;br&gt;THIS ADVERT IS MANAGED BY https://gumtree-intforce.rhcloud.com
+attributeMap['hg_appliances_cooktop_rangehood.paypal_accepted_seller_s']=false
+attributeMap['hg_appliances_cooktop_rangehood.condition_s']=used
+attributeMap['hg_appliances_cooktop_rangehood.highest_price_s']=199.0
+attributeMap['hg_appliances_cooktop_rangehood.automatic_repost_ad_s']=false

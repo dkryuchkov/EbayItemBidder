@@ -1,0 +1,37 @@
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+attributeMap['cars.greyimport']=
+houseNumber=
+unacceptableGeocode=false
+level2CategoryId=
+_renew=on,_showLocationOnMap
+categoryId=20093
+price.amount=179
+price.type=FIXED
+minimumOfferPrice=
+attributeMap[hg_tools_diy_power_tools.condition_s]=new
+title=NEW Keyang 18V Cordless Reciprocating Saw Plus 3A battery,chager
+name=Dimitri
+phoneNumber=0410381932
+locationId=3004117
+geocodeLat=-33.794095
+geocodeLng=151.188817
+geocodeLocality=Chatswood
+description=Description:BRAND NEW Keyang 18V Cordless Reciprocating Saw Plus 3A battery and chager This tool retails at more than $650. I&#39;m selling with 70% discount !Keyang manufactures in South Korea and is the number 1 in Industrial Power Tools and has remained market leader for the last 10 years, in Korea, ahead of all the major brands known in the world wide market place.Since the birth of Keyang over 30 years ago, our values have remained true. To manufacture high quality Power Tools without compromise.This is a top quality professional tools brand, more expensive than DeWalt or Makita&lt;br&gt;&lt;br&gt;THIS ADVERT IS MANAGED BY https://gumtree-intforce.rhcloud.com
+attributeMap['hg_tools_diy_power_tools.paypal_accepted_seller_s']=false
+attributeMap['hg_tools_diy_power_tools.condition_s']=new
+attributeMap['hg_tools_diy_power_tools.automatic_repost_ad_s']=false
+attributeMap['hg_tools_diy_power_tools.highest_price_s']=179.0
+_showLocationOnMap=on
+images=https://i.ebayimg.com/00/s/NDQwWDY3MA==/z/BTMAAOSwo4pYk689/$_20.JPG
+images=https://i.ebayimg.com/00/s/NDgwWDY0MA==/z/BeQAAOSwo4pYk69E/$_20.JPG
+images=https://i.ebayimg.com/00/s/NDgwWDY0MA==/z/GJQAAOSwNnRYk69A/$_20.JPG
+images=https://i.ebayimg.com/00/s/NDgwWDY0MA==/z/7cgAAOSwnHZYk69B/$_20.JPG
+images=https://i.ebayimg.com/00/s/MTIwMFgxNjAw/z/ENsAAOSwUKxYlEU8/$_20.JPG
+images=https://i.ebayimg.com/00/s/ODQwWDg0MA==/z/T9IAAOSwImRYlEU-/$_20.JPG
+ctk=LqS_EVhUodC60EZrwqPVew
+csrft=9960fccdffac0cacb37aa8c18656cbba
+bbUserInput=3036
+bbToken=4e6bebb8c37f2d433da3f887c37306d31f433491ddbc5753c98844dd961f37651507304001081dd33e4621baa681eb94158a3a97bc1a4fee38a90d7064da9bb0

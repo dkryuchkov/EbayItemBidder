@@ -1,0 +1,29 @@
+description=BRAND NEW ! Here is a trully vintage item that the represents the quality and character of the past that is lost forever ! Only $15 for the item that used to sell for $500. Brand NEW Vintage Samsung Digimax 35 Digital Camera MP3 player This device is based on a good idea: integrating the functions of a Webcam, and MP3 player, and a stand-alone digital camera. Specifications Total Pixels: 0.49 Megapixels Color Depth: 24 bit Light Sensitivity: 100 ISO Max Resolution: 800 x 600 Sensor Dust Reduction: No Lens Aperture Range: F1.8 – F1.8 Macro Shooting: No Minimal Focus Range: 0.4 m Conversion Lenses Support: No Focal Length Equivalent to 35mm Camera: 38 mm Video Recording: No Image Stabilizer in Video Mode: No Built-in Flash: Yes Hot Shoe: No Red Eye Reduction: No Viewfinder: Optical Display Form Factor: Built-in Supported Flash Memory: CompactFlash Built-in Memory: 2 Mb Self Timer: Yes Audio Comments Record: No Manual setting of shutter speed and aperture: No Live View: No Autofocus Assists Illuminator: No Manual Focus Adjustment: No Face Detection: No White Balance: Auto Exposure Bracketing: No Still Image Format: 2 JPEG Built-in Microphone: No Dimensions (WxHxD): 92 x 65 x 36mm
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+attributeMap['cars.greyimport']=
+houseNumber=
+unacceptableGeocode=false
+level2CategoryId=
+_renew=on,_showLocationOnMap
+categoryId=18621
+adType=OFFER
+price.amount=15
+price.type=FIXED
+minimumOfferPrice=
+attributeMap[digital_cameras.condition_s]=new
+title=Brand NEW Vintage Samsung Digimax 35 Digital  Camera + MP3 player
+images=https://i.ebayimg.com/00/s/NTAwWDUwMA==/z/KYUAAOSw3YJZXW~N/$_20.JPG
+images=https://i.ebayimg.com/00/s/NDA4WDUwMA==/z/VCkAAOSwDrNZXW~M/$_20.JPG
+name=Dimitri
+phoneNumber=0410381932
+locationId=3004117
+geocodeLat=-33.794095
+geocodeLng=151.188817
+geocodeLocality=Chatswood
+attributeMap['digital_cameras.condition_s']=new
+attributeMap['digital_cameras.paypal_accepted_seller_s']=false
+attributeMap['digital_cameras.highest_price_s']=15.0
+attributeMap['digital_cameras.automatic_repost_ad_s']=false

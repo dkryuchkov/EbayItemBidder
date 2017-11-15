@@ -1,0 +1,32 @@
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+attributeMap['cars.greyimport']=
+houseNumber=
+unacceptableGeocode=false
+level2CategoryId=
+_renew=on,_showLocationOnMap
+categoryId=20079
+price.amount=1500
+price.type=FIXED
+minimumOfferPrice=
+attributeMap[hg_furniture_sofas.condition_s]=new
+title=NEW Modern Winona Two Tone 3 seater + left hand chaise RRP $9,999
+images=https://i.ebayimg.com/00/s/NjYwWDg4MA==/z/tlIAAOSwaEhZFB~M/$_20.JPG
+images=https://i.ebayimg.com/00/s/MTIwMFgxNjAw/z/-oUAAOSwrhBZFB8o/$_20.JPG
+images=https://i.ebayimg.com/00/s/MTIwMFgxNjAw/z/iV0AAOSwGJlZFB8q/$_20.JPG
+images=https://i.ebayimg.com/00/s/MTIwMFgxNjAw/z/XoYAAOSwurZZFCC7/$_20.JPG
+images=https://i.ebayimg.com/00/s/MTIwMFgxNjAw/z/EOMAAOSwdjNZFB8i/$_20.JPG
+images=https://i.ebayimg.com/00/s/NjYwWDg4MA==/z/ho0AAOSwi7RZFCA~/$_20.JPG
+name=Tania
+phoneNumber=0410381932
+locationId=3004117
+geocodeLat=-33.794095
+geocodeLng=151.188817
+geocodeLocality=Chatswood
+description=NEW ABSOLUTE BARGAIN !!! These are retailing at $9,999&lt;br&gt;&lt;br&gt;Leather lounge suite.  &lt;br&gt; 3 seater + left hand chaise.&lt;br&gt; Brown and peach in colour. &lt;br&gt;Overall dimensions 3150mm (w) x 1900m (d) x 800mm (h). Features drop down foot rest, drop down drink holders, adjustable head rests. Comes in 2 sections plus 2 pillows&lt;br&gt;Could be used/modified as 2 separate pieces &lt;br&gt;&lt;br&gt;Ex display model&lt;br&gt;&lt;br&gt;THIS ADVERT IS MANAGED BY https://gumtree-intforce.rhcloud.com
+attributeMap['hg_furniture_sofas.highest_price_s']=1500.0
+attributeMap['hg_furniture_sofas.condition_s']=new
+attributeMap['hg_furniture_sofas.automatic_repost_ad_s']=false
+attributeMap['hg_furniture_sofas.paypal_accepted_seller_s']=false

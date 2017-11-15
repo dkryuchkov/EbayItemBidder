@@ -1,0 +1,29 @@
+description=All brand new, packed. All branded, top quality. Each of one costs a small fortune, Close the business and selling all in bulk. Absolute bargain. Hardli 2% of the value!&lt;br&gt;Large Quantity, including Push Button, Illuminated Push Button, Toggle, Rocker, Marine Switches, mini Joystick Controller
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+attributeMap['cars.greyimport']=
+houseNumber=
+unacceptableGeocode=false
+level2CategoryId=
+_renew=on,_showLocationOnMap
+categoryId=20103
+adType=OFFER
+price.amount=699
+price.type=FIXED
+minimumOfferPrice=
+attributeMap[building_materials.condition_s]=new
+title=Brand New Assorted Top Brands Marine Electronic Switches $$$$
+images=https://i.ebayimg.com/00/s/MjY2WDQwMA==/z/e5sAAOSwWclZexs4/$_20.JPG
+images=https://i.ebayimg.com/00/s/MjY2WDQwMA==/z/n9AAAOSwjOZZexs2/$_20.JPG
+name=Dimitri
+phoneNumber=0410381932
+locationId=3004117
+geocodeLat=-33.794095
+geocodeLng=151.188817
+geocodeLocality=Chatswood
+attributeMap['building_materials.paypal_accepted_seller_s']=false
+attributeMap['building_materials.automatic_repost_ad_s']=false
+attributeMap['building_materials.condition_s']=new
+attributeMap['building_materials.highest_price_s']=699.0

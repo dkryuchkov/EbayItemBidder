@@ -1,0 +1,37 @@
+attributeMap['cars.greyimport']=
+postcode=2067
+houseNumber=
+streetName=
+adType=OFFER
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+_showLocationOnMap=on
+unacceptableGeocode=false
+level2CategoryId=
+quickOffer=
+_renew=on
+repost=false
+categoryId=18553
+price.amount=600
+price.type=FIXED
+minimumOfferPrice=
+title=Dell Latitude 12 (7275) 7000 Series 2-in-1 Tablet
+name=Dimitri
+phoneNumber=0410381932
+locationId=3003844
+mapAddress=Chatswood 2067, NSW
+geocodeLat=-33.882417
+geocodeLng=151.154762
+geocodeLocality=Chatswood
+description=&lt;div class="content-section"&gt; &lt;h3&gt;Description&lt;/h3&gt;    &lt;div class="sanitised-markup"&gt;&lt;p&gt;&lt;strong&gt;Dell Latitude 12 &#40;7275&#41; 7000 Series 2-in-1 Tablet&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Black &lt;/li&gt;&lt;li&gt;6th Generation Intel Core m5-6Y57 Processor &#40;4M Cache, up to 2.80 GHz&#41; with vPro &lt;/li&gt;&lt;li&gt;8GB LPDDR3 Memory&lt;/li&gt;&lt;li&gt;M.2 128GB SATA Class 20 Solid State Drive &lt;/li&gt;&lt;li&gt;No Optical Drive&lt;/li&gt;&lt;li&gt;Intel HD Graphics &lt;/li&gt;&lt;li&gt;&#40;12.5&#96;&#96;&#41; FHD &#40;1920x1080&#41; Touch &lt;/li&gt;&lt;li&gt;Stereo Speaker with MaxxAudio Pro &lt;/li&gt;&lt;li&gt;Intel 8260 Dual band 2x2 802.11ac 2.4&#47;5GHz &#43; Bluetooth 4.1 &lt;/li&gt;&lt;li&gt;SD 4.0 Memory Card Reader &#40;3-in-1&#59; micro, SD,SDHC,SDIO,SDXC with UHS&#41; &lt;/li&gt;&lt;li&gt;2 x USB3.1 Type C &#40;Thunderbolt&#41;&lt;/li&gt;&lt;li&gt;Primary Battery&lt;/li&gt;&lt;li&gt;Premier Backlight English Keyboard with Dell Premier Magnetic Folio .&lt;/li&gt;&lt;li&gt;AC Power Adapter and Power Cord&lt;/li&gt;&lt;li&gt;Windows 10 Pre-Installed
+attributeMap['laptops.paypal_accepted_seller_s']=false
+attributeMap['laptops.automatic_repost_ad_s']=false
+attributeMap['laptops.condition_s']=used
+attributeMap['laptops.website_s']=gumtree-intforce.rhcloud.com
+attributeMap[laptops.slogan_s]=Dell Latitude 12 (7275) 7000 Series 2-in-1 Tablet
+hourstomarket=24
+images=https://i.ebayimg.com/00/s/OTAwWDEyMDA=/z/F6QAAOSwTM5YzsBU/$_20.JPG
+ctk=42ZpYFg9_Ru-hSBd9d1K4A
+csrft=256cf40a1b29ae275fa8e492c62fed8a

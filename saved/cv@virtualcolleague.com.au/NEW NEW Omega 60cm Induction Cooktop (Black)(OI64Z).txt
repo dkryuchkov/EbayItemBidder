@@ -1,0 +1,43 @@
+attributeMap['cars.greyimport']=
+postcode=2040
+houseNumber=
+streetName=
+adType=OFFER
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+_showLocationOnMap=on
+unacceptableGeocode=false
+level2CategoryId=
+quickOffer=
+_renew=on
+repost=false
+categoryId=20059
+price.amount=300
+price.type=FIXED
+minimumOfferPrice=
+title=NEW Omega 60cm Induction Cooktop (Black)(OI64Z)
+name=Tatiana
+phoneNumber=0410381932
+locationId=3003844
+mapAddress=Leichhardt, NSW, 2040
+geocodeLat=-33.882417
+geocodeLng=151.154762
+geocodeLocality=Leichhardt
+description=www.gumtree-intforce.rhcloud.com<br><br>&lt;div class="content-section"&gt; &lt;h3&gt;Description&lt;/h3&gt;    &lt;div class="sanitised-markup"&gt;&lt;p&gt;&lt;strong&gt;Omega 60cm Induction Cooktop &#40;Black&#41;&#40;OI64Z&#41;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Recommended Retail Price &#40;RRP&#41; - &#36;1099 as of August 2016 based on a new product.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Colour&#58; Black &lt;/li&gt;&lt;li&gt;Cooktop Type&#58; Ceramic Glass &lt;/li&gt;&lt;li&gt;Cooktop Fuel&#58; Electric &lt;/li&gt;&lt;li&gt;4 Burners&lt;/li&gt;&lt;li&gt;1-9 Power levels&lt;/li&gt;&lt;li&gt;Auto heat up&lt;/li&gt;&lt;li&gt;Residual heat indicator&lt;/li&gt;&lt;li&gt;Minute minder&lt;/li&gt;&lt;li&gt;Child lock&lt;/li&gt;&lt;li&gt;Touch slider controls&lt;/li&gt;&lt;li&gt;Dimensions &#40;HxWxD&#41;&#58; 530 x 590 x 520 mm&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;Item may show marks&#47;scratches&#47;dents or imperfections. Accessories may vary from standard.&lt;/li&gt;&lt;li&gt;Returns&#47;refunds based on marks&#47;scratches&#47;dents or imperfections will not be accepted&lt;/li&gt;&lt;li&gt;This item is classified as Grade &#40;3&#41; &#40;please refer to Grading tab for details&#41;&lt;/li&gt;&lt;li&gt;Yellow - &#59; Small chip off left front corner of ceramic top. light scratches in top surface of cooktop.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Please note&#58; Item is not boxed.Cooktop only no other parts or installation instructions supplied&lt;/p&gt;&lt;p&gt; &#40;232838-18&#41;&lt;/p&gt;&lt;p&gt;&lt;strong&gt; Note&#58;&lt;/strong&gt;  &lt;/p&gt;    &lt;/div&gt;    &lt;/div&gt;
+attributeMap['hg_appliances_cooktop_rangehood.paypal_accepted_seller_s']=false
+attributeMap['hg_appliances_cooktop_rangehood.automatic_repost_ad_s']=false
+attributeMap['hg_appliances_cooktop_rangehood.condition_s']=new
+attributeMap['hg_appliances_cooktop_rangehood.website_s']=gumtree-intforce.rhcloud.com
+hourstomarket=22
+bbImageBaseUrl=/bb-image.html
+images=https://i.ebayimg.com/00/s/NDQzWDUwMA==/z/~ZgAAOSw4GVYTSQD/$_20.JPG
+images=https://i.ebayimg.com/00/s/NzY5WDg4MA==/z/xVAAAOSwcUBYTSQN/$_20.JPG
+images=https://i.ebayimg.com/00/s/Nzk3WDg4MA==/z/0gIAAOSw2xRYTSQd/$_20.JPG
+images=https://i.ebayimg.com/00/s/ODY1WDg4MA==/z/jSUAAOSwa~BYTSQx/$_20.JPG
+images=https://i.ebayimg.com/00/s/MzA0WDg4MA==/z/x-EAAOSwImRYTSQ8/$_20.JPG
+ctk=986x6DYrGLGQMMu_v-gSvw
+csrft=895c44ebe525a0235791eec5e6014bb8
+bbUserInput=6074
+bbToken=823fc118d1b7a687712d9632acac314311175dfddd50a1168b5ece31790e80e70d12d1435c9b44a03b5a52ecb95115af6f8efbc9e416501b51e820a488c0b6ae

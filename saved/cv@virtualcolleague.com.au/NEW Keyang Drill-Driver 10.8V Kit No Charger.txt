@@ -1,0 +1,42 @@
+attributeMap['cars.greyimport']=
+postcode=2040
+houseNumber=
+streetName=
+adType=OFFER
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+_showLocationOnMap=on
+unacceptableGeocode=false
+level2CategoryId=
+quickOffer=
+_renew=on
+repost=false
+categoryId=20093
+price.amount=120
+price.type=FIXED
+minimumOfferPrice=
+title=Keyang Drill/Driver 10.8V Kit No Charger
+name=Dimitri
+phoneNumber=0410381932
+locationId=3003844
+mapAddress=Leichhardt, NSW, 2040
+geocodeLat=-33.882417
+geocodeLng=151.154762
+geocodeLocality=Leichhardt
+description=http://www.keyang.com.au/<br>KEYANG AUSTRALIA - Industrial Power Tools<br>Keyang manufactures in South Korea and is the number 1 in Industrial Power Tools and has remained market leader for the last 10 years, in Korea, ahead of all the major brands known in the world wide market place.<br>Since the birth of Keyang over 30 years ago, our values have remained true. To manufacture high quality Power Tools without compromise.<br>This is a top quality professional tools brand, more expensive than DeWalt or Makita&lt;div class="content-section"&gt; &lt;h3&gt;Description&lt;/h3&gt;    &lt;div class="sanitised-markup"&gt;&lt;p&gt;Keyang Drill&#47;Driver 10.8V Kit No Charger &#40;236814-52&#41;&lt;/p&gt;&lt;p&gt;&lt;strong&gt; Note&#58;&lt;/strong&gt;  &lt;/p&gt;    &lt;/div&gt;    &lt;p class="attachment"&gt;&lt;a href="http://res1.graysonline.com/handlers/attachmenthandler.ashx?t=sh&amp;id=14323010&amp;filename=Plant+Hazard+Report.pdf"&gt;Plant&#32;Hazard&#32;Report&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+attributeMap['hg_tools_diy_power_tools.paypal_accepted_seller_s']=false
+attributeMap['hg_tools_diy_power_tools.automatic_repost_ad_s']=false
+attributeMap['hg_tools_diy_power_tools.condition_s']=used
+attributeMap['hg_tools_diy_power_tools.website_s']=gumtree-intforce.rhcloud.com
+attributeMap[hg_tools_diy_power_tools.slogan_s]=Keyang Drill/Driver 10.8V Kit No Charger
+hourstomarket=-1
+bbImageBaseUrl=/bb-image.html
+images=https://i.ebayimg.com/00/s/NDgwWDY0MA==/z/uOgAAOSw2xRYT4UK/$_20.JPG
+images=https://i.ebayimg.com/00/s/NDgwWDY0MA==/z/hPoAAOSwJ7RYT4UP/$_20.JPG
+images=https://i.ebayimg.com/00/s/NDgwWDY0MA==/z/XoIAAOSwCEdYT4UU/$_20.JPG
+ctk=P3e5DsL-YhL9Oi8C_FMyHw
+csrft=4814ea48083f6af80634798b8446a12c
+bbUserInput=6244
+bbToken=10110b96658c93626f1de7fc94a02a3a1a8a876aac89135da22fa684d447c8e8429b8828d3e845af08eb5205a90497bea40986900bd82db50165ceace3aee6fc

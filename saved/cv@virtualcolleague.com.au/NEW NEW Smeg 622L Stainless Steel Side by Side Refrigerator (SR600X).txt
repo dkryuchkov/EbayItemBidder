@@ -1,0 +1,42 @@
+attributeMap['cars.greyimport']=
+postcode=2040
+houseNumber=
+streetName=
+adType=OFFER
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+_showLocationOnMap=on
+unacceptableGeocode=false
+level2CategoryId=
+quickOffer=
+_renew=on
+repost=false
+categoryId=20061
+price.amount=1600
+price.type=FIXED
+minimumOfferPrice=
+title=NEW Smeg 622L Stainless Steel Side by Side Refrigerator (SR600X)
+name=Dimitri
+phoneNumber=0410381932
+locationId=3003844
+mapAddress=Leichhardt, NSW, 2040
+geocodeLat=-33.882417
+geocodeLng=151.154762
+geocodeLocality=Leichhardt
+description=&lt;div class="content-section"&gt; &lt;h3&gt;Description&lt;/h3&gt;    &lt;div class="sanitised-markup"&gt;&lt;p&gt;&lt;strong&gt;Smeg 622L Stainless Steel Side by Side Refrigerator &#40;SR600X&#41;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Recommended Retail Price &#40;RRP&#41; - &#36;2790 as of May 2015 based on a new product.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Colour&#58; Stainless Steel &lt;/li&gt;&lt;li&gt;Volume&#58; 622L &lt;/li&gt;&lt;li&gt;Fridge Volume&#58; 380L &lt;/li&gt;&lt;li&gt;Freezer Volume&#58; 242L &lt;/li&gt;&lt;li&gt;Energy Star Rating&#58; 2.5 &lt;/li&gt;&lt;li&gt;Energy Use &#40;p.a.&#41;&#58; 610kWh &lt;/li&gt;&lt;li&gt;Frost free&lt;/li&gt;&lt;li&gt;Turbo cooling&lt;/li&gt;&lt;li&gt;Express can chiller&lt;/li&gt;&lt;li&gt;Multi plus zone&lt;/li&gt;&lt;li&gt;LED touch display&lt;/li&gt;&lt;li&gt;Safety spill proof glass shelving&lt;/li&gt;&lt;li&gt;5 Shelves on each door &lt;/li&gt;&lt;li&gt;4 Shelves in both freezer and refrigerator&lt;/li&gt;&lt;li&gt;Large vegetable&#47;fruit crispers&lt;/li&gt;&lt;li&gt;Freezer drawer&lt;/li&gt;&lt;li&gt;Quiet operation&lt;/li&gt;&lt;li&gt;Dimensions &#40;HxWxD&#41;&#58; 1770 x 912 x 735 mm&lt;/li&gt;&lt;li&gt;Item may show marks&#47;scratches&#47;dents or imperfections. Accessories may vary from standard.&lt;/li&gt;&lt;li&gt;Returns&#47;refunds based on marks&#47;scratches&#47;dents or imperfections will not be accepted &lt;/li&gt;&lt;li&gt;This item is classified as Grade &#40;1&#41; &#40;please refer to Grading tab for details&#41;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt; &#40;SN&#58;SR600X&#41; &#40;232470-4&#41;&lt;/p&gt;&lt;p&gt;&lt;strong&gt; Note&#58;&lt;/strong&gt;  &lt;/p&gt;    &lt;/div&gt;    &lt;/div&gt;&lt;br&gt;&lt;br&gt;THIS ADVERT IS MANAGED BY https://gumtree-intforce.rhcloud.com
+attributeMap['hg_appliances_fridge_freezer.paypal_accepted_seller_s']=false
+attributeMap['hg_appliances_fridge_freezer.automatic_repost_ad_s']=false
+attributeMap['hg_appliances_fridge_freezer.condition_s']=new
+attributeMap['hg_appliances_fridge_freezer.website_s']=gumtree-intforce.rhcloud.com
+attributeMap[hg_appliances_fridge_freezer.slogan_s]=NEW Smeg 622L Stainless Steel Side by Side Refrigerator (SR600X)
+hourstomarket=4
+bbImageBaseUrl=/bb-image.html
+images=https://i.ebayimg.com/00/s/NjAwWDMyMA==/z/HGcAAOSwnHZYYy8X/$_20.JPG
+images=https://i.ebayimg.com/00/s/ODgwWDQ5OQ==/z/HrAAAOSwnHZYYy8s/$_20.JPG
+images=https://i.ebayimg.com/00/s/ODgwWDg0OQ==/z/QxYAAOSwZQRYYy85/$_20.JPG
+ctk=eKiN_64iLtGtsNLjpHuB3w
+csrft=fe9a3bc4a9823261571d48f48ba6eff0
+bbUserInput=9692
+bbToken=af16972994cb387050a745b8a8a89940eba89343624bb5ebd9133075fa728a108c7595ef0c101a2de11c8eab9645caf727f2712c3be53db703f8584456cc8690

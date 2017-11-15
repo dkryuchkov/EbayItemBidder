@@ -1,0 +1,31 @@
+description=<div id="ad_description_details_content">                    Panasonic NR-CY54AGSAU 547L French Door Fridge Unti-fingerprint Glass Finish&lt;br&gt;Recommended Retail Price (RRP) - $2499&lt;br&gt;This premium refrigerator boasts the largest capacity of any French Door Fridge for its size, along with a practical design and stylish glass finish. It also features energy saving ECONAVI technology, flat touch panel control and easy access bottom mount freezer.&lt;br&gt;CAPACITY&lt;br&gt;Gross Capacity&lt;br&gt;547L Total&lt;br&gt;&lt;br&gt;394L Refrigerator&lt;br&gt;&lt;br&gt;153L Freezer&lt;br&gt;&lt;br&gt;Storage Capacity&lt;br&gt;452L Total&lt;br&gt;&lt;br&gt;353L Refrigerator&lt;br&gt;&lt;br&gt;99L Freezer&lt;br&gt;&lt;br&gt;FEATURES&lt;br&gt;Stylish French Doors&lt;br&gt;&lt;br&gt;R600a Refrigerant&lt;br&gt;&lt;br&gt;Vitaminsafe System &#47; ECONAVI System &#47; Inverter Motor &#47; Ag Clean Anti-Bacteria &#47; Ag Clean Deodoriser&lt;br&gt;&lt;br&gt;REFRIGERATOR&lt;br&gt;Drawer Freezer Door&lt;br&gt;&lt;br&gt;Twist ice Tray&lt;br&gt;&lt;br&gt;Ice Box&lt;br&gt;&lt;br&gt;Quick Ice Making&lt;br&gt;&lt;br&gt;Door Control Panel: Touch Screen&lt;br&gt;&lt;br&gt;Compressor Inverter&lt;br&gt;&lt;br&gt;Quick Freezing&lt;br&gt;&lt;br&gt;Energy Saving&lt;br&gt;&lt;br&gt;GENERAL&lt;br&gt;Dimensions (W x H x D): Approx 770 x 743 x 1714 mm &#47; Weight: Approx 90kg&lt;br&gt;&lt;br&gt;&lt;br&gt;</div>        </div>
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+attributeMap['cars.greyimport']=
+houseNumber=
+unacceptableGeocode=false
+level2CategoryId=
+_renew=on,_showLocationOnMap
+categoryId=20061
+adType=OFFER
+price.amount=1500
+price.type=FIXED
+minimumOfferPrice=
+attributeMap[hg_appliances_fridge_freezer.condition_s]=new
+title=NEW Panasonic 547L French Door Fridge Glass Finish RRP $2,499
+images=https://i.ebayimg.com/00/s/ODgwWDQxMw==/z/nJIAAOSwLU5Z5Iqn/$_20.JPG
+images=https://i.ebayimg.com/00/s/ODgwWDQzMg==/z/9kUAAOSwZyRZ5Iqr/$_20.JPG
+images=https://i.ebayimg.com/00/s/NzAzWDg4MA==/z/FLUAAOSw04dZ5Iq0/$_20.JPG
+images=https://i.ebayimg.com/00/s/NTg1WDg4MA==/z/v-MAAOSwI8ZZ5Iq6/$_20.JPG
+name=Dimitri
+phoneNumber=0410381932
+locationId=3004117
+geocodeLat=-33.794095
+geocodeLng=151.188817
+geocodeLocality=Chatswood
+attributeMap['hg_appliances_fridge_freezer.automatic_repost_ad_s']=false
+attributeMap['hg_appliances_fridge_freezer.paypal_accepted_seller_s']=false
+attributeMap['hg_appliances_fridge_freezer.highest_price_s']=1500.0
+attributeMap['hg_appliances_fridge_freezer.condition_s']=new

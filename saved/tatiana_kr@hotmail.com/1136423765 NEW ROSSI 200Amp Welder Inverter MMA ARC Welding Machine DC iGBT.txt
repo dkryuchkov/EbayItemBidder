@@ -1,0 +1,36 @@
+attributeMap['cars.greyimport']=
+postcode=2040
+houseNumber=
+streetName=
+adType=OFFER
+adId=
+geocodeConfidence=OK
+files[]=
+bbImageBaseUrl=/bb-image.html
+galleryImageIndex=
+_showLocationOnMap=on
+unacceptableGeocode=false
+level2CategoryId=
+quickOffer=
+_renew=on
+repost=false
+categoryId=20093
+price.amount=249
+price.type=FIXED
+minimumOfferPrice=
+title=NEW ROSSI 200Amp Welder Inverter MMA ARC Welding Machine DC iGBT
+images=https://i.ebayimg.com/00/s/ODAwWDgwMA==/z/J0YAAOSw9GhYgVT5/$_20.JPG
+images=https://i.ebayimg.com/00/s/ODAwWDgwMA==/z/miYAAOSw2xRYgVT4/$_20.JPG
+images=https://i.ebayimg.com/00/s/ODAwWDgwMA==/z/HcAAAOSwNnRYgVT6/$_20.JPG
+images=https://i.ebayimg.com/00/s/ODAwWDgwMA==/z/z7IAAOSwopRYgVT0/$_20.JPG
+name=Tatiana
+phoneNumber=0410381932
+locationId=3003844
+geocodeLat=-33.882417
+geocodeLng=151.154762
+geocodeLocality=Leichhardt
+description=BRAND NEW IN SELAED BOX RRP $550&lt;br&gt;&lt;br&gt;SPECIFICATIONS&lt;br&gt;Voltage: 240V 50Hz (10A Plug)&lt;br&gt;No-Load Voltage: 72V&lt;br&gt;Output Current Range: 20-200 Amps&lt;br&gt;Protection Class: IP21 &lt;br&gt;Duty Cycle: 60% @ 200A / 100% @ 150A &lt;br&gt;No-load Power: 62W&lt;br&gt;Single Pass Weld: 2-6mm&lt;br&gt;Weldable metals: Stainless Steel, Carbon Steel and Cast Steel &lt;br&gt;Wire diameter range: 1.6-2.5mm&lt;br&gt;Power Factor: COS 0.93&lt;br&gt;Generator Recommended: 5.5kVA&lt;br&gt;SKU: WLDMMAROSB200&lt;br&gt;IN THE BOX&lt;br&gt;1 x Inverter Welder&lt;br&gt;1 x Electrode Holder Lead&lt;br&gt;1 x Earth Clamp Lead&lt;br&gt;1 x Welding Mask&lt;br&gt;PRODUCT SIZE &amp; WEIGHT&lt;br&gt;&lt;br&gt;Size (W x D x H): 12 x 33 x 20cm&lt;br&gt;Net Weight: 5.5kg&lt;br&gt;CARTON SIZE &amp; WEIGHT&lt;br&gt;&lt;br&gt;Package Size (W x D x H): 23 x 42 x 26cm&lt;br&gt;Gross Weight: 7kg
+attributeMap['hg_tools_diy_power_tools.paypal_accepted_seller_s']=false
+attributeMap['hg_tools_diy_power_tools.condition_s']=new
+attributeMap['hg_tools_diy_power_tools.automatic_repost_ad_s']=false
+attributeMap['hg_tools_diy_power_tools.highest_price_s']=250.0

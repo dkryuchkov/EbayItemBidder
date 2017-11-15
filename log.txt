@@ -1,0 +1,27 @@
+Thu Nov 16 07:25:48 AEDT 2017: Started for: tatiana_kr@hotmail.com
+Thu Nov 16 07:26:13 AEDT 2017: Looking for messages in: C:\git\EbayitemBidder\messages\tatiana_kr@hotmail.com
+Thu Nov 16 07:26:15 AEDT 2017: Looking for adverts to load in : C:\git\EbayitemBidder\load\tatiana_kr@hotmail.com\load.txt
+Thu Nov 16 07:26:17 AEDT 2017: Started Adds to post for: tatiana_kr@hotmail.com
+Thu Nov 16 07:26:17 AEDT 2017: Looking for failed files in: C:\git\EbayitemBidder\failed\tatiana_kr@hotmail.com
+Thu Nov 16 07:26:27 AEDT 2017: Looking for adverts to delete in: C:\git\EbayitemBidder\delete\tatiana_kr@hotmail.com
+Thu Nov 16 07:26:39 AEDT 2017: Started Adds renewal for: tatiana_kr@hotmail.com
+Thu Nov 16 07:26:50 AEDT 2017: Finished Adds renewal for: tatiana_kr@hotmail.com
+Thu Nov 16 07:26:50 AEDT 2017: Finished renewal for: tatiana_kr@hotmail.com
+Thu Nov 16 07:26:50 AEDT 2017: Started for: cv@virtualcolleague.com.au
+Thu Nov 16 07:27:18 AEDT 2017: Looking for messages in: C:\git\EbayitemBidder\messages\cv@virtualcolleague.com.au
+Thu Nov 16 07:27:19 AEDT 2017: Looking for adverts to load in : C:\git\EbayitemBidder\load\cv@virtualcolleague.com.au\load.txt
+Thu Nov 16 07:27:21 AEDT 2017: Started Adds to post for: cv@virtualcolleague.com.au
+Thu Nov 16 07:27:22 AEDT 2017: Looking for failed files in: C:\git\EbayitemBidder\failed\cv@virtualcolleague.com.au
+Thu Nov 16 07:27:28 AEDT 2017: Looking for adverts to delete in: C:\git\EbayitemBidder\delete\cv@virtualcolleague.com.au
+Thu Nov 16 07:27:30 AEDT 2017: Started Adds renewal for: cv@virtualcolleague.com.au
+Thu Nov 16 07:27:33 AEDT 2017: Finished Adds renewal for: cv@virtualcolleague.com.au
+Thu Nov 16 07:27:33 AEDT 2017: Finished renewal for: cv@virtualcolleague.com.au
+Thu Nov 16 07:27:33 AEDT 2017: Started for: kryuchkov@hotmail.com
+Thu Nov 16 07:27:53 AEDT 2017: Looking for messages in: C:\git\EbayitemBidder\messages\kryuchkov@hotmail.com
+Thu Nov 16 07:27:54 AEDT 2017: Looking for adverts to load in : C:\git\EbayitemBidder\load\kryuchkov@hotmail.com\load.txt
+Thu Nov 16 07:27:56 AEDT 2017: Started Adds to post for: kryuchkov@hotmail.com
+Thu Nov 16 07:27:56 AEDT 2017: Looking for failed files in: C:\git\EbayitemBidder\failed\kryuchkov@hotmail.com
+Thu Nov 16 07:28:11 AEDT 2017: Looking for adverts to delete in: C:\git\EbayitemBidder\delete\kryuchkov@hotmail.com
+Thu Nov 16 07:28:30 AEDT 2017: Started Adds renewal for: kryuchkov@hotmail.com
+Thu Nov 16 07:28:43 AEDT 2017: Finished Adds renewal for: kryuchkov@hotmail.com
+Thu Nov 16 07:28:43 AEDT 2017: Finished renewal for: kryuchkov@hotmail.com

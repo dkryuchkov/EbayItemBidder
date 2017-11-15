@@ -1,0 +1,42 @@
+attributeMap['cars.greyimport']=
+postcode=2067
+houseNumber=
+streetName=
+adType=OFFER
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+_showLocationOnMap=on
+unacceptableGeocode=false
+level2CategoryId=
+quickOffer=
+_renew=on
+repost=false
+categoryId=20061
+price.amount=1200
+price.type=FIXED
+minimumOfferPrice=
+title=LG 668L Side By Side Fridge&#47; Freezer with Ice &#38; Water Dis
+name=Dimitri
+phoneNumber=0410381932
+locationId=3003844
+mapAddress=Chatswood 2067, NSW
+geocodeLat=-33.882417
+geocodeLng=151.154762
+geocodeLocality=Chatswood
+description=Description <div class="sanitised-markup">		LG 668L Side By Side Fridge/ Freezer with Ice & Water Dispenser, Moisture Balance Crisper. N.B. Superficial damage to top lining cover. (246059-1) Note:
+attributeMap['hg_appliances_fridge_freezer.paypal_accepted_seller_s']=false
+attributeMap['hg_appliances_fridge_freezer.automatic_repost_ad_s']=false
+attributeMap['hg_appliances_fridge_freezer.condition_s']=used
+attributeMap['hg_appliances_fridge_freezer.website_s']=gumtree-intforce.rhcloud.com
+attributeMap[hg_appliances_fridge_freezer.slogan_s]=LG 668L Side By Side Fridge&#47; Freezer with Ice &#38; Water Dis
+hourstomarket=24
+images=https://i.ebayimg.com/00/s/NzY4WDc2OA==/z/UYkAAOSwg9dZwjie/$_20.JPG
+images=https://i.ebayimg.com/00/s/ODgwWDY3NQ==/z/10MAAOSwG-1Zwjii/$_20.JPG
+images=https://i.ebayimg.com/00/s/NzY4WDgwOQ==/z/fjoAAOSw3WxZwjio/$_20.JPG
+images=https://i.ebayimg.com/00/s/ODgwWDY4Ng==/z/QAcAAOSwnwZZwjiw/$_20.JPG
+ctk=N9ndZszViLUqou3CbC7-4A
+csrft=536eeb540a7432976052b14db41e8cf9
+bbUserInput=6929
+bbToken=dbb2b52e98c91fcb501ed4ea6d8d9199a7b70508e5af7d460bcb7ff1b7bcddb54733876e4f2cf4a145c15e15e0132ee118e9dce57529dd86434d09de02b76394

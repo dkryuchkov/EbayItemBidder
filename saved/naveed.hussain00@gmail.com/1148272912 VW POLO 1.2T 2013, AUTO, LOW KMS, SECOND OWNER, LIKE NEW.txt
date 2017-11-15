@@ -1,0 +1,51 @@
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+attributeMap['cars.greyimport']=
+houseNumber=
+unacceptableGeocode=false
+level2CategoryId=
+_renew=on,_showLocationOnMap
+categoryId=18320
+price.amount=14000
+price.type=NEGOTIABLE
+minimumOfferPrice=
+title=VW POLO 1.2T 2013, AUTO, LOW KMS, SECOND OWNER, LIKE NEW
+images=https://i.ebayimg.com/00/s/OTYwWDEyODA=/z/MsQAAOSwCQZZHQGF/$_20.JPG
+images=https://i.ebayimg.com/00/s/OTYwWDEyODA=/z/aGoAAOSwZ4dZHQGE/$_20.JPG
+images=https://i.ebayimg.com/00/s/OTYwWDEyODA=/z/VTkAAOSw1WJZHQGE/$_20.JPG
+images=https://i.ebayimg.com/00/s/OTYwWDEyODA=/z/uX0AAOSwKytZHQGB/$_20.JPG
+images=https://i.ebayimg.com/00/s/OTYwWDEyODA=/z/FiAAAOSwX61ZHQGI/$_20.JPG
+images=https://i.ebayimg.com/00/s/OTYwWDEyODA=/z/A4oAAOSwfpVZHQGI/$_20.JPG
+images=https://i.ebayimg.com/00/s/OTYwWDEyODA=/z/cLoAAOSwjL5ZHQGO/$_20.JPG
+images=https://i.ebayimg.com/00/s/OTYwWDEyODA=/z/QD8AAOSw7GRZHQGN/$_20.JPG
+images=https://i.ebayimg.com/00/s/OTYwWDEyODA=/z/kNIAAOSwX9FZHQGN/$_20.JPG
+name=Nav
+phoneNumber=0402602979
+locationId=3003499
+geocodeLat=-33.771962
+geocodeLng=150.843234
+geocodeLocality=Rooty Hill
+description=Looking for your first car? Then this is the perfect car for you!&lt;br&gt;&lt;br&gt;&lt;br&gt;This Volkswagen Polo Trendline Hatch is a pleasure to drive. The integrated bluetooth system connects your enabled phone through the audio system. This car is exceptional value at $14,000.&lt;br&gt;&lt;br&gt;All car service done. Fuel efficient. Very well maintained. New car battery as I just replaced it.&lt;br&gt;&lt;br&gt;&lt;br&gt;DON&#39;T MISS ANY OF THESE FEATURES IN YOUR FIRST CAR:&lt;br&gt;&lt;br&gt;- Bluetooth connectivity&lt;br&gt;&lt;br&gt;- Front cup holders&lt;br&gt;&lt;br&gt;- Front &amp; rear power windows&lt;br&gt;&lt;br&gt;- Central locking&lt;br&gt;&lt;br&gt;- USB audio input&lt;br&gt;&lt;br&gt;- Storage compartment in centre console&lt;br&gt;&lt;br&gt;&lt;br&gt;KEEP SAFE ON THE ROAD WITH THESE FEATURES&lt;br&gt;&lt;br&gt;- Passenger airbag&lt;br&gt;&lt;br&gt;- Side airbags&lt;br&gt;&lt;br&gt;- Driver airbag&lt;br&gt;&lt;br&gt;&lt;br&gt;It will come with a roadworthy certificate. 14200 km on the clock only. It is priced to sell quickly at $14,500.&lt;br&gt;&lt;br&gt;&lt;br&gt;FEATURES&lt;br&gt;&lt;br&gt;- An inbuilt bluetooth phone system&lt;br&gt;&lt;br&gt;- Remote central locking&lt;br&gt;&lt;br&gt;-2 Keys&lt;br&gt;&lt;br&gt;- Log Books&lt;br&gt;&lt;br&gt;&lt;br&gt;CALL ME ON 0402 602 979
+attributeMap['cars.variant_s']=77 TSI COMFORTLINE
+attributeMap['cars.nvic_s']=PTQ13H
+attributeMap['cars.fueltype_s']=premiumunleaded
+attributeMap['cars.forsaleby_s']=ownr
+attributeMap['cars.registrationexpiry_tdt']=2017-07-01T00:00:00Z
+attributeMap['cars.engine_capacity_litres_s']=1.2L
+attributeMap['cars.ancap_rating_s']=5
+attributeMap['cars.airconditioning_s']=y
+attributeMap['cars.cylinder_configuration_s']=4 cyl
+attributeMap['cars.carbodytype_s']=htchbck
+attributeMap['cars.colour_s']=red
+attributeMap['cars.highest_price_s']=14500.0
+attributeMap['cars.caryear_i']=2013
+attributeMap['cars.carmake_s']=volkswagen
+attributeMap['cars.green_overall_rating_s']=5
+attributeMap['cars.carmileageinkms_i']=14500
+attributeMap['cars.carmodel_s']=volkswagen_polo
+attributeMap['cars.cartransmission_s']=a
+attributeMap['cars.registrationnumber_s']=COI87G
+attributeMap['cars.registered_s']=y
+attributeMap['cars.drivetrain_s']=fwd

@@ -1,0 +1,42 @@
+attributeMap['cars.greyimport']=
+postcode=2067
+houseNumber=
+streetName=
+adType=OFFER
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+_showLocationOnMap=on
+unacceptableGeocode=false
+level2CategoryId=
+quickOffer=
+_renew=on
+repost=false
+categoryId=20090
+price.amount=149
+price.type=FIXED
+minimumOfferPrice=
+title=NEW ABEY Zenith 1 3/4 bowl SINK Italian Made,RRP $495 (ZE175L)
+name=Dimitri
+phoneNumber=0410381932
+locationId=3003844
+mapAddress=Chatswood 2067, NSW
+geocodeLat=-33.882417
+geocodeLng=151.154762
+geocodeLocality=Leichhardt
+description=CHEAPEST YOU CAN BUY ANYWHERE!&lt;br&gt;&lt;br&gt;NEW, MODERN, ITALIAN MADE, TOP QUALITY ITEM, RRP $495&lt;br&gt;Zenith One & Three Quarter bowl and Drainer&lt;br&gt;&lt;br&gt;Code No &lt;br&gt;ZE175L           LEFT     HAND      BOWL&lt;br&gt;ZE175R           RIGHT   HAND      BOWL&lt;br&gt;&lt;br&gt;Features&lt;br&gt;Italian Designed and Manufactured&lt;br&gt;Rigorous and Contemporaneous Lines&lt;br&gt;Manufactured Using .8mm Thick Quality Stainless Steel&lt;br&gt;Available in both Right and Left Hand Side Drainer Configurations&lt;br&gt;Bowl Capacity: Large: 21.5Litres/Small: 19.5Litres&lt;br&gt;Size: 1160mmx500mm (Bowl Depth L190mm/S180mm)&lt;br&gt;&lt;br&gt;25 Year Warranty，terms of warranty:&lt;br&gt;http://www.abey.com.au/wp-content/uploads/2012/06/70917031_4_Abey-Sinks-Warranty.pdf
+attributeMap['hg_tools_diy_hand.paypal_accepted_seller_s']=false
+attributeMap['hg_tools_diy_hand.automatic_repost_ad_s']=false
+attributeMap['hg_tools_diy_hand.condition_s']=used
+attributeMap['hg_tools_diy_hand.website_s']=gumtree-intforce.rhcloud.com
+attributeMap[hg_tools_diy_hand.slogan_s]=Abey Left Hand Zenith 1 3/4 Bowl Sink (ZE175L)
+hourstomarket=24
+bbImageBaseUrl=/bb-image.html
+images=https://i.ebayimg.com/00/s/ODAwWDY3Mg==/z/-WUAAOSwDKtY1rw~/$_20.JPG
+images=https://i.ebayimg.com/00/s/OTMzWDExMTI=/z/KE8AAOSwdGFY1rxF/$_20.JPG
+images=https://i.ebayimg.com/00/s/NTIwWDExMzU=/z/hWwAAOSw4A5Y1rxJ/$_20.JPG
+images=https://i.ebayimg.com/00/s/NjYxWDk4Mg==/z/AkoAAOSwB-1Y1rxM/$_20.JPG
+images=https://i.ebayimg.com/00/s/MzYyWDgwMA==/z/zIIAAOSwc-tY1rxQ/$_20.JPG
+ctk=yzksC410adOj8kkoDkPPRQ
+csrft=23ea7336e69dfcb11516be304f7770e4

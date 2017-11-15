@@ -1,0 +1,29 @@
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+attributeMap['cars.greyimport']=
+houseNumber=
+unacceptableGeocode=false
+level2CategoryId=
+_renew=on,_showLocationOnMap
+categoryId=20046
+adType=OFFER
+price.amount=30
+price.type=FIXED
+minimumOfferPrice=
+attributeMap[electronics_computers_other.condition_s]=used
+title=Samsung 27&#39;&#39; LS27D390HS LCD Monitor Faulty
+images=https://i.ebayimg.com/00/s/MjY1WDUxNQ==/z/uccAAOSwCkZZRjz4/$_20.JPG
+images=https://i.ebayimg.com/00/s/NjE1WDgwMg==/z/8zMAAOSwXetZRj0J/$_20.JPG
+name=Dimitri
+phoneNumber=0410381932
+locationId=3004117
+geocodeLat=-33.794095
+geocodeLng=151.188817
+geocodeLocality=Chatswood
+description=Samsung 27&#39;&#39; LS27D390HS/XY 5ms 1920x1080 Full HD Backlight LCD Monitor &lt;br&gt;Display&lt;br&gt;Faulty. For Repairs or Parts.&lt;br&gt;It&#39;s not working, just blinking when started then goes asleep. &lt;br&gt;The item is almost brand new, goes with the stand, no box, rrp $350&lt;br&gt;&lt;br&gt;    Screen Size&lt;br&gt;&lt;br&gt;    27&quot;&lt;br&gt;    Panel Type&lt;br&gt;&lt;br&gt;    PLS&lt;br&gt;    Brightness&lt;br&gt;&lt;br&gt;    300cd / m2&lt;br&gt;    Contrast Ratio&lt;br&gt;&lt;br&gt;    1000:1 (Typ)&lt;br&gt;    Dynamic Contrast Ratio&lt;br&gt;&lt;br&gt;    Mega &infin;&lt;br&gt;    Resolution&lt;br&gt;&lt;br&gt;    1920 x 1080&lt;br&gt;    Response time&lt;br&gt;&lt;br&gt;    5ms (GTG)&lt;br&gt;    Color support&lt;br&gt;&lt;br&gt;    16.7M&lt;br&gt;&lt;br&gt;General Feature&lt;br&gt;&lt;br&gt;    Special Features&lt;br&gt;&lt;br&gt;    Game mode, Magic Upscale, Eco Saving, Off Timer, Image Size&lt;br&gt;    OS Compatibility&lt;br&gt;&lt;br&gt;    Windows, Mac&lt;br&gt;&lt;br&gt;Windows Certification&lt;br&gt;&lt;br&gt;Windows 8.1&lt;br&gt;&lt;br&gt; &lt;br&gt;Interface&lt;br&gt;D-Sub&lt;br&gt;&lt;br&gt;    1&lt;br&gt;&lt;br&gt;HDMI&lt;br&gt;&lt;br&gt;    1&lt;br&gt;&lt;br&gt;Headphone&lt;br&gt;&lt;br&gt;    1&lt;br&gt;    Design&lt;br&gt;&lt;br&gt;Color&lt;br&gt;&lt;br&gt;    Black High Glossy&lt;br&gt;&lt;br&gt;Stand Type&lt;br&gt;&lt;br&gt;    Square&lt;br&gt;    Power&lt;br&gt;&lt;br&gt;Power Supply&lt;br&gt;&lt;br&gt;    AC100-240V (50 / 60Hz)&lt;br&gt;&lt;br&gt;Power Consumption&lt;br&gt;&lt;br&gt;    22W (Typ) (Energy Star current test condition)&lt;br&gt;&lt;br&gt;Power Consumption (Stand-by)&lt;br&gt;&lt;br&gt;    0.3W (Typ)&lt;br&gt;&lt;br&gt;Technology&lt;br&gt;&lt;br&gt;    External Adaptor&lt;br&gt;    Dimension (WxHxD)&lt;br&gt;&lt;br&gt;Set Dimension with Stand (W x H x D)&lt;br&gt;&lt;br&gt;    625.2 x 453 x 209.8mm&lt;br&gt;&lt;br&gt;Set Dimension without Stand (W x H x D)&lt;br&gt;&lt;br&gt;    625.2 x 376.3 x 79.6mm&lt;br&gt;&lt;br&gt;Package Dimension (WxHxD) (mm)&lt;br&gt;&lt;br&gt;    694 x 437 x 132mm&lt;br&gt;    Weight (g)&lt;br&gt;&lt;br&gt;Set Weight with Stand&lt;br&gt;&lt;br&gt;    4.70kg&lt;br&gt;&lt;br&gt;Set Weight without Stand&lt;br&gt;&lt;br&gt;    4.30kg&lt;br&gt;&lt;br&gt;Package Weight (kg)&lt;br&gt;&lt;br&gt;    6.00kg&lt;br&gt;    Accessory&lt;br&gt;&lt;br&gt;Cables&lt;br&gt;&lt;br&gt;    D-sub Cable&lt;br&gt;&lt;br&gt;THIS ADVERT IS MANAGED BY https://gumtree-intforce.rhcloud.com
+attributeMap['electronics_computers_other.paypal_accepted_seller_s']=false
+attributeMap['electronics_computers_other.highest_price_s']=30.0
+attributeMap['electronics_computers_other.condition_s']=used
+attributeMap['electronics_computers_other.automatic_repost_ad_s']=false

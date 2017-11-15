@@ -1,0 +1,27 @@
+
+Dear Subscriber,
+
+Thanks for choosing VirtualColleague. Below is your managed Gumtree account status report:
+
+Total active adverts: <itemstotalcount>
+Number of adverts that are not on the 1st page: <itemsnotonfirstpage>
+Amount of renewals left: <plan>
+Renewals schedule in hours: <schedule>
+
+Date: <date>
+
+List of current adverts:
+Title                                                                                                   Page                          Total Visitors
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+<items>
+
+
+If you find that there are too many adverts that are not on the first page, we suggest that you change your schedule, to allow for the adverts to be renewed more frequently. To do so, navigate to https://gumtree-intforce.rhcloud.com enter your user name and password, select a desirable schedule option and click Subscribe button at the bottom. This will change your schedule leaving all other account details unchanged.
+
+If you are after a custom plan, or should you have any questions, please contact info@virtualcolleague.com.au 
+
+Regards,
+
+VirtualColleague team.
+
+info@virtualcolleague.com.au

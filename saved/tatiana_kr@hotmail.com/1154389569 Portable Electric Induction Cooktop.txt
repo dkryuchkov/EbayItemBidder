@@ -1,0 +1,29 @@
+description=Portable Electric Induction Cooktop Kitchen Cooker Ceramic Cook Top RRP $160 Please note: Only one burner is working, otherwise as new condition in original box with manual. Large LED display * Handy button control * Adjustable power levels, maximum temperature 130 degree * 8 power levels adjustments * 2 Burners, Only one is in working condition * Power: 3100W (Left Burner 1800W & Right Burner 1300W) * Plate size: 27.5 X 27cm each * Cook-top size: 60 X 36 X 7cm * Australian voltage 240v&#47;50Hz * 24 hrs timer and preset with 5 minute intervals * Over Heat temperature protection * Auto shut down after 2 hrs when unused * Lockable for extra safety
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+attributeMap['cars.greyimport']=
+houseNumber=
+unacceptableGeocode=false
+level2CategoryId=
+_renew=on,_showLocationOnMap
+categoryId=20059
+adType=OFFER
+price.amount=35
+price.type=FIXED
+minimumOfferPrice=
+attributeMap[hg_appliances_cooktop_rangehood.condition_s]=used
+title=Portable Electric Induction Cooktop
+images=https://i.ebayimg.com/00/s/NTAwWDUwMA==/z/~BAAAOSw42dZL-Nl/$_20.JPG
+images=https://i.ebayimg.com/00/s/NTAwWDUwMA==/z/x2wAAOSw1WJZL-Nl/$_20.JPG
+name=Dimitri
+phoneNumber=0410381932
+locationId=3004117
+geocodeLat=-33.794095
+geocodeLng=151.188817
+geocodeLocality=Chatswood
+attributeMap['hg_appliances_cooktop_rangehood.paypal_accepted_seller_s']=false
+attributeMap['hg_appliances_cooktop_rangehood.condition_s']=used
+attributeMap['hg_appliances_cooktop_rangehood.highest_price_s']=35.0
+attributeMap['hg_appliances_cooktop_rangehood.automatic_repost_ad_s']=false

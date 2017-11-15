@@ -1,0 +1,33 @@
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+attributeMap['cars.greyimport']=
+houseNumber=
+unacceptableGeocode=false
+level2CategoryId=
+_renew=on,_showLocationOnMap
+categoryId=18572
+adType=OFFER
+price.amount=20
+price.type=FIXED
+minimumOfferPrice=
+attributeMap[womens_shoes.condition_s]=new
+title=REDBACK Terra Combat Army Defence Boots Unisex/Kids
+images=https://i.ebayimg.com/00/s/ODIwWDgyMA==/z/f0UAAOSwRXRZS42B/$_20.JPG
+images=https://i.ebayimg.com/00/s/ODIwWDgyMA==/z/-NMAAOSw8GtZS42C/$_20.JPG
+images=https://i.ebayimg.com/00/s/MTIwMFgxNjAw/z/44oAAOSw~XpZS41r/$_20.JPG
+images=https://i.ebayimg.com/00/s/MTIwMFgxNjAw/z/cn4AAOSwiQ9ZS41s/$_20.JPG
+images=https://i.ebayimg.com/00/s/MTIwMFgxNjAw/z/5tYAAOSwHLNZS41q/$_20.JPG
+images=https://i.ebayimg.com/00/s/MjE4WDMwMA==/z/rd4AAOSwTf9ZS429/$_20.JPG
+name=Dimitri
+phoneNumber=0410381932
+locationId=3004117
+geocodeLat=-33.794095
+geocodeLng=151.188817
+geocodeLocality=Chatswood
+description=Tough Australian Army Design produced exclusively for Combat. The Terra Boot is a high quality tough boot that&#39;s built to last! made specifically for comfort and durability. They have all Weather Leather which has waterproofing agents added in the tanning process - giving low maintenance high performance upper and fast drying mesh sides. Great for the kids!&lt;br&gt;&lt;br&gt;Please note: the size is New terra boots mondopoint 235/82 ,(Australian men size 4, women 4.5.) or 230/81( Aust men&#39;s size 3.5 or women&#39;s size - 4) . Suit Scouts or cubs, Unisex. men or women.&lt;br&gt;&lt;br&gt;The best way to work out your mondopoint sizing is to measure the length and width of your foot in mm.  The first number is the length and second number the width.  eg.  if your foot is 235mm long and 82mm wide.. .you would buy a 235/82 or slightly bigger to allow for thick socks!&lt;br&gt;&lt;br&gt;Shoes are new, come in original box, never used, never tried. &lt;br&gt;Postage to Australia -  $15.&lt;br&gt;&lt;br&gt;THIS ADVERT IS MANAGED BY https://gumtree-intforce.rhcloud.com
+attributeMap['womens_shoes.paypal_accepted_seller_s']=false
+attributeMap['womens_shoes.condition_s']=new
+attributeMap['womens_shoes.automatic_repost_ad_s']=false
+attributeMap['womens_shoes.highest_price_s']=20.0

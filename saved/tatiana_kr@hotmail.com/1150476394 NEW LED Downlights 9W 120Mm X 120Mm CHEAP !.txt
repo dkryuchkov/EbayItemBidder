@@ -1,0 +1,27 @@
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+attributeMap['cars.greyimport']=
+houseNumber=
+unacceptableGeocode=false
+level2CategoryId=
+_renew=on,_showLocationOnMap
+categoryId=21023
+price.amount=20
+price.type=FIXED
+minimumOfferPrice=
+attributeMap[hg_lighting_ceiling.condition_s]=new
+title=NEW LED Downlights 9W 120Mm X 120Mm CHEAP !
+images=https://i.ebayimg.com/00/s/MzA0WDY3OA==/z/cdgAAOSwK6RZNQiQ/$_20.JPG
+name=Dimitri
+phoneNumber=0410381932
+locationId=3004117
+geocodeLat=-33.794095
+geocodeLng=151.188817
+geocodeLocality=Chatswood
+description=We have 10 X LED Downlight s 9W 120Mm X 120Mm &lt;br&gt;Warm White/White  Aluminuim Gimbal 810 lumens &lt;br&gt; &lt;br&gt;Price is $20 each. CHEAP !&lt;br&gt;    &lt;br&gt;&lt;br&gt;&lt;br&gt;THIS ADVERT IS MANAGED BY https://gumtree-intforce.rhcloud.com
+attributeMap['hg_lighting_ceiling.paypal_accepted_seller_s']=false
+attributeMap['hg_lighting_ceiling.automatic_repost_ad_s']=false
+attributeMap['hg_lighting_ceiling.condition_s']=new
+attributeMap['hg_lighting_ceiling.highest_price_s']=20.0

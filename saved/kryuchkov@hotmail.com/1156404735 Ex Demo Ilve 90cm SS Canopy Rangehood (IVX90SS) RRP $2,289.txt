@@ -1,0 +1,31 @@
+description=Ex Demo item. Like new , never been used. MISSING FLUE ! Still can be used&lt;br&gt;Ilve 90cm Stainless Steel Canopy Rangehood (No Flue)(IVX90SS)&lt;br&gt;Recommended Retail Price (RRP) - $2289 as of July 2016 based on a new product.&lt;br&gt;Finish: Stainles Steel&lt;br&gt;&lt;br&gt;Twin Motor&lt;br&gt;&lt;br&gt;Max Air Flow: 1200m3&#47;hr&lt;br&gt;&lt;br&gt;Twin high velocity, double turbine fan&lt;br&gt;&lt;br&gt;Low decibel rating&lt;br&gt;&lt;br&gt;Electronic touch control variable speed&lt;br&gt;&lt;br&gt;Programmable auto fan shut-down&lt;br&gt;&lt;br&gt;Auto fire shutdown sensors&lt;br&gt;&lt;br&gt;Filter cleaning reminder light&lt;br&gt;&lt;br&gt;Approx Dimensions (HxWxD): 360 without flue x 898 x 500 mm
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+attributeMap['cars.greyimport']=
+houseNumber=
+unacceptableGeocode=false
+level2CategoryId=
+_renew=on,_showLocationOnMap
+categoryId=20059
+adType=OFFER
+price.amount=150
+price.type=FIXED
+minimumOfferPrice=
+attributeMap[hg_appliances_cooktop_rangehood.condition_s]=new
+title=Ex Demo Ilve 90cm SS Canopy Rangehood (IVX90SS) RRP $2,289
+images=https://i.ebayimg.com/00/s/MjI1WDQwMA==/z/J0kAAOSwxbJZiVJs/$_20.JPG
+images=https://i.ebayimg.com/00/s/MjI1WDQwMA==/z/tDwAAOSwjTlZiVJm/$_20.JPG
+images=https://i.ebayimg.com/00/s/MjI1WDQwMA==/z/5-4AAOSwXLFZiVJl/$_20.JPG
+images=https://i.ebayimg.com/00/s/MjI1WDQwMA==/z/isoAAOSwrqlZiVJo/$_20.JPG
+name=Dimitri
+phoneNumber=0410381932
+locationId=3004117
+geocodeLat=-33.794095
+geocodeLng=151.188817
+geocodeLocality=Chatswood
+attributeMap['hg_appliances_cooktop_rangehood.paypal_accepted_seller_s']=false
+attributeMap['hg_appliances_cooktop_rangehood.condition_s']=new
+attributeMap['hg_appliances_cooktop_rangehood.highest_price_s']=150.0
+attributeMap['hg_appliances_cooktop_rangehood.automatic_repost_ad_s']=false

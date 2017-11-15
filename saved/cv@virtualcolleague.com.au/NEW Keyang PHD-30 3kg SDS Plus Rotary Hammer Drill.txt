@@ -1,0 +1,42 @@
+attributeMap['cars.greyimport']=
+postcode=2040
+houseNumber=
+streetName=
+adType=OFFER
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+_showLocationOnMap=on
+unacceptableGeocode=false
+level2CategoryId=
+quickOffer=
+_renew=on
+repost=false
+categoryId=20093
+price.amount=120
+price.type=FIXED
+minimumOfferPrice=
+title=Keyang PHD-30 3kg SDS Plus Rotary Hammer Drill
+name=Dimitri
+phoneNumber=0410381932
+locationId=3003844
+mapAddress=Leichhardt, NSW, 2040
+geocodeLat=-33.882417
+geocodeLng=151.154762
+geocodeLocality=Leichhardt
+description=http://www.keyang.com.au/<br>KEYANG AUSTRALIA - Industrial Power Tools<br>Keyang manufactures in South Korea and is the number 1 in Industrial Power Tools and has remained market leader for the last 10 years, in Korea, ahead of all the major brands known in the world wide market place.<br>Since the birth of Keyang over 30 years ago, our values have remained true. To manufacture high quality Power Tools without compromise.<br>This is a top quality professional tools brand, more expensive than DeWalt or Makita&lt;div class="content-section"&gt; &lt;h3&gt;Description&lt;/h3&gt;    &lt;div class="sanitised-markup"&gt;&lt;p&gt;Keyang PHD-30 3kg SDS Plus Rotary Hammer Drill &#40;236814-7&#41;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;    &lt;/div&gt;  &lt;/div&gt;
+attributeMap['hg_tools_diy_power_tools.paypal_accepted_seller_s']=false
+attributeMap['hg_tools_diy_power_tools.automatic_repost_ad_s']=false
+attributeMap['hg_tools_diy_power_tools.condition_s']=used
+attributeMap['hg_tools_diy_power_tools.website_s']=gumtree-intforce.rhcloud.com
+attributeMap[hg_tools_diy_power_tools.slogan_s]=Keyang PHD-30 3kg SDS Plus Rotary Hammer Drill
+hourstomarket=-1
+bbImageBaseUrl=/bb-image.html
+images=https://i.ebayimg.com/00/s/NDgwWDY0MA==/z/kcEAAOSwo4pYT443/$_20.JPG
+images=https://i.ebayimg.com/00/s/NDgwWDY0MA==/z/bPwAAOSwCEdYT447/$_20.JPG
+images=https://i.ebayimg.com/00/s/NDgwWDY0MA==/z/RAIAAOSwEzxYT45D/$_20.JPG
+ctk=-TZnTw44GfcHji4IdMDOAQ
+csrft=14445f6448bd2ad0c747341e09dd102f
+bbUserInput=6580
+bbToken=adce562f99ce02839cb9f23c679b09f17f31266e66781c576935413977fec2f470f0ddcf1b0a9265a93264566e23eddec7cf1dd4a1d2b80a240549ab38b43670

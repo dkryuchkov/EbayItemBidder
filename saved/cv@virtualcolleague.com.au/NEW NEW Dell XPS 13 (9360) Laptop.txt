@@ -1,0 +1,44 @@
+attributeMap['cars.greyimport']=
+postcode=2040
+houseNumber=
+streetName=
+adType=OFFER
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+_showLocationOnMap=on
+unacceptableGeocode=false
+level2CategoryId=
+quickOffer=
+_renew=on
+repost=false
+categoryId=18553
+price.amount=1800
+price.type=FIXED
+minimumOfferPrice=
+title=NEW Dell XPS 13 (9360) Laptop
+name=Dimitri
+phoneNumber=0410381932
+locationId=3003844
+mapAddress=Leichhardt, NSW, 2040
+geocodeLat=-33.882417
+geocodeLng=151.154762
+geocodeLocality=Leichhardt
+description=&lt;div class="content-section"&gt; &lt;h3&gt;Description&lt;/h3&gt;    &lt;div class="sanitised-markup"&gt;&lt;p&gt;&lt;strong&gt;Dell XPS 13 &#40; 9360 &#41; Laptop&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Silver&lt;/li&gt;&lt;li&gt;7th Generation Intel&#40;R&#41; Core&#40;TM&#41; i7-7500U &#40;4MB Cache, up to 3.5 GHz&#41;&lt;/li&gt;&lt;li&gt;8GB LPDDR3 1866MHz &lt;/li&gt;&lt;li&gt;256GB PCIe SSD &#40;Boot&#41; &lt;/li&gt;&lt;li&gt;No Optical Drive&lt;/li&gt;&lt;li&gt;Intel&#40;R&#41; HD Graphics &lt;/li&gt;&lt;li&gt;13.3 inch QHD&#43; &#40;3200 x 1800&#41; InfinityEdge touch display &lt;/li&gt;&lt;li&gt;Stereo speakers professionally tuned with Waves MaxxAudio&lt;/li&gt;&lt;li&gt;Killer 1535 802.11ac 2x2 Wi-Fi and Bluetooth 4.1 &lt;/li&gt;&lt;li&gt;Widescreen HD &#40;720p&#41; webcam with dual array digital microphones &lt;/li&gt;&lt;li&gt;3&#8211;in-1 Card Reader &#40;SD, SDHC, SDXC&#41;&lt;/li&gt;&lt;li&gt;2 x USB 3.0 Port, 1 x Thunderbolt TM 3&lt;/li&gt;&lt;li&gt;Built In Primary Battery&lt;/li&gt;&lt;li&gt;AC Power Adapter And Power Cord&lt;/li&gt;&lt;li&gt;Windows 10 Pre-Installed, OS Recovery Disc Not Included&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&#40;SN&#58;8CSLNC2&#41; &#40;237331-34&#41;&lt;/p&gt;&lt;p&gt;&lt;strong&gt; Note&#58;&lt;/strong&gt;   is included in the freight and buyers premium.&lt;/p&gt;    &lt;/div&gt;    &lt;/div&gt;&lt;br&gt;&lt;br&gt;THIS ADVERT IS MANAGED BY https://gumtree-intforce.rhcloud.com
+attributeMap['laptops.paypal_accepted_seller_s']=false
+attributeMap['laptops.automatic_repost_ad_s']=false
+attributeMap['laptops.condition_s']=new
+attributeMap['laptops.website_s']=gumtree-intforce.rhcloud.com
+attributeMap[laptops.slogan_s]=NEW Dell XPS 13 (9360) Laptop
+hourstomarket=3
+bbImageBaseUrl=/bb-image.html
+images=https://i.ebayimg.com/00/s/NDQ0WDY1MA==/z/8D8AAOSwjDZYguad/$_20.JPG
+images=https://i.ebayimg.com/00/s/NTc2WDg4MA==/z/DLEAAOSwo4pYguaj/$_20.JPG
+images=https://i.ebayimg.com/00/s/NDUwWDgwMA==/z/wewAAOSwnHZYguam/$_20.JPG
+images=https://i.ebayimg.com/00/s/MzUwWDUwNA==/z/6hQAAOSwUKxYguaq/$_20.JPG
+images=https://i.ebayimg.com/00/s/MzQ2WDg4MA==/z/FFMAAOSwImRYguat/$_20.JPG
+ctk=qwFJbF8kXufpKbHXkvRcWA
+csrft=bbd3f69212a87a00ed6ce9eca3b94d9c
+bbUserInput=2967
+bbToken=1ca4fb5c0cf089e929cf1238f220464c238d0fd56a678476f1dcac5da0cb1a0350d791243f75a56c63323fd707918ca0269d2387372ac7564333e19a0ccbf1af

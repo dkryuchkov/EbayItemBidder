@@ -1,0 +1,34 @@
+attributeMap['cars.greyimport']=
+postcode=2040
+houseNumber=
+streetName=
+adType=OFFER
+adId=
+geocodeConfidence=OK
+files[]=
+bbImageBaseUrl=/bb-image.html
+galleryImageIndex=
+_showLocationOnMap=on
+unacceptableGeocode=false
+level2CategoryId=
+quickOffer=
+_renew=on
+repost=false
+categoryId=21009
+price.amount=250
+price.type=FIXED
+minimumOfferPrice=
+title=BRAND New BOXED Modern Coffee table, clear glass top, RRP$1799
+images=https://i.ebayimg.com/00/s/NTg3WDg4MA==/z/CeYAAOSw-0xYf0Z9/$_20.JPG
+images=https://i.ebayimg.com/00/s/MTYwMFg5MDE=/z/2mUAAOSwt5hYgp9h/$_20.JPG
+name=Dimitri
+phoneNumber=0410381932
+locationId=3003844
+geocodeLat=-33.882417
+geocodeLng=151.154762
+geocodeLocality=Leichhardt
+description=THIS IS A BRAND NEW, BOXED, DESIGNER ITEM, RRP$1799 &lt;br&gt;&lt;div class=&quot;content-section&quot;&gt; &lt;h3&gt;Description&lt;/h3&gt;    &lt;div class=&quot;sanitised-markup&quot;&gt;&lt;p&gt;Coffee table, clear bent glass top, white polyurethane finish base, approx 1420 x 800 x 360(h)mm, RRP$1799 &lt;/p&gt;    &lt;/div&gt;    &lt;/div&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;THIS ADVERT IS MANAGED BY https://gumtree-intforce.rhcloud.com
+attributeMap['hg_furniture_coffee_tables.paypal_accepted_seller_s']=false
+attributeMap['hg_furniture_coffee_tables.condition_s']=new
+attributeMap['hg_furniture_coffee_tables.automatic_repost_ad_s']=false
+attributeMap['hg_furniture_coffee_tables.highest_price_s']=250.0

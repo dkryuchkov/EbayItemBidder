@@ -1,0 +1,28 @@
+description=<div id="ad_description_details_content">                    EAU DE GAGA is an enigmatic scent, fusing daringly diverse elements to create a beguiling allure. The fragrance is built around a beautiful heart of white violet, an intoxicating flower that fuses male and female attractions.To counterbalance this opulent woody-floral intensity, the scent opens with an invigorating burst of sparkling lime that exudes dynamic vibrancy. And it evolves into a sensual trail based on leather, adding a primal quality to the scent. It is recommended for evening wear.Gender FemaleBrand Lady GagaFragrance Family Floral&#47;WoodyCall &#47; text ******** 979 + click to reveal $30 each or 2 for $40Delivery is available and payment can be made via PayPal&lt;br&gt;&lt;br&gt;&lt;br&gt;</div>        </div>
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+attributeMap['cars.greyimport']=
+houseNumber=
+unacceptableGeocode=false
+level2CategoryId=
+_renew=on,_showLocationOnMap
+categoryId=18319
+adType=OFFER
+price.amount=30
+price.type=FIXED
+minimumOfferPrice=
+attributeMap[other_stuff_for_sale.condition_s]=new
+title=LADY GAGA Eau De Gaga Perfume 75m, BRAND NEW, great gift
+images=https://i.ebayimg.com/00/s/OTAwWDYwMA==/z/cY4AAOSwA3dYKT~M/$_20.JPG
+name=Nav
+phoneNumber=0402602979
+locationId=3003499
+geocodeLat=-33.771962
+geocodeLng=150.843234
+geocodeLocality=Rooty Hill
+attributeMap['other_stuff_for_sale.highest_price_s']=30.0
+attributeMap['other_stuff_for_sale.condition_s']=new
+attributeMap['other_stuff_for_sale.automatic_repost_ad_s']=false
+attributeMap['other_stuff_for_sale.paypal_accepted_seller_s']=true

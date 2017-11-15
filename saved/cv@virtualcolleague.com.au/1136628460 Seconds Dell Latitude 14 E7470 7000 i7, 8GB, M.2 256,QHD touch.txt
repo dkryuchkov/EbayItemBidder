@@ -1,0 +1,33 @@
+attributeMap['cars.greyimport']=
+postcode=2040
+houseNumber=
+streetName=
+adType=OFFER
+adId=
+geocodeConfidence=OK
+files[]=
+bbImageBaseUrl=/bb-image.html
+galleryImageIndex=
+_showLocationOnMap=on
+unacceptableGeocode=false
+level2CategoryId=
+quickOffer=
+_renew=on
+repost=false
+categoryId=18553
+price.amount=799
+price.type=FIXED
+minimumOfferPrice=
+title=Seconds Dell Latitude 14 E7470 7000 i7, 8GB, M.2 256,QHD touch
+images=https://i.ebayimg.com/00/s/NjgxWDg4MA==/z/N7sAAOSwA3dYg7pR/$_20.JPG
+name=Dimitri
+phoneNumber=0410381932
+locationId=3003844
+geocodeLat=-33.882417
+geocodeLng=151.154762
+geocodeLocality=Leichhardt
+description=Dell Seconds, failed quiality check due to some Bottom Cover Damaged&lt;br&gt;&lt;br&gt;&lt;div class=&quot;content-section&quot;&gt; &lt;h3&gt;Description&lt;/h3&gt;    &lt;div class=&quot;sanitised-markup&quot;&gt;&lt;p&gt;&lt;strong&gt;Dell Latitude 14 ( E7470 ) 7000 Series Laptop&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Black &lt;/li&gt;&lt;li&gt;6th Generation Intel Core i7-6600U (Dual Core, 2.6GHz, 4MB cache) &lt;/li&gt;&lt;li&gt;8GB (1x8GB) 2133MHz DDR4 Memory &lt;/li&gt;&lt;li&gt;M.2 256GB PCIe NVMe Class 40 Solid State Drive &lt;/li&gt;&lt;li&gt;No Optical Drive&lt;/li&gt;&lt;li&gt;Intel(R) HD Graphics &lt;/li&gt;&lt;li&gt;(14.0``) QHD (2560x1440) Touch LCD Screen &lt;/li&gt;&lt;li&gt;Waves Maxx Audio Royalty &lt;/li&gt;&lt;li&gt;10/100/1000 Gigabit Ethernet&lt;/li&gt;&lt;li&gt;Intel 18260 Tri-Band Wireless-AC WiGig + Wi-Fi + Bluetooth 4.2 Wireless Card&lt;/li&gt;&lt;li&gt;Dell Wireless Qualcomm Snapdragon X7 DW5811E for Win8/Win10 (No Band 28 Support) &lt;/li&gt;&lt;li&gt;Integrated Camera/Mic &lt;/li&gt;&lt;li&gt;SD 4.0 Memory Card Reader&lt;/li&gt;&lt;li&gt;3 x USB 3.0 Port, HDMI Port, RJ45 Port, Mini Display Port&lt;/li&gt;&lt;li&gt;Built In Primary Battery&lt;/li&gt;&lt;li&gt;AC Power Adapter And Power Cord&lt;/li&gt;&lt;li&gt;Windows 10 Pre-Installed, OS Recovery Disc Not Included&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Please Note: Bottom Cover Damaged, Scratches On The Unit&lt;/p&gt; &lt;/div&gt;    &lt;/div&gt;&lt;br&gt;&lt;br&gt;THIS ADVERT IS MANAGED BY https://gumtree-intforce.rhcloud.com
+attributeMap['laptops.paypal_accepted_seller_s']=false
+attributeMap['laptops.automatic_repost_ad_s']=false
+attributeMap['laptops.highest_price_s']=799.0
+attributeMap['laptops.condition_s']=new

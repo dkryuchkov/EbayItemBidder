@@ -1,0 +1,28 @@
+description=<div id="ad_description_details_content">                    820x2040 (second on a photo, not white)Unglazed.3 doors are leftsolid woodmerantiwhite doors are also available for $120 each.&lt;br&gt;&lt;br&gt;&lt;br&gt;</div>        </div>
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+attributeMap['cars.greyimport']=
+houseNumber=
+unacceptableGeocode=false
+level2CategoryId=
+_renew=on,_showLocationOnMap
+categoryId=20103
+adType=OFFER
+price.amount=100
+price.type=FIXED
+minimumOfferPrice=
+attributeMap[building_materials.condition_s]=new
+title=Brand New in a package meranti  external doors RRP $420
+images=https://i.ebayimg.com/00/s/NDAwWDMwMA==/z/E98AAOSwsCFZmsG7/$_20.JPG
+name=Dimitri
+phoneNumber=0410381932
+locationId=3004117
+geocodeLat=-33.794095
+geocodeLng=151.188817
+geocodeLocality=Chatswood
+attributeMap['building_materials.automatic_repost_ad_s']=false
+attributeMap['building_materials.highest_price_s']=100.0
+attributeMap['building_materials.paypal_accepted_seller_s']=false
+attributeMap['building_materials.condition_s']=new

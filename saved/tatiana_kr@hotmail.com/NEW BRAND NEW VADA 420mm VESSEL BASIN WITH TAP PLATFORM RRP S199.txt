@@ -1,0 +1,40 @@
+attributeMap['cars.greyimport']=
+postcode=2040
+houseNumber=
+streetName=
+adType=OFFER
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+_showLocationOnMap=on
+unacceptableGeocode=false
+level2CategoryId=
+quickOffer=
+_renew=on
+repost=false
+categoryId=20103
+price.amount=50
+price.type=FIXED
+minimumOfferPrice=
+title=BRAND NEW VADA 420mm VESSEL BASIN WITH TAP PLATFORM RRP S199
+name=Dimitri
+phoneNumber=0410381932
+locationId=3003844
+mapAddress=Leichhardt, NSW, 2040
+geocodeLat=-33.882417
+geocodeLng=151.154762
+geocodeLocality=Leichhardt
+description=Brand new in the original box. RRP $400&lt;br&gt;&lt;br&gt;Vada 420mm Ceramic Counter Top Vessel - 231150&lt;br&gt;&lt;br&gt;The Vada 420mm Ceramic Counter Top Vessel. Todays counter top basins come in a variety of types and sizes, and the designs in our range are no exception. The Vada is an exicting new addition to the Impulse range of ceramic counter top vessels. A winning combination of the latest bathroom fashion look with cutting edge technical innovation. &lt;br&gt;&lt;br&gt;What&#39;s more you can be assured it&#39;s a look that will last. That&#39;s why there is a 10 year guarantee.&lt;br&gt;&lt;br&gt;Features&lt;br&gt;Clean elegant contemporary design&lt;br&gt;Manufactured to the Highest Standards&lt;br&gt;Product Code: 231150&lt;br&gt;420mm Diameter Ceramic Vessel &lt;br&gt;Supplied with Chrome overflow bezel&lt;br&gt;High quality design&lt;br&gt;Gloss white finish&lt;br&gt;&lt;br&gt;10 Year Manufacturer&#39;s Guarantee&lt;br&gt;&lt;br&gt;Can deliver for $20 extra within Sydney Metro. Or pick up from Leichhardt, NSW 2040
+attributeMap['building_materials.paypal_accepted_seller_s']=false
+attributeMap['building_materials.automatic_repost_ad_s']=false
+attributeMap['building_materials.condition_s']=new
+attributeMap['building_materials.highest_price_s']=50.0
+images=https://i.ebayimg.com/00/s/Mzc1WDM3NQ==/z/afMAAOSwiONYNqIf/$_20.JPG
+images=https://i.ebayimg.com/00/s/NDAwWDQwMA==/z/KDcAAOSwa~BYNqIe/$_20.JPG
+images=https://i.ebayimg.com/00/s/OTAwWDE2MDA=/z/75kAAOSw44BYNlsm/$_20.JPG
+images=https://i.ebayimg.com/00/s/OTAwWDE2MDA=/z/aaYAAOSwa~BYNlpU/$_20.JPG
+ctk=CJvxxB1ki6cpV6Jw-WEn1w
+csrft=70f1df9a8c680a373ee9f66a62fdf6e8
+bbUserInput=4935
+bbToken=b8819610e94ef679a9c048200287e75ce847b80f9d31aff697762651dd5c4643a448241da6aedfc132bb087209ef8e0717c8573eefe32f6bebd73dd810c9c892

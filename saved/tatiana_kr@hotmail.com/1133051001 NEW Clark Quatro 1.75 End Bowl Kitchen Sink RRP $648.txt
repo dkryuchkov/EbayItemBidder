@@ -1,0 +1,34 @@
+attributeMap['cars.greyimport']=
+postcode=2040
+houseNumber=
+streetName=
+adType=OFFER
+adId=
+geocodeConfidence=OK
+files[]=
+bbImageBaseUrl=/bb-image.html
+galleryImageIndex=
+_showLocationOnMap=on
+unacceptableGeocode=false
+level2CategoryId=
+quickOffer=
+_renew=on
+repost=false
+categoryId=20103
+price.amount=200
+price.type=FIXED
+minimumOfferPrice=
+title=NEW Clark Quatro 1.75 End Bowl Kitchen Sink RRP $648
+images=https://i.ebayimg.com/00/s/NjYwWDg4MA==/z/XjYAAOSw241YU4b4/$_20.JPG
+images=https://i.ebayimg.com/00/s/ODAwWDgwMA==/z/zV4AAOSwo4pYU4dp/$_20.JPG
+name=Dimitri
+phoneNumber=0410381932
+locationId=3003844
+geocodeLat=-33.882417
+geocodeLng=151.154762
+geocodeLocality=Leichhardt
+description=NEW Clark Quatro 1.75 End Bowl Kitchen Sink RRP $648. Never used, was for a display only. &lt;br&gt;&lt;br&gt;This retails for $648. My price is $200.&lt;br&gt;&lt;br&gt;THIS ADVERT IS MANAGED BY https://gumtree-intforce.rhcloud.com
+attributeMap['building_materials.paypal_accepted_seller_s']=false
+attributeMap['building_materials.automatic_repost_ad_s']=false
+attributeMap['building_materials.condition_s']=new
+attributeMap['building_materials.highest_price_s']=200.0

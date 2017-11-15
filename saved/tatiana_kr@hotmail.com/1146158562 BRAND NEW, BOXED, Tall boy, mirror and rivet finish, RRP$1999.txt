@@ -1,0 +1,28 @@
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+attributeMap['cars.greyimport']=
+houseNumber=
+unacceptableGeocode=false
+level2CategoryId=
+_renew=on,_showLocationOnMap
+categoryId=21015
+price.amount=399
+price.type=FIXED
+minimumOfferPrice=
+attributeMap[hg_furniture_dressers_drawers.condition_s]=new
+title=BRAND NEW, BOXED, Tall boy, mirror and rivet finish, RRP$1999
+images=https://i.ebayimg.com/00/s/ODgwWDU4Nw==/z/IXoAAOSw2xRYf0aX/$_20.JPG
+images=https://i.ebayimg.com/00/s/MTYwMFg5MDE=/z/VtIAAOSw2xRYgqAA/$_20.JPG
+name=Tania
+phoneNumber=0410381932
+locationId=3004117
+geocodeLat=-33.794095
+geocodeLng=151.188817
+geocodeLocality=Chatswood
+description=THIS IS A BRAND NEW, BOXED ITEM ! PLEASE SEE THE PICTURES Description    Tall boy, mirror and rivet finish on brown / grey background, 5-drawer, approx 600 x 440 x 1230(h)mm, RRP$1999
+attributeMap['hg_furniture_dressers_drawers.paypal_accepted_seller_s']=false
+attributeMap['hg_furniture_dressers_drawers.condition_s']=new
+attributeMap['hg_furniture_dressers_drawers.highest_price_s']=399.0
+attributeMap['hg_furniture_dressers_drawers.automatic_repost_ad_s']=false

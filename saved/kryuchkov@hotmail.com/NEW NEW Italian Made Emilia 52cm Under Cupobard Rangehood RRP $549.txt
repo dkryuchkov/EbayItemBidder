@@ -1,0 +1,34 @@
+description=Brand NEw in the sealed boxItalian Made Emilia 52cm Under Cupobard Rangehood (CK53UCF)Recommended Retail Price (RRP) - $549Stainless SteelMax Air Flow 700m3&#47;hrPush Button ControslTwin LED Lights3 Speeds FansDimensions (HxWxD): 252 x 520 x 315 mm
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+attributeMap['cars.greyimport']=
+houseNumber=
+unacceptableGeocode=false
+level2CategoryId=
+_renew=on,_showLocationOnMap
+categoryId=20059
+adType=OFFER
+price.amount=199
+price.type=FIXED
+minimumOfferPrice=
+attributeMap[hg_appliances_cooktop_rangehood.condition_s]=new
+title=NEW Italian Made Emilia 52cm Under Cupobard Rangehood RRP $549
+name=Dimitri
+phoneNumber=0410381932
+locationId=3004117
+geocodeLat=-33.794095
+geocodeLng=151.188817
+geocodeLocality=Chatswood
+attributeMap['hg_appliances_cooktop_rangehood.paypal_accepted_seller_s']=false
+attributeMap['hg_appliances_cooktop_rangehood.condition_s']=new
+attributeMap['hg_appliances_cooktop_rangehood.highest_price_s']=199.0
+attributeMap['hg_appliances_cooktop_rangehood.automatic_repost_ad_s']=false
+images=https://i.ebayimg.com/00/s/MjY2WDQwMA==/z/l90AAOSwsTdZcWxy/$_20.JPG
+images=https://i.ebayimg.com/00/s/MjI1WDQwMA==/z/INkAAOSwVCRZcWxh/$_20.JPG
+ctk=11F-65o9XNnDjvw3S6xRNw
+csrft=c53d08a23114b3b66f8d94a061b5a07f
+_showLocationOnMap=on
+bbUserInput=4503
+bbToken=322a56c872bf91fbb31ba4a0658b92a595ad77470eb082826b9809be83f7c1aba4e7c0d23417abb3a7b81cac454c4e95554b98df0225834610432411f289c136

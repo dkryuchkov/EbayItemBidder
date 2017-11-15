@@ -1,0 +1,36 @@
+description=BRAND NEW South Korea Made Keyang 18V Cordless Reciprocating SawSKIN ONLY.This is a professional trader tool retails at more than $650 selling with 70% discount ! This is a top quality professional tools brand, more expensive than DeWalt or Makita Keyang manufactures in South Korea and is the number 1 in Industrial Power Tools and has remained market leader for the last 10 years, in Korea, ahead of all the major brands known in the world wide market place. Since the birth of Keyang over 30 years ago, our values have remained true. To manufacture high quality Power Tools without compromise.
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+attributeMap['cars.greyimport']=
+houseNumber=
+unacceptableGeocode=false
+level2CategoryId=
+_renew=on,_showLocationOnMap
+categoryId=20093
+adType=OFFER
+price.amount=99
+price.type=FIXED
+minimumOfferPrice=
+attributeMap[hg_tools_diy_power_tools.condition_s]=new
+title=South Korea Keyang 18V Pro Reciprocating Saw SKIN ONLY
+name=Dimitri
+phoneNumber=0410381932
+locationId=3004117
+geocodeLat=-33.794095
+geocodeLng=151.188817
+geocodeLocality=Chatswood
+attributeMap['hg_tools_diy_power_tools.paypal_accepted_seller_s']=false
+attributeMap['hg_tools_diy_power_tools.condition_s']=new
+attributeMap['hg_tools_diy_power_tools.automatic_repost_ad_s']=false
+attributeMap['hg_tools_diy_power_tools.highest_price_s']=99.0
+_showLocationOnMap=on
+images=https://i.ebayimg.com/00/s/MTIwMFgxNjAw/z/FKkAAOSwA79ZmTSk/$_20.JPG
+images=https://i.ebayimg.com/00/s/NDQwWDY3MA==/z/BTMAAOSwo4pYk689/$_20.JPG
+images=https://i.ebayimg.com/00/s/NDgwWDY0MA==/z/BeQAAOSwo4pYk69E/$_20.JPG
+images=https://i.ebayimg.com/00/s/NDgwWDY0MA==/z/GJQAAOSwNnRYk69A/$_20.JPG
+ctk=TPbWh6vvtw-LuW_MYZzk1g
+csrft=3fe20bdc935dc76b97a642c15b42260f
+bbUserInput=5727
+bbToken=2699625ccb43b4eb352d36f9ed8c118a4c86d445b590bcecdb891e2b8a10d2e4658a610fa9041e99d3da34f5d0fb11a493cad3f90d2638d59affe0808ab90753

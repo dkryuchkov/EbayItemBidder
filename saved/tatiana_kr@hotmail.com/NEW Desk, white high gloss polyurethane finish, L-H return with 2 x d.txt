@@ -1,0 +1,39 @@
+attributeMap['cars.greyimport']=
+postcode=2040
+houseNumber=
+streetName=
+adType=OFFER
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+_showLocationOnMap=on
+unacceptableGeocode=false
+level2CategoryId=
+quickOffer=
+_renew=on
+repost=false
+categoryId=21016
+price.amount=399
+price.type=FIXED
+minimumOfferPrice=
+title=Desk, white high gloss polyurethane finish, L/H return with 2 x d
+name=Dimitri
+phoneNumber=0410381932
+locationId=3003844
+mapAddress=Leichhardt, NSW, 2040
+geocodeLat=-33.882417
+geocodeLng=151.154762
+geocodeLocality=Leichhardt
+description=&lt;div class="content-section"&gt; &lt;h3&gt;Description&lt;/h3&gt;    &lt;div class="sanitised-markup"&gt;&lt;p&gt;Desk, white high gloss polyurethane finish, L&#47;H return with 2 x door, 2 x drawers, approx 1700 x 1200mm, RRP&#36;2999 &#40;237638-147&#41;&lt;/p&gt;&lt;p&gt;&lt;strong&gt; Note&#58;&lt;/strong&gt;  &lt;/p&gt;    &lt;/div&gt;    &lt;/div&gt;&lt;br&gt;&lt;br&gt;THIS ADVERT IS MANAGED BY https://gumtree-intforce.rhcloud.com
+attributeMap['hg_garden_lounging_relaxing.paypal_accepted_seller_s']=false
+attributeMap['hg_garden_lounging_relaxing.automatic_repost_ad_s']=false
+attributeMap['hg_garden_lounging_relaxing.condition_s']=used
+attributeMap['hg_garden_lounging_relaxing.website_s']=gumtree-intforce.rhcloud.com
+attributeMap[hg_garden_lounging_relaxing.slogan_s]=Desk, white high gloss polyurethane finish, L/H return with 2 x d
+hourstomarket=-1
+bbImageBaseUrl=/bb-image.html
+images=https://i.ebayimg.com/00/s/NTg3WDg4MA==/z/hOEAAOSw4DJYf0Zb/$_20.JPG
+images=https://i.ebayimg.com/00/s/NTg3WDg4MA==/z/1x0AAOSwt5hYf0Zp/$_20.JPG
+ctk=tNcxlGLJROcmZO2og_AAFw
+csrft=47d90c5d34e09cd5e993b2aad7d29965

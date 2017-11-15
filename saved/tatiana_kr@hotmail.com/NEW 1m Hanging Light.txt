@@ -1,0 +1,40 @@
+attributeMap['cars.greyimport']=
+postcode=2067
+houseNumber=
+streetName=
+adType=OFFER
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+_showLocationOnMap=on
+unacceptableGeocode=false
+level2CategoryId=
+quickOffer=
+_renew=on
+repost=false
+categoryId=21023
+price.amount=49
+price.type=FIXED
+minimumOfferPrice=
+title=1m Hanging Light
+name=Dimitri
+phoneNumber=0410381932
+locationId=3003844
+mapAddress=Chatswood 2067, NSW
+geocodeLat=-33.882417
+geocodeLng=151.154762
+geocodeLocality=Chatswood
+description=&lt;br&gt;	 Description&lt;br&gt;    <div class="sanitised-markup">&lt;br&gt;		 1m Hanging Light  Features: Black  10W  Full Metal Body  Breakfast Bar Light (SN:SC-5) (242393-6) Note:  &lt;br&gt;    &lt;br&gt;    &lt;br&gt;&lt;br&gt;THIS ADVERT IS MANAGED BY https://gumtree-intforce.rhcloud.com
+attributeMap['hg_lighting_ceiling.paypal_accepted_seller_s']=false
+attributeMap['hg_lighting_ceiling.automatic_repost_ad_s']=false
+attributeMap['hg_lighting_ceiling.condition_s']=used
+attributeMap['hg_lighting_ceiling.website_s']=gumtree-intforce.rhcloud.com
+attributeMap[hg_lighting_ceiling.slogan_s]=1m Hanging Light
+hourstomarket=24
+images=https://i.ebayimg.com/00/s/NTQwWDMzMw==/z/Z2AAAOSw3gJZNQYf/$_20.JPG
+images=https://i.ebayimg.com/00/s/MjkxWDQzNg==/z/HrwAAOSwIaFZNQYk/$_20.JPG
+ctk=9obWPo9XZk2lsEx8hyigAA
+csrft=a8b22a6142656c466157b95adec94af6
+bbUserInput=7829
+bbToken=1555a86bd14635041d3e24da69450201eef3a1d6e88d214c599261ffddd9da74693f3acaf3faef86b0885e1228f4c0a4bc8369c8f6f7b55eb2574a86e3b1f07b

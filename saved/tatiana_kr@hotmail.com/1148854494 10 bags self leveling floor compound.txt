@@ -1,0 +1,28 @@
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+attributeMap['cars.greyimport']=
+houseNumber=
+unacceptableGeocode=false
+level2CategoryId=
+_renew=on,_showLocationOnMap
+categoryId=20103
+price.amount=50
+price.type=FIXED
+minimumOfferPrice=
+attributeMap[building_materials.condition_s]=new
+title=10 bags self leveling floor compound
+images=https://i.ebayimg.com/00/s/ODgwWDY2MA==/z/9KUAAOSw0hlZI2J-/$_20.JPG
+images=https://i.ebayimg.com/00/s/NjYwWDg4MA==/z/ZAgAAOSwR29ZI2KD/$_20.JPG
+name=Dimitri
+phoneNumber=0410381932
+locationId=3004117
+geocodeLat=-33.794095
+geocodeLng=151.188817
+geocodeLocality=Chatswood
+description=Parchem ``Dura Floor`` (Self smoothing)&lt;br&gt;10 Bags X15 kg each &lt;br&gt;We have about 50 in total, so you can buy more if needed&lt;br&gt;left over &lt;br&gt;pick up from chatswood&lt;br&gt;&lt;br&gt;THIS ADVERT IS MANAGED BY https://gumtree-intforce.rhcloud.com
+attributeMap['building_materials.paypal_accepted_seller_s']=false
+attributeMap['building_materials.automatic_repost_ad_s']=false
+attributeMap['building_materials.condition_s']=new
+attributeMap['building_materials.highest_price_s']=100.0

@@ -1,0 +1,43 @@
+attributeMap['cars.greyimport']=
+postcode=2040
+houseNumber=
+streetName=
+adType=OFFER
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+_showLocationOnMap=on
+unacceptableGeocode=false
+level2CategoryId=
+quickOffer=
+_renew=on
+repost=false
+categoryId=20066
+price.amount=999
+price.type=FIXED
+minimumOfferPrice=
+title=LG 9kg Front Load Washer & 5kg Dryer Combo with TrueSteam (WD1409
+name=Dimitri
+phoneNumber=0410381932
+locationId=3003844
+mapAddress=Leichhardt, NSW, 2040
+geocodeLat=-33.882417
+geocodeLng=151.154762
+geocodeLocality=Leichhardt
+description=&lt;div class="content-section"&gt; &lt;h3&gt;Description&lt;/h3&gt;    &lt;div class="sanitised-markup"&gt;&lt;p&gt;&lt;strong&gt;LG 9kg Front Load Washer &#38; 5kg Dryer Combo with TrueSteam &#40;WD1409HPW&#41; &#40;Resealed&#41;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Recommended Retail Price &#40;RRP&#41; - &#36;1899 as of August 2016 based on a new product.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Features&#58;&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;TrueSteam &lt;/li&gt;&lt;li&gt;Maximum Spin Speed 1400rpm&lt;/li&gt;&lt;li&gt;6 Motion Wash Technology&lt;/li&gt;&lt;li&gt;Inverter Direct Drive Motor System&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Specifications&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Colour&#58; White&lt;/li&gt;&lt;li&gt;Wash Capacity&#58; 9kg&lt;/li&gt;&lt;li&gt;Dry Capacity&#58; 5kg&lt;/li&gt;&lt;li&gt;Energy Rating Washing&#58; 4 Star&lt;/li&gt;&lt;li&gt;Energy Rating Drying&#58; 1&#189; Star&lt;/li&gt;&lt;li&gt;Water Rating Washing&#58; 4&#189; Star &#47; 77L&lt;/li&gt;&lt;li&gt;Water Rating Drying&#58; 53L&lt;/li&gt;&lt;li&gt;Motor Type&#58; Inverter Direct Drive&lt;/li&gt;&lt;li&gt;Maximum Spin Speed&#58; 1400rpm&lt;/li&gt;&lt;li&gt;Varible Temperature &#40;&#176;c&#41;&#58; Cold &#47; 20 &#47; 40 &#47; 60 &#47; 95&lt;/li&gt;&lt;li&gt;Door Diameter&#58; 350mm&lt;/li&gt;&lt;li&gt;Inner Drum Volume&#58; 67L&lt;/li&gt;&lt;li&gt;Washing Programs&#58; 14&lt;/li&gt;&lt;li&gt;Options&#58; 11&lt;/li&gt;&lt;li&gt;Dimensions &#40;W x D x H&#41; 600 x 650 x 850mm&lt;/li&gt;&lt;li&gt;Weight&#58; 70kg&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Please Note&#58;&lt;/strong&gt; Products listed as &#96;Resealed&#96; have not been sold to a consumer before. Items will generally still have their original packaging but it may have been opened for testing or other purposes or may have carton damaged only. In some instances accessories may vary from the standard &#40;for example, software or manuals may be missing or different&#41;.&lt;/p&gt;&lt;p&gt; &#40;SN&#58;WD1409HPW&#41; &#40;236584-20&#41;&lt;/p&gt;&lt;p&gt;&lt;strong&gt; Note&#58;&lt;/strong&gt;  &lt;/p&gt;    &lt;/div&gt;    &lt;/div&gt;&lt;br&gt;&lt;br&gt;THIS ADVERT IS MANAGED BY https://gumtree-intforce.rhcloud.com
+attributeMap['hg_appliances_washing_drying.paypal_accepted_seller_s']=false
+attributeMap['hg_appliances_washing_drying.automatic_repost_ad_s']=false
+attributeMap['hg_appliances_washing_drying.condition_s']=used
+attributeMap['hg_appliances_washing_drying.website_s']=gumtree-intforce.rhcloud.com
+attributeMap[hg_appliances_washing_drying.slogan_s]=LG 9kg Front Load Washer & 5kg Dryer Combo with TrueSteam (WD1409
+hourstomarket=29
+bbImageBaseUrl=/bb-image.html
+images=https://i.ebayimg.com/00/s/NTgwWDg4MA==/z/7lcAAOSw-0xYYcHH/$_20.JPG
+images=https://i.ebayimg.com/00/s/NTgwWDg4MA==/z/OsoAAOSwA3dYYcHL/$_20.JPG
+images=https://i.ebayimg.com/00/s/NTgwWDg4MA==/z/O0IAAOSwA3dYYcHO/$_20.JPG
+images=https://i.ebayimg.com/00/s/NTgwWDg4MA==/z/3ocAAOSwUKxYYcHX/$_20.JPG
+ctk=dgrE2ZumnoF2uFc9nJf2_w
+csrft=23b7e9fcd357e9fd2d4535df34593e09
+bbUserInput=4444
+bbToken=311327d97eb011b1b43c3ca450cd43f1c19bdd8dc3250bcf38006775d3646d0b9fa7bcc112a974fb9faa7d8b84e754bfbc39a5599d0ebc4a1f59e2e4ebeda2d4

@@ -1,0 +1,32 @@
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+attributeMap['cars.greyimport']=
+houseNumber=
+unacceptableGeocode=false
+level2CategoryId=
+_renew=on,_showLocationOnMap
+categoryId=20103
+price.amount=199
+price.type=FIXED
+minimumOfferPrice=
+attributeMap[building_materials.condition_s]=new
+title=NEW Double sink, ex display, CLOSING THE BUSINES.  SAVE $$
+images=https://i.ebayimg.com/00/s/MTAyNFgxMDI0/z/OJ0AAOSwPh5ZD~3a/$_20.JPG
+images=https://i.ebayimg.com/00/s/NjAyWDYwMg==/z/vhIAAOSwH09ZD~43/$_20.JPG
+images=https://i.ebayimg.com/00/s/NTM3WDUzNw==/z/AngAAOSwn-tZD~3l/$_20.JPG
+images=https://i.ebayimg.com/00/s/MTIwMFgxNjAw/z/qLIAAOSwcaFZD~2a/$_20.JPG
+images=https://i.ebayimg.com/00/s/MTIwMFgxNjAw/z/bCoAAOSw42JZD~2f/$_20.JPG
+images=https://i.ebayimg.com/00/s/MTIwMFgxNjAw/z/bEoAAOSwcgNZD~2b/$_20.JPG
+name=Tania
+phoneNumber=0410381932
+locationId=3004117
+geocodeLat=-33.794095
+geocodeLng=151.188817
+geocodeLocality=Chatswood
+description=rrp $ 380&lt;br&gt;Ex demo model, closing down sale&lt;br&gt;it comes in original box. &lt;br&gt;It&#39;s slightly damaged in 2 corners - it would be absolutely invisable if you install this sink under-mounted&lt;br&gt;&lt;br&gt;Model Code: TWM2&lt;br&gt;Overall: 865 mm x 440 x 190mm ( L x W x D )&lt;br&gt;304 Top Grade Stainless Steel Sink&lt;br&gt;Brush finish for a brilliant look&lt;br&gt;Round corners for easy cleaning and modern look&lt;br&gt;Anti-condensation paint, mould - proof, moisture proof&lt;br&gt;X flume design, quick &amp; easy to drain water&lt;br&gt;Suitable for Drop-in, Top-mounted and Under-mounted&lt;br&gt;90mm Strainer waste included ( x 2 ) &lt;br&gt;Clips and cut out template included&lt;br&gt;8 Sound Deadening Pads on bottom&lt;br&gt;ROHS certified&lt;br&gt;&lt;br&gt;THIS ADVERT IS MANAGED BY https://gumtree-intforce.rhcloud.com
+attributeMap['building_materials.paypal_accepted_seller_s']=false
+attributeMap['building_materials.automatic_repost_ad_s']=false
+attributeMap['building_materials.condition_s']=new
+attributeMap['building_materials.highest_price_s']=199.0

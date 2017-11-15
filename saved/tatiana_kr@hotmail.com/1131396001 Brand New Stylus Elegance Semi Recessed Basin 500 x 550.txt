@@ -1,0 +1,33 @@
+attributeMap['cars.greyimport']=
+postcode=2040
+houseNumber=
+streetName=
+adType=OFFER
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+_showLocationOnMap=on
+unacceptableGeocode=false
+level2CategoryId=
+quickOffer=
+_renew=on
+repost=false
+categoryId=20103
+price.amount=50
+price.type=FIXED
+minimumOfferPrice=
+title=Brand New Stylus Elegance Semi Recessed Basin 500 x 550
+images=https://i.ebayimg.com/00/s/NTgzWDg4MA==/z/83YAAOSwcUBYNpTg/$_20.JPG
+images=https://i.ebayimg.com/00/s/OTAwWDE2MDA=/z/x5YAAOSwA3dYNpTw/$_20.JPG
+name=Tatiana
+phoneNumber=0410381932
+locationId=3003844
+geocodeLat=-33.882417
+geocodeLng=151.154762
+geocodeLocality=Leichhardt
+description=New Stylus Elegance Semi Recessed BasinColour: WhiteThree tap holes &amp; plug &amp; waste.Size: 500x550mm.Boxed.
+attributeMap['building_materials.paypal_accepted_seller_s']=false
+attributeMap['building_materials.automatic_repost_ad_s']=false
+attributeMap['building_materials.condition_s']=new
+attributeMap['building_materials.highest_price_s']=50.0

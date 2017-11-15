@@ -1,0 +1,36 @@
+attributeMap['cars.greyimport']=
+postcode=2040
+houseNumber=
+streetName=
+adType=OFFER
+adId=
+geocodeConfidence=OK
+files[]=
+bbImageBaseUrl=/bb-image.html
+galleryImageIndex=
+_showLocationOnMap=on
+unacceptableGeocode=false
+level2CategoryId=
+quickOffer=
+_renew=on
+repost=false
+categoryId=21009
+price.amount=499
+price.type=FIXED
+minimumOfferPrice=
+title=BRAND NEW BOXED table set, black glass top timber legs RRP $1,899
+images=https://i.ebayimg.com/00/s/NTg3WDg4MA==/z/F6gAAOSwImRYf0bt/$_20.JPG
+images=https://i.ebayimg.com/00/s/NTg3WDg4MA==/z/nnkAAOSw4DJYf0cF/$_20.JPG
+images=https://i.ebayimg.com/00/s/MTYwMFg5MDE=/z/p80AAOSwZQRYgqKz/$_20.JPG
+images=https://i.ebayimg.com/00/s/NTg3WDg4MA==/z/blIAAOSw5cNYf0bX/$_20.JPG
+name=Dimitri
+phoneNumber=0410381932
+locationId=3003844
+geocodeLat=-33.882417
+geocodeLng=151.154762
+geocodeLocality=Leichhardt
+description=THIS IS A BRAND NEW, TOP QUALITY, BOXED ITEM, RRP 1,899. REFER TO THE PITURES&lt;br&gt;&lt;br&gt;&lt;div class=&quot;content-section&quot;&gt; &lt;h3&gt;Description&lt;/h3&gt;    &lt;div class=&quot;sanitised-markup&quot;&gt;&lt;p&gt;NEW table set, black glass top on timber legs, including: 1 x appro 1200 x 600 x 400(h)mm; 1 x approx 600(dia) x 400(h)mm; 1 x approx 600 x 600 x 400(h)mm, RRP$1,899 (237638-329)&lt;/p&gt;&lt;p&gt; &lt;/p&gt;    &lt;/div&gt;    &lt;/div&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;THIS ADVERT IS MANAGED BY https://gumtree-intforce.rhcloud.com
+attributeMap['hg_furniture_coffee_tables.paypal_accepted_seller_s']=false
+attributeMap['hg_furniture_coffee_tables.condition_s']=new
+attributeMap['hg_furniture_coffee_tables.automatic_repost_ad_s']=false
+attributeMap['hg_furniture_coffee_tables.highest_price_s']=499.0

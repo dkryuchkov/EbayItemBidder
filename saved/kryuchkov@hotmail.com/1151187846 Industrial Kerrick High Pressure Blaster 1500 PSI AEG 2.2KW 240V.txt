@@ -1,0 +1,31 @@
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+attributeMap['cars.greyimport']=
+houseNumber=
+unacceptableGeocode=false
+level2CategoryId=
+_renew=on,_showLocationOnMap
+categoryId=20093
+adType=OFFER
+price.amount=199
+price.type=FIXED
+minimumOfferPrice=
+attributeMap[hg_tools_diy_power_tools.condition_s]=used
+title=Industrial Kerrick High Pressure Blaster 1500 PSI AEG 2.2KW 240V
+images=https://i.ebayimg.com/00/s/OTAxWDE2MDA=/z/llUAAOSw0j9ZRF1f/$_20.JPG
+images=https://i.ebayimg.com/00/s/MTYwMFg5MDE=/z/xpgAAOSwVJhZRF1Y/$_20.JPG
+images=https://i.ebayimg.com/00/s/OTAxWDE2MDA=/z/vpsAAOSwPWRZRF1b/$_20.JPG
+images=https://i.ebayimg.com/00/s/OTAxWDE2MDA=/z/Ed4AAOSwvjdZRF1Y/$_20.JPG
+name=Dimitri
+phoneNumber=0410381932
+locationId=3004117
+geocodeLat=-33.794095
+geocodeLng=151.188817
+geocodeLocality=Chatswood
+description=In good working condition. Unit only, no gun. &lt;br&gt;&lt;br&gt;Made in EU, with AEG motor, top quality industrial water bluster that will last forever and produces impressive 100 BARs of ware pressure. &lt;br&gt;&lt;br&gt;ABSOLUTE BARGAIN !&lt;br&gt;&lt;br&gt;This is NOT your ordinary DIY Chinese plastic toy from Bunnings. This unit costs 4K when bought new.&lt;br&gt;&lt;br&gt;Kerrick Electrical Pressure Washer Rugged. Tough. Practical. The CM Trolley is not a toy, operating at an impressive 1500 psi this is a cold water electric pressure cleaner is ready for some serious work.&lt;br&gt;&lt;br&gt;This high pressure cleaner comes trolley mounted with a slow speed pump, auto stop and wire braid high pressure hose. The unit is ideal for the owner operator that wants a reliable professional high pressure cleaner that&#39;s easily manoeuvrable and built to last.&lt;br&gt;&lt;br&gt;Pressure - 100 Bar (1460psi)&lt;br&gt;Flow - 12 lpm&lt;br&gt;Motor - Electric, 2.2kW&lt;br&gt;Voltage - Single Phase, 240V 50Hz&lt;br&gt;Pump Speed - 1450 RPM&lt;br&gt;Frame Type - Zinc coated steel&lt;br&gt;Wheels - 2&lt;br&gt;Weight - 33kg
+attributeMap['hg_tools_diy_power_tools.paypal_accepted_seller_s']=false
+attributeMap['hg_tools_diy_power_tools.condition_s']=used
+attributeMap['hg_tools_diy_power_tools.automatic_repost_ad_s']=false
+attributeMap['hg_tools_diy_power_tools.highest_price_s']=199.0

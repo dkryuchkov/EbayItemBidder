@@ -1,0 +1,34 @@
+description=Excellent condition, hardly used Includes: 1 x Saw blade 1 x Allen key KW 5 1 x Parallel guide 1 x Vacuum adapter Features: High power performance for faster cutting progress Robust standard steel base plate Closed anti-snag aluminium die-cast lower guard without riving for longer service life Optimised chip ejection system for cleaner material surface Blower function for a dust free cutting surface Ambidextrous lock-off switch on both sides of grip for more convenience Dual guided bevel setting for more stability Integrated groove in base plate for direct 90? cuts on guide rail Cord system with ball join for strain relief and longer service life of the cord Specifications: Rated power input: 2100W No-load speed: 5000rpm Blade bore: 25mm Blade diameter: 235mm Cutting depth: 90°: 85mm 45°: 65mm Weight (without cable): 7.6kg
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+attributeMap['cars.greyimport']=
+houseNumber=
+unacceptableGeocode=false
+level2CategoryId=
+_renew=on,_showLocationOnMap
+categoryId=20093
+adType=OFFER
+price.amount=170
+price.type=FIXED
+minimumOfferPrice=
+attributeMap[hg_tools_diy_power_tools.condition_s]=used
+title=Blue 235mm Professional Circular saws Bosch model GKS235 VGC
+name=Dimitri
+phoneNumber=0410381932
+locationId=3004117
+geocodeLat=-33.794095
+geocodeLng=151.188817
+geocodeLocality=Chatswood
+attributeMap['hg_tools_diy_power_tools.paypal_accepted_seller_s']=false
+attributeMap['hg_tools_diy_power_tools.condition_s']=used
+attributeMap['hg_tools_diy_power_tools.automatic_repost_ad_s']=false
+attributeMap['hg_tools_diy_power_tools.highest_price_s']=170.0
+_showLocationOnMap=on
+images=https://i.ebayimg.com/00/s/OTAxWDE2MDA=/z/WL8AAOSwQ59ZaMar/$_20.JPG
+images=https://i.ebayimg.com/00/s/OTAxWDE2MDA=/z/FLYAAOSwY4pZaMav/$_20.JPG
+ctk=vImn1XH-RpJQZIBDLZ7aVA
+csrft=19aa48d69a4faf52f1607ba85c0f789c
+bbUserInput=8250
+bbToken=cc3616e8b6982d6c9a72b41331b233b891e9873233f5f24595d62c1c29980bb3b0ba80b7dbe2a1e0c86707c5234c13c685106ca8eb200862b8ec106ea0c75c86

@@ -1,0 +1,34 @@
+attributeMap['cars.greyimport']=
+postcode=2040
+houseNumber=
+streetName=
+adType=OFFER
+adId=
+geocodeConfidence=OK
+files[]=
+bbImageBaseUrl=/bb-image.html
+galleryImageIndex=
+_showLocationOnMap=on
+unacceptableGeocode=false
+level2CategoryId=
+quickOffer=
+_renew=on
+repost=false
+categoryId=21015
+price.amount=399
+price.type=FIXED
+minimumOfferPrice=
+title=BRAND NEW, BOXED, Tall boy, mirror and rivet finish, RRP$1999
+images=https://i.ebayimg.com/00/s/ODgwWDU4Nw==/z/IXoAAOSw2xRYf0aX/$_20.JPG
+images=https://i.ebayimg.com/00/s/MTYwMFg5MDE=/z/VtIAAOSw2xRYgqAA/$_20.JPG
+name=Tatiana
+phoneNumber=0410381932
+locationId=3004117
+geocodeLat=-33.794095
+geocodeLng=151.188817
+geocodeLocality=Chatswood
+description=THIS IS A BRAND NEW, BOXED ITEM ! PLEASE SEE THE PICTURES&lt;br&gt;&lt;br&gt;&lt;div class=&quot;content-section&quot;&gt; &lt;h3&gt;Description&lt;/h3&gt;    &lt;div class=&quot;sanitised-markup&quot;&gt;&lt;p&gt;Tall boy, mirror and rivet finish on brown / grey background, 5-drawer, approx 600 x 440 x 1230(h)mm, RRP$1999   &lt;/div&gt;    &lt;/div&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;THIS ADVERT IS MANAGED BY https://gumtree-intforce.rhcloud.com
+attributeMap['hg_furniture_dressers_drawers.paypal_accepted_seller_s']=false
+attributeMap['hg_furniture_dressers_drawers.condition_s']=new
+attributeMap['hg_furniture_dressers_drawers.highest_price_s']=399.0
+attributeMap['hg_furniture_dressers_drawers.automatic_repost_ad_s']=false

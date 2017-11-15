@@ -1,0 +1,52 @@
+_showLocationOnMap=on
+unacceptableGeocode=false
+streetName=
+houseNumber=
+galleryImageIndex=
+postcode=2040
+geocodeConfidence=OK
+level2CategoryId=
+adId=
+attributeMap['cars.greyimport']=
+repost=false
+adType=OFFER
+quickOffer=
+files[]=
+_renew=on
+categoryId=18320
+price.amount=2700
+price.type=FIXED
+minimumOfferPrice=2500
+title=2002 Ford Courier Ute DOUBLE CAB 4x4, Manual, 195K,WITH BLUE SLIP
+images=http://i.ebayimg.com/00/s/NjAwWDgwMA==/z/~2gAAOSwh-1W5I-t/$_14.JPG
+images=http://i.ebayimg.com/00/s/NjAwWDgwMA==/z/5kcAAOSwxp9W5I-p/$_14.JPG
+images=http://i.ebayimg.com/00/s/NjAwWDgwMA==/z/EvUAAOSwr7ZW5I-q/$_14.JPG
+images=http://i.ebayimg.com/00/s/NjAwWDgwMA==/z/h0UAAOSwYlJW5I-x/$_14.JPG
+images=http://i.ebayimg.com/00/s/NjAwWDgwMA==/z/d0YAAOSwAuNW5I-v/$_14.JPG
+images=http://i.ebayimg.com/00/s/NjAwWDgwMA==/z/NjQAAOSwZ8ZW5I-p/$_14.JPG
+name=Tatiana
+phoneNumber=0410381932
+locationId=3003844
+mapAddress=Leichhardt, NSW, 2040
+geocodeLat=-33.882417
+geocodeLng=151.154762
+geocodeLocality=Leichhardt
+description=BLUE SLIP IS PROVIDED. ALL READY FOR REGISTRATION OR I CAN REGISTER IT FOR YOU AT EXTRA COSTS4x4 double cab, in good condition, with very low mileage for the age only 195K. Will throw a canopy to go on tray. It is missing couple of glasses but still very usableMechanically in A1 condition, clean interior with no rips. Just been serviced, new MONROE 4x4 heavy duty rear shocks, new oils, filters etc.The ute has just passed a thorough blue slip inspection without any issues and is ready to be registered. All you need is to pay for your CTP and registration.All electrics including aircon working as expected, 4x4, transmission and engine are really good. Body has few dents, scratches etc as you would expect from a work ute.
+attributeMap['cars.variant_s']=XL (4x4)
+attributeMap['cars.nvic_s']=ACY02A
+attributeMap['cars.fueltype_s']=unleaded
+attributeMap['cars.forsaleby_s']=ownr
+attributeMap['cars.engine_capacity_litres_s']=2.6L
+attributeMap['cars.airconditioning_s']=y
+attributeMap['cars.cylinder_configuration_s']=4 cyl
+attributeMap['cars.minimum_offer_price_s']=2500
+attributeMap['cars.carbodytype_s']=ute
+attributeMap['cars.colour_s']=white
+attributeMap['cars.highest_price_s']=2700.0
+attributeMap['cars.caryear_i']=2002
+attributeMap['cars.carmake_s']=ford
+attributeMap['cars.carmileageinkms_i']=195000
+attributeMap['cars.carmodel_s']=ford_courier
+attributeMap['cars.cartransmission_s']=m
+attributeMap['cars.registered_s']=n
+attributeMap['cars.drivetrain_s']=4x4

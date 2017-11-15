@@ -1,0 +1,35 @@
+attributeMap['cars.greyimport']=
+postcode=2040
+houseNumber=
+streetName=
+adType=OFFER
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+_showLocationOnMap=on
+unacceptableGeocode=false
+level2CategoryId=
+quickOffer=
+_renew=on
+repost=false
+categoryId=18403
+price.amount=50
+price.type=FIXED
+minimumOfferPrice=
+title=BULK SALE 7x Aqua Dolce New Double Glass Cup Holders RRP $99 EACH
+images=https://i.ebayimg.com/00/s/MzIyWDUwMA==/z/DN0AAOSwA3dYOMwF/$_20.JPG
+images=https://i.ebayimg.com/00/s/MjgxWDUwMA==/z/iq8AAOSwiONYOMvx/$_20.JPG
+images=https://i.ebayimg.com/00/s/NDUwWDgwMA==/z/KKoAAOSwux5YOMvw/$_20.JPG
+name=Dimitri
+phoneNumber=0410381932
+locationId=3003845
+mapAddress=Lilyfield, NSW, 2040
+geocodeLat=-33.87109
+geocodeLng=151.161166
+geocodeLocality=Lilyfield
+description=THE LOT IS WORTH NEARLY $700 in shops.&lt;br&gt;GET IT FOR UNBELIVERABLE DISCOUNTED PRICE OF 14 times CHEAPER !&lt;br&gt;&lt;br&gt;BULK SALE 7x Aqua Dolce New Double Glass Cup Holders RRP $99 EACH&lt;br&gt;&lt;br&gt;High quality solid brass  Aqua Dolce brand by Mansoon. This is not that cheap low quality unbranded Chinese stuff that you may find for sale elsewhere.&lt;br&gt;&lt;br&gt;Deluxe chrome finish&lt;br&gt;Easy to install, all fixing screws provided&lt;br&gt;Complete series available to add that elegant touch to your bathroom&lt;br&gt;5 Year warranty&lt;br&gt;Solid and made to last!
+attributeMap['other_home_garden.highest_price_s']=50.0
+attributeMap['other_home_garden.condition_s']=new
+attributeMap['other_home_garden.automatic_repost_ad_s']=false
+attributeMap['other_home_garden.paypal_accepted_seller_s']=false

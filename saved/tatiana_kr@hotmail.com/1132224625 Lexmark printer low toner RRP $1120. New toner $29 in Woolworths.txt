@@ -1,0 +1,33 @@
+attributeMap['cars.greyimport']=
+postcode=2040
+houseNumber=
+streetName=
+adType=OFFER
+adId=
+geocodeConfidence=OK
+files[]=
+bbImageBaseUrl=/bb-image.html
+galleryImageIndex=
+_showLocationOnMap=on
+unacceptableGeocode=false
+level2CategoryId=
+quickOffer=
+_renew=on
+repost=false
+categoryId=18555
+price.amount=35
+price.type=FIXED
+minimumOfferPrice=
+title=Lexmark printer low toner RRP $1120. New toner $29 in Woolworths
+images=https://i.ebayimg.com/00/s/MjQ5WDI4MA==/z/UC4AAOSwcLxYFu8i/$_20.JPG
+name=Tatiana
+phoneNumber=0410381932
+locationId=3003844
+geocodeLat=-33.882417
+geocodeLng=151.154762
+geocodeLocality=Leichhardt
+description=This is an expensive professional unit RRP over $1,000. MS610 touch screen 1 loading tray for paper, fast, realiable professional printer, prints on both sides. Pick up from Leichhardt. Prints fine but showing low toner, will need a toner top up at some time in the future. You can buy a new toner for $29 in Woolworth. http://www.ebay.com.au/itm/1x-LEXMARK-MS310-MS312-MS410-MS415-MS510-MS610-503H-50F3H00-5K-TONER-REFILL-/122017464574?hash=item1c68cec0fe:g:oDYAAOSwNuxXYp
+attributeMap['printers.condition_s']=used
+attributeMap['printers.paypal_accepted_seller_s']=false
+attributeMap['printers.highest_price_s']=35.0
+attributeMap['printers.automatic_repost_ad_s']=false

@@ -1,0 +1,31 @@
+description=External used 3 timber doors,&lt;br&gt;&lt;br&gt;&lt;br&gt;approx size 2040X820x40mm&lt;br&gt;&lt;br&gt;&lt;br&gt;2035X820x40mm&lt;br&gt;&lt;br&gt;&lt;br&gt;2030x820x40mm&lt;br&gt;&lt;br&gt;&lt;br&gt;2 of them are painted whisper white from the external side, and stained inside&lt;br&gt;&lt;br&gt;&lt;br&gt;1 of them are full stained&lt;br&gt;&lt;br&gt;&lt;br&gt;very good condtion&lt;br&gt;&lt;br&gt;price for each door&lt;br&gt;&lt;br&gt;&lt;br&gt;One door comes with knob and the keys,
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+attributeMap['cars.greyimport']=
+houseNumber=
+unacceptableGeocode=false
+level2CategoryId=
+_renew=on,_showLocationOnMap
+categoryId=20103
+adType=OFFER
+price.amount=45
+price.type=FIXED
+minimumOfferPrice=
+attributeMap[building_materials.condition_s]=used
+title=3 Timber Doors External
+images=https://i.ebayimg.com/00/s/MzAwWDQwMA==/z/ApYAAOSwcYxZkyeQ/$_20.JPG
+images=https://i.ebayimg.com/00/s/MzAwWDQwMA==/z/qX0AAOSwfkdZkyeN/$_20.JPG
+images=https://i.ebayimg.com/00/s/MzAwWDQwMA==/z/aEMAAOSw76pZkyeN/$_20.JPG
+images=https://i.ebayimg.com/00/s/NDAwWDMwMA==/z/JlIAAOSwwKtZkygB/$_20.JPG
+name=Dimitri
+phoneNumber=0410381932
+locationId=3004117
+geocodeLat=-33.794095
+geocodeLng=151.188817
+geocodeLocality=Chatswood
+attributeMap['building_materials.paypal_accepted_seller_s']=false
+attributeMap['building_materials.automatic_repost_ad_s']=false
+attributeMap['building_materials.condition_s']=used
+attributeMap['building_materials.highest_price_s']=50.0

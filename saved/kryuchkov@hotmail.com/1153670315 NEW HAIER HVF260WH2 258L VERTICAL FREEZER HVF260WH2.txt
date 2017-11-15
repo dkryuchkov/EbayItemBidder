@@ -1,0 +1,29 @@
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+attributeMap['cars.greyimport']=
+houseNumber=
+unacceptableGeocode=false
+level2CategoryId=
+_renew=on,_showLocationOnMap
+categoryId=20061
+adType=OFFER
+price.amount=449
+price.type=FIXED
+minimumOfferPrice=
+attributeMap[hg_appliances_fridge_freezer.condition_s]=new
+title=NEW HAIER HVF260WH2 258L VERTICAL FREEZER HVF260WH2
+images=https://i.ebayimg.com/00/s/NzEyWDI2MA==/z/F4kAAOSwvPRZX19z/$_20.JPG
+images=https://i.ebayimg.com/00/s/NTc1WDU3NQ==/z/BVsAAOSwiA9ZX191/$_20.JPG
+name=Dimitri
+phoneNumber=0410381932
+locationId=3004117
+geocodeLat=-33.794095
+geocodeLng=151.188817
+geocodeLocality=Chatswood
+description=NEW Haier 258L Vertical Freezer (White) (HVF260WH2) Recommended Retail Price (RRP) - $1099 as of May 2017 Colour: White Gross capacity: 258 L Environmentally friendly R600A refrigerant Child lock Assist Handle Frost free Interior LED light Pizza zone Quick response cooling with innovative Super Freeze technology Reversible door Self diagnostic assistance Touch LED temperature control White interior lining Energy rating: 3.5 Slim 595mm width Dimensions (HxWxD): 1670 x 595 x 685 m
+attributeMap['hg_appliances_fridge_freezer.automatic_repost_ad_s']=false
+attributeMap['hg_appliances_fridge_freezer.paypal_accepted_seller_s']=false
+attributeMap['hg_appliances_fridge_freezer.highest_price_s']=499.0
+attributeMap['hg_appliances_fridge_freezer.condition_s']=new

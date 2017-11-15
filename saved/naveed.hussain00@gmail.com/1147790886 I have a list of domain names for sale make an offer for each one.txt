@@ -1,0 +1,26 @@
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+attributeMap['cars.greyimport']=
+houseNumber=
+unacceptableGeocode=false
+level2CategoryId=
+_renew=on,_showLocationOnMap
+categoryId=18319
+price.amount=
+price.type=SWAP_TRADE
+minimumOfferPrice=
+attributeMap[other_stuff_for_sale.condition_s]=new
+title=I have a list of domain names for sale make an offer for each one
+images=https://i.ebayimg.com/00/s/MzY1WDQwMw==/z/OVYAAOSww3tY8YXl/$_20.JPG
+name=Nav
+phoneNumber=0402602979
+locationId=3003499
+geocodeLat=-33.771962
+geocodeLng=150.843234
+geocodeLocality=Rooty Hill
+description=mysamsungstore.comysamsung.copro-mainservices.net.aupromainservices.com.aupromainservices.net.aupro-mainservices.com.aucrossfitcastlehill.comxfitcastlehill.com.auxfitcastlehill.net.aucrossfitcastlehill.net.auaquahydrate.com.auaquahydrate.net.aumysamsung.com.aumysamsungstore.com.auappleios.com.auapps4sale.com.au&lt;br&gt;Make me an offer and feel free to contact me
+attributeMap['other_stuff_for_sale.condition_s']=new
+attributeMap['other_stuff_for_sale.paypal_accepted_seller_s']=true
+attributeMap['other_stuff_for_sale.automatic_repost_ad_s']=false

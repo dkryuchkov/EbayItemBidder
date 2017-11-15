@@ -1,0 +1,42 @@
+attributeMap['cars.greyimport']=
+postcode=2067
+houseNumber=
+streetName=
+adType=OFFER
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+_showLocationOnMap=on
+unacceptableGeocode=false
+level2CategoryId=
+quickOffer=
+_renew=on
+repost=false
+categoryId=20066
+price.amount=850
+price.type=FIXED
+minimumOfferPrice=
+title=NEW Siemens 8.5kg Front Load Washing Machine (White) (WM16Y892AU)
+name=Dimitri
+phoneNumber=0410381932
+locationId=3003844
+mapAddress=Chatswood 2067, NSW
+geocodeLat=-33.882417
+geocodeLng=151.154762
+geocodeLocality=Chatswood
+description=&lt;div class="content-section"&gt; &lt;h3&gt;Description&lt;/h3&gt;    &lt;div class="sanitised-markup"&gt;&lt;p&gt;&lt;strong&gt;Siemens 8.5kg Front Load Washing Machine &#40;White&#41; &#40;WM16Y892AU&#41;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Recommended Retail Price &#40;RRP&#41; - &#36;2499 as of February 2017 based on a new product.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Capacity&#58; 8.5 kg&lt;/li&gt;&lt;li&gt;iDos - Automatic Program for automatic dosing&lt;/li&gt;&lt;li&gt;15 Programs&lt;/li&gt;&lt;li&gt;Night wash program with lower noise suitable for washing during the night&lt;/li&gt;&lt;li&gt;Quilt program with higher water levels and longer rinsing duration&lt;/li&gt;&lt;li&gt;DrumClean with reminder function&lt;/li&gt;&lt;li&gt;Maximum spin speed &#58; 1600 rpm&lt;/li&gt;&lt;li&gt;waveDrum&#58; for highly effective and extremely gentle laundry care&lt;/li&gt;&lt;li&gt;iQDrive &#58; Quiet motor with a long lifespan&lt;/li&gt;&lt;li&gt;AquaSensor for optimum rinse results&lt;/li&gt;&lt;li&gt;waterPerfect Plus&#58; resource efficient water management system&lt;/li&gt;&lt;li&gt;VarioPerfect&#58; time or energy optimized programs with perfect wash performance&lt;/li&gt;&lt;li&gt;antiVibration design for greater stability and quietness&lt;/li&gt;&lt;li&gt;Flow-through sensor&lt;/li&gt;&lt;li&gt;hydroSafe 100&#37; anti-leak protection guarantee system&lt;/li&gt;&lt;li&gt;Auto Load&#58; Determines load and adjusts program accordingly&lt;/li&gt;&lt;li&gt;Consumption indicator&#58; Information about water and energy consumption prior to start of programme&lt;/li&gt;&lt;li&gt;EcoSilence Drive&#58; quiet motor with long lifespan&lt;/li&gt;&lt;li&gt;antiVibration design for greater stability and quietness&lt;/li&gt;&lt;li&gt;LED drum interior light&lt;/li&gt;&lt;li&gt;32 cm porthole, chrome, white with 180&#176; opening door&lt;/li&gt;&lt;li&gt;i-Dos&#58; automatic dosing of liquid detergent and softener or two different &lt;/li&gt;&lt;li&gt;liquid detergents&lt;/li&gt;&lt;li&gt;Illuminated control dial with integrated On-&#47;Off mode&lt;/li&gt;&lt;li&gt;autoStain Removal System with 16 stain options&lt;/li&gt;&lt;li&gt;Reload function&lt;/li&gt;&lt;li&gt;Foam detection system&lt;/li&gt;&lt;li&gt;Self-cleaning detergent drawer&lt;/li&gt;&lt;li&gt;hydroSafe 100&#37; anti-leak protection guarantee system&lt;/li&gt;&lt;li&gt;Child lock&lt;/li&gt;&lt;li&gt;Dimensions &#40;HxWxD&#41;&#58; 85.0 cm x 60.0 cm x 59.0 cm&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;Item may show marks&#47;scratches&#47;dents or imperfections. Accessories may vary from standard.&lt;/li&gt;&lt;li&gt;Returns&#47;refunds based on marks&#47;scratches&#47;dents or imperfections will not be accepted&lt;/li&gt;&lt;li&gt;This item is classified as Grade 2 &#40;please refer to Grading tab for details&#41;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt; Please note &#58;Missing 1 x Legs &lt;/p&gt;&lt;ul&gt;&lt;li&gt;Orange&#35; Marks on the top&lt;/li&gt;&lt;li&gt;Blue &#35; Dents on the left panel&lt;/li&gt;&lt;li&gt;Red &#35; Scratches on the right panel&lt;/li&gt;&lt;/ul&gt;&lt;p&gt; &#40;238585-4&#41;&lt;/p&gt;&lt;p&gt;&lt;strong&gt; Note&#58;&lt;/strong&gt;  &lt;/p&gt;    &lt;/div&gt;    &lt;/div&gt;
+attributeMap['hg_appliances_washing_drying.paypal_accepted_seller_s']=false
+attributeMap['hg_appliances_washing_drying.automatic_repost_ad_s']=false
+attributeMap['hg_appliances_washing_drying.condition_s']=new
+attributeMap['hg_appliances_washing_drying.website_s']=gumtree-intforce.rhcloud.com
+attributeMap[hg_appliances_washing_drying.slogan_s]=NEW Siemens 8.5kg Front Load Washing Machine (White) (WM16Y892AU)
+hourstomarket=22
+images=https://i.ebayimg.com/00/s/NTE1WDQzNQ==/z/UekAAOSw32lYzmBS/$_20.JPG
+images=https://i.ebayimg.com/00/s/ODgwWDY3MA==/z/NeQAAOSwzgBYzmBf/$_20.JPG
+images=https://i.ebayimg.com/00/s/NTY3WDg4MA==/z/OEQAAOSwhQhYzmBs/$_20.JPG
+images=https://i.ebayimg.com/00/s/ODgwWDY4OA==/z/8rsAAOSwol5YzmB8/$_20.JPG
+images=https://i.ebayimg.com/00/s/ODgwWDY4Ng==/z/9EcAAOSwol5YzmCI/$_20.JPG
+images=https://i.ebayimg.com/00/s/ODgwWDc0OQ==/z/uuQAAOSwYXVYzmCg/$_20.JPG
+ctk=kI99jOQBgQT1ffUPwzTGBw
+csrft=43f381456e4303cafc9d8f554a511fbc

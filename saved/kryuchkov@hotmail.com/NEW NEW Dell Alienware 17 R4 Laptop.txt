@@ -1,0 +1,42 @@
+attributeMap['cars.greyimport']=
+postcode=2067
+houseNumber=
+streetName=
+adType=OFFER
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+_showLocationOnMap=on
+unacceptableGeocode=false
+level2CategoryId=
+quickOffer=
+_renew=on
+repost=false
+categoryId=18553
+price.amount=2000
+price.type=FIXED
+minimumOfferPrice=
+title=NEW Dell Alienware 17 R4 Laptop
+name=Dimitri
+phoneNumber=0410381932
+locationId=3003844
+mapAddress=Chatswood 2067, NSW
+geocodeLat=-33.882417
+geocodeLng=151.154762
+geocodeLocality=Chatswood
+description=Dell NBD (Next Business Day on-site) warranty until July 08, 2018. Dell Alienware 17 R4 LaptopSilverIntel(R) Core(TM) i7-7700HQ (Quad-Core, 6MB Cache, up to 3.8GHz w/ Turbo Boost) 16GB DDR4-2400MHz 256GB PCIe SSD (Boot) + 1TB 7200RPM SATA 6Gb/s (Storage) No Optical Drive 17.3 inch FHD (1920 x 1080) IPS Anti-Glare 300-nits Display NVIDIA(R) GeForce(R) GTX 1060 with 6GB GDDR5 Integrated High Definition Audio Gigabit Ethernet NIC Killer 1535 802.11ac 2x2 WiFi and Bluetooth 4.1 Alienware HD+IR presence detection camera (Standard) 7.1 Digital Audio out using HDMI out connection1 X Type-A SuperSpeed USB 3.0 Port, 1 X Mini-Display Port 1.2 (certified) Output, 1 X HDMI 2.0 Output, 1 X Thunderbolt™ 3 Port (USB Type-C™ with support for SuperSpeed USB 10Gbps, 40Gbps Thunderbolt, and DisplayPort), 1 X Alienware Graphics Amplifier Port, 1 X Type-C SuperSpeed USB 3.0 Port 1 X Type-A SuperSpeed USB 3.0 Port with Power Share technology
+attributeMap['laptops.paypal_accepted_seller_s']=false
+attributeMap['laptops.automatic_repost_ad_s']=false
+attributeMap['laptops.condition_s']=new
+attributeMap['laptops.website_s']=gumtree-intforce.rhcloud.com
+attributeMap[laptops.slogan_s]=NEW Dell Alienware 17 R4 Laptop
+hourstomarket=24
+images=https://i.ebayimg.com/00/s/NDY5WDYwMA==/z/5H4AAOSwFuxZviCB/$_20.JPG
+images=https://i.ebayimg.com/00/s/ODgwWDg4MA==/z/C3MAAOSwddhZviCF/$_20.JPG
+images=https://i.ebayimg.com/00/s/ODgwWDg4MA==/z/V58AAOSwK89ZviCL/$_20.JPG
+images=https://i.ebayimg.com/00/s/ODgwWDg4MA==/z/LOgAAOSw7eFZviCQ/$_20.JPG
+ctk=s7BoV_Qphe7tPQCu-c3ilQ
+csrft=f1919322abd1d8c25a35c2c65b958f55
+bbUserInput=3524
+bbToken=3b90ba8d8c9049a2ec1685d338fdcbf0ce793cf920679e77ed559c6d538c86989b65c66e52a57a12518b3f10f2b7cf297f36c72fc513eee53e72315f928592d4

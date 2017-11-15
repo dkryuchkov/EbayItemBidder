@@ -1,0 +1,34 @@
+attributeMap['cars.greyimport']=
+postcode=2040
+houseNumber=
+streetName=
+adType=OFFER
+adId=
+geocodeConfidence=OK
+files[]=
+bbImageBaseUrl=/bb-image.html
+galleryImageIndex=
+_showLocationOnMap=on
+unacceptableGeocode=false
+level2CategoryId=
+quickOffer=
+_renew=on
+repost=false
+categoryId=21113
+price.amount=230
+price.type=FIXED
+minimumOfferPrice=
+title=BRAND NEW HTC One M7 32GB Smartphone Unlocked
+images=https://i.ebayimg.com/00/s/NTAwWDUwMA==/z/9IMAAOSwo4pYMqVa/$_20.JPG
+images=https://i.ebayimg.com/00/s/NTAwWDUwMA==/z/~Y8AAOSwiDFYMqVf/$_20.JPG
+name=Dimitri
+phoneNumber=0410381932
+locationId=3003845
+geocodeLat=-33.87109
+geocodeLng=151.161166
+geocodeLocality=Lilyfield
+description=BRAND NEW, NEVER USED. Can post for additional $15&lt;br&gt;&lt;br&gt;A stunning 4.7&rdquo; Full HD display and a powerful Quad-core 1.7Ghz processor are just a couple of impressive features on the HTC One.&lt;br&gt;&lt;br&gt;With 32GB of internal memory, you can download your favorite apps and games from Google Play with plenty of space for your photos or movies. Integrated with HTC BoomSound and Beats Audio, you&rsquo;ll be sure to experience the best sound quality during music and movie playback.&lt;br&gt;&lt;br&gt;Specifications:&lt;br&gt;&lt;br&gt;General&lt;br&gt;2G Network:	GSM 850 / 900 / 1800 / 1900&lt;br&gt;3G Network:	HSDPA 850 / 900 / 1900 / 2100&lt;br&gt;&lt;br&gt;SIM:	Micro-SIM&lt;br&gt;Dimensions:	137.4 x 68.2 x 9.3 mm (5.41 x 2.69 x 0.37 in)&lt;br&gt;Weight:	143 g (5.04 oz)&lt;br&gt;Display Type:	Super LCD3 capacitive touchscreen, 16M colors&lt;br&gt;Size:	1080 x 1920 pixels, 4.7 inches (~469 ppi pixel density)&lt;br&gt;Multitouch:	Yes&lt;br&gt;Protection:	Corning Gorilla Glass 2&lt;br&gt;- HTC Sense UI 5.0&lt;br&gt;Sound Alert types:	Vibration, MP3, WAV ringtones&lt;br&gt;Loud speaker:	Yes, with stereo speakers, built-in amplifiers&lt;br&gt;3.5mm jack:	Yes&lt;br&gt;- Beats Audio&lt;br&gt;Memory&lt;br&gt;Card slot:	No&lt;br&gt;Internal:	32/64 GB, 2 GB RAM&lt;br&gt;Data&lt;br&gt;GPRS:	Yes&lt;br&gt;EDGE:	Yes&lt;br&gt;WLAN:	Wi-Fi 802.11 a/b/g/n/ac, Wi-Fi Direct, DLNA, hotspot&lt;br&gt;Bluetooth:	v4.0, A2DP, apt-X&lt;br&gt;NFC:	Yes (Market dependent)&lt;br&gt;Infrared port:	Yes&lt;br&gt;USB:	microUSB v2.0 (MHL TV-out), USB Host&lt;br&gt;Camera&lt;br&gt;Primary:	4 MP, 2688 x 1520 pixels, autofocus, optical image stabilization, LED flash&lt;br&gt;Features:	1/3&#39;&#39; sensor size, 2?m pixel size, simultaneous HD video and image recording, geo-tagging, face/smile detection&lt;br&gt;Video:	1080p@30fps, 720p@60fps, optical stabilization, HDR, stereo sound rec.&lt;br&gt;Secondary:	2.1 MP, 1080p@30fps, HDR&lt;br&gt;Features&lt;br&gt;OS:	Android OS, v4.1.2 (Jelly Bean), upgradable to v5.0 (Lollipop)&lt;br&gt;CPU:	Quad-core 1.7 GHz Krait 300&lt;br&gt;GPU:	Adreno 320&lt;br&gt;Sensors:	Accelerometer, gyro, proximity, compass&lt;br&gt;Browser:	HTML5&lt;br&gt;Messaging:	SMS (threaded view), MMS, Email, Push Email&lt;br&gt;Radio:	Stereo FM radio with RDS&lt;br&gt;GPS:	Yes, with A-GPS, GLONASS&lt;br&gt;Java:	Yes, via Java MIDP emulator&lt;br&gt;Other Features:	- Dropbox (25 GB cloud storage)&lt;br&gt;- Active noise cancellation with dedicated mic&lt;br&gt;- DivX/XviD/MP4/H.264/WMV player&lt;br&gt;- MP3/eAAC+/WMA/WAV/FLAC player&lt;br&gt;- Document viewer/editor&lt;br&gt;- Photo viewer/editor&lt;br&gt;- Battery Non-removable Li-Po 2300 mAh battery&lt;br&gt;- Stand-by:	Up to 500 h (2G) / Up to 480 h (3G)&lt;br&gt;- Talk time:	Up to 27 h (2G) / Up to 18 h (3G
+attributeMap['android_phones.highest_price_s']=250.0
+attributeMap['android_phones.paypal_accepted_seller_s']=false
+attributeMap['android_phones.automatic_repost_ad_s']=false
+attributeMap['android_phones.condition_s']=new

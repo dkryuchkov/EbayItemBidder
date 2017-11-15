@@ -1,0 +1,42 @@
+attributeMap['cars.greyimport']=
+postcode=2040
+houseNumber=
+streetName=
+adType=OFFER
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+_showLocationOnMap=on
+unacceptableGeocode=false
+level2CategoryId=
+quickOffer=
+_renew=on
+repost=false
+categoryId=20080
+price.amount=1200
+price.type=FIXED
+minimumOfferPrice=
+title=Dining setting, 9-piece, white crystalline marble top on brushed 
+name=Dimitri
+phoneNumber=0410381932
+locationId=3003844
+mapAddress=Leichhardt, NSW, 2040
+geocodeLat=-33.882417
+geocodeLng=151.154762
+geocodeLocality=Leichhardt
+description=&lt;div class="content-section"&gt; &lt;h3&gt;Description&lt;/h3&gt;    &lt;div class="sanitised-markup"&gt;&lt;p&gt;Dining setting, 9-piece, white crystalline marble top on brushed stainless steel and marble base, approx 2100 x 1000mm, 8 x black vinyl upholstered brushed stainless steel cantilever chairs, RRP&#36;6999 &#40;237169-185&#41;&lt;/p&gt;&lt;p&gt;&lt;strong&gt; Note&#58;&lt;/strong&gt;  &lt;/p&gt;    &lt;/div&gt;    &lt;/div&gt;&lt;br&gt;&lt;br&gt;THIS ADVERT IS MANAGED BY https://gumtree-intforce.rhcloud.com
+attributeMap['hg_furniture_tables.paypal_accepted_seller_s']=false
+attributeMap['hg_furniture_tables.automatic_repost_ad_s']=false
+attributeMap['hg_furniture_tables.condition_s']=used
+attributeMap['hg_furniture_tables.website_s']=gumtree-intforce.rhcloud.com
+attributeMap[hg_furniture_tables.slogan_s]=Dining setting, 9-piece, white crystalline marble top on brushed 
+hourstomarket=-1
+bbImageBaseUrl=/bb-image.html
+images=https://i.ebayimg.com/00/s/NTg3WDg4MA==/z/H54AAOSwo4pYV6-c/$_20.JPG
+images=https://i.ebayimg.com/00/s/NTg3WDg4MA==/z/SgwAAOSw44BYV6-y/$_20.JPG
+images=https://i.ebayimg.com/00/s/ODgwWDU4Nw==/z/IEMAAOSw6DtYV6~M/$_20.JPG
+ctk=u0MnRHkGROp74EKHnObZXA
+csrft=f99dbd49fc2302644f4506158d3a7552
+bbUserInput=4432
+bbToken=689aee2b3696cb83493d26d1dfacce837d6c3f146db33007428d4f7473277ab87b1fd6332e71fd3e8f9763f07083e7537cf7fddbd0a76b221f8dd5fbec230b78

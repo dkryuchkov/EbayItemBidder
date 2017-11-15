@@ -1,0 +1,42 @@
+attributeMap['cars.greyimport']=
+postcode=2040
+houseNumber=
+streetName=
+adType=OFFER
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+_showLocationOnMap=on
+unacceptableGeocode=false
+level2CategoryId=
+quickOffer=
+_renew=on
+repost=false
+categoryId=20093
+price.amount=120
+price.type=FIXED
+minimumOfferPrice=
+title=Keyang Cordless Impact Wrench 1/2 Drive Skin Only
+name=Dimitri
+phoneNumber=0410381932
+locationId=3003844
+mapAddress=Leichhardt, NSW, 2040
+geocodeLat=-33.882417
+geocodeLng=151.154762
+geocodeLocality=Leichhardt
+description=http://www.keyang.com.au/<br>KEYANG AUSTRALIA - Industrial Power Tools<br>Keyang manufactures in South Korea and is the number 1 in Industrial Power Tools and has remained market leader for the last 10 years, in Korea, ahead of all the major brands known in the world wide market place.<br>Since the birth of Keyang over 30 years ago, our values have remained true. To manufacture high quality Power Tools without compromise.<br>This is a top quality professional tools brand, more expensive than DeWalt or Makita&lt;div class="content-section"&gt; &lt;h3&gt;Description&lt;/h3&gt;    &lt;div class="sanitised-markup"&gt;&lt;p&gt;Keyang Cordless Impact Wrench 1&#47;2 Drive Skin Only &#40;236814-12&#41;&lt;/p&gt;&lt;p&gt;&lt;strong&gt; Note&#58;&lt;/strong&gt;  &lt;/p&gt;    &lt;/div&gt;    &lt;p class="attachment"&gt;&lt;a href="http://res3.graysonline.com/handlers/attachmenthandler.ashx?t=sh&amp;id=14322970&amp;filename=Plant+Hazard+Report.pdf"&gt;Plant&#32;Hazard&#32;Report&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+attributeMap['hg_tools_diy_power_tools.paypal_accepted_seller_s']=false
+attributeMap['hg_tools_diy_power_tools.automatic_repost_ad_s']=false
+attributeMap['hg_tools_diy_power_tools.condition_s']=used
+attributeMap['hg_tools_diy_power_tools.website_s']=gumtree-intforce.rhcloud.com
+attributeMap[hg_tools_diy_power_tools.slogan_s]=Keyang Cordless Impact Wrench 1/2 Drive Skin Only
+hourstomarket=-2
+bbImageBaseUrl=/bb-image.html
+images=https://i.ebayimg.com/00/s/NDgwWDY0MA==/z/OewAAOSwnHZYT5wY/$_20.JPG
+images=https://i.ebayimg.com/00/s/NDgwWDY0MA==/z/ZYUAAOSwa~BYT5we/$_20.JPG
+images=https://i.ebayimg.com/00/s/NDgwWDY0MA==/z/O0QAAOSwnHZYT5wk/$_20.JPG
+ctk=gJHZX8A3ckDxBEwQsJq53w
+csrft=c8c7d9181122c679f4405fe12768ff26
+bbUserInput=0478
+bbToken=056b5d8aec3057414b6e90356a2004d11ae89cadbe81ad822b26da52e8b607f8d3f62e5bb086c74a65ad087fb846351cafe777f96ee18489fa9a60334345741f

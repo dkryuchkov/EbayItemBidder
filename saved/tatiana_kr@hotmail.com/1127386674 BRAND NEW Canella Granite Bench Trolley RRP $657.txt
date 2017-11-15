@@ -1,0 +1,40 @@
+attributeMap['cars.greyimport']=
+postcode=2040
+houseNumber=
+streetName=
+adType=OFFER
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+_showLocationOnMap=on
+unacceptableGeocode=false
+level2CategoryId=
+quickOffer=
+_renew=on
+repost=false
+categoryId=20078
+price.amount=150
+price.type=FIXED
+minimumOfferPrice=
+attributeMap['hg_furniture_other.condition_s']=new
+title=BRAND NEW Canella Granite Bench Trolley RRP $657
+images=https://i.ebayimg.com/00/s/NTg5WDg4MA==/z/pVwAAOSwHsRYCVsq/$_14.JPG
+images=https://i.ebayimg.com/00/s/NTg4WDg4MA==/z/9vgAAOSw44BYCVsq/$_14.JPG
+images=https://i.ebayimg.com/00/s/NTg4WDg4MA==/z/FnkAAOSwXeJYCVst/$_14.JPG
+images=https://i.ebayimg.com/00/s/NTg4WDg4MA==/z/VJ4AAOSwo4pYCVsy/$_14.JPG
+images=https://i.ebayimg.com/00/s/NTg3WDg4MA==/z/ncAAAOSwal5YCVst/$_14.JPG
+images=https://i.ebayimg.com/00/s/NTg5WDg4MA==/z/ncYAAOSwal5YCVst/$_14.JPG
+images=https://i.ebayimg.com/00/s/NTg4WDg4MA==/z/pjkAAOSwHsRYCVsu/$_14.JPG
+images=https://i.ebayimg.com/00/s/NTg5WDg4MA==/z/adcAAOSwA3dYCVst/$_14.JPG
+name=Tatiana
+phoneNumber=0410381932
+locationId=3003844
+mapAddress=Leichhardt, NSW, 2040
+geocodeLat=-33.882417
+geocodeLng=151.154762
+geocodeLocality=Leichhardt
+description=DescriptionCanella Granite Bench Trolley. ITEM IS VERY HEAVY, 2 BOXES each in access of 20kg !!! TOP QUALITY PRODUCTFeatures:1 x Wooden Bench Trolley with Granite TopColour: As ShownDimensions of Bench: 900 (L) 1030 (H) 620 (W) mmEasily moved with Wheel &amp; Handle.Product is flatpacked. Assembly is required.POSTAGE CAN BE ORGINISED AND COST AROUND $50 DEPENDING ON YOUR POST CODE
+attributeMap['hg_furniture_other.highest_price_s']=150.0
+attributeMap['hg_furniture_other.automatic_repost_ad_s']=false
+attributeMap['hg_furniture_other.paypal_accepted_seller_s']=false

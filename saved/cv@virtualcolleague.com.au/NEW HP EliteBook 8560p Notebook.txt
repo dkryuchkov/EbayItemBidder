@@ -1,0 +1,40 @@
+attributeMap['cars.greyimport']=
+postcode=2040
+houseNumber=
+streetName=
+adType=OFFER
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+_showLocationOnMap=on
+unacceptableGeocode=false
+level2CategoryId=
+quickOffer=
+_renew=on
+repost=false
+categoryId=18553
+price.amount=270
+price.type=FIXED
+minimumOfferPrice=
+title=HP EliteBook 8560p Notebook
+name=Dimitri
+phoneNumber=0410381932
+locationId=3003844
+mapAddress=Leichhardt, NSW, 2040
+geocodeLat=-33.882417
+geocodeLng=151.154762
+geocodeLocality=Leichhardt
+description=www.gumtree-intforce.rhcloud.com<br><br>&lt;div class="content-section"&gt; &lt;h3&gt;Description&lt;/h3&gt;    &lt;div class="sanitised-markup"&gt;&lt;p&gt;&lt;strong&gt;HP EliteBook 8560p Notebook&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &#40;Chassis Type&#58; Notebook&#41;&lt;/p&gt;&lt;p&gt; Specifications &lt;/p&gt;&lt;ul&gt;&lt;li&gt; Processor&#58; Intel&#40;R&#41; Core&#40;TM&#41; i5-2540M CPU &#64; 2.60GHz, 2 Core&#40;s&#41;&lt;/li&gt;&lt;li&gt; Memory&#58; 4GB RAM &lt;/li&gt;&lt;li&gt; Hard Disk&#58; 320GB, SATA, Hitachi, Serial_No &#40;E3834523GDPKGN&#41;&lt;/li&gt;&lt;li&gt; Optical Drive&#58; hp, CDDVDW SN-208BB, DVD-R&lt;/li&gt;&lt;li&gt; Network Interface&#58; Intel Corporation, Centrino Ultimate-N 6300, Wireless&lt;/li&gt;&lt;li&gt; Network Interface&#58; Intel Corporation, 82579LM Gigabit Network Connection, Ethernet&lt;/li&gt;&lt;li&gt; Storage Controller&#58; Intel Corporation, 6 Series&#47;C200 Series Chipset Family 6 port SATA AHCI Controller, SATA controller&lt;/li&gt;&lt;li&gt; Video Card&#58; Advanced Micro Devices, Inc. &#91;AMD&#47;ATI&#93;, Seymour &#91;Radeon HD 6400M&#47;7400M Series&#93;&lt;/li&gt;&lt;li&gt; Sound Card&#58; Intel Corporation, 6 Series&#47;C200 Series Chipset Family High Definition Audio Controller&lt;/li&gt;&lt;li&gt; Sound Card &#40;2&#41;&#58; Advanced Micro Devices, Inc. &#91;AMD&#47;ATI&#93;, Caicos HDMI Audio &#91;Radeon HD 6400 Series&#93;&lt;/li&gt;&lt;li&gt; No OS &lt;/li&gt;&lt;/ul&gt;&lt;p&gt; &lt;strong&gt;Please Note&#58;&lt;/strong&gt; Power on test passed. No other functions tested. HDDs formatted. Bare unit only, No AC power adaptor. No other accessories included. Minor marks, scratches and dents on the unit. Item is not in original box.&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Bios password protected. &#40;SN&#58;5CB2070P64&#41; &lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Product Condition is Seconds. It is sold &lt;strong&gt;as is&lt;/strong&gt;. No refunds or returns will be accept based on damage&#40;s&#41; and&#47;or fault&#40;s&#41;.&lt;/p&gt;&lt;p&gt; &#40;233503-30&#41;&lt;/p&gt;&lt;p&gt;&lt;strong&gt; Note&#58;&lt;/strong&gt;  &lt;/p&gt;    &lt;/div&gt;    &lt;/div&gt;
+attributeMap['laptops.paypal_accepted_seller_s']=false
+attributeMap['laptops.automatic_repost_ad_s']=false
+attributeMap['laptops.condition_s']=used
+attributeMap['laptops.website_s']=gumtree-intforce.rhcloud.com
+attributeMap[laptops.slogan_s]=HP EliteBook 8560p Notebook
+hourstomarket=5
+bbImageBaseUrl=/bb-image.html
+images=https://i.ebayimg.com/00/s/NTg0WDg4MA==/z/AksAAOSwOtdYTxSJ/$_20.JPG
+images=https://i.ebayimg.com/00/s/NTg0WDg4MA==/z/IzYAAOSwJ7RYTxSQ/$_20.JPG
+images=https://i.ebayimg.com/00/s/NTg0WDg4MA==/z/JuYAAOSw4GVYTxSZ/$_20.JPG
+ctk=gtR_1EVUyLfMyi_xlEqL0Q
+csrft=6f80ced5b8151171df8d5916a6aa4c06

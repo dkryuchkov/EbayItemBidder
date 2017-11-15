@@ -1,0 +1,37 @@
+_showLocationOnMap=on
+unacceptableGeocode=false
+streetName=
+houseNumber=
+galleryImageIndex=
+postcode=2040
+geocodeConfidence=OK
+level2CategoryId=
+adId=
+attributeMap['cars.greyimport']=
+repost=false
+adType=OFFER
+quickOffer=
+files[]=
+_renew=on
+categoryId=18475
+price.amount=95
+price.type=FIXED
+minimumOfferPrice=
+title=Nissan Navara D22 Rear diff complete in parts good cond, cheap
+images=http://i.ebayimg.com/00/s/NDAwWDMwMA==/z/LfUAAOSwJQdW-0aB/$_14.JPG
+images=http://i.ebayimg.com/00/s/NjAwWDgwMA==/z/6AUAAOSwQjNW-0aG/$_14.JPG
+images=http://i.ebayimg.com/00/s/NDAwWDMwMA==/z/5fUAAOSwzvlW-0aC/$_14.JPG
+images=http://i.ebayimg.com/00/s/NDAwWDMwMA==/z/Sz8AAOSwZtJW-0aC/$_14.JPG
+name=Tatiana
+phoneNumber=0410381932
+locationId=3003844
+mapAddress=Leichhardt, NSW, 2040
+geocodeLat=-33.882417
+geocodeLng=151.154762
+geocodeLocality=Leichhardt
+description=Nissan Navara D22 rear diffs complete in parts  great value, cheapest you can findPick up from Leichhardt, NSW 2040This item is second hand and in good working order
+attributeMap['engine_engine_parts_transmission.highest_price_s']=99.0
+attributeMap['engine_engine_parts_transmission.carmodel_s']=nissan_navara
+attributeMap['engine_engine_parts_transmission.warranty_s']=n
+attributeMap['engine_engine_parts_transmission.carmake_s']=nissan
+attributeMap['engine_engine_parts_transmission.condition_s']=used

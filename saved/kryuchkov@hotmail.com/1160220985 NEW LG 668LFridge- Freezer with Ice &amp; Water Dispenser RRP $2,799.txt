@@ -1,0 +1,31 @@
+description=BRAND NEW LG 668L Side By Side Fridge&#47; Freezer with Ice & Water Dispenser and&lt;br&gt;&lt;br&gt;Moisture Balance Crisper.&lt;br&gt;&lt;br&gt;&lt;br&gt;RRP $2,799
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+attributeMap['cars.greyimport']=
+houseNumber=
+unacceptableGeocode=false
+level2CategoryId=
+_renew=on,_showLocationOnMap
+categoryId=20061
+adType=OFFER
+price.amount=1200
+price.type=FIXED
+minimumOfferPrice=
+attributeMap[hg_appliances_fridge_freezer.condition_s]=used
+title=NEW LG 668LFridge/ Freezer with Ice &amp; Water Dispenser RRP $2,799
+images=https://i.ebayimg.com/00/s/NzY4WDc2OA==/z/UYkAAOSwg9dZwjie/$_20.JPG
+images=https://i.ebayimg.com/00/s/ODgwWDY3NQ==/z/10MAAOSwG-1Zwjii/$_20.JPG
+images=https://i.ebayimg.com/00/s/NzY4WDgwOQ==/z/fjoAAOSw3WxZwjio/$_20.JPG
+images=https://i.ebayimg.com/00/s/ODgwWDY4Ng==/z/QAcAAOSwnwZZwjiw/$_20.JPG
+name=Dimitri
+phoneNumber=0410381932
+locationId=3003844
+geocodeLat=-33.882417
+geocodeLng=151.154762
+geocodeLocality=Leichhardt
+attributeMap['hg_appliances_fridge_freezer.automatic_repost_ad_s']=false
+attributeMap['hg_appliances_fridge_freezer.paypal_accepted_seller_s']=false
+attributeMap['hg_appliances_fridge_freezer.highest_price_s']=1200.0
+attributeMap['hg_appliances_fridge_freezer.condition_s']=used

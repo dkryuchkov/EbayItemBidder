@@ -1,0 +1,39 @@
+attributeMap['cars.greyimport']=
+postcode=2040
+houseNumber=
+streetName=
+adType=OFFER
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+_showLocationOnMap=on
+unacceptableGeocode=false
+level2CategoryId=
+quickOffer=
+_renew=on
+repost=false
+categoryId=20103
+price.amount=50
+price.type=FIXED
+minimumOfferPrice=
+title=Brand New Imperialware Intrigue Semi Recessed Basin  RRP $400
+name=Tatiana
+phoneNumber=0410381932
+locationId=3003845
+mapAddress=Mary St, Lilyfield, NSW
+geocodeLat=-33.87109
+geocodeLng=151.161166
+geocodeLocality=Lilyfield
+description=DETAILS&lt;br&gt;Designed for the contemporary bathroom, the Intrigue semi recessed basin offers symmetry, balance &amp; style.&lt;br&gt;&lt;br&gt;* 500mm wide basin&lt;br&gt;* Supplied with chrome overflow &amp; plug &amp; waste&lt;br&gt;* Supplied with IM3773 fixing brackets&lt;br&gt;&lt;br&gt;Approvals: Australian Standard AS 1730
+attributeMap['building_materials.paypal_accepted_seller_s']=false
+attributeMap['building_materials.automatic_repost_ad_s']=false
+attributeMap['building_materials.condition_s']=new
+attributeMap['building_materials.highest_price_s']=50.0
+images=https://i.ebayimg.com/00/s/NjAwWDgwMA==/z/o-sAAOSwB09YNl7v/$_20.JPG
+images=https://i.ebayimg.com/00/s/ODU1WDY1MQ==/z/gUIAAOSwImRYNmDF/$_20.JPG
+images=https://i.ebayimg.com/00/s/OTAwWDE2MDA=/z/iBkAAOSw44BYNmEr/$_20.JPG
+ctk=BfvDO4fNw8Sbr6u8ChxULg
+csrft=a0b5b198c048abf5d3fafc4bef9f43d9
+bbUserInput=7502
+bbToken=3eec3460340ea29e2e3766b57abe3e116671898dd12a0a19789daf559752e3fda66f5473c694854d0d042df8a9072cfa79617c9a7477911dc692ca1c55ec0420

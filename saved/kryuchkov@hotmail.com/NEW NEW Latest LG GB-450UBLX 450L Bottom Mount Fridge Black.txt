@@ -1,0 +1,36 @@
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+attributeMap['cars.greyimport']=
+houseNumber=
+unacceptableGeocode=false
+level2CategoryId=
+_renew=on,_showLocationOnMap
+categoryId=20061
+adType=OFFER
+price.amount=850
+price.type=FIXED
+minimumOfferPrice=
+attributeMap[hg_appliances_fridge_freezer.condition_s]=new
+title=NEW Latest LG GB-450UBLX 450L Bottom Mount Fridge Black
+name=Dimitri
+phoneNumber=0410381932
+locationId=3004117
+geocodeLat=-33.794095
+geocodeLng=151.188817
+geocodeLocality=Chatswood
+description=12 Months Warranty&lt;br&gt;NEW Latest LG GB-450UBLX 450L Bottom Mount Fridge &lt;br&gt;Recommended Retail Price (RRP) - $1499&lt;br&gt;Features&lt;br&gt;&lt;br&gt;Anti-fingerprint shiny steel VCM&lt;br&gt;Hidden hinges&lt;br&gt;Air ventilation: rear venting&lt;br&gt;BioShield&lt;br&gt;Digital sensors: 4 (includes Room Temp Sensor)&lt;br&gt;Dual speed cooling fan&lt;br&gt;Evaporators&lt;br&gt;R600a refrigerant&lt;br&gt;Inverter linear compressor&lt;br&gt;Smart diagnosis&lt;br&gt;Specification&lt;br&gt;&lt;br&gt;Finish Colour: Pure Black&lt;br&gt;Suitable For: 2-4 People&lt;br&gt;Default Door Hinge: Right&lt;br&gt;Volume L: 450 L&lt;br&gt;Freezer Volume: 155 L&lt;br&gt;Fridge Volume: 295 L&lt;br&gt;Energy Star Rating: 4.5 Stars&lt;br&gt;Energy consumption: 299 Kwh&lt;br&gt;Dimension (WxHxD): 700mm x 1724mm x 600mm&lt;br&gt;Weight: 80kg
+attributeMap['hg_appliances_fridge_freezer.automatic_repost_ad_s']=false
+attributeMap['hg_appliances_fridge_freezer.paypal_accepted_seller_s']=false
+attributeMap['hg_appliances_fridge_freezer.highest_price_s']=850.0
+attributeMap['hg_appliances_fridge_freezer.condition_s']=new
+_showLocationOnMap=on
+images=https://i.ebayimg.com/00/s/ODgwWDM3Mg==/z/4eYAAOSwhilZX1wZ/$_20.JPG
+images=https://i.ebayimg.com/00/s/ODgwWDM5NA==/z/~mcAAOSwqVBZX1wd/$_20.JPG
+images=https://i.ebayimg.com/00/s/ODM3WDg4MA==/z/OOMAAOSwWJhZX1wp/$_20.JPG
+images=https://i.ebayimg.com/00/s/NjEzWDg4MA==/z/-ggAAOSweIlZX1w2/$_20.JPG
+ctk=b5dSpGqrgDTg7Q3n0U6j4g
+csrft=af4ccc278bf45b2c8022b4f9d6efa915
+bbUserInput=9565
+bbToken=805f29a5524ab8d10e8ebec178e253a7971f556c7c5441018f301103c957c966a0634e1fdc9342eb2bb237e10e7643192e1de407b675f919b271f9f2cce98c26

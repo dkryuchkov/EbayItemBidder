@@ -1,0 +1,42 @@
+attributeMap['cars.greyimport']=
+postcode=2040
+houseNumber=
+streetName=
+adType=OFFER
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+_showLocationOnMap=on
+unacceptableGeocode=false
+level2CategoryId=
+quickOffer=
+_renew=on
+repost=false
+categoryId=20093
+price.amount=120
+price.type=FIXED
+minimumOfferPrice=
+title=NEW Keyang 165mm 18V Cordless Circular Saw Skin Only
+name=Dimitri
+phoneNumber=0410381932
+locationId=3003844
+mapAddress=Leichhardt, NSW, 2040
+geocodeLat=-33.882417
+geocodeLng=151.154762
+geocodeLocality=Leichhardt
+description=http://www.keyang.com.au/<br>KEYANG AUSTRALIA - Industrial Power Tools<br>Keyang manufactures in South Korea and is the number 1 in Industrial Power Tools and has remained market leader for the last 10 years, in Korea, ahead of all the major brands known in the world wide market place.<br>Since the birth of Keyang over 30 years ago, our values have remained true. To manufacture high quality Power Tools without compromise.<br>This is a top quality professional tools brand, more expensive than DeWalt or Makita&lt;div class="content-section"&gt; &lt;h3&gt;Description&lt;/h3&gt;    &lt;div class="sanitised-markup"&gt;&lt;p&gt;Keyang 165mm 18V Cordless Circular Saw Skin Only &#40;236814-19&#41;&lt;/p&gt;&lt;p&gt;&lt;strong&gt; Note&#58;&lt;/strong&gt;  &lt;/p&gt;    &lt;/div&gt;    &lt;/div&gt;
+attributeMap['hg_tools_diy_power_tools.paypal_accepted_seller_s']=false
+attributeMap['hg_tools_diy_power_tools.automatic_repost_ad_s']=false
+attributeMap['hg_tools_diy_power_tools.condition_s']=new
+attributeMap['hg_tools_diy_power_tools.website_s']=gumtree-intforce.rhcloud.com
+attributeMap[hg_tools_diy_power_tools.slogan_s]=NEW Keyang 165mm 18V Cordless Circular Saw Skin Only
+hourstomarket=5
+bbImageBaseUrl=/bb-image.html
+images=https://i.ebayimg.com/00/s/NDgwWDY0MA==/z/2K0AAOSwCEdYTyo8/$_20.JPG
+images=https://i.ebayimg.com/00/s/NDgwWDY0MA==/z/sI0AAOSwJ7RYTypD/$_20.JPG
+images=https://i.ebayimg.com/00/s/NDgwWDY0MA==/z/lj8AAOSw-0xYTypJ/$_20.JPG
+ctk=LJGUT-WMj-zf1CjVSp3q0g
+csrft=1820d0130fde001e4a8480fac8ce6145
+bbUserInput=2078
+bbToken=6ce7baaa777e3246bb549fd99a9a9ce07de7c4b512e007c3a9adf8eede3481d83be7b7d1c3bb095dc0249642061c49659dce832b33098f6b89585ed3cb3a5209

@@ -1,0 +1,32 @@
+description=Ex demo item, new and never used.&lt;br&gt;Brand: INOX&lt;br&gt;&lt;br&gt;Model: SL F3 80&lt;br&gt;Give away price !
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+attributeMap['cars.greyimport']=
+houseNumber=
+unacceptableGeocode=false
+level2CategoryId=
+_renew=on,_showLocationOnMap
+categoryId=20059
+adType=OFFER
+price.amount=80
+price.type=FIXED
+minimumOfferPrice=
+attributeMap[hg_appliances_cooktop_rangehood.condition_s]=new
+title=NEW never used INOX Canopy Rangehood SL F3 80. Give away price !
+images=https://i.ebayimg.com/00/s/MzM3WDQwMA==/z/lokAAOSws19ZiWQP/$_20.JPG
+images=https://i.ebayimg.com/00/s/MjA5WDQwMA==/z/qwcAAOSwlcZZiWQP/$_20.JPG
+images=https://i.ebayimg.com/00/s/NDAwWDM3MA==/z/E~4AAOSw9HVZiWQQ/$_20.JPG
+images=https://i.ebayimg.com/00/s/MzM2WDQwMA==/z/5XAAAOSwJS5ZiWQO/$_20.JPG
+images=https://i.ebayimg.com/00/s/MjQ2WDQwMA==/z/FpYAAOSwULNZiWQN/$_20.JPG
+name=Dimitri
+phoneNumber=0410381932
+locationId=3004117
+geocodeLat=-33.794095
+geocodeLng=151.188817
+geocodeLocality=Chatswood
+attributeMap['hg_appliances_cooktop_rangehood.paypal_accepted_seller_s']=false
+attributeMap['hg_appliances_cooktop_rangehood.condition_s']=new
+attributeMap['hg_appliances_cooktop_rangehood.highest_price_s']=89.0
+attributeMap['hg_appliances_cooktop_rangehood.automatic_repost_ad_s']=false

@@ -1,0 +1,34 @@
+attributeMap['cars.greyimport']=
+postcode=2040
+houseNumber=
+streetName=
+adType=OFFER
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+_showLocationOnMap=on
+unacceptableGeocode=false
+level2CategoryId=
+quickOffer=
+_renew=on
+repost=false
+categoryId=18555
+price.amount=20
+price.type=FIXED
+minimumOfferPrice=
+attributeMap['printers.condition_s']=used
+title=Lexmark printer No toner RRP $1120. New cartridge is $59 of ebay
+images=https://i.ebayimg.com/00/s/MTIwMFgxNjAw/z/-6EAAOSwcUBYFvg2/$_14.JPG
+images=https://i.ebayimg.com/00/s/MjQ5WDI4MA==/z/UC4AAOSwcLxYFu8i/$_14.JPG
+name=Dimitri
+phoneNumber=0410381932
+locationId=3003844
+mapAddress=Leichhardt, NSW, 2040
+geocodeLat=-33.882417
+geocodeLng=151.154762
+geocodeLocality=Leichhardt
+description=MS610Etouch screen2 loading trays for paper ( one, the bottom tray is removable if you want)fast, realiableprint both side pick up from leichhardtYou can buy a new cartridge for it for $59 of the ebay: http://www.ebay.com.au/itm/Lexmark-Genuine-50F0Z00-BLACK-Imaging-Unit-for-MS310-410-510-610-MX310-/360879310851?hash=item5406154803:g:t9YAAOxyXzxTHrkc
+attributeMap['printers.paypal_accepted_seller_s']=false
+attributeMap['printers.highest_price_s']=20.0
+attributeMap['printers.automatic_repost_ad_s']=false

@@ -1,0 +1,42 @@
+attributeMap['cars.greyimport']=
+postcode=2040
+houseNumber=
+streetName=
+adType=OFFER
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+_showLocationOnMap=on
+unacceptableGeocode=false
+level2CategoryId=
+quickOffer=
+_renew=on
+repost=false
+categoryId=20093
+price.amount=300
+price.type=FIXED
+minimumOfferPrice=
+title=NEW Keyang KH6500 15kg Demolition Hammer
+name=Dimitri
+phoneNumber=0410381932
+locationId=3003844
+mapAddress=Leichhardt, NSW, 2040
+geocodeLat=-33.882417
+geocodeLng=151.154762
+geocodeLocality=Leichhardt
+description=http://www.keyang.com.au/<br>KEYANG AUSTRALIA - Industrial Power Tools<br>Keyang manufactures in South Korea and is the number 1 in Industrial Power Tools and has remained market leader for the last 10 years, in Korea, ahead of all the major brands known in the world wide market place.<br>Since the birth of Keyang over 30 years ago, our values have remained true. To manufacture high quality Power Tools without compromise.<br>This is a top quality professional tools brand, more expensive than DeWalt or Makita&lt;div class="content-section"&gt; &lt;h3&gt;Description&lt;/h3&gt;    &lt;div class="sanitised-markup"&gt;&lt;p&gt;Keyang KH6500 15kg Demolition Hammer &#40;236814-17&#41;&lt;/p&gt;&lt;p&gt;&lt;strong&gt; Note&#58;&lt;/strong&gt;  &lt;/p&gt;    &lt;/div&gt;    &lt;/div&gt;
+attributeMap['hg_tools_diy_power_tools.paypal_accepted_seller_s']=false
+attributeMap['hg_tools_diy_power_tools.automatic_repost_ad_s']=false
+attributeMap['hg_tools_diy_power_tools.condition_s']=new
+attributeMap['hg_tools_diy_power_tools.website_s']=gumtree-intforce.rhcloud.com
+attributeMap[hg_tools_diy_power_tools.slogan_s]=NEW Keyang KH6500 15kg Demolition Hammer
+hourstomarket=5
+bbImageBaseUrl=/bb-image.html
+images=https://i.ebayimg.com/00/s/NDgwWDY0MA==/z/sLEAAOSw5cNYTynf/$_20.JPG
+images=https://i.ebayimg.com/00/s/NDgwWDY0MA==/z/1lkAAOSw44BYTynk/$_20.JPG
+images=https://i.ebayimg.com/00/s/NDgwWDY0MA==/z/sUsAAOSwEzxYTynu/$_20.JPG
+ctk=meMDeTqLyU5EBkbH3Njh_g
+csrft=d037024b5fb99a52d702692c118cdfca
+bbUserInput=7372
+bbToken=af79fa18e0b0da6d12ea1a7a5cc377c356f13e116f0ced225bee80ee93cd3cdecd942df4d0103bd617df07c9c1a4b42b932db86daac9c17f844fe1f17bc4f545

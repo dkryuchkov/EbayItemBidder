@@ -1,0 +1,36 @@
+attributeMap['cars.greyimport']=
+postcode=2040
+houseNumber=
+streetName=
+adType=OFFER
+adId=
+geocodeConfidence=OK
+files[]=
+bbImageBaseUrl=/bb-image.html
+galleryImageIndex=
+_showLocationOnMap=on
+unacceptableGeocode=false
+level2CategoryId=
+quickOffer=
+_renew=on
+repost=false
+categoryId=20066
+price.amount=499
+price.type=FIXED
+minimumOfferPrice=
+title=NEW Panasonic NA-FS95G3WAU ECONAVI Top Loader Washing Machine - 9
+images=https://i.ebayimg.com/00/s/ODAwWDgwMA==/z/7-gAAOSwa~BYYcF~/$_20.JPG
+images=https://i.ebayimg.com/00/s/ODgwWDU2Nw==/z/IqAAAOSwopRYYcGW/$_20.JPG
+images=https://i.ebayimg.com/00/s/NjIzWDg4MA==/z/I30AAOSwopRYYcGd/$_20.JPG
+images=https://i.ebayimg.com/00/s/NTY1WDg4MA==/z/i9UAAOSw241YYcGl/$_20.JPG
+name=Dimitri
+phoneNumber=0410381932
+locationId=3003844
+geocodeLat=-33.882417
+geocodeLng=151.154762
+geocodeLocality=Leichhardt
+description=&lt;div class=&quot;content-section&quot;&gt; &lt;h3&gt;Description&lt;/h3&gt;    &lt;div class=&quot;sanitised-markup&quot;&gt;&lt;p&gt;&lt;strong&gt;Panasonic NA-FS95G3WAU ECONAVI Top Loader Washing Machine - 9.5kg (Refurbished)&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Recommended Retail Price (RRP) - $1199 as of August 2016 based on a new product.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;SPECIFICATIONS&lt;/strong&gt; &lt;/p&gt;&lt;ul&gt;&lt;li&gt;9.5kg Load Capacity &lt;/li&gt;&lt;li&gt;650rpm Spin Speed &lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;EFFICIENCY&lt;/strong&gt; &lt;/p&gt;&lt;ul&gt;&lt;li&gt;4.0 Star Water Rating &lt;/li&gt;&lt;li&gt;2.5 Star Energy Rating &lt;/li&gt;&lt;li&gt;Energy Consumption: Warm Wash - 630 kWh/year&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;FEATURES&lt;/strong&gt; &lt;/p&gt;&lt;ul&gt;&lt;li&gt;Sazanami Drum&lt;/li&gt;&lt;li&gt;ECONAVI (Cloth Load &amp; Water Temp)&lt;/li&gt;&lt;li&gt;Aquabeat Wash - Single Type&lt;/li&gt;&lt;li&gt;Aqua Spin Rinse&lt;/li&gt;&lt;li&gt;Inverter Motor&lt;/li&gt;&lt;li&gt;Control Panel Type - Double Layer Sheet&lt;/li&gt;&lt;li&gt;Foam Wash&lt;/li&gt;&lt;li&gt;Digital Indicator&lt;/li&gt;&lt;li&gt;Pre Set Timer (Delay Start): 2 - 24 Hrs &lt;/li&gt;&lt;li&gt;Child Lock&lt;/li&gt;&lt;li&gt;Auto Restart&lt;/li&gt;&lt;li&gt;Big Lint Filter (Big 1 + Small 1)&lt;/li&gt;&lt;li&gt;Tempered Glass Lid (Smoke)&lt;/li&gt;&lt;li&gt;Colour (Lid) White &lt;/li&gt;&lt;li&gt;Colour (Body) White &lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;PROGRAMS (8 Programs)&lt;/strong&gt; &lt;/p&gt;&lt;ul&gt;&lt;li&gt;Normal (Cotton) &lt;/li&gt;&lt;li&gt;Speedy (Quick Wash) &lt;/li&gt;&lt;li&gt;Baby-Care &lt;/li&gt;&lt;li&gt;Comforter (Bedding) &lt;/li&gt;&lt;li&gt;Intensive &lt;/li&gt;&lt;li&gt;Delicate&lt;/li&gt;&lt;li&gt;Power Wash (Soak + Intensive)&lt;/li&gt;&lt;li&gt;Water Save (Cotton-Eco) &lt;/li&gt;&lt;li&gt;Air Dry (30/60/90min) Yes &lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;GENERAL&lt;/strong&gt; &lt;/p&gt;&lt;ul&gt;&lt;li&gt;Dimensions (HxWxD): 1070 x 640 x 690 mm (With Hose)&lt;/li&gt;&lt;li&gt;Weight: 52 kg (Net)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;PLEASE NOTE:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Item may show marks/scratches/dents or imperfections. Accessories may vary from standard. Item may not be in original box or Not boxed or may have carton damaged.&lt;/li&gt;&lt;li&gt;Returns/refunds based on marks/scratches/dents or imperfections will not be accepted &lt;/li&gt;&lt;li&gt;This item is classified as Grade (1) (please refer to below Grading info) &lt;/li&gt;&lt;/ul&gt;&lt;p&gt; (SN:236408-7) (236408-7)&lt;/p&gt;&lt;p&gt;&lt;strong&gt; Note:&lt;/strong&gt;  &lt;/p&gt;    &lt;/div&gt;    &lt;/div&gt;&lt;br&gt;&lt;br&gt;THIS ADVERT IS MANAGED BY https://gumtree-intforce.rhcloud.com
+attributeMap['hg_appliances_washing_drying.paypal_accepted_seller_s']=false
+attributeMap['hg_appliances_washing_drying.condition_s']=new
+attributeMap['hg_appliances_washing_drying.automatic_repost_ad_s']=false
+attributeMap['hg_appliances_washing_drying.highest_price_s']=499.0

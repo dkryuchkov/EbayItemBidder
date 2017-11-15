@@ -1,0 +1,41 @@
+attributeMap['cars.greyimport']=
+postcode=2040
+houseNumber=
+streetName=
+adType=OFFER
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+_showLocationOnMap=on
+unacceptableGeocode=false
+level2CategoryId=
+quickOffer=
+_renew=on
+repost=false
+categoryId=20103
+price.amount=350
+price.type=FIXED
+minimumOfferPrice=
+title=NEW ABEY PIAZZA PLUS Stainless Steel Sink (PZ500)
+name=Tatiana
+phoneNumber=0410381932
+locationId=3003844
+mapAddress=Leichhardt, NSW, 2040
+geocodeLat=-33.882417
+geocodeLng=151.154762
+geocodeLocality=Leichhardt
+description=www.gumtree-intforce.rhcloud.com<br><br>&lt;div class="content-section"&gt; &lt;h3&gt;Description&lt;/h3&gt;    &lt;div class="sanitised-markup"&gt;&lt;p&gt;&lt;strong&gt;ABEY PIAZZA PLUS Stainless Steel Sink &#40;PZ500&#41;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Recommended Retail Price &#40;RRP&#41; - &#36;1127 as of August 2016 based on a new product.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Inset Sink &lt;/li&gt;&lt;li&gt;Single Bowl Sink&lt;/li&gt;&lt;li&gt;Sink Size&#58; 550mmL x 460mmW &lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;Item may show marks&#47;scratches&#47;dents or imperfections. Accessories may vary from standard.&lt;/li&gt;&lt;li&gt;Returns&#47;refunds based on marks&#47;scratches&#47;dents or imperfections will not be accepted&lt;/li&gt;&lt;li&gt;This item is classified as Grade 1 &#40;please refer to Grading tab for details&#41;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Please note&#58; No other accessories included.&lt;/p&gt;&lt;p&gt; &#40;SN&#58;N&#47;A&#41; &#40;233055-16&#41;&lt;/p&gt;&lt;p&gt;&lt;strong&gt; Note&#58;&lt;/strong&gt;  &lt;/p&gt;    &lt;/div&gt;    &lt;/div&gt;
+attributeMap['building_materials.paypal_accepted_seller_s']=false
+attributeMap['building_materials.automatic_repost_ad_s']=false
+attributeMap['building_materials.condition_s']=new
+attributeMap['building_materials.website_s']=gumtree-intforce.rhcloud.com
+hourstomarket=22
+bbImageBaseUrl=/bb-image.html
+images=https://i.ebayimg.com/00/s/NTA1WDg4MA==/z/QXUAAOSwnHZYTSDs/$_20.JPG
+images=https://i.ebayimg.com/00/s/NTc3WDg4MA==/z/dwMAAOSwux5YTSD2/$_20.JPG
+images=https://i.ebayimg.com/00/s/NzI5WDg4MA==/z/HZoAAOSw44BYTSED/$_20.JPG
+ctk=SS_Jxc9ndS4ME9Rj2X61FA
+csrft=4d2c0956777f6f76076cdfda4decc4e0
+bbUserInput=5464
+bbToken=46b4bbc4e074207e0b31225630bab0b6336370b0c5578ac17d84fd84cb425ac872dd8e17b1413ffa194e44b8ca0ea020b652ca7f41749cf5aa1dac9a3e0738a9

@@ -1,0 +1,42 @@
+attributeMap['cars.greyimport']=
+postcode=2067
+houseNumber=
+streetName=
+adType=OFFER
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+_showLocationOnMap=on
+unacceptableGeocode=false
+level2CategoryId=
+quickOffer=
+_renew=on
+repost=false
+categoryId=20061
+price.amount=1800
+price.type=FIXED
+minimumOfferPrice=
+title=NEW LG 712L 5 Door French Door Refrigerator (GF-5D712SL)
+name=Dimitri
+phoneNumber=0410381932
+locationId=3003844
+mapAddress=Chatswood 2067, NSW
+geocodeLat=-33.882417
+geocodeLng=151.154762
+geocodeLocality=Chatswood
+description=ABSOLUTE BARGAIN !&lt;br&gt;&lt;br&gt;THIS IS A TOP OF THE RANGE, BRAND NEW, LG 712L 5 Door, French Door Refrigerator GF-5D712SL Recommended Retail Price $4,599 as of January 2017&lt;br&gt;Features: &lt;br&gt;Hidden Hinges&lt;br&gt;Air Ventilation&lt;br&gt;Front to Front Door Open Alarm&lt;br&gt;BioShield&lt;br&gt;External Electronic Control&lt&lt;br&gt;Digital Sensors&lt;br&gt;includes Room Temp Sensor&lt;br&gt;Dual Speed Cooling Fan&lt;br&gt;Evaporators&lt;br&gt;Refrigerant Type R600&lt;br&gt;Inverter Linear Compressor&lt;br&gt;Smart Diagnosis&lt;br&gt;Door-In-Door&lt;br&gt;Inverter Linear Compressor&lt;br&gt;Pure N Fresh&lt;br&gt;Slim In-Door Ice Maker&lt;br&gt;Smart Storage System&lt;br&gt;Water Dispenser&lt;br&gt;LED Lighting&lt;br&gt;Specifications&lt;br&gt;&lt;br&gt;Colour: Stainless Steel&lt;br&gt;Capacity: 712 L&lt;br&gt;Refrigerator: 383 L&lt;br&gt;Freezer 301 L&lt;br&gt;Ice Making Compartment: 28 L&lt;br&gt;Dimension: WxHxD 964 x 1887 x 813 mm&lt;br&gt;Weight: 143 kg
+attributeMap['hg_appliances_fridge_freezer.paypal_accepted_seller_s']=false
+attributeMap['hg_appliances_fridge_freezer.automatic_repost_ad_s']=false
+attributeMap['hg_appliances_fridge_freezer.condition_s']=new
+attributeMap['hg_appliances_fridge_freezer.website_s']=gumtree-intforce.rhcloud.com
+attributeMap[hg_appliances_fridge_freezer.slogan_s]=NEW LG 712L 5 Door French Door Refrigerator (GF-5D712SL)
+hourstomarket=21
+images=https://i.ebayimg.com/00/s/NzI0WDg4MA==/z/usUAAOSwax5YznhA/$_20.JPG
+images=https://i.ebayimg.com/00/s/ODgwWDQ4Nw==/z/LqsAAOSw32lYznhK/$_20.JPG
+images=https://i.ebayimg.com/00/s/NTAxWDg4MA==/z/MEkAAOSwOgdYznig/$_20.JPG
+images=https://i.ebayimg.com/00/s/NDM4WDg4MA==/z/HZEAAOSwzgBYzniu/$_20.JPG
+images=https://i.ebayimg.com/00/s/MTIwMFgxNjAw/z/X5QAAOSwzgBY1N~m/$_20.JPG
+images=https://i.ebayimg.com/00/s/MTYwMFgxMjAw/z/DssAAOSwol5Y1Oex/$_20.JPG
+ctk=ptV10PQqy3mxv8oqEw8OiQ
+csrft=e472ca6634bde5503a5a7f4b1bf3079f

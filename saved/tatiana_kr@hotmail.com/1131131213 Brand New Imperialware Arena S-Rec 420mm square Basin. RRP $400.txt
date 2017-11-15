@@ -1,0 +1,37 @@
+attributeMap['cars.greyimport']=
+postcode=2040
+houseNumber=
+streetName=
+adType=OFFER
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+_showLocationOnMap=on
+unacceptableGeocode=false
+level2CategoryId=
+quickOffer=
+_renew=on
+repost=false
+categoryId=20103
+price.amount=50
+price.type=FIXED
+minimumOfferPrice=
+title=Brand New Imperialware Arena S/Rec 420mm square Basin. RRP $400
+images=https://i.ebayimg.com/00/s/NTAwWDUwMA==/z/zZIAAOSwiONYNlfn/$_20.JPG
+images=https://i.ebayimg.com/00/s/ODgwWDU4NA==/z/HlsAAOSwHMJYNldO/$_20.JPG
+images=https://i.ebayimg.com/00/s/OTAwWDE2MDA=/z/01AAAOSwcUBYNldQ/$_20.JPG
+images=https://i.ebayimg.com/00/s/OTAwWDE2MDA=/z/ZFoAAOSwux5YNld1/$_20.JPG
+images=https://i.ebayimg.com/00/s/OTAwWDE2MDA=/z/K8MAAOSwa~BYNlef/$_20.JPG
+name=Dimitri
+phoneNumber=0410381932
+locationId=3003844
+mapAddress=Leichhardt, NSW, 2040
+geocodeLat=-33.882417
+geocodeLng=151.154762
+geocodeLocality=Leichhardt
+description=Brand new in the original box. RRP $400&lt;br&gt;&lt;br&gt;DETAILS&lt;br&gt;Contemporary in design, the Arena 420mm Semi Recessed basin was crafted with elegant, smooth lines.&lt;br&gt;&lt;br&gt;* 420mm wide basin&lt;br&gt;* Available in 1 or 3 tap hole&lt;br&gt;* Supplied with chrome overflow &amp; chrome pop up waste&lt;br&gt;* Supplied with IM3773 fixing brackets&lt;br&gt;&lt;br&gt;Approvals: Australian Standard AS 1730
+attributeMap['building_materials.paypal_accepted_seller_s']=false
+attributeMap['building_materials.automatic_repost_ad_s']=false
+attributeMap['building_materials.condition_s']=new
+attributeMap['building_materials.highest_price_s']=50.0

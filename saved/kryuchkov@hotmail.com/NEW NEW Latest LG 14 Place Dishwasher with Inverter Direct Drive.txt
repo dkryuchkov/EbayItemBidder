@@ -1,0 +1,37 @@
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+attributeMap['cars.greyimport']=
+houseNumber=
+unacceptableGeocode=false
+level2CategoryId=
+_renew=on,_showLocationOnMap
+categoryId=20060
+adType=OFFER
+price.amount=599
+price.type=FIXED
+minimumOfferPrice=
+attributeMap[hg_appliances_dishwashers.condition_s]=new
+title=NEW Latest LG 14 Place Dishwasher with Inverter Direct Drive
+name=Dimitri
+phoneNumber=0410381932
+locationId=3004117
+geocodeLat=-33.794095
+geocodeLng=151.188817
+geocodeLocality=Chatswood
+description=NEW Latest LG 14 Place Dishwasher with Inverter Direct Drive (White) (LD-1481W4) Recommended Retail Price (RRP) - $1,199 Colour: White Capacity (Total): 14 Place Settings Type: Free-standing Smart Diagnosis 2.0 Controls: Fully Electronic Display Type: LED Aqua Stop Valve Motor Type: Inverter Direct Drive Tub Material: Stainless Steel Concealed Heating ElementSmart Rack (Upper) Water Softener 5 Spray Directions Triple Filtration System Vario Washing System Soil Sensor Drying Method: Hybrid Dry Wash Programmes: 5 Dual Wash (Dual Intensity) Quick Dry Wash Options: 3 Spray Intensity: Soft Extra HotRinse PlusHalf Load (Top/Bottom) Child LockDelay Start (1-19 Hours) Beeper On/Off Energy Consumption: 230kwh/365 uses Energy Rating: 4 Stars WELS Water Consumption: 11.5L WELS Water Ratings: 5 Stars Dimensions (HxWxD): 850 x 600 x 600 mm Weight Stand: 56 kg
+attributeMap['hg_appliances_dishwashers.condition_s']=new
+attributeMap['hg_appliances_dishwashers.highest_price_s']=700.0
+attributeMap['hg_appliances_dishwashers.paypal_accepted_seller_s']=false
+attributeMap['hg_appliances_dishwashers.automatic_repost_ad_s']=false
+images=https://i.ebayimg.com/00/s/ODgwWDcyMQ==/z/7IAAAOSweIlZX1qy/$_20.JPG
+images=https://i.ebayimg.com/00/s/ODgwWDczOQ==/z/RAwAAOSwfJJZX1q5/$_20.JPG
+images=https://i.ebayimg.com/00/s/ODgwWDc1OQ==/z/N2wAAOSwu59ZX1q~/$_20.JPG
+images=https://i.ebayimg.com/00/s/ODgwWDY0NA==/z/xIMAAOSwhilZX1rH/$_20.JPG
+images=https://i.ebayimg.com/00/s/ODgwWDcyNg==/z/PXsAAOSwhgJZX1ra/$_20.JPG
+ctk=MAiup24kGf1qeAQ73kOcCA
+csrft=1297e203f6e9cb3f6819fb92877460bc
+_showLocationOnMap=on
+bbUserInput=2418
+bbToken=de233a0671bab7ed8774c731c389f5f0fc62313170c1be55c3a6db530273f1469cdfdb0367badbe1e7e98bd8d2ab84cf792a82dc2bb8b1c9dcaf8d46a8e9a5c7

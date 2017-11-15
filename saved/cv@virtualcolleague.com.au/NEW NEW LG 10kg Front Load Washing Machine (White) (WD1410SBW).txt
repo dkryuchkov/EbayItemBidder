@@ -1,0 +1,43 @@
+attributeMap['cars.greyimport']=
+postcode=2040
+houseNumber=
+streetName=
+adType=OFFER
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+_showLocationOnMap=on
+unacceptableGeocode=false
+level2CategoryId=
+quickOffer=
+_renew=on
+repost=false
+categoryId=20066
+price.amount=948
+price.type=FIXED
+minimumOfferPrice=
+title=NEW LG 10kg Front Load Washing Machine (White) (WD1410SBW)
+name=Tatiana
+phoneNumber=0410381932
+locationId=3003844
+mapAddress=Leichhardt, NSW, 2040
+geocodeLat=-33.882417
+geocodeLng=151.154762
+geocodeLocality=Leichhardt
+description=www.gumtree-intforce.rhcloud.com<br><br>&lt;div class="content-section"&gt; &lt;h3&gt;Description&lt;/h3&gt;    &lt;div class="sanitised-markup"&gt;&lt;p&gt;&lt;strong&gt;LG 10kg Front Load Washing Machine &#40;White&#41; &#40;WD1410SBW&#41; &#40;Reconditioned&#41;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Recommended Retail Price &#40;RRP&#41; - &#36;1899 as of August 2016 based on a new product.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Specifications&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Colour&#58; White &lt;/li&gt;&lt;li&gt;Capacity Wash&#58; 10kg &lt;/li&gt;&lt;li&gt;Energy Star Rating&#58; 4.5&lt;/li&gt;&lt;li&gt;Water Rating&#58; 4.5 &lt;/li&gt;&lt;li&gt;TrueSteam&lt;/li&gt;&lt;li&gt;TurboClean&#8482;&lt;/li&gt;&lt;li&gt;Smart diagnosis&#8482;&lt;/li&gt;&lt;li&gt;Inverter direct drive&lt;/li&gt;&lt;li&gt;6 motion technology&lt;/li&gt;&lt;li&gt;Dimensions &#40;HxWxD&#41;&#58; 850 x 600 x 640 mm&lt;/li&gt;&lt;li&gt;Item may show marks&#47;scratches&#47;dents or imperfections. Accessories may vary from standard.&lt;/li&gt;&lt;li&gt;Returns&#47;refunds based on marks&#47;scratches&#47;dents or imperfections will not be accepted &lt;/li&gt;&lt;li&gt;This item is classified as Grade 1 &#40;please refer to Grading tab for details&#41;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt; &#40;SN&#58;606KWXD6J466&#41; &#40;234680-177&#41;&lt;/p&gt;&lt;p&gt;&lt;strong&gt; Note&#58;&lt;/strong&gt;  &lt;/p&gt;    &lt;/div&gt;    &lt;/div&gt;
+attributeMap['hg_appliances_washing_drying.paypal_accepted_seller_s']=false
+attributeMap['hg_appliances_washing_drying.automatic_repost_ad_s']=false
+attributeMap['hg_appliances_washing_drying.condition_s']=new
+attributeMap['hg_appliances_washing_drying.website_s']=gumtree-intforce.rhcloud.com
+hourstomarket=21
+bbImageBaseUrl=/bb-image.html
+images=https://i.ebayimg.com/00/s/NzQ3WDU0NA==/z/b9EAAOSwa~BYTSL~/$_20.JPG
+images=https://i.ebayimg.com/00/s/NTI2WDM3Nw==/z/opUAAOSwux5YTSMG/$_20.JPG
+images=https://i.ebayimg.com/00/s/Mzc1WDU2MQ==/z/4x4AAOSw4GVYTSMJ/$_20.JPG
+images=https://i.ebayimg.com/00/s/NTI1WDQxOQ==/z/cygAAOSwJ7RYTSMM/$_20.JPG
+images=https://i.ebayimg.com/00/s/NDUxWDM5MQ==/z/pC0AAOSwux5YTSMX/$_20.JPG
+ctk=3_wu-peqSdq15zcEJ_FlJQ
+csrft=f875da7e9804511f1ae176197262d208
+bbUserInput=8386
+bbToken=cd11b21e31e540e484b835b0475a9b3c1ee2eaccbf8ed9ce9240cef5b853882487f9a3c9e8284cb6882123d0085a7a72971d7e3c8b59f5ee2f457de03b90d9ed

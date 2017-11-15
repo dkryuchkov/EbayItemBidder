@@ -1,0 +1,26 @@
+description=Siutes larger vehicals, such as utes, vans, V6&#47;V8, diesels etc. High performance, top quality, made in South Korea, RRP $249 Boss Road King Hi Performance battery feature hard wearing internal components to reduce corrosion and enhance vibration resistance, while producing dependable power and performance. Calcium Calcium technology for longer service life Enhanced active material reduces water loss Improved internal components for superior corrosion resistance Maintenance Free Made in South Korea Technical Specifications: Voltage: 12V CCA: 560 RC: 100 Ah: 57 Fitment Details: Length (mm): 231 Width (mm): 171 Case Height (mm): 184 Total Height (mm): 205 Weight (kg): 14.9
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+attributeMap['cars.greyimport']=
+houseNumber=
+unacceptableGeocode=false
+level2CategoryId=
+_renew=on,_showLocationOnMap
+categoryId=18478
+adType=OFFER
+price.amount=99
+price.type=FIXED
+minimumOfferPrice=
+title=NEW Boss Road King MF57 battery made in Korea RRP $249
+images=https://i.ebayimg.com/00/s/OTAwWDEyMDA=/z/z-wAAOSw6ShZVI5E/$_20.JPG
+name=Dimitri
+phoneNumber=0410381932
+locationId=3004117
+geocodeLat=-33.794095
+geocodeLng=151.188817
+geocodeLocality=Chatswood
+attributeMap['other_parts_accessories.condition_s']=new
+attributeMap['other_parts_accessories.automatic_repost_ad_s']=false
+attributeMap['other_parts_accessories.highest_price_s']=99.0

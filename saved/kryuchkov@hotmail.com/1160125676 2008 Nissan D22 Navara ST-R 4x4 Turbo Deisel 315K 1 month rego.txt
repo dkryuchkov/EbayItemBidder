@@ -1,0 +1,52 @@
+description=2008 Nissan D22 Navara ST-R Utility Dual Cab Chassis&lt;br&gt;&lt;br&gt;Make: Nissan Navara 4x4&lt;br&gt;&lt;br&gt;&lt;br&gt;Model: CULUREFD22UMNCAAC&lt;br&gt;&lt;br&gt;&lt;br&gt;Engine: Turbo Diesel&lt;br&gt;&lt;br&gt;&lt;br&gt;Manual 5 Speed&lt;br&gt;&lt;br&gt;&lt;br&gt;Colour: White&lt;br&gt;&lt;br&gt;&lt;br&gt;Odometer: 316418&lt;br&gt;&lt;br&gt;&lt;br&gt;Air conditioned&lt;br&gt;&lt;br&gt;&lt;br&gt;Power windows&lt;br&gt;&lt;br&gt;&lt;br&gt;Power Mirrors&lt;br&gt;&lt;br&gt;&lt;br&gt;SRS Airbags&lt;br&gt;&lt;br&gt;&lt;br&gt;Sound System&lt;br&gt;&lt;br&gt;&lt;br&gt;Sun roof&lt;br&gt;&lt;br&gt;&lt;br&gt;Tow bar&lt;br&gt;&lt;br&gt;&lt;br&gt;Ladder bar&lt;br&gt;&lt;br&gt;&lt;br&gt;Bull Bar&lt;br&gt;&lt;br&gt;&lt;br&gt;Side Steps
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+attributeMap['cars.greyimport']=
+houseNumber=
+unacceptableGeocode=false
+level2CategoryId=
+_renew=on,_showLocationOnMap
+categoryId=18320
+adType=OFFER
+price.amount=6500
+price.type=FIXED
+minimumOfferPrice=
+title=2008 Nissan D22 Navara ST-R 4x4 Turbo Deisel 315K 1 month rego
+images=https://i.ebayimg.com/00/s/NTM0WDgwMA==/z/SkEAAOSwGFpZwMB7/$_20.JPG
+images=https://i.ebayimg.com/00/s/NTM0WDgwMA==/z/CEAAAOSwj9dZwMB8/$_20.JPG
+images=https://i.ebayimg.com/00/s/NTM0WDgwMA==/z/zs0AAOSw~jpZwMB8/$_20.JPG
+images=https://i.ebayimg.com/00/s/NTM0WDgwMA==/z/Qh0AAOSw4QVZwMB9/$_20.JPG
+images=https://i.ebayimg.com/00/s/NDcyWDgwMA==/z/pRwAAOSw3pVZwMB4/$_20.JPG
+images=https://i.ebayimg.com/00/s/NDczWDgwMA==/z/tq0AAOSwugtZwMB7/$_20.JPG
+images=https://i.ebayimg.com/00/s/NDcyWDgwMA==/z/JvwAAOSw~oFZwMB7/$_20.JPG
+name=Dimitri
+phoneNumber=0410381932
+locationId=3004117
+geocodeLat=-33.794095
+geocodeLng=151.188817
+geocodeLocality=Chatswood
+attributeMap['cars.variant_s']=ST-R (4x4)
+attributeMap['cars.nvic_s']=HVJ08B
+attributeMap['cars.fueltype_s']=diesel
+attributeMap['cars.forsaleby_s']=ownr
+attributeMap['cars.registrationexpiry_tdt']=2017-10-23T00:00:00Z
+attributeMap['cars.engine_capacity_litres_s']=2.5L
+attributeMap['cars.ancap_rating_s']=3
+attributeMap['cars.airconditioning_s']=y
+attributeMap['cars.cylinder_configuration_s']=4 cyl
+attributeMap['cars.carbodytype_s']=ute
+attributeMap['cars.colour_s']=white
+attributeMap['cars.highest_price_s']=6500.0
+attributeMap['cars.greyimport_s']=false
+attributeMap['cars.caryear_i']=2008
+attributeMap['cars.carmake_s']=nissan
+attributeMap['cars.paypal_accepted_seller_s']=false
+attributeMap['cars.green_overall_rating_s']=2.5
+attributeMap['cars.carmileageinkms_i']=315000
+attributeMap['cars.carmodel_s']=nissan_navara
+attributeMap['cars.cartransmission_s']=m
+attributeMap['cars.registered_s']=y
+attributeMap['cars.automatic_repost_ad_s']=false
+attributeMap['cars.drivetrain_s']=4x4

@@ -1,0 +1,33 @@
+description=Manufacture refurbished, as new conditionDell Premium Next Business Day on site support until 4th of Aug 2019 that is worth $499 on its own!Comes with Windows 10 64bit Professional EditionThis is a serious piece of professional gear, not a toy. With powefull 6th generation M5 CPU, 8GB RAM and super fast 256GB M.2 SSD this little laptop will outperform many much larger models.Spec:Intel Core m5-6Y57 Processor (4M Cache, up to 2.80 GHz)8GB LPDDR3 MemoryM.2 256GB SATA Class 20 Solid State DriveIntel HD graphics10.8 inch Display with FHD (1920 x 1080) resolution with 10-pt capacitive touchIntegrated audioIntel 8260 Dual band 2x2 802.11ac 2.4&#47;5GHz + Bluetooth 4.1Integrated HD WebcamMicro SD Memory Card Reader1 x USB 3.0 Type C, 1 x USB 3.0 Type C, 1 x Headphone and microphone combo jack, 1 x Micro HDMI PortBuilt In Primary BatteryAC Power Adapter And Power CordNote: TABLET ONLY, Keyboard NOT included
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+attributeMap['cars.greyimport']=
+houseNumber=
+unacceptableGeocode=false
+level2CategoryId=
+_renew=on,_showLocationOnMap
+categoryId=18553
+adType=OFFER
+price.amount=450
+price.type=FIXED
+minimumOfferPrice=
+attributeMap[laptops.condition_s]=new
+title=Dell Latitude 11 5175 m5-6Y57 256GB M.2 SSD 8G 2 YEAR WARRANTY
+images=https://i.ebayimg.com/00/s/MjExWDQwMA==/z/z4YAAOSw5gxZddLe/$_20.JPG
+images=https://i.ebayimg.com/00/s/MjU4WDQwMA==/z/EAMAAOSwUrdZddLa/$_20.JPG
+images=https://i.ebayimg.com/00/s/MTY5WDQwMA==/z/UaoAAOSwPzpZddLd/$_20.JPG
+images=https://i.ebayimg.com/00/s/MjI1WDQwMA==/z/FOUAAOSw5vBZddLf/$_20.JPG
+images=https://i.ebayimg.com/00/s/MjI1WDQwMA==/z/PhcAAOSwhSVZddLj/$_20.JPG
+images=https://i.ebayimg.com/00/s/MjI1WDQwMA==/z/KwsAAOSwAtFZddLf/$_20.JPG
+name=Dimitri
+phoneNumber=0410381932
+locationId=3004117
+geocodeLat=-33.794095
+geocodeLng=151.188817
+geocodeLocality=Chatswood
+attributeMap['laptops.paypal_accepted_seller_s']=false
+attributeMap['laptops.automatic_repost_ad_s']=false
+attributeMap['laptops.highest_price_s']=450.0
+attributeMap['laptops.condition_s']=new

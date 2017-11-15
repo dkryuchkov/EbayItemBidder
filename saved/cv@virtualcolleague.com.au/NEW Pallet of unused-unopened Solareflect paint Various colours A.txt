@@ -1,0 +1,47 @@
+attributeMap['cars.greyimport']=
+postcode=2040
+houseNumber=
+streetName=
+adType=OFFER
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+_showLocationOnMap=on
+unacceptableGeocode=false
+level2CategoryId=
+quickOffer=
+_renew=on
+repost=false
+categoryId=20103
+price.amount=400
+price.type=FIXED
+minimumOfferPrice=
+title=Pallet of unused/unopened Solareflect paint Various colours A
+name=Dimitri
+phoneNumber=0410381932
+locationId=3003844
+mapAddress=Leichhardt, NSW, 2040
+geocodeLat=-33.882417
+geocodeLng=151.154762
+geocodeLocality=Leichhardt
+description=www.gumtree-intforce.rhcloud.com<br><br>&lt;div class="content-section"&gt; &lt;h3&gt;Description&lt;/h3&gt;    &lt;div class="sanitised-markup"&gt;&lt;ul&gt;&lt;li&gt;Pallet of unused&#47;unopened Solareflect paint&lt;/li&gt;&lt;li&gt;Various colours&lt;/li&gt;&lt;li&gt;Approx 10 x 4 litre cans Nippon Paint UV tough protection, 100&#37; acrylic for exterior use, low sheen accent&lt;/li&gt;&lt;li&gt;Approx 35 x 2 litre cans Nippon Paint low sheen accent, 100&#37; acrylic for exterior use&lt;/li&gt;&lt;li&gt;Inspection highly recommended, some cans removed from pallet after photos taken &#40;236942-14&#41;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt; Note&#58;&lt;/strong&gt;  &lt;/p&gt;    &lt;/div&gt;    &lt;/div&gt;
+attributeMap['building_materials.paypal_accepted_seller_s']=false
+attributeMap['building_materials.automatic_repost_ad_s']=false
+attributeMap['building_materials.condition_s']=used
+attributeMap['building_materials.website_s']=gumtree-intforce.rhcloud.com
+attributeMap[building_materials.slogan_s]=Pallet of unused/unopened Solareflect paint Various colours A
+hourstomarket=42
+bbImageBaseUrl=/bb-image.html
+images=https://i.ebayimg.com/00/s/NTg1WDg4MA==/z/4mUAAOSwJ7RYTmfi/$_20.JPG
+images=https://i.ebayimg.com/00/s/ODgwWDU4NQ==/z/gHgAAOSwOtdYTmfr/$_20.JPG
+images=https://i.ebayimg.com/00/s/NTg1WDg4MA==/z/JVcAAOSw2xRYTmf4/$_20.JPG
+images=https://i.ebayimg.com/00/s/ODgwWDU4NQ==/z/UqQAAOSw6DtYTmgD/$_20.JPG
+images=https://i.ebayimg.com/00/s/NTg1WDg4MA==/z/M1MAAOSwnHZYTmgM/$_20.JPG
+images=https://i.ebayimg.com/00/s/NTg1WDg4MA==/z/NGwAAOSwnHZYTmgT/$_20.JPG
+images=https://i.ebayimg.com/00/s/NTg1WDg4MA==/z/5m8AAOSwo4pYTmgo/$_20.JPG
+images=https://i.ebayimg.com/00/s/ODgwWDU4NQ==/z/2q8AAOSwImRYTmgz/$_20.JPG
+ctk=MPVXL2f9ZKrbEzTvwbiB6w
+csrft=459f9199ec3afd29c44dd5bd920ac4b9
+bbUserInput=9603
+bbToken=e443ba61d487de1cdd0a5abaabd0a23f81e8002298dd4026f1e3c2d21bdc147b51efd70cfcc50ddb65d72b5f1c6aca34f050c3d5e7fab30c16d8fd94fda65694

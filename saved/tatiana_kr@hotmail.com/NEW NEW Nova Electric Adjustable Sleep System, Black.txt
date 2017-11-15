@@ -1,0 +1,40 @@
+attributeMap['cars.greyimport']=
+postcode=2040
+houseNumber=
+streetName=
+adType=OFFER
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+_showLocationOnMap=on
+unacceptableGeocode=false
+level2CategoryId=
+quickOffer=
+_renew=on
+repost=false
+categoryId=20074
+price.amount=2500
+price.type=FIXED
+minimumOfferPrice=
+title=NEW Nova Electric Adjustable Sleep System, Black
+name=Dimitri
+phoneNumber=0410381932
+locationId=3003844
+mapAddress=Leichhardt, NSW, 2040
+geocodeLat=-33.882417
+geocodeLng=151.154762
+geocodeLocality=Leichhardt
+description=&lt;div class="content-section"&gt; &lt;h3&gt;Description&lt;/h3&gt;    &lt;div class="sanitised-markup"&gt;&lt;p&gt;&lt;strong&gt;Nova King Size Electric Adjustable Sleep System, Black&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Recommended Retail Price&#58; &#36;10,768&lt;/p&gt;&lt;p&gt;The Nova is an advanced stylish and fully adjustable sleep system, which brings superb comfort and beautiful looks into your bedroom. With advanced motorised individually controlled bases, a fashionable frame upholstered in premium synthetic leather, and latex mattresses especially designed for adjustable beds, the Nova provides you with perfect feel in every angle of adjustment, either while asleep or during leisure time in bed. &lt;/p&gt;&lt;p&gt;This is your opportunity to experience comfort at completely different levels, along with beautiful looks, with a premium, upmarket designed and technologically advanced lifestyle bed.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Advanced motorised adjustable bases with individual controls, and with harder&#47;softer adjustment of the lower back area on each base&lt;/li&gt;&lt;li&gt;Advanced latex mattresses with shoulder comfort zones and constant ventilation channels, by Hollandia International&lt;/li&gt;&lt;li&gt;A fashionable frame with headboard, by Innocent Betten&lt;/li&gt;&lt;li&gt;Full upholstery at the back, to allow for middle of the room placement&lt;/li&gt;&lt;li&gt;Super quiet smooth and powerful motors&lt;/li&gt;&lt;li&gt;Double battery backup in case of blackout&lt;/li&gt;&lt;li&gt;Full sitting position&lt;/li&gt;&lt;li&gt;Good legs elevation&lt;/li&gt;&lt;li&gt;Bed size&#58; Euro King Split&lt;/li&gt;&lt;li&gt;Nett area of mattresses&#58; 180x200cm &#40;2x90x200&#41;&lt;/li&gt;&lt;li&gt;External dimensions including headboard&#58; 193cm wide, 219cm long&lt;/li&gt;&lt;li&gt;Frame colour&#58; Black&lt;/li&gt;&lt;li&gt;After unpacking can be assembled within 60 mins, assembly instructions included&lt;/li&gt;&lt;li&gt;The Nova sleep system is supplied by De STIJL&#58;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href="http&#58;&#47;&#47;www.de-stijl.com.au"&gt; http&#58;&#47;&#47;www.de-stijl.com.au &lt;/a&gt;&lt;/p&gt;&lt;p&gt; &#40;233148-23&#41;&lt;/p&gt;&lt;p&gt;Collection&#58; Monday - Friday 8.30am-3.00pm. Collection must be booked 48 hours in advance. Collection without a booking is not possible.&lt;/p&gt;&lt;p&gt;&lt;strong&gt; Note&#58;&lt;/strong&gt;  will not be added to, or included in, the final bid price of this item. &lt;/p&gt;    &lt;/div&gt;    &lt;p class="attachment"&gt;&lt;a href="http://res0.online.com/handlers/attachmenthandler.ashx?t=sh&amp;id=12314016&amp;filename=Packing+Information.pdf"&gt;Packing&#32;Information&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;br&gt;&lt;br&gt;THIS ADVERT IS MANAGED BY https://gumtree-intforce.rhcloud.com
+attributeMap['hg_furniture_beds.paypal_accepted_seller_s']=false
+attributeMap['hg_furniture_beds.automatic_repost_ad_s']=false
+attributeMap['hg_furniture_beds.condition_s']=new
+attributeMap['hg_furniture_beds.website_s']=gumtree-intforce.rhcloud.com
+attributeMap[hg_furniture_beds.slogan_s]=NEW Nova Electric Adjustable Sleep System, Black
+hourstomarket=6
+bbImageBaseUrl=/bb-image.html
+images=https://i.ebayimg.com/00/s/NzE2WDgwMA==/z/QBcAAOSw9GhYZHnv/$_20.JPG
+images=https://i.ebayimg.com/00/s/NTUwWDg4MA==/z/-ZAAAOSwZQRYZHoA/$_20.JPG
+images=https://i.ebayimg.com/00/s/NjIwWDgwMA==/z/tbkAAOSw241YZHoL/$_20.JPG
+ctk=utzO__3-vkG3lBs7igP7mg
+csrft=fca58d9885e31e36f1f5c48faa437bb5

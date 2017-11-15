@@ -1,0 +1,33 @@
+description=<div id="ad_description_details_content"> 10 pcs 45 Degree Alumninium Profile With CoverFor 10Mm LED Strip ( not included)2M Length&lt;br&gt;</div> </div>
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+attributeMap['cars.greyimport']=
+houseNumber=
+unacceptableGeocode=false
+level2CategoryId=
+_renew=on,_showLocationOnMap
+categoryId=20103
+adType=OFFER
+price.amount=50
+price.type=FIXED
+minimumOfferPrice=
+attributeMap[building_materials.condition_s]=new
+title=10 pcs 45 Degree Alumninium Profile With Cover
+name=Tania
+phoneNumber=0410381932
+locationId=3004117
+geocodeLat=-33.794095
+geocodeLng=151.188817
+geocodeLocality=Chatswood
+attributeMap['building_materials.automatic_repost_ad_s']=false
+attributeMap['building_materials.highest_price_s']=50.0
+attributeMap['building_materials.paypal_accepted_seller_s']=false
+attributeMap['building_materials.condition_s']=new
+images=https://i.ebayimg.com/00/s/MzE5WDM3OA==/z/wdEAAOSwvk9ZgFRG/$_20.JPG
+ctk=X7w1TUtXAEcH2-3eS81b5Q
+csrft=ddb80fc080d542daed71ab0aaf4eadec
+_showLocationOnMap=on
+bbUserInput=9857
+bbToken=1f221aa1467661d1facbed8bb781d99d47dfde9fdc843f37cc7b34dbaff14c7f2beb0beac640d4d5e5cbac9f28188323b090a6130f8554fe2446a2adef252028

@@ -1,0 +1,40 @@
+attributeMap['cars.greyimport']=
+postcode=2067
+houseNumber=
+streetName=
+adType=OFFER
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+_showLocationOnMap=on
+unacceptableGeocode=false
+level2CategoryId=
+quickOffer=
+_renew=on
+repost=false
+categoryId=21034
+price.amount=120
+price.type=FIXED
+minimumOfferPrice=
+title=SANLI Lazer Cut Model- Unknown 4 Stoke Petrol Lawn Mower With Cat
+name=Dimitri
+phoneNumber=0410381932
+locationId=3003844
+mapAddress=Chatswood 2067, NSW
+geocodeLat=-33.882417
+geocodeLng=151.154762
+geocodeLocality=Chatswood
+description=Description <div class="sanitised-markup">		SANLI Lazer Cut Model- Unknown 4 Stoke Petrol Lawn Mower With Catcher, Colour- Black, No Accessories, Condition- As Is, Damaged Front Logo, Dents Marks & Scratches, Inspection Highly Recommended. (243878-3) Note: will not be added to, or included in, the final bid price of this item. <a href="http://res0.online.com/handlers/attachmenthandler.ashx?t=sh&id=16285536&filename=Plant_Hazard_Report.pdf">Plant_Hazard_Report
+attributeMap['hg_tools_diy_garden.paypal_accepted_seller_s']=false
+attributeMap['hg_tools_diy_garden.automatic_repost_ad_s']=false
+attributeMap['hg_tools_diy_garden.condition_s']=used
+attributeMap['hg_tools_diy_garden.website_s']=gumtree-intforce.rhcloud.com
+attributeMap[hg_tools_diy_garden.slogan_s]=SANLI Lazer Cut Model- Unknown 4 Stoke Petrol Lawn Mower With Cat
+hourstomarket=24
+images=https://i.ebayimg.com/00/s/MzAwWDQwMA==/z/z6sAAOSwhL9ZewHj/$_20.JPG
+images=https://i.ebayimg.com/00/s/MzAwWDQwMA==/z/tGsAAOSw0n5ZewHr/$_20.JPG
+ctk=q75IsLIKidU7-WYMns1kwQ
+csrft=63b12cf83a21cdd6e2fa8c5c99794557
+bbUserInput=3002
+bbToken=85c53b7f4108976d474f5228a00d5110fa2068cff68d79de71a78b2cfc44b1efe8722840ca7daf8037564ef6cb4a4bd9de93298e763c51b25d4cfead93b1a3b8

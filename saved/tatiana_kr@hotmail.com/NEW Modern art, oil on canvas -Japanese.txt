@@ -1,0 +1,41 @@
+attributeMap['cars.greyimport']=
+postcode=2040
+houseNumber=
+streetName=
+adType=OFFER
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+_showLocationOnMap=on
+unacceptableGeocode=false
+level2CategoryId=
+quickOffer=
+_renew=on
+repost=false
+categoryId=20039
+price.amount=150
+price.type=FIXED
+minimumOfferPrice=145
+title=Modern art, oil on canvas -Japanese
+name=Tatiana
+phoneNumber=0410381932
+locationId=3003844
+mapAddress=Leichhardt, NSW, 2040
+geocodeLat=-33.882417
+geocodeLng=151.154762
+geocodeLocality=Leichhardt
+description=Modern art of Japan. Oil on canvas. In Golden Frame&lt;br&gt;&lt;br&gt;Bought from Gallery 360&deg; exhibition of Japanese and Western artists in Tokyo&lt;br&gt;Selling my property and giving away this genie masterpiece of modern art.&lt;br&gt;&lt;br&gt;approx size 1100 X 800
+attributeMap['antiques_collectables_art.condition_s']=used
+attributeMap['antiques_collectables_art.highest_price_s']=150.0
+attributeMap['antiques_collectables_art.automatic_repost_ad_s']=false
+attributeMap['antiques_collectables_art.minimum_offer_price_s']=145
+attributeMap['antiques_collectables_art.paypal_accepted_seller_s']=false
+images=https://i.ebayimg.com/00/s/OTAwWDE2MDA=/z/L2MAAOSw0OBYKN8G/$_20.JPG
+images=https://i.ebayimg.com/00/s/OTAwWDE2MDA=/z/zZwAAOSw44BYKN90/$_20.JPG
+images=https://i.ebayimg.com/00/s/OTAwWDE2MDA=/z/zmQAAOSwA3dYKN8C/$_20.JPG
+images=https://i.ebayimg.com/00/s/OTAwWDE2MDA=/z/Y3wAAOSwal5YKN9T/$_20.JPG
+ctk=zHYBR29C2G-f8fB_xx0UqQ
+csrft=858050584eb2e8006a7fc36645fcadbe
+bbUserInput=6655
+bbToken=460899252e6566892a6bcc697ffd3fc92bf8befbe55f0c43799d020314f1b2731eded2ace2e6f2bd57f9a92808f1aa0f7fd44614d53e49aa2e90cd13fb1453a9

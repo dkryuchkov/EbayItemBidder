@@ -1,0 +1,42 @@
+attributeMap['cars.greyimport']=
+postcode=2040
+houseNumber=
+streetName=
+adType=OFFER
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+_showLocationOnMap=on
+unacceptableGeocode=false
+level2CategoryId=
+quickOffer=
+_renew=on
+repost=false
+categoryId=20066
+price.amount=900
+price.type=FIXED
+minimumOfferPrice=
+title=NEW LG 14kg Top Load Washing Machine (WTG1432VH)
+name=Tatiana
+phoneNumber=0410381932
+locationId=3003844
+mapAddress=Leichhardt, NSW, 2040
+geocodeLat=-33.882417
+geocodeLng=151.154762
+geocodeLocality=Leichhardt
+description=www.gumtree-intforce.rhcloud.com<br><br>&lt;div class="content-section"&gt; &lt;h3&gt;Description&lt;/h3&gt;    &lt;div class="sanitised-markup"&gt;&lt;p&gt;&lt;strong&gt;LG 14kg Top Load Washing Machine &#40;WTG1432VH&#41; &#40;Reconditioned&#41;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Recommended Retail Price &#40;RRP&#41; - &#36;2099 as of August 2016 based on a new product.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Features&#58;&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Smart diagnosis&#8482; 3.0&lt;/li&gt;&lt;li&gt;Tag on NFC which enables the download of additional washing programs via a smartphone to the washer&lt;/li&gt;&lt;li&gt;6 Motion wash techonology&lt;/li&gt;&lt;li&gt;Stainless steel stub&lt;/li&gt;&lt;li&gt;Logic control&lt;/li&gt;&lt;li&gt;Built-in auto clean lint filter&lt;/li&gt;&lt;li&gt;On board water heater&lt;/li&gt;&lt;li&gt;Air dry &#40;moisture reduction cycle&#41;&lt;/li&gt;&lt;li&gt;Glass with soft closing lid&lt;/li&gt;&lt;li&gt;Digital display&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Specifications&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Finish Colour&#58; Silver&lt;/li&gt;&lt;li&gt;Suitable For&#58; 4&#43; People&lt;/li&gt;&lt;li&gt;Capacity Wash kg&#58; 14 kg&lt;/li&gt;&lt;li&gt;Energy Star Rating&#58; 3 Stars&lt;/li&gt;&lt;li&gt;Energy consumption&#58; 240 Kwh&lt;/li&gt;&lt;li&gt;Water Star Rating&#58; 4 Stars&lt;/li&gt;&lt;li&gt;Maximum Spin Speed&#58; 950rpm&lt;/li&gt;&lt;li&gt;Water consumption&#58; 144 L&lt;/li&gt;&lt;li&gt;Number of Programs&#58; 12&lt;/li&gt;&lt;li&gt;Options&#58; 6&lt;/li&gt;&lt;li&gt;Dimensions with Lid Open &#40;W x D x H&#41;&#58; 701 x 736 x 1415mm&lt;/li&gt;&lt;li&gt;Weight&#58; 62kg&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;Item may show marks&#47;scratches&#47;dents or imperfections. Accessories may vary from standard.&lt;/li&gt;&lt;li&gt;Returns&#47;refunds based on marks&#47;scratches&#47;dents or imperfections will not be accepted &lt;/li&gt;&lt;li&gt;This item is classified as Grade &#40;1&#41; &#40;please refer to Grading tab for details&#41;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt; &#40;SN&#58;WTG1432VH&#41; &#40;236047-86&#41;&lt;/p&gt;&lt;p&gt;&lt;strong&gt; Note&#58;&lt;/strong&gt;  &lt;/p&gt;    &lt;/div&gt;    &lt;/div&gt;
+attributeMap['hg_appliances_washing_drying.paypal_accepted_seller_s']=false
+attributeMap['hg_appliances_washing_drying.automatic_repost_ad_s']=false
+attributeMap['hg_appliances_washing_drying.condition_s']=new
+attributeMap['hg_appliances_washing_drying.website_s']=gumtree-intforce.rhcloud.com
+hourstomarket=21
+bbImageBaseUrl=/bb-image.html
+images=https://i.ebayimg.com/00/s/ODgwWDU0Mw==/z/93IAAOSw4GVYTSPK/$_20.JPG
+images=https://i.ebayimg.com/00/s/ODgwWDYyOA==/z/qsAAAOSwojRYTSPU/$_20.JPG
+images=https://i.ebayimg.com/00/s/NTQ4WDg4MA==/z/i-sAAOSwJ7RYTSPj/$_20.JPG
+images=https://i.ebayimg.com/00/s/NTk4WDg4MA==/z/~DMAAOSw4GVYTSP3/$_20.JPG
+ctk=QdCUcMqJWaEmuNKAO3E-Pw
+csrft=4dc13a2d9bef9a050bd66eef335703f3
+bbUserInput=4237
+bbToken=6f9dc8e473668facb6c231578d99f4163c673d3a3c810fbf0a52a35e8f97928fac04bea8d28362f642d27ea2b8d7cf593ae0dcad9e7e69d23ef687e28f5b2e9d

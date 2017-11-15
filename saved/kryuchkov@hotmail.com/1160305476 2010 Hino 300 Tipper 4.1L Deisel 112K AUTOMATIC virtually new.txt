@@ -1,0 +1,35 @@
+description=Almost new Hino 2010 314 tipper truck, AUTOMATIC transmission, GVM 4495kg only 112K on the clock that is nothing for 4.1L turbo deisel.&lt;br&gt;&lt;br&gt;&lt;br&gt;Drive it on a normal car license !&lt;br&gt;&lt;br&gt;&lt;br&gt;First come will buy.&lt;br&gt;&lt;br&gt;&lt;br&gt;These are rear on the market in such good condition and sold for 35k&lt;br&gt;&lt;br&gt;&lt;br&gt;Sold unregistered, without plates. No GST&lt;br&gt;&lt;br&gt;&lt;br&gt;Hino 300 Series 4x2 Tipper&lt;br&gt;&lt;br&gt;&lt;br&gt;Engine capacity: 4.1 litre&lt;br&gt;&lt;br&gt;Engine type: 4-Cyl Turbo Diesel&lt;br&gt;&lt;br&gt;&lt;br&gt;Transmission: Automatic&lt;br&gt;&lt;br&gt;&lt;br&gt;Odometer showing: 112748 kms&lt;br&gt;&lt;br&gt;VIN &#47; serial number: JHFAM03HX0K001712&lt;br&gt;&lt;br&gt;Registration number: No Plates (Previus BG73NB)&lt;br&gt;&lt;br&gt;Registration expiry: Sold without Plates Unregistered&lt;br&gt;&lt;br&gt;Compliance date: 07&#47;2010&lt;br&gt;&lt;br&gt;Suspension: Leafspring&lt;br&gt;&lt;br&gt;Features:&lt;br&gt;&lt;br&gt;&lt;br&gt;Tray approx measurement dimensions: Length: 3000mm, Width: 1750mm&lt;br&gt;&lt;br&gt;Tare: 2820 kg&lt;br&gt;&lt;br&gt;GVM: 4495 kg&lt;br&gt;&lt;br&gt;GCM: 7300 kg&lt;br&gt;&lt;br&gt;Exterior colour: White&lt;br&gt;&lt;br&gt;Interior colour: Grey Cloth
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+attributeMap['cars.greyimport']=
+houseNumber=
+unacceptableGeocode=false
+level2CategoryId=
+_renew=on,_showLocationOnMap
+categoryId=21006
+adType=OFFER
+price.amount=25000
+price.type=FIXED
+minimumOfferPrice=
+attributeMap[hg_furniture_office_chairs.condition_s]=used
+title=2010 Hino 300 Tipper 4.1L Deisel 112K AUTOMATIC virtually new
+images=https://i.ebayimg.com/00/s/NjYwWDg4MA==/z/JWsAAOSwduNZw4B4/$_20.JPG
+images=https://i.ebayimg.com/00/s/NjYwWDg4MA==/z/U3gAAOSwOudZw4B8/$_20.JPG
+images=https://i.ebayimg.com/00/s/NjYwWDg4MA==/z/sKIAAOSweCVZw4B8/$_20.JPG
+images=https://i.ebayimg.com/00/s/NjYwWDg4MA==/z/~isAAOSw~oFZw4B7/$_20.JPG
+images=https://i.ebayimg.com/00/s/NjYwWDg4MA==/z/WQkAAOSw~ZBZw4B6/$_20.JPG
+images=https://i.ebayimg.com/00/s/NjYwWDg4MA==/z/mzEAAOSwzilZw4B7/$_20.JPG
+images=https://i.ebayimg.com/00/s/NjYwWDg4MA==/z/YqsAAOSwHZ1Zw4B3/$_20.JPG
+images=https://i.ebayimg.com/00/s/NjYwWDg4MA==/z/EroAAOSwNd9ZxCu~/$_20.JPG
+name=Dimitri
+phoneNumber=0410381932
+locationId=3004117
+geocodeLat=-33.794095
+geocodeLng=151.188817
+geocodeLocality=Chatswood
+attributeMap['hg_furniture_office_chairs.automatic_repost_ad_s']=false
+attributeMap['hg_furniture_office_chairs.highest_price_s']=25000.0
+attributeMap['hg_furniture_office_chairs.paypal_accepted_seller_s']=false
+attributeMap['hg_furniture_office_chairs.condition_s']=used

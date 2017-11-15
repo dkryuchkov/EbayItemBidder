@@ -1,0 +1,42 @@
+attributeMap['cars.greyimport']=
+postcode=2040
+houseNumber=
+streetName=
+adType=OFFER
+adId=
+geocodeConfidence=OK
+files[]=
+bbImageBaseUrl=/bb-image.html
+galleryImageIndex=
+_showLocationOnMap=on
+unacceptableGeocode=false
+level2CategoryId=
+quickOffer=
+_renew=on
+repost=false
+categoryId=18565
+price.amount=5
+price.type=FIXED
+minimumOfferPrice=
+title=40% OFF to Lose weight, tone up and feel good about yourself
+images=https://i.ebayimg.com/00/s/NDEwWDczNQ==/z/LugAAOSwt5hYcHSV/$_20.JPG
+images=https://i.ebayimg.com/00/s/NTM0WDgwMA==/z/XZ0AAOSwjDZYcHSU/$_20.JPG
+images=https://i.ebayimg.com/00/s/NTM0WDgwMA==/z/QMAAAOSw9GhYcHSV/$_20.JPG
+images=https://i.ebayimg.com/00/s/NTM0WDgwMA==/z/xXUAAOSw241YcHSW/$_20.JPG
+images=https://i.ebayimg.com/00/s/NTM0WDgwMA==/z/QPgAAOSw9GhYcHSZ/$_20.JPG
+images=https://i.ebayimg.com/00/s/NTM0WDgwMA==/z/QMoAAOSw9GhYcHSW/$_20.JPG
+images=https://i.ebayimg.com/00/s/Mjk0WDQ4Nw==/z/h4IAAOSwUKxYcHSW/$_20.JPG
+images=https://i.ebayimg.com/00/s/NTkxWDU5MQ==/z/KcQAAOSwEzxYcHSY/$_20.JPG
+images=https://i.ebayimg.com/00/s/NjAwWDQwMA==/z/XdQAAOSwjDZYcHSX/$_20.JPG
+images=https://i.ebayimg.com/00/s/NjAwWDQwMA==/z/xtgAAOSwImRYcHSX/$_20.JPG
+name=Nav
+phoneNumber=0402602979
+locationId=3003795
+geocodeLat=-33.868742
+geocodeLng=151.209147
+geocodeLocality=Sydney City
+description=Lose weight, tone up and feel good about yourself this summer!&lt;br&gt;&lt;br&gt;&lt;br&gt;With as little as 5 to 10-minutes a day, from the comfort of your own home, the Abzilla works on not just 3 or 4 sets of muscles groups like other ab machines, but 17 muscle groups! This is essential for a good posture and building core strength. Just 5-minutes of the Abzilla will raise your heart rate and kick start your body and metabolism to start burning fat!&lt;br&gt;&lt;br&gt;&lt;br&gt;WWW.ABZILLA.COM.AU&lt;br&gt;&lt;br&gt;&lt;br&gt;USER PROMO CODE - SAVE40 to get 40% off&lt;br&gt;&lt;br&gt;&lt;br&gt;FREE DELIVER AUS WIDE
+attributeMap['gym_fitness.paypal_accepted_seller_s']=true
+attributeMap['gym_fitness.highest_price_s']=5.0
+attributeMap['gym_fitness.condition_s']=new
+attributeMap['gym_fitness.automatic_repost_ad_s']=false

@@ -1,0 +1,38 @@
+attributeMap['cars.greyimport']=
+postcode=2040
+houseNumber=
+streetName=
+adType=OFFER
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+_showLocationOnMap=on
+unacceptableGeocode=false
+level2CategoryId=
+quickOffer=
+_renew=on
+repost=false
+categoryId=20080
+price.amount=909
+price.type=FIXED
+minimumOfferPrice=
+title=Dining table setting, 11-piece, Italian made, marble top, twin ma
+name=Tatiana
+phoneNumber=0410381932
+locationId=3003844
+mapAddress=Leichhardt, NSW, 2040
+geocodeLat=-33.882417
+geocodeLng=151.154762
+geocodeLocality=Leichhardt
+description=Dining table setting, 11-piece, Italian made, marble top, twin marble pedestal base, approx 2400 x 1200mm and 10 x timber frame and leg, taupe coloured leather upholstered chairs, ex floor stock, RRP$9999 (236051-104) 
+attributeMap['hg_furniture_tables.paypal_accepted_seller_s']=false
+attributeMap['hg_furniture_tables.automatic_repost_ad_s']=false
+attributeMap['hg_furniture_tables.condition_s']=new
+images=https://i.ebayimg.com/00/s/NTg3WDg4MA==/z/EXwAAOSwcUBYP6b-/$_20.JPG
+images=https://i.ebayimg.com/00/s/ODgwWDU4Nw==/z/l2UAAOSw44BYP6cK/$_20.JPG
+images=https://i.ebayimg.com/00/s/NTg3WDg4MA==/z/XTUAAOSwo4pYP6cX/$_20.JPG
+ctk=1swY3Ok8bRCCk2dkkWbAZA
+csrft=40e0409ddf8cf9ed6ebda30a83516c1c
+bbUserInput=0179
+bbToken=a6a72307e5adf89c3603398b52af47810399c0036aaa737c183502e24b15fc62c1c84c7cbff46b50bb5054ef54f3d0123b31a62fb306cf82cb5c9f983987c4ff

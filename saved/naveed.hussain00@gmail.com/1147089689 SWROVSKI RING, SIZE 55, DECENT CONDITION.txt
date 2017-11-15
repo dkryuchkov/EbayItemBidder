@@ -1,0 +1,30 @@
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+attributeMap['cars.greyimport']=
+houseNumber=
+unacceptableGeocode=false
+level2CategoryId=
+_renew=on,_showLocationOnMap
+categoryId=18602
+price.amount=100
+price.type=NEGOTIABLE
+minimumOfferPrice=
+attributeMap[women_s_jewellery.condition_s]=used
+title=SWROVSKI RING, SIZE 55, DECENT CONDITION
+images=https://i.ebayimg.com/00/s/OTg4WDE1OTk=/z/yEYAAOSwZeVY8WgU/$_20.JPG
+images=https://i.ebayimg.com/00/s/ODczWDE2MDA=/z/Og4AAOSwU8hY8WgO/$_20.JPG
+images=https://i.ebayimg.com/00/s/MTQ2OFgxNjAw/z/g1sAAOSw3utY8WgV/$_20.JPG
+images=https://i.ebayimg.com/00/s/MTQ3NFgxNjAw/z/necAAOSwGy5Y8Wgb/$_20.JPG
+images=https://i.ebayimg.com/00/s/MTU4NFgxNjAw/z/VwoAAOSw7XBY8Wgo/$_20.JPG
+images=https://i.ebayimg.com/00/s/MTQzM1gxNjAw/z/zX4AAOSwj25Y8Wgp/$_20.JPG
+name=Nav
+phoneNumber=0402602979
+locationId=3003499
+geocodeLat=-33.771962
+geocodeLng=150.843234
+geocodeLocality=Rooty Hill
+description=Used Swarovski ring&lt;br&gt;Few crystals missing and have been quoted $8 each from Swarovski (we ended up buying a new one)&lt;br&gt;Paid $249 brand new&lt;br&gt;Can do with a good clean to bring out the shine&lt;br&gt;Postage can be arranged anywhere in Aus&lt;br&gt;&lt;br&gt;$100 or near offer&lt;br&gt;&lt;br&gt;FEEL FREE TO CALL ME ON 0402 602 979
+attributeMap['women_s_jewellery.highest_price_s']=120.0
+attributeMap['women_s_jewellery.condition_s']=used

@@ -1,0 +1,15 @@
+description=<div class="vip-ad-description--fade-out"></div>                <div id="ad_description_details_content">                    25 pocket time card rack, wall mounted time card holder aluminium, new in box. about 5-10 racks are available&lt;br&gt;&lt;br&gt;&lt;br&gt;</div>        </div>
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+attributeMap['cars.greyimport']=
+houseNumber=
+unacceptableGeocode=false
+level2CategoryId=
+_renew=on,_showLocationOnMap
+attributeMap[other_stuff_for_sale.condition_s]=new
+images=https://i.ebayimg.com/00/s/MTIwMFgxNjAw/z/W9EAAOSwaeRZEu5Y/$_20.JPG
+attributeMap['other_stuff_for_sale.highest_price_s']=10.0
+attributeMap['other_stuff_for_sale.adsense_query_title_s']=[{algorithmName
+attributeMap['title']=box wall mounted time card holder rack CHEAP

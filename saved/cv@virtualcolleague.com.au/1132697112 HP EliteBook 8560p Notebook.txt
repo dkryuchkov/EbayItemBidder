@@ -1,0 +1,35 @@
+attributeMap['cars.greyimport']=
+postcode=2040
+houseNumber=
+streetName=
+adType=OFFER
+adId=
+geocodeConfidence=OK
+files[]=
+bbImageBaseUrl=/bb-image.html
+galleryImageIndex=
+_showLocationOnMap=on
+unacceptableGeocode=false
+level2CategoryId=
+quickOffer=
+_renew=on
+repost=false
+categoryId=18553
+price.amount=270
+price.type=FIXED
+minimumOfferPrice=
+title=HP EliteBook 8560p Notebook
+images=https://i.ebayimg.com/00/s/NTg0WDg4MA==/z/AksAAOSwOtdYTxSJ/$_20.JPG
+images=https://i.ebayimg.com/00/s/NTg0WDg4MA==/z/IzYAAOSwJ7RYTxSQ/$_20.JPG
+images=https://i.ebayimg.com/00/s/NTg0WDg4MA==/z/JuYAAOSw4GVYTxSZ/$_20.JPG
+name=Dimitri
+phoneNumber=0410381932
+locationId=3003844
+geocodeLat=-33.882417
+geocodeLng=151.154762
+geocodeLocality=Leichhardt
+description=www.gumtree-intforce.rhcloud.com&lt;br&gt;&lt;br&gt;&lt;div class=&quot;content-section&quot;&gt; &lt;h3&gt;Description&lt;/h3&gt;    &lt;div class=&quot;sanitised-markup&quot;&gt;&lt;p&gt;&lt;strong&gt;HP EliteBook 8560p Notebook&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; (Chassis Type: Notebook)&lt;/p&gt;&lt;p&gt; Specifications &lt;/p&gt;&lt;ul&gt;&lt;li&gt; Processor: Intel(R) Core(TM) i5-2540M CPU @ 2.60GHz, 2 Core(s)&lt;/li&gt;&lt;li&gt; Memory: 4GB RAM &lt;/li&gt;&lt;li&gt; Hard Disk: 320GB, SATA, Hitachi, Serial_No (E3834523GDPKGN)&lt;/li&gt;&lt;li&gt; Optical Drive: hp, CDDVDW SN-208BB, DVD-R&lt;/li&gt;&lt;li&gt; Network Interface: Intel Corporation, Centrino Ultimate-N 6300, Wireless&lt;/li&gt;&lt;li&gt; Network Interface: Intel Corporation, 82579LM Gigabit Network Connection, Ethernet&lt;/li&gt;&lt;li&gt; Storage Controller: Intel Corporation, 6 Series/C200 Series Chipset Family 6 port SATA AHCI Controller, SATA controller&lt;/li&gt;&lt;li&gt; Video Card: Advanced Micro Devices, Inc. [AMD/ATI], Seymour [Radeon HD 6400M/7400M Series]&lt;/li&gt;&lt;li&gt; Sound Card: Intel Corporation, 6 Series/C200 Series Chipset Family High Definition Audio Controller&lt;/li&gt;&lt;li&gt; Sound Card (2): Advanced Micro Devices, Inc. [AMD/ATI], Caicos HDMI Audio [Radeon HD 6400 Series]&lt;/li&gt;&lt;li&gt; No OS &lt;/li&gt;&lt;/ul&gt;&lt;p&gt; &lt;strong&gt;Please Note:&lt;/strong&gt; Power on test passed. No other functions tested. HDDs formatted. Bare unit only, No AC power adaptor. No other accessories included. Minor marks, scratches and dents on the unit. Item is not in original box.&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Bios password protected. (SN:5CB2070P64) &lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Product Condition is Seconds. It is sold &lt;strong&gt;as is&lt;/strong&gt;. No refunds or returns will be accept based on damage(s) and/or fault(s).&lt;/p&gt;&lt;p&gt; (233503-30)&lt;/p&gt;&lt;p&gt;&lt;strong&gt; Note:&lt;/strong&gt;  &lt;/p&gt;    &lt;/div&gt;    &lt;/div&gt
+attributeMap['laptops.paypal_accepted_seller_s']=false
+attributeMap['laptops.automatic_repost_ad_s']=false
+attributeMap['laptops.highest_price_s']=270.0
+attributeMap['laptops.condition_s']=used

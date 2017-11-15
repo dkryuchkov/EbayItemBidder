@@ -1,0 +1,46 @@
+attributeMap['cars.greyimport']=
+postcode=2040
+houseNumber=
+streetName=
+adType=OFFER
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+_showLocationOnMap=on
+unacceptableGeocode=false
+level2CategoryId=
+quickOffer=
+_renew=on
+repost=false
+categoryId=20103
+price.amount=250
+price.type=FIXED
+minimumOfferPrice=
+title=BULK SALE  13 X Brand NEW Branded Vanity Basins,MIN RRP $200 EACH
+name=Dmitri
+phoneNumber=0410381932
+locationId=3003845
+mapAddress=Mary Street, Lilyfield, NSW
+geocodeLat=-33.87109
+geocodeLng=151.161166
+geocodeLocality=Lilyfield
+description=I have 13 Brand NEW Top Branded Bathroom Basins. There are left over from the old stock.&lt;br&gt;These are manly Stylus and Imperialware Brands, most are semi recessed. &lt;br&gt;One is Fowler Regent Drop-in basin.&lt;br&gt;&lt;br&gt;Ideal for renovators or retail shops. &lt;br&gt;Minimum RRP is $200 each, some are $400 each&lt;br&gt;&lt;br&gt;GRAB YOURSELF AN ENORMOUS BARGAIN AND MAKE $$$ !&lt;br&gt;&lt;br&gt;Collection from Lilyfield, NSW 2040
+attributeMap['building_materials.paypal_accepted_seller_s']=false
+attributeMap['building_materials.automatic_repost_ad_s']=false
+attributeMap['building_materials.condition_s']=new
+attributeMap['building_materials.highest_price_s']=250.0
+images=https://i.ebayimg.com/00/s/ODgwWDU4NA==/z/huQAAOSwiONYN0SE/$_20.JPG
+images=https://i.ebayimg.com/00/s/NzUyWDgwMA==/z/n20AAOSwA3dYN0SH/$_20.JPG
+images=https://i.ebayimg.com/00/s/NDUwWDgwMA==/z/wY8AAOSwj85YN0SG/$_20.JPG
+images=https://i.ebayimg.com/00/s/ODAwWDgwMA==/z/n4EAAOSwA3dYN0SH/$_20.JPG
+images=https://i.ebayimg.com/00/s/NDUwWDgwMA==/z/fv4AAOSwo4pYN0SF/$_20.JPG
+images=https://i.ebayimg.com/00/s/NDUwWDgwMA==/z/sMkAAOSwB09YN0SF/$_20.JPG
+images=https://i.ebayimg.com/00/s/NDUwWDgwMA==/z/n1IAAOSwA3dYN0SG/$_20.JPG
+images=https://i.ebayimg.com/00/s/NjAwWDM5OA==/z/fyYAAOSwo4pYN0SG/$_20.JPG
+images=https://i.ebayimg.com/00/s/NTAwWDUwMA==/z/n34AAOSwA3dYN0SH/$_20.JPG
+images=https://i.ebayimg.com/00/s/NTgzWDg4MA==/z/wfQAAOSwj85YN0SI/$_20.JPG
+ctk=ZqXzXN0p0g6h5iOYQSE2JQ
+csrft=db3a0b54fbe9fa32fc06a2a560f4479a
+bbUserInput=0639
+bbToken=e83030ea3863c4ff0c6a5663a84e4ec5e66df04428304dedef9fb3c1bc050a47bcf2e05db43cab43e3756a20c5c578dbb002c9be7b296c714621b3a876ccfd70

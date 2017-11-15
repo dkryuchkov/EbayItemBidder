@@ -1,0 +1,29 @@
+description=NEW, never used Haier 258L Vertical Freezer (White) (HVF260WH2)&lt;br&gt;Recommended Retail Price (RRP) - $1099&lt;br&gt;Colour: White&lt;br&gt;Gross capacity: 258 L&lt;br&gt;Environmentally friendly R600A refrigerant&lt;br&gt;Child lock Assist Handle&lt;br&gt;Frost free Interior&lt;br&gt;LED light&lt;br&gt;Pizza zone&lt;br&gt;Quick response cooling with innovative Super Freeze technology&lt;br&gt;Reversible door&lt;br&gt;Self diagnostic assistance&lt;br&gt;Touch LED temperature control&lt;br&gt;White interior lining&lt;br&gt;Energy rating: 3.5&lt;br&gt;Slim 595mm width&lt;br&gt;Dimensions (HxWxD): 1670 x 595 x 685 m
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+attributeMap['cars.greyimport']=
+houseNumber=
+unacceptableGeocode=false
+level2CategoryId=
+_renew=on,_showLocationOnMap
+categoryId=20061
+adType=OFFER
+price.amount=399
+price.type=FIXED
+minimumOfferPrice=
+attributeMap[hg_appliances_fridge_freezer.condition_s]=new
+title=NEW HAIER 258L SLIM FREEZER Super Freeze Technology RRP $1,099
+images=https://i.ebayimg.com/00/s/NzEyWDI2MA==/z/F4kAAOSwvPRZX19z/$_20.JPG
+images=https://i.ebayimg.com/00/s/NTc1WDU3NQ==/z/BVsAAOSwiA9ZX191/$_20.JPG
+name=Dimitri
+phoneNumber=0410381932
+locationId=3004117
+geocodeLat=-33.794095
+geocodeLng=151.188817
+geocodeLocality=Chatswood
+attributeMap['hg_appliances_fridge_freezer.automatic_repost_ad_s']=false
+attributeMap['hg_appliances_fridge_freezer.paypal_accepted_seller_s']=false
+attributeMap['hg_appliances_fridge_freezer.highest_price_s']=399.0
+attributeMap['hg_appliances_fridge_freezer.condition_s']=new

@@ -1,0 +1,29 @@
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+attributeMap['cars.greyimport']=
+houseNumber=
+unacceptableGeocode=false
+level2CategoryId=
+_renew=on,_showLocationOnMap
+categoryId=20059
+adType=OFFER
+price.amount=35
+price.type=FIXED
+minimumOfferPrice=
+attributeMap[hg_appliances_cooktop_rangehood.condition_s]=used
+title=Portable Electric Induction Cooktop
+images=https://i.ebayimg.com/00/s/NTAwWDUwMA==/z/~BAAAOSw42dZL-Nl/$_20.JPG
+images=https://i.ebayimg.com/00/s/NTAwWDUwMA==/z/x2wAAOSw1WJZL-Nl/$_20.JPG
+name=Dimitri
+phoneNumber=0410381932
+locationId=3004117
+geocodeLat=-33.794095
+geocodeLng=151.188817
+geocodeLocality=Chatswood
+description=Portable Electric Induction Cooktop Kitchen Cooker Ceramic Cook Top RRP $160&lt;br&gt;Please note: Only one burner is working, otherwise as new condition in original box with manual. &lt;br&gt;&lt;br&gt;Large LED display&lt;br&gt;* Handy button control&lt;br&gt;* Adjustable power levels, maximum temperature 130 degree&lt;br&gt;* 8 power levels adjustments&lt;br&gt;* 2 Burners, Only one is in working condition&lt;br&gt;* Power: 3100W (Left Burner 1800W &amp; Right Burner 1300W)&lt;br&gt;* Plate size: 27.5 X 27cm each&lt;br&gt;* Cook-top size: 60 X 36 X 7cm&lt;br&gt;* Australian voltage 240v/50Hz&lt;br&gt;* 24 hrs timer and preset with 5 minute intervals&lt;br&gt;* Over Heat temperature protection&lt;br&gt;* Auto shut down after 2 hrs when unused&lt;br&gt;* Lockable for extra safety&lt;br&gt;&lt;br&gt;THIS ADVERT IS MANAGED BY https://gumtree-intforce.rhcloud.com
+attributeMap['hg_appliances_cooktop_rangehood.paypal_accepted_seller_s']=false
+attributeMap['hg_appliances_cooktop_rangehood.condition_s']=used
+attributeMap['hg_appliances_cooktop_rangehood.highest_price_s']=45.0
+attributeMap['hg_appliances_cooktop_rangehood.automatic_repost_ad_s']=false

@@ -1,0 +1,33 @@
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+attributeMap['cars.greyimport']=
+houseNumber=
+unacceptableGeocode=false
+level2CategoryId=
+_renew=on,_showLocationOnMap
+categoryId=18553
+price.amount=1500
+price.type=FIXED
+minimumOfferPrice=
+attributeMap[laptops.condition_s]=new
+title=New Latest Gen Dell XPS 13 9360,7th Gen i7,8GB,256SSD,RRP $2,999
+images=https://i.ebayimg.com/00/s/NTUzWDk2NQ==/z/5LYAAOSwJ4hY9yZz/$_20.JPG
+images=https://i.ebayimg.com/00/s/MTIwMFgxNjAw/z/3YgAAOSwHptY9yaL/$_20.JPG
+images=https://i.ebayimg.com/00/s/OTAwWDEyMDA=/z/tcMAAOSwBOtY9yaW/$_20.JPG
+images=https://i.ebayimg.com/00/s/NTAwWDc3NQ==/z/vrUAAOSwSypY9yaf/$_20.JPG
+images=https://i.ebayimg.com/00/s/MTA2NlgxNjAw/z/IeEAAOSw7U5Y9yat/$_20.JPG
+images=https://i.ebayimg.com/00/s/OTAwWDEyMDA=/z/cW8AAOSwIWVY9ya~/$_20.JPG
+images=https://i.ebayimg.com/00/s/NjUzWDk4MA==/z/9ikAAOSwJ4hY9ybG/$_20.JPG
+name=Dimitri
+phoneNumber=0410381932
+locationId=3004117
+geocodeLat=-33.794095
+geocodeLng=151.188817
+geocodeLocality=Chatswood
+description=New Dell XPS 13 (9360) Laptop, Top Spec, RRP $2,999&lt;br&gt;&lt;br&gt;Dell&#39;s Warranty &amp; Premium Support until 26th of November 2017 with Next Business Day on-site&lt;br&gt;&lt;br&gt;Latest 7th Generation Intel(R) Core(TM) i7-7500U (4MB Cache, up to 3.5 GHz)&lt;br&gt;8GB LPDDR3 1866MHz&lt;br&gt;256GB PCIe Solid State Drive&lt;br&gt;No Optical Drive&lt;br&gt;Intel(R) HD Graphics&lt;br&gt;13.3 inch QHD+ (3200 x 1800) Infinity Edge touch display&lt;br&gt;Stereo speakers professionally tuned with Waves MaxxAudio&lt;br&gt;Killer 1535 802.11ac 2x2 Wi-Fi and Bluetooth 4.1&lt;br&gt;Widescreen HD (720p) webcam with dual array digital microphones&lt;br&gt;3?in-1 Card Reader (SD, SDHC, SDXC)&lt;br&gt;2 x USB 3.0 Port, 1 x Thunderbolt TM 3&lt;br&gt;Built In Primary Battery&lt;br&gt;AC Power Adapter And Power Cord&lt;br&gt;Windows 10 Pre-Installed&lt;br&gt;&lt;br&gt;THIS ADVERT IS MANAGED BY https://gumtree-intforce.rhcloud.com
+attributeMap['laptops.paypal_accepted_seller_s']=false
+attributeMap['laptops.automatic_repost_ad_s']=false
+attributeMap['laptops.highest_price_s']=1500.0
+attributeMap['laptops.condition_s']=new

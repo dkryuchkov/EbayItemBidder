@@ -1,0 +1,27 @@
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+attributeMap['cars.greyimport']=
+houseNumber=
+unacceptableGeocode=false
+level2CategoryId=
+_renew=on,_showLocationOnMap
+categoryId=20066
+price.amount=150
+price.type=FIXED
+minimumOfferPrice=
+attributeMap[hg_appliances_washing_drying.condition_s]=new
+title=Mistral Tumble Dryer
+images=https://i.ebayimg.com/00/s/NjIwWDYyMA==/z/6UwAAOSwi7RZEVwm/$_20.JPG
+name=Dimitri
+phoneNumber=0410381932
+locationId=3004117
+geocodeLat=-33.794095
+geocodeLng=151.188817
+geocodeLocality=Chatswood
+description=New item in original box.&lt;br&gt;This Mistral 4 Kg tumble dryer is perfect for drying your everyday items, especially with the colder months coming. Not only does it feature a generous 4 Kg capacity but it also comes with a variable heat selector, five drying options, adjustable levelling legs and wall mountable brackets for space saving in your laundry area. You are sure to enjoy the quality and ease of use that this tumble dryer provides&lt;br&gt;&lt;br&gt;THIS ADVERT IS MANAGED BY https://gumtree-intforce.rhcloud.com
+attributeMap['hg_appliances_washing_drying.paypal_accepted_seller_s']=false
+attributeMap['hg_appliances_washing_drying.condition_s']=new
+attributeMap['hg_appliances_washing_drying.automatic_repost_ad_s']=false
+attributeMap['hg_appliances_washing_drying.highest_price_s']=150.0

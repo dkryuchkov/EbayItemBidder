@@ -1,0 +1,29 @@
+description=Excellent condition, hardly used&lt;br&gt;High power performance for faster cutting progress&lt;br&gt;&lt;br&gt;Robust standard steel base plate&lt;br&gt;&lt;br&gt;Closed anti-snag aluminium die-cast lower guard without riving for longer service life&lt;br&gt;&lt;br&gt;Optimised chip ejection system for cleaner material surface&lt;br&gt;&lt;br&gt;Blower function for a dust free cutting surface&lt;br&gt;&lt;br&gt;Ambidextrous lock-off switch on both sides of grip for more convenience&lt;br&gt;&lt;br&gt;Dual guided bevel setting for more stability Integrated groove in base plate for direct 90 cuts on guide rail&lt;br&gt;&lt;br&gt;Cord system with ball join for strain relief and longer service life of the cord&lt;br&gt;Specifications:&lt;br&gt;&lt;br&gt;Rated power input: 2100W&lt;br&gt;&lt;br&gt;No-load speed: 5000rpm&lt;br&gt;&lt;br&gt;Blade bore: 25mm&lt;br&gt;&lt;br&gt;Blade diameter: 235mm&lt;br&gt;&lt;br&gt;Cutting depth: 90 degree: 85mm 45 degree: 65mm&lt;br&gt;&lt;br&gt;Weight (without cable): 7.6kg
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+attributeMap['cars.greyimport']=
+houseNumber=
+unacceptableGeocode=false
+level2CategoryId=
+_renew=on,_showLocationOnMap
+categoryId=20093
+adType=OFFER
+price.amount=129
+price.type=FIXED
+minimumOfferPrice=
+attributeMap[hg_tools_diy_power_tools.condition_s]=used
+title=Blue 235mm Professional Circular saws Bosch model GKS235 VGC
+images=https://i.ebayimg.com/00/s/OTAxWDE2MDA=/z/WL8AAOSwQ59ZaMar/$_20.JPG
+images=https://i.ebayimg.com/00/s/OTAxWDE2MDA=/z/FLYAAOSwY4pZaMav/$_20.JPG
+name=Dimitri
+phoneNumber=0410381932
+locationId=3004117
+geocodeLat=-33.794095
+geocodeLng=151.188817
+geocodeLocality=Chatswood
+attributeMap['hg_tools_diy_power_tools.paypal_accepted_seller_s']=false
+attributeMap['hg_tools_diy_power_tools.condition_s']=used
+attributeMap['hg_tools_diy_power_tools.automatic_repost_ad_s']=false
+attributeMap['hg_tools_diy_power_tools.highest_price_s']=139.0

@@ -1,0 +1,40 @@
+attributeMap['cars.greyimport']=
+postcode=2040
+houseNumber=
+streetName=
+adType=OFFER
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+_showLocationOnMap=on
+unacceptableGeocode=false
+level2CategoryId=
+quickOffer=
+_renew=on
+repost=false
+categoryId=18553
+price.amount=950
+price.type=FIXED
+minimumOfferPrice=
+title=NEW Dell Latitude 12 (E7270) 7000 Series Laptop
+name=Dimitri
+phoneNumber=0410381932
+locationId=3003844
+mapAddress=Leichhardt, NSW, 2040
+geocodeLat=-33.882417
+geocodeLng=151.154762
+geocodeLocality=Leichhardt
+description=&lt;div class="content-section"&gt; &lt;h3&gt;Description&lt;/h3&gt;    &lt;div class="sanitised-markup"&gt;&lt;p&gt;&lt;strong&gt;Dell Latitude 12 &#40; E7270 &#41; 7000 Series Laptop&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Black &lt;/li&gt;&lt;li&gt;6th Generation Intel Core i7-6600U &#40;Dual Core, 2.6GHz, 4MB cache&#41; &lt;/li&gt;&lt;li&gt;8GB &#40;1x8GB&#41; 2133MHz DDR4 Memory &lt;/li&gt;&lt;li&gt;M.2 256GB SATA Class 20 Solid State Drive &lt;/li&gt;&lt;li&gt;12.5&#8221; FHD &#40;1920 x 1080&#41; Non-Touch LCD Screen &lt;/li&gt;&lt;li&gt;Integrated HD Graphics &lt;/li&gt;&lt;li&gt;Waves Maxx Audio Royalty&lt;/li&gt;&lt;li&gt;10&#47;100&#47;1000 Gigabit Ethernet&lt;/li&gt;&lt;li&gt;Intel Dual-Band Wireless 8260 AC Wi-Fi &#43; Bluetooth 4.2 Wireless Driver &#40;2x2&#41; &lt;/li&gt;&lt;li&gt;Webcam With Microphones &lt;/li&gt;&lt;li&gt;SD 4.0 Memory Card Reader&lt;/li&gt;&lt;li&gt;1 x HDMI Port, 3 x USB 3.0 Ports &#40; One with Power Share &#41;, 1 x Mini Display Port, 1 x RJ45 Port &lt;/li&gt;&lt;li&gt;Built In Primary Battery&lt;/li&gt;&lt;li&gt;AC Power Adapter and Power Cord&lt;/li&gt;&lt;li&gt;Windows 10 Pre-installed, OS Recovery Disc Not Included &lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&#40;SN&#58;5T53BG2&#41; &#40;237331-20&#41;&lt;/p&gt;&lt;p&gt;&lt;strong&gt; Note&#58;&lt;/strong&gt;   is included in the freight and buyers premium.&lt;/p&gt;    &lt;/div&gt;    &lt;/div&gt;&lt;br&gt;&lt;br&gt;THIS ADVERT IS MANAGED BY https://gumtree-intforce.rhcloud.com
+attributeMap['laptops.paypal_accepted_seller_s']=false
+attributeMap['laptops.automatic_repost_ad_s']=false
+attributeMap['laptops.condition_s']=new
+attributeMap['laptops.website_s']=gumtree-intforce.rhcloud.com
+attributeMap[laptops.slogan_s]=NEW Dell Latitude 12 (E7270) 7000 Series Laptop
+hourstomarket=12
+bbImageBaseUrl=/bb-image.html
+images=https://i.ebayimg.com/00/s/MzQyWDQwNg==/z/HNIAAOSw44BYg7mo/$_20.JPG
+images=https://i.ebayimg.com/00/s/MzgyWDU1NA==/z/VfcAAOSwnHZYg7mt/$_20.JPG
+images=https://i.ebayimg.com/00/s/MzQ0WDQyMw==/z/4rIAAOSwt5hYg7my/$_20.JPG
+ctk=KfpAJd_oJ6lS0x6AbZ9ZmA
+csrft=3255edeee8733270c87ec8e3ebcebe86

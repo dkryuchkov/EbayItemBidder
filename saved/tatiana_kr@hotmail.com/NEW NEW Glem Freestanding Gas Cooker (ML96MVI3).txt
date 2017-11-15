@@ -1,0 +1,42 @@
+attributeMap['cars.greyimport']=
+postcode=2067
+houseNumber=
+streetName=
+adType=OFFER
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+_showLocationOnMap=on
+unacceptableGeocode=false
+level2CategoryId=
+quickOffer=
+_renew=on
+repost=false
+categoryId=20063
+price.amount=600
+price.type=FIXED
+minimumOfferPrice=
+title=NEW Glem Freestanding Gas Cooker (ML96MVI3)
+name=Dimitri
+phoneNumber=0410381932
+locationId=3003844
+mapAddress=Chatswood 2067, NSW
+geocodeLat=-33.882417
+geocodeLng=151.154762
+geocodeLocality=Chatswood
+description=&lt;div class="content-section"&gt; &lt;h3&gt;Description&lt;/h3&gt;    &lt;div class="sanitised-markup"&gt;&lt;p&gt;&lt;strong&gt;Glem Freestanding Gas Cooker &#40;ML96MVI3&#41;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Recommended Retail Price &#40;RRP&#41; - &#36;3749 as of February 2017 based on a new product.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Features&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;5 Burners including wok burner&lt;/li&gt;&lt;li&gt;5 Oven functions&lt;/li&gt;&lt;li&gt;Flame failure safety&lt;/li&gt;&lt;li&gt;Static or fan assisted electric grill&lt;/li&gt;&lt;li&gt;Tangential cooling fan&lt;/li&gt;&lt;li&gt;Touch control digital clock&#47;timer&lt;/li&gt;&lt;li&gt;Self cleaning catalytic oven liners&lt;/li&gt;&lt;li&gt;Triple glass oven door&lt;/li&gt;&lt;li&gt;Storage compartment&lt;/li&gt;&lt;li&gt;Removable oven side racks&lt;/li&gt;&lt;li&gt;2 wire racks&lt;/li&gt;&lt;li&gt;Grill tray with rack&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Specification&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Oven Volume&#58; 116 Litres&lt;/li&gt;&lt;li&gt;Grill&#58; Integrated grill&lt;/li&gt;&lt;li&gt;Minimum Height &#40;mm&#41;&#58; 890 mm&lt;/li&gt;&lt;li&gt;Cooktop Fuel&#58; Gas&lt;/li&gt;&lt;li&gt;Oven Fuel Type&#58; Natural Gas&lt;/li&gt;&lt;li&gt;Dimensions &#40;H x W x D&#41;&#58; 910 x 900 x 600mm&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;Item may show marks&#47;scratches&#47;dents or imperfections. Accessories may vary from standard.&lt;/li&gt;&lt;li&gt;Returns&#47;refunds based on marks&#47;scratches&#47;dents or imperfections will not be accepted&lt;/li&gt;&lt;li&gt;This item is classified as Grade 3 &#40;please refer to Grading tab for details&#41;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Green &#35; Dents on right side panel &lt;/p&gt;&lt;p&gt; &#40;238255-18&#41;&lt;/p&gt;&lt;p&gt;&lt;strong&gt; Note&#58;&lt;/strong&gt;  &lt;/p&gt;    &lt;/div&gt;    &lt;/div&gt;
+attributeMap['hg_appliances_ovens.paypal_accepted_seller_s']=false
+attributeMap['hg_appliances_ovens.automatic_repost_ad_s']=false
+attributeMap['hg_appliances_ovens.condition_s']=new
+attributeMap['hg_appliances_ovens.website_s']=gumtree-intforce.rhcloud.com
+attributeMap[hg_appliances_ovens.slogan_s]=NEW Glem Freestanding Gas Cooker (ML96MVI3)
+hourstomarket=14
+images=https://i.ebayimg.com/00/s/NDUwWDQ1MA==/z/47wAAOSwB-1Yzuy8/$_20.JPG
+images=https://i.ebayimg.com/00/s/ODgwWDc4OQ==/z/doUAAOSwTM5YzuzV/$_20.JPG
+images=https://i.ebayimg.com/00/s/NTM1WDg4MA==/z/eaEAAOSwTM5Yzuzr/$_20.JPG
+images=https://i.ebayimg.com/00/s/NjI3WDg4MA==/z/xhUAAOSwXYtYzu0E/$_20.JPG
+images=https://i.ebayimg.com/00/s/ODgwWDg3NQ==/z/8j8AAOSwB-1Yzu0h/$_20.JPG
+images=https://i.ebayimg.com/00/s/NzA1WDg4MA==/z/g-UAAOSwTM5Yzu05/$_20.JPG
+ctk=O4DgGBj2S-WYwLzoL3y7rw
+csrft=3b34ba48b44d610c3511544e115d5051

@@ -1,0 +1,36 @@
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+attributeMap['cars.greyimport']=
+houseNumber=
+unacceptableGeocode=false
+level2CategoryId=
+_renew=on,_showLocationOnMap
+categoryId=20061
+adType=OFFER
+price.amount=699
+price.type=FIXED
+minimumOfferPrice=
+attributeMap[hg_appliances_fridge_freezer.condition_s]=new
+title=NEW LG 450L Bottom Mount Refrigerator GB-450UWLX
+name=Dimitri
+phoneNumber=0410381932
+locationId=3004117
+geocodeLat=-33.794095
+geocodeLng=151.188817
+geocodeLocality=Chatswood
+description=12 months warranty NEW LG 450L Bottom Mount Refrigerator (GB-450UWLX) Recommended Retail Price (RRP) - $1299 as of June 2017 Colour: White Hidden Hinges Air Ventilation: Rear Venting Door Open Alarm BioShield Capacity (Total): 450L Refrigerator Capacity: 295L Freezer Capacity: 155L Digital Sensors (includes Room Temp Sensor): 4 Dual Speed Cooling Fan Evaporators: 1 Refrigerant Type: R600a Inverter Linear Compressor Smart Diagnosis Refrigerator FeaturesInterior Lamp: LED Tempered Glass Shelves: 3 Fixed Door Baskets: 6 Moisture Balance Crisper: 1 Dairy Corner: (1) Egg Tray Deodoriser Freezer Features Drawers: Yes (3 x Plastic) Express Freeze Twist Ice Tray with Ice Bank Energy Consumption: 299kWh/year Energy Rating: 4&frac12; Star DimensionsWeight (Unit): 85 kg Dimensions (HxWxD): 1800 x 740 x 770mm
+attributeMap['hg_appliances_fridge_freezer.automatic_repost_ad_s']=false
+attributeMap['hg_appliances_fridge_freezer.paypal_accepted_seller_s']=false
+attributeMap['hg_appliances_fridge_freezer.highest_price_s']=699.0
+attributeMap['hg_appliances_fridge_freezer.condition_s']=new
+images=https://i.ebayimg.com/00/s/ODgwWDg4MA==/z/6bUAAOSwuq9ZX1tJ/$_20.JPG
+images=https://i.ebayimg.com/00/s/ODgwWDM4OA==/z/IvAAAOSwWdZZX1tO/$_20.JPG
+images=https://i.ebayimg.com/00/s/ODQ2WDg4MA==/z/0PIAAOSwpINZX1tb/$_20.JPG
+images=https://i.ebayimg.com/00/s/NTc5WDg4MA==/z/01MAAOSwhilZX1tj/$_20.JPG
+ctk=Ms8fkwftXhX92YELrymh-g
+csrft=699c63cccc559bb3dec52b3cb196ca2e
+_showLocationOnMap=on
+bbUserInput=0226
+bbToken=72f7b21f5acb04222ff0d0968e6c4fa66423796f954e07c4eab6da425c324dffc64468023123e60d468e2b0f2f91f25a1e27d05b6747a9532f3e571dbc7c9043

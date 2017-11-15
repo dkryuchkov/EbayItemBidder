@@ -1,0 +1,38 @@
+attributeMap['cars.greyimport']=
+postcode=2040
+houseNumber=
+streetName=
+adType=OFFER
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+_showLocationOnMap=on
+unacceptableGeocode=false
+level2CategoryId=
+quickOffer=
+_renew=on
+repost=false
+categoryId=18572
+price.amount=738
+price.type=FIXED
+minimumOfferPrice=
+title=Pallet of NEW Women&#8217;s Reebok WALK Ultra DMX IV Shoes
+name=Tatiana
+phoneNumber=0410381932
+locationId=3003844
+mapAddress=Leichhardt, NSW, 2040
+geocodeLat=-33.882417
+geocodeLng=151.154762
+geocodeLocality=Leichhardt
+description=&lt;div class="content-section"&gt; &lt;h3&gt;Description&lt;/h3&gt;    &lt;div class="sanitised-markup"&gt;&lt;p&gt;&lt;strong&gt; Pallet of NEW Women&#8217;s Reebok WALK Ultra DMX IV Shoes &lt;/strong&gt; &lt;/p&gt;&lt;p&gt; Blessed with Reebok&#96;s DMX Max technology through the midsole for superior cushioning on every step, the Reebok Walk Ultra DMX Max IV Walking Shoes will keep you comfortable from the first step of the day to the last. Using a system that transfers air beneath your feet from heel to toe for outstanding comfort, these walkers will suit anyone who suffers from sore feet after a long day out. With a transition bridge through the midfoot to encourage an efficient stride, everything about these shoes is geared towards keeping you comfortable.&lt;/p&gt;&lt;p&gt;Synthetic&#47;Leather upper for soft comfort and support around your whole foot, and protection from bad weather &lt;/p&gt;&lt;ul&gt;&lt;li&gt; DMX Max cushioning technology for cloud like cushioning underfoot &lt;/li&gt;&lt;li&gt; Transition Bridge in the midfoot encourages efficient gait &lt;/li&gt;&lt;li&gt; Forefoot flex grooves for natural flex &lt;/li&gt;&lt;li&gt; Great option for people on their feet all day, or anyone looking for exceptional comfortwhen walking&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Contains sizes 6us, 6.5us, 7us, 7.5us, 8us &#38; 8.5us&lt;/p&gt;&lt;p&gt;Total of approximately 85 pairs on the pallet. &#40;SN&#58;Pallet 7&#41; &#40;235272-7&#41;&lt;/p&gt;&lt;p&gt;&lt;strong&gt; Note&#58;&lt;/strong&gt;  &lt;/p&gt;    &lt;/div&gt;    &lt;/div&gt;
+attributeMap['womens_shoes.paypal_accepted_seller_s']=false
+attributeMap['womens_shoes.automatic_repost_ad_s']=false
+attributeMap['womens_shoes.condition_s']=new
+hourstomarket=13
+images=https://i.ebayimg.com/00/s/NjU3WDg4MA==/z/cBIAAOSwa~BYQyge/$_20.JPG
+images=https://i.ebayimg.com/00/s/NjU3WDg4MA==/z/v2EAAOSw4GVYQygy/$_20.JPG
+images=https://i.ebayimg.com/00/s/NjU3WDg4MA==/z/y04AAOSwEzxYQyhG/$_20.JPG
+images=https://i.ebayimg.com/00/s/NDc4WDY0MA==/z/pD4AAOSwo4pYQyhN/$_20.JPG
+ctk=-yHyo0xXA3VQ6nm6NUktlg
+csrft=3954e62050cf9fb548b4dbab463a734a

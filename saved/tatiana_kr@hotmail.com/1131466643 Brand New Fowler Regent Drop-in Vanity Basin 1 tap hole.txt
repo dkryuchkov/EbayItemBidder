@@ -1,0 +1,34 @@
+attributeMap['cars.greyimport']=
+postcode=2040
+houseNumber=
+streetName=
+adType=OFFER
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+_showLocationOnMap=on
+unacceptableGeocode=false
+level2CategoryId=
+quickOffer=
+_renew=on
+repost=false
+categoryId=20103
+price.amount=40
+price.type=FIXED
+minimumOfferPrice=
+title=Brand New Fowler Regent Drop-in Vanity Basin 1 tap hole
+images=https://i.ebayimg.com/00/s/OTAwWDE2MDA=/z/Dj4AAOSwcUBYNpXq/$_20.JPG
+images=https://i.ebayimg.com/00/s/MTg4WDIwMA==/z/NIwAAOSwcUBYNpdf/$_20.JPG
+images=https://i.ebayimg.com/00/s/OTAwWDE2MDA=/z/CSEAAOSwcUBYNpWw/$_20.JPG
+name=Tatiana
+phoneNumber=0410381932
+locationId=3003844
+geocodeLat=-33.882417
+geocodeLng=151.154762
+geocodeLocality=Leichhardt
+description=Features&lt;br&gt;&lt;br&gt;545x420x180mm, 5.5 litres&lt;br&gt;Available with 1 or 3 tap holes&lt;br&gt;Supplied with Overflow&lt;br&gt;Includes flush fitting uni white plug and waste&lt;br&gt;Vitreous china, white only&lt;br&gt;One year warranty
+attributeMap['building_materials.paypal_accepted_seller_s']=false
+attributeMap['building_materials.automatic_repost_ad_s']=false
+attributeMap['building_materials.condition_s']=new
+attributeMap['building_materials.highest_price_s']=40.0

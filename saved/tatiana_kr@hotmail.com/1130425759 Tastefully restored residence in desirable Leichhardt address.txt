@@ -1,0 +1,44 @@
+attributeMap['cars.greyimport']=
+postcode=2040
+houseNumber=
+streetName=
+adType=OFFER
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+_showLocationOnMap=on
+unacceptableGeocode=false
+level2CategoryId=
+quickOffer=
+_renew=on
+repost=false
+categoryId=18367
+price.amount=
+price.type=NEGOTIABLE
+minimumOfferPrice=
+title=Tastefully restored residence in desirable Leichhardt address
+images=https://i.ebayimg.com/00/s/NjE1WDEwNjM=/z/pPoAAOSwo4pYMgoN/$_20.JPG
+images=https://i.ebayimg.com/00/s/NjE1WDEwNjM=/z/mNQAAOSwHMJYMgoE/$_20.JPG
+images=https://i.ebayimg.com/00/s/NjE1WDEwNjM=/z/XPQAAOSwA3dYMgoK/$_20.JPG
+images=https://i.ebayimg.com/00/s/NjE1WDEwNjM=/z/g6gAAOSwiDFYMgoO/$_20.JPG
+images=https://i.ebayimg.com/00/s/NjE1WDEwNjM=/z/0asAAOSwux5YMgoH/$_20.JPG
+images=https://i.ebayimg.com/00/s/NjE1WDEwNjM=/z/wRMAAOSwj85YMgoE/$_20.JPG
+images=https://i.ebayimg.com/00/s/NjE1WDEwNjM=/z/aT8AAOSwiONYMgoG/$_20.JPG
+images=https://i.ebayimg.com/00/s/NjE1WDEwNjM=/z/5woAAOSw44BYMgoQ/$_20.JPG
+images=https://i.ebayimg.com/00/s/OTI2WDE2MDA=/z/mhgAAOSwHMJYMgoO/$_20.JPG
+name=Danielle Dewhurst
+phoneNumber=0439 999 933
+locationId=3003844
+mapAddress=67 James St, Leichhardt, NSW
+geocodeLat=-33.882417
+geocodeLng=151.154762
+geocodeLocality=Leichhardt
+description=67 James Street Leichhardt&lt;br&gt;&lt;br&gt;Tastefully restored residence in desirable address on 300sqm block with 10m of road frontage!&lt;br&gt;&lt;br&gt;Boasting an elevated setting in a peaceful family-friendly address, this charming freestanding home has been tastefully restored while retaining its classic period appeal. It is placed a stroll to the light rail and Norton Street&#39;s shops and eateries.&lt;br&gt;- Tastefully restored interiors are flooded with natural light&lt;br&gt;- French doors open to sun bathed entertainment courtyard&lt;br&gt;- Sleek kitchen, stainless steel benchtops, gas appliances&lt;br&gt;- Secluded level backyard amid beautiful established gardens&lt;br&gt;- Well scaled bedrooms enhanced by classic marble fireplaces&lt;br&gt;- Polished timber and tiled flooring, soaring period ceilings&lt;br&gt;- Deluxe bathroom, rainwater shower, standalone clawfoot tub&lt;br&gt;- Ornate arched hallway, wide frontage, on street parking&lt;br&gt;- Stroll to a selection of gourmet shops and eateries, parks&lt;br&gt;- Moments to MarketPlace Leichhardt, buses, quality schools&lt;br&gt;&lt;br&gt;Contact:&lt;br&gt;McGrath Estate Agents Inner West - Leichhardt&lt;br&gt;Danielle Dewhurst&lt;br&gt;0439 999 933&lt;br&gt;danielledewhurst@mcgrath.com.au
+attributeMap['property_for_sale.dwellingtype_s']=house
+attributeMap['property_for_sale.automatic_repost_ad_s']=false
+attributeMap['property_for_sale.numberbedrooms_s']=4b
+attributeMap['property_for_sale.dwellingforsaleby_s']=agncy
+attributeMap['property_for_sale.parking_s']=stret
+attributeMap['property_for_sale.availabilitystartdate_tdt']=2016-12-03T00:00:00Z
+attributeMap['property_for_sale.numberbathrooms_s']=2b

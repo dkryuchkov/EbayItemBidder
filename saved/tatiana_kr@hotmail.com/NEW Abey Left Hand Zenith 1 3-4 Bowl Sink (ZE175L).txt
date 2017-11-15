@@ -1,0 +1,42 @@
+attributeMap['cars.greyimport']=
+postcode=2067
+houseNumber=
+streetName=
+adType=OFFER
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+_showLocationOnMap=on
+unacceptableGeocode=false
+level2CategoryId=
+quickOffer=
+_renew=on
+repost=false
+categoryId=20090
+price.amount=199
+price.type=FIXED
+minimumOfferPrice=
+title=Abey Left Hand Zenith 1 3/4 Bowl Sink (ZE175L)
+name=Dimitri
+phoneNumber=0410381932
+locationId=3003844
+mapAddress=Chatswood 2067, NSW
+geocodeLat=-33.882417
+geocodeLng=151.154762
+geocodeLocality=Leichhardt
+description=&lt;div class="content-section"&gt; &lt;h3&gt;Description&lt;/h3&gt;    &lt;div class="sanitised-markup"&gt;&lt;p&gt;&lt;strong&gt;Abey Left Hand Zenith 1 3&#47;4 Bowl Sink &#40;ZE175L&#41;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Recommended Retail Price &#40;RRP&#41; - &#36;495 as of December 2016 based on a new product.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;One &#38; Three Quarter Bowl Sink&lt;/li&gt;&lt;li&gt;Sink Size&#58; 1160mmL x 500mmW&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;Item may show marks&#47;scratches&#47;dents or imperfections. Accessories may vary from standard.&lt;/li&gt;&lt;li&gt;Returns&#47;refunds based on marks&#47;scratches&#47;dents or imperfections will not be accepted&lt;/li&gt;&lt;li&gt;This item is classified as Grade &#40;2&#41; &#40;please refer to Grading tab for details&#41;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt; &#40;237332-34&#41;&lt;/p&gt;&lt;p&gt;&lt;strong&gt; Note&#58;&lt;/strong&gt;  &lt;/p&gt;    &lt;/div&gt;    &lt;/div&gt;
+attributeMap['hg_tools_diy_hand.paypal_accepted_seller_s']=false
+attributeMap['hg_tools_diy_hand.automatic_repost_ad_s']=false
+attributeMap['hg_tools_diy_hand.condition_s']=used
+attributeMap['hg_tools_diy_hand.website_s']=gumtree-intforce.rhcloud.com
+attributeMap[hg_tools_diy_hand.slogan_s]=Abey Left Hand Zenith 1 3/4 Bowl Sink (ZE175L)
+hourstomarket=24
+bbImageBaseUrl=/bb-image.html
+images=https://i.ebayimg.com/00/s/NDY0WDg4MA==/z/UnQAAOSw3v5YqFe6/$_20.JPG
+images=https://i.ebayimg.com/00/s/NTMzWDg4MA==/z/m2cAAOSw4A5YqFfE/$_20.JPG
+images=https://i.ebayimg.com/00/s/Mzk4WDg4MA==/z/43AAAOSwfVpYqFfM/$_20.JPG
+ctk=_VYRkhcSy3YAI_v8dUEGyQ
+csrft=e7326ddff38b1073ce366a50fcc9cae1
+bbUserInput=3140
+bbToken=bcb561990220a1f1f5cf619ca287ed63474dc9f885f8cf8fd22043a68d0e89838458940c551172f17a3bd230b985aa26e81b7fe9684fa48c9c3c50129860b57f

@@ -1,0 +1,45 @@
+attributeMap['cars.greyimport']=
+postcode=2067
+houseNumber=
+streetName=
+adType=OFFER
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+_showLocationOnMap=on
+unacceptableGeocode=false
+level2CategoryId=
+quickOffer=
+_renew=on
+repost=false
+categoryId=20103
+price.amount=2200
+price.type=FIXED
+minimumOfferPrice=
+title=NEW Solid Red Cedar Timber Bifold Door - 5 Doors opening LEFT
+name=Dimitri
+phoneNumber=0410381932
+locationId=3004117
+geocodeLat=-33.794095
+geocodeLng=151.188817
+mapAddress=Chatswood 2067, NSW
+geocodeLocality=Chatswood
+description=Description&lt;br&gt;Solid Red Cedar Timber Bifold Door&lt;br&gt;&lt;br&gt; Natural Red Cedar is a long lasting high quality wood suitable for interior or exterior use, it is naturally resistant to insects and fire, is stable and has a subtle spicy scent.&lt;br&gt;&lt;br&gt; Features:&lt;br&gt;&lt;br&gt;Brand New & Australian Standard&lt;br&gt;Bifold door size 2100x3182x140mm (included frame)&lt;br&gt;Door size 2040x 620mm&lt;br&gt;Fully 140 X 30mm SOLID CEDAR FRAME&lt;br&gt;5 Doors: All opening LEFT as viewed from outside (Correctly installed Bifold Doors are opened by folding outward, not inward.)&lt;br&gt;5mm Clear toughened glass&lt;br&gt;Stainless steel hinges & handles - Pre sanded ready to stain or paint.&lt;br&gt;PLEASE NOTE: Some photos may show Bifold Doors opening in different direction to that described. Please base choices and bidding on description, as photos are to be used as a guide only.&lt;br&gt;&lt;br&gt;PLEASE NOTE: This product is sold as part of a Warehouse Clearance, and may show signs of Warehouse Soiling or Damage or other faults. Where this is the case, we will include as much information about the problem as possible in the description. Where the item is sold as NEW, this will include a 30 Days Limited Warranty.&lt;br&gt;&lt;br&gt;Where the item is sold as SECONDS or RETAIL RETURN, these items are sold AS IS and may exhibit more significant damage or faults. No return or refund will be accepted for any damage or fault described in our listing.&lt;br&gt;&lt;br&gt; (SN:BEG-BFG3182L) (16061-4473)&lt;br&gt;&lt;br&gt; Note:
+attributeMap['building_materials.paypal_accepted_seller_s']=false
+attributeMap['building_materials.automatic_repost_ad_s']=false
+attributeMap['building_materials.condition_s']=new
+attributeMap['building_materials.website_s']=gumtree-intforce.rhcloud.com
+attributeMap[building_materials.slogan_s]=NEW Solid Red Cedar Timber Bifold Door - 5 Doors opening LEFT
+hourstomarket=24
+images=https://i.ebayimg.com/00/s/MzI5WDU3Mw==/z/8LwAAOSwpvZZ6-w-/$_20.JPG
+images=https://i.ebayimg.com/00/s/MzkyWDU2OQ==/z/5eUAAOSwUM5Z6-xC/$_20.JPG
+images=https://i.ebayimg.com/00/s/NDE1WDU1MQ==/z/i3IAAOSwVtZZ6-xG/$_20.JPG
+images=https://i.ebayimg.com/00/s/NDE1WDU1Mg==/z/o24AAOSwyXNZ6-xI/$_20.JPG
+images=https://i.ebayimg.com/00/s/NDQwWDU4Ng==/z/ZyEAAOSwPAxZ6-xL/$_20.JPG
+images=https://i.ebayimg.com/00/s/NDQwWDU4Ng==/z/TqgAAOSwR2RZ6-xO/$_20.JPG
+images=https://i.ebayimg.com/00/s/MzcxWDYwMw==/z/nikAAOSwytJZ6-xS/$_20.JPG
+ctk=KIbJ0Zvr6NoPdtSiXtxeJQ
+csrft=a09888ef0cee5193afb670eb2aca712f
+bbUserInput=5837
+bbToken=2dd40d469e60a7216076ff1fbd2e0a1b738a4374a948fc6592af2f8a304b6828782400938c04d543a767ad00a907a2b4dd35de328a9e2ae2baa3d8c1fa66ccf9

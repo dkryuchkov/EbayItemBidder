@@ -1,0 +1,29 @@
+description=165mm gmc circular saw. Good condition
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+attributeMap['cars.greyimport']=
+houseNumber=
+unacceptableGeocode=false
+level2CategoryId=
+_renew=on,_showLocationOnMap
+categoryId=20093
+adType=OFFER
+price.amount=40
+price.type=FIXED
+minimumOfferPrice=
+attributeMap[hg_tools_diy_power_tools.condition_s]=used
+title=165mm gmc circular saw. Good condition
+images=https://i.ebayimg.com/00/s/OTAxWDE2MDA=/z/-mQAAOSwY4pZaMVR/$_20.JPG
+images=https://i.ebayimg.com/00/s/OTAxWDE2MDA=/z/hZQAAOSwqVBZaMVS/$_20.JPG
+name=Dimitri
+phoneNumber=0410381932
+locationId=3004117
+geocodeLat=-33.794095
+geocodeLng=151.188817
+geocodeLocality=Chatswood
+attributeMap['hg_tools_diy_power_tools.paypal_accepted_seller_s']=false
+attributeMap['hg_tools_diy_power_tools.condition_s']=used
+attributeMap['hg_tools_diy_power_tools.automatic_repost_ad_s']=false
+attributeMap['hg_tools_diy_power_tools.highest_price_s']=50.0

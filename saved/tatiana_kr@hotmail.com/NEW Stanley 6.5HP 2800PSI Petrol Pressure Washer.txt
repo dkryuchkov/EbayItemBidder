@@ -1,0 +1,47 @@
+attributeMap['cars.greyimport']=
+postcode=2040
+houseNumber=
+streetName=
+adType=OFFER
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+_showLocationOnMap=on
+unacceptableGeocode=false
+level2CategoryId=
+quickOffer=
+_renew=on
+repost=false
+categoryId=20093
+price.amount=638
+price.type=FIXED
+minimumOfferPrice=
+title=Stanley 6.5HP 2800PSI Petrol Pressure Washer
+name=Tatiana
+phoneNumber=0410381932
+locationId=3003844
+mapAddress=Leichhardt, NSW, 2040
+geocodeLat=-33.882417
+geocodeLng=151.154762
+geocodeLocality=Leichhardt
+description=&lt;div class="content-section"&gt; &lt;h3&gt;Description&lt;/h3&gt;    &lt;div class="sanitised-markup"&gt;&lt;p&gt;&lt;strong&gt;Stanley 6.5HP 2800PSI Petrol Pressure Washer&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Recommended Retail Price as of June 2016&#58; &#36;1,399&lt;/p&gt;&lt;p&gt;For over 170 years, STANLEY has been synonymous with quality, reliability, innovation, and value. From the &#96;&#96;do-it-yourselfer&#96;&#96; installing a ceiling fan to the professional contractor framing new homes, it&#96;s a safe bet that Stanley has the right tool for the job. Now, Grays is proud to present you with an exclusive new product, the Stanley 6.5HP 2800PSI Petrol Pressure Washer.&lt;/p&gt;&lt;p&gt;Forming part of Stanley&#96;s growing garden tools offering, this pressure washer puts the power of a trade-quality tool in your hands. This washer is the perfect choice for tradespeople, commercial jobs, plumbers, or any job that needs to be done right the first time. With an impressive 198cc, 6.5HP motor, it delivers a powerful 2800PSI making this tough enough to tackle the most stubborn situations.&lt;/p&gt;&lt;p&gt;The huge 15 metre, high pressure hose gives you the flexibility to get into those hard to reach places without losing pressure and comes with 5 durable nozzles with quick connectors to make this an incredibly versatile tool. Simply switch to the nozzle that&#96;s right for your job and start blasting through even the most difficult messes.&lt;/p&gt;&lt;p&gt;Specifications&#58;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Model&#58; PW6768&lt;/li&gt;&lt;li&gt;Maximum Pressure&#58; 2800PSI&lt;/li&gt;&lt;li&gt;Flow Rate&#58; 9.3L&#47;min&lt;/li&gt;&lt;li&gt;Water Inlet Pressure&#58; 0.4MPa&lt;/li&gt;&lt;li&gt;Water Inlet Temp&#58; 40&#176;C&lt;/li&gt;&lt;li&gt;Engine&#58; 6.5HP 4 Stroke OHV&lt;/li&gt;&lt;li&gt;Weight&#58; 40kg &#40;no fuel&#41;&lt;/li&gt;&lt;li&gt;Fuel Volume&#58; 3.6L&lt;/li&gt;&lt;li&gt;Oil&#58; SAE 30W or SAE 15W-40&lt;/li&gt;&lt;li&gt;Oil Quantity&#58; 600mL&lt;/li&gt;&lt;li&gt;Spark Plug&#58; Torch F6TC or NGK BP6ES&lt;/li&gt;&lt;li&gt;Noise&#58; 110dB &#64; 7m&lt;/li&gt;&lt;li&gt;Spark Arrestor&#58; yes &#40;SN&#58;PW6768&#47;LT-8.7&#47;17&#41; &#40;226910-1&#41;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Collection&#58; Monday - Friday 8.30am-3.00pm. Collection must be booked 48 hours in advance. Collection without a booking is not possible.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;GST Note&#58;&lt;/strong&gt; &lt;/p&gt;    &lt;/div&gt;    &lt;/div&gt;
+attributeMap['hg_tools_diy_power_tools.paypal_accepted_seller_s']=false
+attributeMap['hg_tools_diy_power_tools.automatic_repost_ad_s']=false
+attributeMap['hg_tools_diy_power_tools.condition_s']=new
+images=https://i.ebayimg.com/00/s/NTg3WDg4MA==/z/J1UAAOSw5cNYQlDz/$_20.JPG
+images=https://i.ebayimg.com/00/s/NTg3WDg4MA==/z/z20AAOSw2xRYQlD-/$_20.JPG
+images=https://i.ebayimg.com/00/s/NTg3WDg4MA==/z/YoUAAOSwcUBYQlEH/$_20.JPG
+images=https://i.ebayimg.com/00/s/NTg3WDg4MA==/z/gYYAAOSwImRYQlEN/$_20.JPG
+images=https://i.ebayimg.com/00/s/NTk0WDg4MA==/z/QREAAOSw44BYQlET/$_20.JPG
+images=https://i.ebayimg.com/00/s/NTg5WDg4MA==/z/TycAAOSwux5YQlEX/$_20.JPG
+images=https://i.ebayimg.com/00/s/NTg3WDg4MA==/z/n~EAAOSwMstYQlEi/$_20.JPG
+images=https://i.ebayimg.com/00/s/NTg3WDg4MA==/z/Zs0AAOSwcUBYQlEx/$_20.JPG
+images=https://i.ebayimg.com/00/s/NTg4WDg4MA==/z/BDQAAOSw-0xYQlE9/$_20.JPG
+images=https://i.ebayimg.com/00/s/NTg4WDg4MA==/z/VNEAAOSwj85YQlFF/$_20.JPG
+images=https://i.ebayimg.com/00/s/NTg4WDg4MA==/z/VZMAAOSwj85YQlFP/$_20.JPG
+images=https://i.ebayimg.com/00/s/NTg4WDg4MA==/z/WIwAAOSwo4pYQlFX/$_20.JPG
+ctk=eqNORdwxjM1NfOnjnfAo5w
+csrft=0e67e8d816210eeb49266836e4586cae
+bbUserInput=5583
+bbToken=f842973bbff5dd7a03d2efd69a8b85129b8638f802c04b963a0022d3b5bf7134c23c1ec8ebcc7b8991b8cd051ae0e948710f173198d4a368a08076afd4bf7076

@@ -1,0 +1,37 @@
+description=10 seater leather lounge for sale&lt;br&gt;Measures around 3.2m by 3.3m&lt;br&gt;Seats can be separated&lt;br&gt;Purchased few years ago from Nick Scarli&lt;br&gt;&lt;br&gt;No marks&lt;br&gt;No creases&lt;br&gt;Still excellent condition&lt;br&gt;&lt;br&gt;$3000 or near offer&lt;br&gt;&lt;br&gt;Pick up from Glenwood&lt;br&gt;Call me on ******2979 + click to reveal
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+attributeMap['cars.greyimport']=
+houseNumber=
+unacceptableGeocode=false
+level2CategoryId=
+_renew=on,_showLocationOnMap
+categoryId=20079
+adType=OFFER
+price.amount=3000
+price.type=NEGOTIABLE
+minimumOfferPrice=
+attributeMap[hg_furniture_sofas.condition_s]=used
+title=10 seater leather lounge, excellent condition
+images=https://i.ebayimg.com/00/s/MzAwWDQwMA==/z/vuAAAOSwC9VZiErp/$_20.JPG
+images=https://i.ebayimg.com/00/s/MzAwWDQwMA==/z/VS8AAOSw~RhZiErq/$_20.JPG
+images=https://i.ebayimg.com/00/s/MzAwWDQwMA==/z/QFkAAOSwL5pZiErp/$_20.JPG
+images=https://i.ebayimg.com/00/s/MzAwWDQwMA==/z/cJEAAOSwPH9ZiErs/$_20.JPG
+images=https://i.ebayimg.com/00/s/MzAwWDQwMA==/z/3MIAAOSwzahZiErz/$_20.JPG
+images=https://i.ebayimg.com/00/s/MzAwWDQwMA==/z/vZsAAOSwSplZiEr1/$_20.JPG
+images=https://i.ebayimg.com/00/s/NDAwWDMwMA==/z/D1EAAOSw-a9ZiEr1/$_20.JPG
+images=https://i.ebayimg.com/00/s/NDAwWDMwMA==/z/~vAAAOSwiiRZiEr7/$_20.JPG
+images=https://i.ebayimg.com/00/s/NDAwWDMwMA==/z/eDQAAOSwVRNZiEsA/$_20.JPG
+images=https://i.ebayimg.com/00/s/NDAwWDMwMA==/z/JJ8AAOSwEupZiEsE/$_20.JPG
+name=Nav
+phoneNumber=0402602979
+locationId=3003481
+geocodeLat=-33.735577
+geocodeLng=150.93472
+geocodeLocality=Glenwood
+attributeMap['hg_furniture_sofas.highest_price_s']=3000.0
+attributeMap['hg_furniture_sofas.condition_s']=used
+attributeMap['hg_furniture_sofas.automatic_repost_ad_s']=false
+attributeMap['hg_furniture_sofas.paypal_accepted_seller_s']=true

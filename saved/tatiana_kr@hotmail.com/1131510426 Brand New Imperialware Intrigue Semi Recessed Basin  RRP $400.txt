@@ -1,0 +1,35 @@
+attributeMap['cars.greyimport']=
+postcode=2040
+houseNumber=
+streetName=
+adType=OFFER
+adId=
+geocodeConfidence=OK
+files[]=
+bbImageBaseUrl=/bb-image.html
+galleryImageIndex=
+_showLocationOnMap=on
+unacceptableGeocode=false
+level2CategoryId=
+quickOffer=
+_renew=on
+repost=false
+categoryId=20103
+price.amount=50
+price.type=FIXED
+minimumOfferPrice=
+title=Brand New Imperialware Intrigue Semi Recessed Basin  RRP $400
+images=https://i.ebayimg.com/00/s/NjAwWDgwMA==/z/o-sAAOSwB09YNl7v/$_20.JPG
+images=https://i.ebayimg.com/00/s/ODU1WDY1MQ==/z/gUIAAOSwImRYNmDF/$_20.JPG
+images=https://i.ebayimg.com/00/s/OTAwWDE2MDA=/z/iBkAAOSw44BYNmEr/$_20.JPG
+name=Tatiana
+phoneNumber=0410381932
+locationId=3003845
+geocodeLat=-33.87109
+geocodeLng=151.161166
+geocodeLocality=Lilyfield
+description=DETAILSDesigned for the contemporary bathroom, the Intrigue semi recessed basin offers symmetry, balance &amp; style.* 500mm wide basin* Supplied with chrome overflow &amp; plug &amp; waste* Supplied with IM3773 fixing bracketsApprovals: Australian Standard AS 1730
+attributeMap['building_materials.paypal_accepted_seller_s']=false
+attributeMap['building_materials.automatic_repost_ad_s']=false
+attributeMap['building_materials.condition_s']=new
+attributeMap['building_materials.highest_price_s']=50.0

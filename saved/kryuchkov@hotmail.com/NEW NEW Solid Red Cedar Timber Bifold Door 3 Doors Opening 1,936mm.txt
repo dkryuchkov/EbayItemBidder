@@ -1,0 +1,45 @@
+attributeMap['cars.greyimport']=
+postcode=2067
+houseNumber=
+streetName=
+adType=OFFER
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+_showLocationOnMap=on
+unacceptableGeocode=false
+level2CategoryId=
+quickOffer=
+_renew=on
+repost=false
+categoryId=20103
+price.amount=1700
+price.type=FIXED
+minimumOfferPrice=
+title=NEW Solid Red Cedar Timber Bifold Door 3 Doors Opening 1,936mm
+name=Dimitri
+phoneNumber=0410381932
+locationId=3004117
+geocodeLat=-33.794095
+geocodeLng=151.188817
+mapAddress=Chatswood 2067, NSW
+geocodeLocality=Chatswood
+description=Solid Red Cedar Timber Bifold Door&lt;br&gt;&lt;br&gt;Brand New & Australian Standard&lt;br&gt;Bifold door size 2100x1936x140mm (included frame)&lt;br&gt;Door size 2040x 620mm&lt;br&gt;Fully 140 X 30mm SOLID CEDAR FRAME&lt;br&gt;3 Doors: All opening LEFT as viewed from outside (Correctly installed Bifold Doors are opened by folding outward, not inward.)&lt;br&gt;5mm Clear toughened glass&lt;br&gt;Stainless steel hinges & handles&lt;br&gt;Pre sanded ready to stain or paint.
+attributeMap['building_materials.paypal_accepted_seller_s']=false
+attributeMap['building_materials.automatic_repost_ad_s']=false
+attributeMap['building_materials.condition_s']=new
+attributeMap['building_materials.website_s']=gumtree-intforce.rhcloud.com
+attributeMap[building_materials.slogan_s]=NEW Solid Red Cedar Timber Bifold Door - 3 Doors Opening LEFT
+hourstomarket=24
+images=https://i.ebayimg.com/00/s/NDQwWDQ2MA==/z/mw4AAOSwmudZ6-v2/$_20.JPG
+images=https://i.ebayimg.com/00/s/NTA4WDU1MA==/z/opgAAOSwB3BZ6-v6/$_20.JPG
+images=https://i.ebayimg.com/00/s/NDE1WDU1MQ==/z/6XUAAOSwdSRZ6-v9/$_20.JPG
+images=https://i.ebayimg.com/00/s/NDE1WDU1Mg==/z/wPYAAOSwe09Z6-wA/$_20.JPG
+images=https://i.ebayimg.com/00/s/NDQwWDU4Ng==/z/inkAAOSwVtZZ6-wD/$_20.JPG
+images=https://i.ebayimg.com/00/s/NDQwWDU4NA==/z/fxYAAOSwevlZ6-wG/$_20.JPG
+images=https://i.ebayimg.com/00/s/MzgzWDYwNg==/z/KEQAAOSwridZ6-wK/$_20.JPG
+ctk=iSj2XqVEyJrVFEyJWLNdZg
+csrft=659ddf4ee35011d9db78d04150858a95
+bbUserInput=4882
+bbToken=b2fa251eac6c662ce9db9abba6a26afe30b0e3556bc5ffd6f59dcfd2626c922f8614f4baa3c91710ccb9139076ca7328f9f8153c230f4db4a384d1834d92b182

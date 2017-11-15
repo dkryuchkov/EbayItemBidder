@@ -1,0 +1,31 @@
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+attributeMap['cars.greyimport']=
+houseNumber=
+unacceptableGeocode=false
+level2CategoryId=
+_renew=on,_showLocationOnMap
+categoryId=20093
+adType=OFFER
+price.amount=89
+price.type=FIXED
+minimumOfferPrice=
+attributeMap[hg_tools_diy_power_tools.condition_s]=used
+title=BRAND NEW Professional 10.8V Drill Made in South Korea 70%OFF
+images=https://i.ebayimg.com/00/s/NDQwWDY3MA==/z/pDUAAOSwo4pYT7vk/$_20.JPG
+images=https://i.ebayimg.com/00/s/NDgwWDY0MA==/z/uOgAAOSw2xRYT4UK/$_20.JPG
+images=https://i.ebayimg.com/00/s/NDgwWDY0MA==/z/hPoAAOSwJ7RYT4UP/$_20.JPG
+images=https://i.ebayimg.com/00/s/NDgwWDY0MA==/z/XoIAAOSwCEdYT4UU/$_20.JPG
+name=Dimitri
+phoneNumber=0410381932
+locationId=3004117
+geocodeLat=-33.794095
+geocodeLng=151.188817
+geocodeLocality=Chatswood
+description=This top quality South Korean made professional industrial tool retails at more than $300. This is a top quality Industrial Professional tools brand, more expensive than DeWalt or Makita I&#39;m selling with 70% discount ! Kit includes DD-1202L-2 Keyang Professional Drill/Driver 10.8V (236814-52),2 Li-on batteries, NO charger. Visit http://www.keyang.com.au/www.iccons.com.au is an official distributor of these tools in Australia. Batteries, chargers and spare parts are sold separate and can be ordered via http://www.iccons.com.au/product-category/tools/KEYANG AUSTRALIA - Industrial Power Tools Keyang manufactures in South Korea and is the number 1 in Industrial Power Tools and has remained market leader for the last 10 years, in Korea, ahead of all the major brands known in the world wide market place. Since the birth of Keyang over 30 years ago, our values have remained true. To manufacture high quality Power Tools without compromise.
+attributeMap['hg_tools_diy_power_tools.paypal_accepted_seller_s']=false
+attributeMap['hg_tools_diy_power_tools.condition_s']=used
+attributeMap['hg_tools_diy_power_tools.automatic_repost_ad_s']=false
+attributeMap['hg_tools_diy_power_tools.highest_price_s']=89.0

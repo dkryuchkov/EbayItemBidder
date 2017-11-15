@@ -1,0 +1,32 @@
+description=Samsung 27&#39;&#39; LS27D390HS&#47;XY 5ms 1920x1080 Full HD Backlight LCD Monitor Display The item is almost brand new, goes with the stand, no box, rrp $599 Screen Size 27&quot; Panel Type PLS Brightness 300cd &#47; m2 Contrast Ratio 1000:1 (Typ) Dynamic Contrast Ratio Mega �?? Resolution 1920 x 1080 Response time 5ms (GTG) Color support 16.7M General Feature Special Features Game mode, Magic Upscale, Eco Saving, Off Timer, Image Size OS Compatibility Windows, Mac Windows Certification Windows 8.1 Interface D-Sub 1 HDMI 1 Headphone 1 Design Color Black High Glossy Stand Type Square Power Power Supply AC100-240V (50 &#47; 60Hz) Power Consumption 22W (Typ) (Energy Star current test condition) Power Consumption (Stand-by) 0.3W (Typ) Technology External Adaptor Dimension (WxHxD) Set Dimension with Stand (W x H x D) 625.2 x 453 x 209.8mm Set Dimension without Stand (W x H x D) 625.2 x 376.3 x 79.6mm Package Dimension (WxHxD) (mm) 694 x 437 x 132mm Weight (g) Set Weight with Stand 4.70kg Set Weight without Stand 4.30kg Package Weight (kg) 6.00kg Accessory Cables D-sub Cable
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+attributeMap['cars.greyimport']=
+houseNumber=
+unacceptableGeocode=false
+level2CategoryId=
+_renew=on,_showLocationOnMap
+categoryId=20046
+adType=OFFER
+price.amount=199
+price.type=FIXED
+minimumOfferPrice=
+attributeMap[electronics_computers_other.condition_s]=used
+title=As new Samsung 27&#39;&#39; LS27D390HS LCD Monitor
+name=Dimitri
+phoneNumber=0410381932
+locationId=3004117
+geocodeLat=-33.794095
+geocodeLng=151.188817
+geocodeLocality=Chatswood
+attributeMap['electronics_computers_other.paypal_accepted_seller_s']=false
+attributeMap['electronics_computers_other.highest_price_s']=199.0
+attributeMap['electronics_computers_other.condition_s']=used
+attributeMap['electronics_computers_other.automatic_repost_ad_s']=false
+_showLocationOnMap=on
+images=https://i.ebayimg.com/00/s/MjY1WDUxNQ==/z/uccAAOSwCkZZRjz4/$_20.JPG
+images=https://i.ebayimg.com/00/s/NjE1WDgwMg==/z/8zMAAOSwXetZRj0J/$_20.JPG
+ctk=I3xA3NND968IxZZJfSkYIA
+csrft=cc92dc57014a37b2eb69fd389b40fc36

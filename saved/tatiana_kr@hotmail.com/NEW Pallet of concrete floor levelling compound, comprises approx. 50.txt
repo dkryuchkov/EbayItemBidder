@@ -1,0 +1,40 @@
+attributeMap['cars.greyimport']=
+postcode=2067
+houseNumber=
+streetName=
+adType=OFFER
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+_showLocationOnMap=on
+unacceptableGeocode=false
+level2CategoryId=
+quickOffer=
+_renew=on
+repost=false
+categoryId=20103
+price.amount=150
+price.type=FIXED
+minimumOfferPrice=
+title=Pallet of concrete floor levelling compound, comprises approx. 50
+name=Dimitri
+phoneNumber=0410381932
+locationId=3003844
+mapAddress=Chatswood 2067, NSW
+geocodeLat=-33.882417
+geocodeLng=151.154762
+geocodeLocality=Chatswood
+description=&lt;br&gt;	 &lt;h3&gt;Description&lt;/h3&gt;&lt;br&gt;    &lt;div class="sanitised-markup"&gt;&lt;br&gt;		&lt;p&gt;Pallet of concrete floor levelling compound, comprises approx. 50 x 15kg bags, Parchem &#96;&#96;Dura Floor&#96;&#96; &#40;Self smoothing&#41; &#40;Use by date may 2009&#41; &#40;Sold per pallet Lot, 8 x pallets available, buyer to nominate qty required&#41; &#40;241703-100&#41;&lt;/p&gt;&lt;p&gt;&lt;strong&gt; Note&#58;&lt;/strong&gt;  &lt;/p&gt;&lt;br&gt;    &lt;/div&gt;&lt;br&gt;    &lt;br&gt;&lt;br&gt;THIS ADVERT IS MANAGED BY https://gumtree-intforce.rhcloud.com
+attributeMap['building_materials.paypal_accepted_seller_s']=false
+attributeMap['building_materials.automatic_repost_ad_s']=false
+attributeMap['building_materials.condition_s']=used
+attributeMap['building_materials.website_s']=gumtree-intforce.rhcloud.com
+attributeMap[building_materials.slogan_s]=Pallet of concrete floor levelling compound, comprises approx. 50
+hourstomarket=24
+images=https://i.ebayimg.com/00/s/ODgwWDY2MA==/z/YT4AAOSwtGlZIpqk/$_20.JPG
+images=https://i.ebayimg.com/00/s/NjYwWDg4MA==/z/1uIAAOSwhvFZIpq6/$_20.JPG
+ctk=ADAJaXUJ83SjCZ_olBEe2A
+csrft=d04bad82b3d2776c14586d00b80b2593
+bbUserInput=5253
+bbToken=0e712e460a3ebdcb83228eb3cae5ef9957591b8a736eebb55de34b2c212284a051a28dc8f8340ef13baba10065d54e70b1dabff48c47ca6b3ce87d0361269e29

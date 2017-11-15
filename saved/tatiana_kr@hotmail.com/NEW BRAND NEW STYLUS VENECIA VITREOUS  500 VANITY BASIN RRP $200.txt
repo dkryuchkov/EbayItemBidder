@@ -1,0 +1,39 @@
+attributeMap['cars.greyimport']=
+postcode=2040
+houseNumber=
+streetName=
+adType=OFFER
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+_showLocationOnMap=on
+unacceptableGeocode=false
+level2CategoryId=
+quickOffer=
+_renew=on
+repost=false
+categoryId=20103
+price.amount=40
+price.type=FIXED
+minimumOfferPrice=
+title=BRAND NEW STYLUS VENECIA VITREOUS  500 VANITY BASIN RRP $200
+name=Tatiana
+phoneNumber=0410381932
+locationId=3003845
+mapAddress=Mary St, Lilyfield, NSW
+geocodeLat=-33.87109
+geocodeLng=151.161166
+geocodeLocality=Lilyfield
+description=BRAND NEW.  Giving it away. &lt;br&gt;STYLUS VENECIA VITREOUS semi recessed  500 x 420 VANITY BASIN 3 TAP HOLES&lt;br&gt;&lt;br&gt;The Venecia range of basins features clean lines and smooth finishes for a sleek look and fuss-free maintenance.&lt;br&gt;&lt;br&gt;Integral overflow with chrome dress ring&lt;br&gt;Overflow located at back of basin&lt;br&gt;Integral chrome plug &amp; waste with overflow included. 40mm waste connector required&lt;br&gt;3 tap holes
+attributeMap['building_materials.paypal_accepted_seller_s']=false
+attributeMap['building_materials.automatic_repost_ad_s']=false
+attributeMap['building_materials.condition_s']=new
+attributeMap['building_materials.highest_price_s']=40.0
+images=https://i.ebayimg.com/00/s/ODAwWDgwMA==/z/rawAAOSw5cNYNnXb/$_20.JPG
+images=https://i.ebayimg.com/00/s/ODAwWDgwMA==/z/Z0cAAOSwImRYNnXb/$_20.JPG
+images=https://i.ebayimg.com/00/s/OTAwWDE2MDA=/z/BnwAAOSwj85YNlt7/$_20.JPG
+ctk=QdYK3Lc87GhKlivbDzikrg
+csrft=70f1df9a8c680a37b36ae021d3da79e4
+bbUserInput=6349
+bbToken=2c00541431d3615506dd1e45f508d686129d31113e46718a00735cb2eedf85fb2d9c7b045eb5673a4e08311f97a7b7af6decfa8b6690df694c528b927b67aff3

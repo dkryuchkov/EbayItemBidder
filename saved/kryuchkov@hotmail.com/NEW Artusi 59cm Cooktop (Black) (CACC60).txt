@@ -1,0 +1,32 @@
+description=Artusi 59cm Cooktop (Black) (CACC60)usedFour zoneResidual heat indicatorEasy clean surfaceTouch control2 small and 2 large zonesCeran glassMinute timerChild lockLow profileDimensions (HxWxD): 48 x 590 x 520 mm
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+attributeMap['cars.greyimport']=
+houseNumber=
+unacceptableGeocode=false
+level2CategoryId=
+_renew=on,_showLocationOnMap
+categoryId=20059
+adType=OFFER
+price.amount=30
+price.type=FIXED
+minimumOfferPrice=
+attributeMap[hg_appliances_cooktop_rangehood.condition_s]=used
+title=Artusi 59cm Cooktop (Black) (CACC60)
+name=Dimitri
+phoneNumber=0410381932
+locationId=3004117
+geocodeLat=-33.794095
+geocodeLng=151.188817
+geocodeLocality=Chatswood
+attributeMap['hg_appliances_cooktop_rangehood.paypal_accepted_seller_s']=false
+attributeMap['hg_appliances_cooktop_rangehood.condition_s']=used
+attributeMap['hg_appliances_cooktop_rangehood.highest_price_s']=30.0
+attributeMap['hg_appliances_cooktop_rangehood.automatic_repost_ad_s']=false
+images=https://i.ebayimg.com/00/s/NDAwWDQwMA==/z/wnEAAOSw0GJZmTNr/$_20.JPG
+images=https://i.ebayimg.com/00/s/NjQ5WDg4MA==/z/Aa8AAOSwvYZZmTN1/$_20.JPG
+ctk=fKzBfmEjWAh34bh0iwGcrw
+csrft=5126515b840dd326f23e3e93f8f77b6a
+_showLocationOnMap=on

@@ -1,0 +1,36 @@
+attributeMap['cars.greyimport']=
+postcode=2040
+houseNumber=
+streetName=
+adType=OFFER
+adId=
+geocodeConfidence=OK
+files[]=
+bbImageBaseUrl=/bb-image.html
+galleryImageIndex=
+_showLocationOnMap=on
+unacceptableGeocode=false
+level2CategoryId=
+quickOffer=
+_renew=on
+repost=false
+categoryId=21118
+price.amount=450
+price.type=FIXED
+minimumOfferPrice=
+title=NEW Yamaha NSP80PKG 7.1CH Home Theatre Speaker Package (Black)
+images=https://i.ebayimg.com/00/s/NTAzWDg4MA==/z/CmUAAOSw5cNYTHgg/$_20.JPG
+images=https://i.ebayimg.com/00/s/ODU3WDYyMA==/z/wGkAAOSw-0xYTHgt/$_20.JPG
+images=https://i.ebayimg.com/00/s/MzMyWDYxNw==/z/OzEAAOSw6DtYTHgw/$_20.JPG
+images=https://i.ebayimg.com/00/s/ODU2WDg4MA==/z/TQ8AAOSw44BYTHg7/$_20.JPG
+name=Tatiana
+phoneNumber=0410381932
+locationId=3003844
+geocodeLat=-33.882417
+geocodeLng=151.154762
+geocodeLocality=Leichhardt
+description=&lt;div class=&quot;business-profile__info&quot;&gt;&lt;br&gt;                            &lt;div class=&quot;business-profile__expertise&quot;&gt;&lt;br&gt;                                &lt;/div&gt;&lt;br&gt;&lt;br&gt;                            &lt;div class=&quot;business-profile-website&quot;&gt;&lt;br&gt;                                    &lt;p&gt;&lt;a href=&quot;http://www.gumtree.com.au/leads.html?q=M7jr4b86Ixe4jDrooWONI_7rjd8MtKup7VE3kDiQgVGtRDnkflNbypYFC0q-CJpQ_CthH7MaSRofxTpEP5YZ1A&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;gumtree-intforce.rhcloud.com&lt;/a&gt;&lt;/p&gt;&lt;br&gt;                                &lt;/div&gt;&lt;br&gt;                            &lt;/div&gt;&lt;br&gt;&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;&lt;br&gt;	&lt;strong&gt;Yamaha NSP80PKG 7.1CH Home Theatre Speaker Package (Black) (New)&lt;/strong&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Includes: NS-50F HT Series Floorstanding Speakers (Pair), NS-P80 Center and Surround Channel Speaker Package &amp; YST-SW216 Subwoofer.&lt;/p&gt;&lt;p&gt;&lt;br&gt;	&lt;strong&gt;Yamaha NS-50F HT Series Floorstanding Speakers&lt;/strong&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Designed for Home Theatre - The Yamaha HT range is designed for home theatre and also excels at musical reproduction.&lt;/p&gt;&lt;br&gt;&lt;ul&gt;&lt;br&gt;	&lt;li&gt;Type: 2-Way, 3-Speaker Bass-Reflex Floor-Standing Speaker System&lt;/li&gt;&lt;br&gt;	&lt;li&gt;Woofer: Dual 16cm cone&lt;/li&gt;&lt;br&gt;	&lt;li&gt;Tweeter: 3cm dome&lt;/li&gt;&lt;br&gt;	&lt;li&gt;Frequency Response: 35 Hz to 35 kHz&lt;/li&gt;&lt;br&gt;	&lt;li&gt;Nominal Input Power: 80 W&lt;/li&gt;&lt;br&gt;	&lt;li&gt;Maximum Input Power: 240 W&lt;/li&gt;&lt;br&gt;	&lt;li&gt;Sensitivity: 91 dB&lt;/li&gt;&lt;br&gt;	&lt;li&gt;Crossover Frequencies: 2 kHz&lt;/li&gt;&lt;br&gt;	&lt;li&gt;Impedance: 6 ohms&lt;/li&gt;&lt;br&gt;	&lt;li&gt;Dimensions (W x H x D): 233 x 880 x 271 mm EA&lt;/li&gt;&lt;br&gt;	&lt;li&gt;Weight: 12.5 kg EA&lt;/li&gt;&lt;br&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;	&lt;strong&gt;Yamaha NS-P80 Center and Surround Channel Speaker Package&lt;/strong&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;High Sound Quality Speaker Package (Centre and 4 Rear Speakers) Specifically Designed for Home Cinema Use.&lt;/p&gt;&lt;p&gt;Center Speaker &lt;/p&gt;&lt;br&gt;&lt;ul&gt;&lt;br&gt;	&lt;li&gt;Woofers: Dual 10cm cone&lt;/li&gt;&lt;br&gt;	&lt;li&gt;Tweeter: 2.2cm dome&lt;/li&gt;&lt;br&gt;	&lt;li&gt;Frequency Response: 70 Hz to 30 kHz&lt;/li&gt;&lt;br&gt;	&lt;li&gt;Nominal Input Power: 60 W&lt;/li&gt;&lt;br&gt;	&lt;li&gt;Maximum Input Power: 180 W&lt;/li&gt;&lt;br&gt;	&lt;li&gt;Sensitivity: 91 dB&lt;/li&gt;&lt;br&gt;	&lt;li&gt;Crossover Frequencies: 5 kHz&lt;/li&gt;&lt;br&gt;	&lt;li&gt;Impedance: 6 Ohms&lt;/li&gt;&lt;br&gt;	&lt;li&gt;Dimensions (W x H x D): 465 x 135 x 174 mm&lt;/li&gt;&lt;br&gt;	&lt;li&gt;Weight: 3.5 kg&lt;/li&gt;&lt;br&gt;&lt;/ul&gt;&lt;p&gt;Surround Speakers&lt;/p&gt;&lt;br&gt;&lt;ul&gt;&lt;br&gt;	&lt;li&gt;Woofers: 10cm cone&lt;/li&gt;&lt;br&gt;	&lt;li&gt;Tweeter: 2.2cm dome&lt;/li&gt;&lt;br&gt;	&lt;li&gt;Frequency Response: 80 Hz to 30 kHz&lt;/li&gt;&lt;br&gt;	&lt;li&gt;Nominal Input Power: 50 W&lt;/li&gt;&lt;br&gt;	&lt;li&gt;Maximum Input Power: 150 W&lt;/li&gt;&lt;br&gt;	&lt;li&gt;Sensitivity: 90 dB&lt;/li&gt;&lt;br&gt;	&lt;li&gt;Impedance: 6 Ohms&lt;/li&gt;&lt;br&gt;	&lt;li&gt;Dimensions (W x H x D): 150 x 265 x 156 mm EA&lt;/li&gt;&lt;br&gt;	&lt;li&gt;Weight: 2.3 kg EA&lt;/li&gt;&lt;br&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;	&lt;strong&gt;Yamaha YST-SW216 Subwoofer&lt;/strong&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Subwoofers with high dynamic power and low-noise performance thanks to Advanced YST II.&lt;/p&gt;&lt;br&gt;&lt;ul&gt;&lt;br&gt;	&lt;li&gt;Type: Advanced YST II and Front Firing&lt;/li&gt;&lt;br&gt;	&lt;li&gt;Driver: 25cm cone&lt;/li&gt;&lt;br&gt;	&lt;li&gt;Dynamic Power: 100 W&lt;/li&gt;&lt;br&gt;	&lt;li&gt;Frequency Response: 25-180 Hz&lt;/li&gt;&lt;br&gt;	&lt;li&gt;Advanced YST: Yes&lt;/li&gt;&lt;br&gt;	&lt;li&gt;Linear Port: Yes&lt;/li&gt;&lt;br&gt;	&lt;li&gt;Selectable high-cut filter: Yes&lt;/li&gt;&lt;br&gt;	&lt;li&gt;QD-Bass Technology: Front Firing&lt;/li&gt;&lt;br&gt;	&lt;li&gt;Dimensions (W x H x D): 340 x 340 x 385 mm&lt;/li&gt;&lt;br&gt;	&lt;li&gt;Weight: 11.2 kg&lt;/li&gt;&lt;br&gt;&lt;/ul&gt;&lt;p&gt; (225230-6)&lt;/p&gt
+attributeMap['home_theatre_systems.paypal_accepted_seller_s']=false
+attributeMap['home_theatre_systems.automatic_repost_ad_s']=false
+attributeMap['home_theatre_systems.highest_price_s']=450.0
+attributeMap['home_theatre_systems.condition_s']=new

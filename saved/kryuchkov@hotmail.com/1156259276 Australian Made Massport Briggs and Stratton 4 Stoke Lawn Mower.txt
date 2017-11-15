@@ -1,0 +1,30 @@
+description=It&#39;s a well used Australian Made Massport With Briggs and Stratton 4 Stoke Lawn Mower.&lt;br&gt;&lt;br&gt;Still runs fine.&lt;br&gt;&lt;br&gt;&lt;br&gt;Surplus to the requirement hence giving it away!!
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+attributeMap['cars.greyimport']=
+houseNumber=
+unacceptableGeocode=false
+level2CategoryId=
+_renew=on,_showLocationOnMap
+categoryId=20068
+adType=OFFER
+price.amount=50
+price.type=FIXED
+minimumOfferPrice=
+attributeMap[hg_garden_lawn_mowers.condition_s]=used
+title=Australian Made Massport Briggs and Stratton 4 Stoke Lawn Mower
+images=https://i.ebayimg.com/00/s/MzAwWDQwMA==/z/Ng8AAOSwdBRZiW93/$_20.JPG
+images=https://i.ebayimg.com/00/s/MjI1WDQwMA==/z/o6IAAOSweNxZiW-S/$_20.JPG
+images=https://i.ebayimg.com/00/s/MjI1WDQwMA==/z/A6MAAOSwJGlZiW~z/$_20.JPG
+name=Dimitri
+phoneNumber=0410381932
+locationId=3004117
+geocodeLat=-33.794095
+geocodeLng=151.188817
+geocodeLocality=Chatswood
+attributeMap['hg_garden_lawn_mowers.automatic_repost_ad_s']=false
+attributeMap['hg_garden_lawn_mowers.paypal_accepted_seller_s']=false
+attributeMap['hg_garden_lawn_mowers.condition_s']=used
+attributeMap['hg_garden_lawn_mowers.highest_price_s']=50.0

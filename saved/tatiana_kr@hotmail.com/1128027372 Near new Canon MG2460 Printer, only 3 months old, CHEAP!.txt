@@ -1,0 +1,35 @@
+attributeMap['cars.greyimport']=
+postcode=2040
+houseNumber=
+streetName=
+adType=OFFER
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+_showLocationOnMap=on
+unacceptableGeocode=false
+level2CategoryId=
+quickOffer=
+_renew=on
+repost=false
+categoryId=20046
+price.amount=20
+price.type=FIXED
+minimumOfferPrice=
+attributeMap['electronics_computers_other.condition_s']=used
+title=Near new Canon MG2460 Printer, only 3 months old, CHEAP!
+images=https://i.ebayimg.com/00/s/NTY0WDY1NA==/z/7sEAAOSwnbZYCYe-/$_14.JPG
+images=https://i.ebayimg.com/00/s/MTYwMFg5MDA=/z/~0MAAOSwUEVYCYeQ/$_14.JPG
+images=https://i.ebayimg.com/00/s/OTAwWDE2MDA=/z/FfQAAOSwHMJYCYeC/$_14.JPG
+name=Tatiana
+phoneNumber=0410381932
+locationId=3003844
+mapAddress=Leichhardt, NSW, 2040
+geocodeLat=-33.882417
+geocodeLng=151.154762
+geocodeLocality=Leichhardt
+description=Compact and efficient, the PIXMA MG2460 is the ideal All-in-One printer for your home office. It prints, it copies and it scans, delivering exceptional results effortlessly.Other handy features of the MG2460 include Quiet Mode for quieter printing, and an auto-power ON function that can helps you to conserve on energy costs.
+attributeMap['electronics_computers_other.paypal_accepted_seller_s']=false
+attributeMap['electronics_computers_other.highest_price_s']=20.0
+attributeMap['electronics_computers_other.automatic_repost_ad_s']=false

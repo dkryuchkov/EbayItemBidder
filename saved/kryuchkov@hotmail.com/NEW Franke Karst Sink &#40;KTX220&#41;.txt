@@ -1,0 +1,39 @@
+attributeMap['cars.greyimport']=
+postcode=2067
+houseNumber=
+streetName=
+adType=OFFER
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+_showLocationOnMap=on
+unacceptableGeocode=false
+level2CategoryId=
+quickOffer=
+_renew=on
+repost=false
+categoryId=20103
+price.amount=250
+price.type=FIXED
+minimumOfferPrice=
+title=Franke Karst Sink &#40;KTX220&#41;
+name=Dimitri
+phoneNumber=0410381932
+locationId=3003844
+mapAddress=Chatswood 2067, NSW
+geocodeLat=-33.882417
+geocodeLng=151.154762
+geocodeLocality=Chatswood
+description=&lt;br&gt;	 Description&lt;br&gt;    <div class="sanitised-markup">&lt;br&gt;		Franke Karst Sink (KTX220)Recommended Retail Price (RRP) - $949 as of March 2017 based on a new product.Depth x Height x Width: 480 x 200 x 855 mmBowl Type: 1 & 3/4Item may show marks/scratches/dents or imperfections. Accessories may vary from standard.Returns/refunds based on marks/scratches/dents or imperfections will not be acceptedThis item is classified as Grade (1) (please refer to Grading tab for details) (239318-6) Note:  &lt;br&gt;    &lt;br&gt;    &lt;br&gt;
+attributeMap['building_materials.paypal_accepted_seller_s']=false
+attributeMap['building_materials.automatic_repost_ad_s']=false
+attributeMap['building_materials.condition_s']=used
+attributeMap['building_materials.website_s']=gumtree-intforce.rhcloud.com
+attributeMap[building_materials.slogan_s]=Franke Karst Sink &#40;KTX220&#41;
+hourstomarket=24
+images=https://i.ebayimg.com/00/s/NDk1WDg4MA==/z/f9oAAOSw5bFZYgkf/$_20.JPG
+images=https://i.ebayimg.com/00/s/NzIzWDg4MA==/z/xHIAAOSwkttZYgkw/$_20.JPG
+images=https://i.ebayimg.com/00/s/NDk1WDg4MA==/z/MusAAOSwg0pZYgk7/$_20.JPG
+ctk=Hl7mS7ly32kwY1aXbR1JGw
+csrft=7b96a68fed326d45ec7d3f5d5c50e176

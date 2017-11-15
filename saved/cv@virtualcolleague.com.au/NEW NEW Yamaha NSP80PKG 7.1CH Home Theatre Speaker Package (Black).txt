@@ -1,0 +1,42 @@
+attributeMap['cars.greyimport']=
+postcode=2040
+houseNumber=
+streetName=
+adType=OFFER
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+_showLocationOnMap=on
+unacceptableGeocode=false
+level2CategoryId=
+quickOffer=
+_renew=on
+repost=false
+categoryId=21118
+price.amount=450
+price.type=FIXED
+minimumOfferPrice=
+title=NEW Yamaha NSP80PKG 7.1CH Home Theatre Speaker Package (Black)
+name=Tatiana
+phoneNumber=0410381932
+locationId=3003844
+mapAddress=Leichhardt, NSW, 2040
+geocodeLat=-33.882417
+geocodeLng=151.154762
+geocodeLocality=Leichhardt
+description=www.gumtree-intforce.rhcloud.com<br>&lt;div class="content-section"&gt; &lt;h3&gt;Description&lt;/h3&gt;    &lt;div class="sanitised-markup"&gt;&lt;p&gt;&lt;strong&gt;Yamaha NSP80PKG 7.1CH Home Theatre Speaker Package &#40;Black&#41; &#40;New&#41;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Includes&#58; NS-50F HT Series Floorstanding Speakers &#40;Pair&#41;, NS-P80 Center and Surround Channel Speaker Package &#38; YST-SW216 Subwoofer.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Yamaha NS-50F HT Series Floorstanding Speakers&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Designed for Home Theatre - The Yamaha HT range is designed for home theatre and also excels at musical reproduction.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Type&#58; 2-Way, 3-Speaker Bass-Reflex Floor-Standing Speaker System&lt;/li&gt;&lt;li&gt;Woofer&#58; Dual 16cm cone&lt;/li&gt;&lt;li&gt;Tweeter&#58; 3cm dome&lt;/li&gt;&lt;li&gt;Frequency Response&#58; 35 Hz to 35 kHz&lt;/li&gt;&lt;li&gt;Nominal Input Power&#58; 80 W&lt;/li&gt;&lt;li&gt;Maximum Input Power&#58; 240 W&lt;/li&gt;&lt;li&gt;Sensitivity&#58; 91 dB&lt;/li&gt;&lt;li&gt;Crossover Frequencies&#58; 2 kHz&lt;/li&gt;&lt;li&gt;Impedance&#58; 6 ohms&lt;/li&gt;&lt;li&gt;Dimensions &#40;W x H x D&#41;&#58; 233 x 880 x 271 mm EA&lt;/li&gt;&lt;li&gt;Weight&#58; 12.5 kg EA&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Yamaha NS-P80 Center and Surround Channel Speaker Package&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;High Sound Quality Speaker Package &#40;Centre and 4 Rear Speakers&#41; Specifically Designed for Home Cinema Use.&lt;/p&gt;&lt;p&gt;Center Speaker &lt;/p&gt;&lt;ul&gt;&lt;li&gt;Woofers&#58; Dual 10cm cone&lt;/li&gt;&lt;li&gt;Tweeter&#58; 2.2cm dome&lt;/li&gt;&lt;li&gt;Frequency Response&#58; 70 Hz to 30 kHz&lt;/li&gt;&lt;li&gt;Nominal Input Power&#58; 60 W&lt;/li&gt;&lt;li&gt;Maximum Input Power&#58; 180 W&lt;/li&gt;&lt;li&gt;Sensitivity&#58; 91 dB&lt;/li&gt;&lt;li&gt;Crossover Frequencies&#58; 5 kHz&lt;/li&gt;&lt;li&gt;Impedance&#58; 6 Ohms&lt;/li&gt;&lt;li&gt;Dimensions &#40;W x H x D&#41;&#58; 465 x 135 x 174 mm&lt;/li&gt;&lt;li&gt;Weight&#58; 3.5 kg&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Surround Speakers&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Woofers&#58; 10cm cone&lt;/li&gt;&lt;li&gt;Tweeter&#58; 2.2cm dome&lt;/li&gt;&lt;li&gt;Frequency Response&#58; 80 Hz to 30 kHz&lt;/li&gt;&lt;li&gt;Nominal Input Power&#58; 50 W&lt;/li&gt;&lt;li&gt;Maximum Input Power&#58; 150 W&lt;/li&gt;&lt;li&gt;Sensitivity&#58; 90 dB&lt;/li&gt;&lt;li&gt;Impedance&#58; 6 Ohms&lt;/li&gt;&lt;li&gt;Dimensions &#40;W x H x D&#41;&#58; 150 x 265 x 156 mm EA&lt;/li&gt;&lt;li&gt;Weight&#58; 2.3 kg EA&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Yamaha YST-SW216 Subwoofer&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Subwoofers with high dynamic power and low-noise performance thanks to Advanced YST II.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Type&#58; Advanced YST II and Front Firing&lt;/li&gt;&lt;li&gt;Driver&#58; 25cm cone&lt;/li&gt;&lt;li&gt;Dynamic Power&#58; 100 W&lt;/li&gt;&lt;li&gt;Frequency Response&#58; 25-180 Hz&lt;/li&gt;&lt;li&gt;Advanced YST&#58; Yes&lt;/li&gt;&lt;li&gt;Linear Port&#58; Yes&lt;/li&gt;&lt;li&gt;Selectable high-cut filter&#58; Yes&lt;/li&gt;&lt;li&gt;QD-Bass Technology&#58; Front Firing&lt;/li&gt;&lt;li&gt;Dimensions &#40;W x H x D&#41;&#58; 340 x 340 x 385 mm&lt;/li&gt;&lt;li&gt;Weight&#58; 11.2 kg&lt;/li&gt;&lt;/ul&gt;&lt;p&gt; &#40;225230-6&#41;&lt;/p&gt;&lt;p&gt;&lt;strong&gt; Note&#58;&lt;/strong&gt;  &lt;/p&gt;    &lt;/div&gt;    &lt;/div&gt;
+attributeMap['home_theatre_systems.paypal_accepted_seller_s']=false
+attributeMap['home_theatre_systems.automatic_repost_ad_s']=false
+attributeMap['home_theatre_systems.condition_s']=new
+attributeMap['home_theatre_systems.website_s']=gumtree-intforce.rhcloud.com
+hourstomarket=9
+bbImageBaseUrl=/bb-image.html
+images=https://i.ebayimg.com/00/s/NTAzWDg4MA==/z/r2UAAOSwa~BYTIHO/$_20.JPG
+images=https://i.ebayimg.com/00/s/ODU3WDYyMA==/z/oFYAAOSwo4pYTIHW/$_20.JPG
+images=https://i.ebayimg.com/00/s/MzMyWDYxNw==/z/ZsAAAOSw5cNYTIHY/$_20.JPG
+images=https://i.ebayimg.com/00/s/ODU2WDg4MA==/z/SlIAAOSwOtdYTIHj/$_20.JPG
+ctk=8W6qLc7E-MwKiws-l6qR7g
+csrft=839f76e120aca170d3fb9079d0d37f79
+bbUserInput=5978
+bbToken=8d958adf8c3565fe98d99556849bbb116167bc76124ddd1810693a378fd593f7be80bc9567ac862c2a7293b7627790fe1baf3be84b5e0d8bc6350029cd5977ab

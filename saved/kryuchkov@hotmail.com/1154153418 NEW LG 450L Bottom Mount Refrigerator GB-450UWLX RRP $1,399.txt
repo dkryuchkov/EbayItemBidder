@@ -1,0 +1,31 @@
+description=NEW LG 450L Bottom Mount Refrigerator GB-450UWLX with 12 months warranty!&lt;br&gt;&lt;br&gt;&lt;br&gt;Recommended Retail Price (RRP) - $1,399&lt;br&gt;&lt;br&gt;Colour: White&lt;br&gt;&lt;br&gt;Hidden Hinges&lt;br&gt;&lt;br&gt;Air Ventilation: Rear Venting Door&lt;br&gt;&lt;br&gt;Open Alarm&lt;br&gt;&lt;br&gt;BioShield&lt;br&gt;&lt;br&gt;Capacity (Total): 450L&lt;br&gt;&lt;br&gt;Refrigerator Capacity: 295L&lt;br&gt;&lt;br&gt;Freezer Capacity: 155L&lt;br&gt;&lt;br&gt;Digital Sensors (includes Room Temp Sensor): 4&lt;br&gt;&lt;br&gt;Dual Speed Cooling Fan&lt;br&gt;&lt;br&gt;Evaporators: 1&lt;br&gt;&lt;br&gt;Refrigerant Type: R600a&lt;br&gt;&lt;br&gt;Inverter Linear Compressor&lt;br&gt;&lt;br&gt;Smart Diagnosis&lt;br&gt;&lt;br&gt;Interior Lamp: LED&lt;br&gt;&lt;br&gt;Tempered Glass Shelves: 3&lt;br&gt;&lt;br&gt;Fixed Door Baskets: 6&lt;br&gt;&lt;br&gt;Moisture Balance Crisper: 1&lt;br&gt;&lt;br&gt;Dairy Corner: (1)&lt;br&gt;&lt;br&gt;Egg Tray Deodoriser&lt;br&gt;&lt;br&gt;&lt;br&gt;Freezer Features&lt;br&gt;&lt;br&gt;Drawers: Yes (3 x Plastic)&lt;br&gt;&lt;br&gt;Express Freeze&lt;br&gt;&lt;br&gt;Twist Ice Tray with Ice Bank&lt;br&gt;&lt;br&gt;Energy Consumption: 299kWh&#47;year&lt;br&gt;&lt;br&gt;Energy Rating: 4½ Star&lt;br&gt;&lt;br&gt;&lt;br&gt;Dimensions&lt;br&gt;&lt;br&gt;Weight (Unit): 85 kg&lt;br&gt;&lt;br&gt;Dimensions (HxWxD): 1800 x 740 x 770mm
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+attributeMap['cars.greyimport']=
+houseNumber=
+unacceptableGeocode=false
+level2CategoryId=
+_renew=on,_showLocationOnMap
+categoryId=20061
+adType=OFFER
+price.amount=699
+price.type=FIXED
+minimumOfferPrice=
+attributeMap[hg_appliances_fridge_freezer.condition_s]=new
+title=NEW LG 450L Bottom Mount Refrigerator GB-450UWLX RRP $1,399
+images=https://i.ebayimg.com/00/s/ODgwWDg4MA==/z/6bUAAOSwuq9ZX1tJ/$_20.JPG
+images=https://i.ebayimg.com/00/s/ODgwWDM4OA==/z/IvAAAOSwWdZZX1tO/$_20.JPG
+images=https://i.ebayimg.com/00/s/ODQ2WDg4MA==/z/0PIAAOSwpINZX1tb/$_20.JPG
+images=https://i.ebayimg.com/00/s/NTc5WDg4MA==/z/01MAAOSwhilZX1tj/$_20.JPG
+name=Dimitri
+phoneNumber=0410381932
+locationId=3004117
+geocodeLat=-33.794095
+geocodeLng=151.188817
+geocodeLocality=Chatswood
+attributeMap['hg_appliances_fridge_freezer.automatic_repost_ad_s']=false
+attributeMap['hg_appliances_fridge_freezer.paypal_accepted_seller_s']=false
+attributeMap['hg_appliances_fridge_freezer.highest_price_s']=699.0
+attributeMap['hg_appliances_fridge_freezer.condition_s']=new

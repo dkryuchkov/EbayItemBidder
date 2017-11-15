@@ -1,0 +1,42 @@
+attributeMap['cars.greyimport']=
+postcode=2040
+houseNumber=
+streetName=
+adType=OFFER
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+_showLocationOnMap=on
+unacceptableGeocode=false
+level2CategoryId=
+quickOffer=
+_renew=on
+repost=false
+categoryId=20080
+price.amount=1200
+price.type=FIXED
+minimumOfferPrice=
+title=Dining setting, 9-piece, black Italian marble top on brushed stai
+name=Dimitri
+phoneNumber=0410381932
+locationId=3003844
+mapAddress=Leichhardt, NSW, 2040
+geocodeLat=-33.882417
+geocodeLng=151.154762
+geocodeLocality=Leichhardt
+description=&lt;div class="content-section"&gt; &lt;h3&gt;Description&lt;/h3&gt;    &lt;div class="sanitised-markup"&gt;&lt;p&gt;Dining setting, 9-piece, black Italian marble top on brushed stainless steel and marble base table, approx 1500 x 1500mm, 8 x cream vinyl upholstered brushed stainless steel cantilever chairs, RRP&#36;6999 &#40;237169-187&#41;&lt;/p&gt;&lt;p&gt;&lt;strong&gt; Note&#58;&lt;/strong&gt;  &lt;/p&gt;    &lt;/div&gt;    &lt;/div&gt;&lt;br&gt;&lt;br&gt;THIS ADVERT IS MANAGED BY https://gumtree-intforce.rhcloud.com
+attributeMap['hg_furniture_tables.paypal_accepted_seller_s']=false
+attributeMap['hg_furniture_tables.automatic_repost_ad_s']=false
+attributeMap['hg_furniture_tables.condition_s']=used
+attributeMap['hg_furniture_tables.website_s']=gumtree-intforce.rhcloud.com
+attributeMap[hg_furniture_tables.slogan_s]=Dining setting, 9-piece, black Italian marble top on brushed stai
+hourstomarket=-1
+bbImageBaseUrl=/bb-image.html
+images=https://i.ebayimg.com/00/s/NTg3WDg4MA==/z/Uc0AAOSw44BYV6~2/$_20.JPG
+images=https://i.ebayimg.com/00/s/NTg3WDg4MA==/z/KVcAAOSw6DtYV7AS/$_20.JPG
+images=https://i.ebayimg.com/00/s/ODgwWDU4Nw==/z/z8cAAOSwnHZYV7Ao/$_20.JPG
+ctk=pkU7-ZKZhKlqTnAQz_1Wug
+csrft=f99dbd49fc230264e7d41d16bd0acbe0
+bbUserInput=3283
+bbToken=bb844a8d79cb5a3b14bc4677992c82c0386ec24eba409108fccdb454b5465e17beec2bb5eb1afa9a67dbc9ccc59d43e9546a9525d73885f3a7a9e54e9a3d4e86

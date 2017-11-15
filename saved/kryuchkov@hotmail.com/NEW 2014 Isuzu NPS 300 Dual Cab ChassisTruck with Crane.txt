@@ -1,0 +1,61 @@
+attributeMap['trucks.greyimport']=
+postcode=2067
+houseNumber=
+streetName=
+adType=OFFER
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+_showLocationOnMap=on
+unacceptableGeocode=false
+level2CategoryId=
+quickOffer=
+_renew=on
+repost=false
+categoryId=21128
+price.amount=40000
+price.type=FIXED
+minimumOfferPrice=39900
+title=2014 Isuzu NPS 300 Dual Cab ChassisTruck with Crane
+name=Dimitri
+phoneNumber=0410381932
+locationId=3004117
+geocodeLat=-33.794095
+geocodeLng=151.188817
+mapAddress=Chatswood 2067, NSW
+geocodeLocality=Chatswood
+description=Description&lt;br&gt;2014 Isuzu NPS 300 Dual Cab ChassisTruck with Crane,&lt;br&gt;&lt;br&gt;Drive Type: 4WD&lt;br&gt;Unable to locate Build Date&lt;br&gt;Compliance Date: 10/2014&lt;br&gt;Transmission: Manual 5 Speed&lt;br&gt;Engine Type & HP: 4 Cylinder&lt;br&gt;Fuel Type: Turbo Diesel&lt;br&gt;Rego: No Plates Previous CB16VK NSW&lt;br&gt;Odometer Reading: 81,746 km&lt;br&gt;Colour Exterior: White&lt;br&gt;Colour Interior: Grey&lt;br&gt;VIN: JAANPS75HD7101049&lt;br&gt;Key: Yes&lt;br&gt;Service History: None&lt;br&gt;Engine Turns Over: Yes&lt;br&gt;Seats & Upholstery: poor&lt;br&gt;Controls & Dash: Poor&lt;br&gt;Paint: Fair
+cars_description=
+attributeMap['trucks.paypal_accepted_seller_s']=false
+attributeMap['trucks.automatic_repost_ad_s']=false
+attributeMap['trucks.condition_s']=used
+attributeMap[trucks.slogan_s]=2014 Isuzu NPS 300 Dual Cab ChassisTruck with Crane
+hourstomarket=24
+attributeMap['trucks.fueltype_s']=diesel
+attributeMap['trucks.forsaleby_s']=ownr
+attributeMap['trucks.highest_price_s']=40000
+attributeMap['trucks.truckyear_i']=2014
+attributeMap['trucks.truckmake_s']=isuzu
+attributeMap['trucks.paypal_accepted_seller_s']=false
+attributeMap['trucks.truckmileageinkms_i']=1
+attributeMap['trucks.truckmodel_s']=isuzu nps
+attributeMap['trucks.registered_s']=n
+attributeMap['trucks.automatic_repost_ad_s']=false
+attributeMap['cars.greyimport']=
+images=https://i.ebayimg.com/00/s/NTg5WDg4MA==/z/rpYAAOSwfVhZ7DxL/$_20.JPG
+images=https://i.ebayimg.com/00/s/NTg5WDg4MA==/z/yk8AAOSw0UBZ7DxR/$_20.JPG
+images=https://i.ebayimg.com/00/s/NTg5WDg4MA==/z/Z6cAAOSwc6pZ7DxX/$_20.JPG
+images=https://i.ebayimg.com/00/s/NTg5WDg4MA==/z/i7QAAOSwiYlZ7Dxc/$_20.JPG
+images=https://i.ebayimg.com/00/s/NjYwWDg4MA==/z/VqkAAOSwU4FZ7Dxi/$_20.JPG
+images=https://i.ebayimg.com/00/s/NjYwWDg4MA==/z/X1cAAOSwehZZ7Dxo/$_20.JPG
+images=https://i.ebayimg.com/00/s/NjYwWDg4MA==/z/FjUAAOSwR6RZ7Dxu/$_20.JPG
+images=https://i.ebayimg.com/00/s/NjYwWDg4MA==/z/EHcAAOSwaSZZ7Dx0/$_20.JPG
+images=https://i.ebayimg.com/00/s/NjYwWDg4MA==/z/bXoAAOSwubZZ7Dx6/$_20.JPG
+images=https://i.ebayimg.com/00/s/NjYwWDg4MA==/z/XPsAAOSwmkpZ7Dx~/$_20.JPG
+images=https://i.ebayimg.com/00/s/ODgwWDY2MA==/z/GI4AAOSwk~ZZ7DyG/$_20.JPG
+images=https://i.ebayimg.com/00/s/ODgwWDY2MA==/z/ZyAAAOSwWflZ7DyL/$_20.JPG
+ctk=FI7wpFx1Hg2TUWcm5mwaRg
+csrft=966fb485d02dd1670711d454f046888e
+bbUserInput=0803
+bbToken=04c45700217d5c04e0aa618626f94caa75d30c499744307294bd5df1826038c68c73a1cf48b124040af711f96eda72c0ecbb10109db74dc5a592730af59622bb

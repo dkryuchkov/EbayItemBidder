@@ -1,0 +1,34 @@
+attributeMap['cars.greyimport']=
+postcode=2040
+houseNumber=
+streetName=
+adType=OFFER
+adId=
+geocodeConfidence=OK
+files[]=
+bbImageBaseUrl=/bb-image.html
+galleryImageIndex=
+_showLocationOnMap=on
+unacceptableGeocode=false
+level2CategoryId=
+quickOffer=
+_renew=on
+repost=false
+categoryId=20076
+price.amount=60
+price.type=FIXED
+minimumOfferPrice=
+title=Small writing desk in immaculate condition less than a year old
+images=https://i.ebayimg.com/00/s/OTAxWDE2MDA=/z/3j0AAOSwImRYfE7S/$_20.JPG
+images=https://i.ebayimg.com/00/s/MTYwMFg5MDE=/z/FTQAAOSwnHZYfE8M/$_20.JPG
+name=Tatiana
+phoneNumber=0410381932
+locationId=3003845
+geocodeLat=-33.87109
+geocodeLng=151.161166
+geocodeLocality=Lilyfield
+description=Small writing desk in immaculate condition less than 12 months old&lt;br&gt;&lt;br&gt;THIS ADVERT IS MANAGED BY https://gumtree-intforce.rhcloud.com
+attributeMap['hg_furniture_desks.automatic_repost_ad_s']=false
+attributeMap['hg_furniture_desks.highest_price_s']=60.0
+attributeMap['hg_furniture_desks.paypal_accepted_seller_s']=false
+attributeMap['hg_furniture_desks.condition_s']=used

@@ -1,0 +1,29 @@
+description=I&#39;m literally giving these away !!!&lt;br&gt;&lt;br&gt;&lt;br&gt;All brand new, packed. All branded, top quality. Each of one costs a small fortune, Close the business and selling all in bulk. Absolute bargain. Hardly 2% of the value!&lt;br&gt;&lt;br&gt;&lt;br&gt;Large Quantity, including Push Button, Illuminated Push Button, Toggle, Rocker, Marine Switches, mini Joystick Controller&lt;br&gt;&lt;br&gt;Some of the items included in the sale:&lt;br&gt;&lt;br&gt;&lt;br&gt;PXM6034&#47;B - BULGIN SS Connector shield push-pull 6000 series with cover&lt;br&gt;&lt;br&gt;&lt;br&gt;retails for 299 I have 2 of them&lt;br&gt;&lt;br&gt;&lt;br&gt;M11L0A1F Apem Joystick , Potentiometer , 2 Axis, sealed pot,5K 0.5W Made in US - retails for $199 I have a number of them&lt;br&gt;&lt;br&gt;The total book price for the lot is over $11,000
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+attributeMap['cars.greyimport']=
+houseNumber=
+unacceptableGeocode=false
+level2CategoryId=
+_renew=on,_showLocationOnMap
+categoryId=20103
+adType=OFFER
+price.amount=499
+price.type=FIXED
+minimumOfferPrice=
+attributeMap[building_materials.condition_s]=new
+title=Pallet of Brand New Assorted Top Brands Marine Switches Worth 11K
+images=https://i.ebayimg.com/00/s/MjY2WDQwMA==/z/e5sAAOSwWclZexs4/$_20.JPG
+images=https://i.ebayimg.com/00/s/MjY2WDQwMA==/z/n9AAAOSwjOZZexs2/$_20.JPG
+name=Dimitri
+phoneNumber=0410381932
+locationId=3004117
+geocodeLat=-33.794095
+geocodeLng=151.188817
+geocodeLocality=Chatswood
+attributeMap['building_materials.paypal_accepted_seller_s']=false
+attributeMap['building_materials.automatic_repost_ad_s']=false
+attributeMap['building_materials.condition_s']=new
+attributeMap['building_materials.highest_price_s']=699.0

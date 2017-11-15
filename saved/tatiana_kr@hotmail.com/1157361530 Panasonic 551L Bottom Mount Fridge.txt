@@ -1,0 +1,31 @@
+description=Panasonic 551L Bottom Mount Fridge&lt;br&gt;&lt;br&gt;(RRP) - $1999&lt;br&gt;&lt;br&gt;Used from February ( 7 months), as new&lt;br&gt;&lt;br&gt;Fridge &#47; Freezer Type: Bottom Mount Fridges&lt;br&gt;&lt;br&gt;Capacity: 551L&lt;br&gt;&lt;br&gt;Fridge Capacity: 398L&lt;br&gt;&lt;br&gt;Freezer Capacity: 153L&lt;br&gt;&lt;br&gt;Star Ratings: 3.5 Stars&lt;br&gt;&lt;br&gt;Power Consumption (kWh&#47;yr): 452&lt;br&gt;&lt;br&gt;ECONAVI&lt;br&gt;&lt;br&gt;Compressor: Inverter&lt;br&gt;&lt;br&gt;Quick Freezing&lt;br&gt;&lt;br&gt;Refrigerant: R600a&lt;br&gt;&lt;br&gt;Urethane Insulation Cyclopentane&lt;br&gt;&lt;br&gt;Fresh&Clean&lt;br&gt;&lt;br&gt;Ag Clean (Anti Bacteria & Deodorizer)&lt;br&gt;&lt;br&gt;Fresh Safe&lt;br&gt;&lt;br&gt;Dimension (W x D x H): 775 x 741 x 1714 mm&lt;br&gt;&lt;br&gt;Weight: 88 Kg
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+attributeMap['cars.greyimport']=
+houseNumber=
+unacceptableGeocode=false
+level2CategoryId=
+_renew=on,_showLocationOnMap
+categoryId=20061
+adType=OFFER
+price.amount=750
+price.type=FIXED
+minimumOfferPrice=
+attributeMap[hg_appliances_fridge_freezer.condition_s]=used
+title=Panasonic 551L Bottom Mount Fridge
+images=https://i.ebayimg.com/00/s/NDAwWDMwMA==/z/PHkAAOSwNgdZmTEr/$_20.JPG
+images=https://i.ebayimg.com/00/s/MTYwMFgxMjAw/z/M9kAAOSwcUFZmTEl/$_20.JPG
+images=https://i.ebayimg.com/00/s/ODgwWDQzNA==/z/BEUAAOSwhf1ZmTFz/$_20.JPG
+images=https://i.ebayimg.com/00/s/MTYwMFgxMjAw/z/IYYAAOSwDehZmTIz/$_20.JPG
+name=Dimitri
+phoneNumber=0410381932
+locationId=3004117
+geocodeLat=-33.794095
+geocodeLng=151.188817
+geocodeLocality=Chatswood
+attributeMap['hg_appliances_fridge_freezer.automatic_repost_ad_s']=false
+attributeMap['hg_appliances_fridge_freezer.paypal_accepted_seller_s']=false
+attributeMap['hg_appliances_fridge_freezer.highest_price_s']=750.0
+attributeMap['hg_appliances_fridge_freezer.condition_s']=used

@@ -1,0 +1,29 @@
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+attributeMap['cars.greyimport']=
+houseNumber=
+unacceptableGeocode=false
+level2CategoryId=
+_renew=on,_showLocationOnMap
+categoryId=21003
+price.amount=220
+price.type=FIXED
+minimumOfferPrice=
+attributeMap[hg_appliances_microwaves.condition_s]=new
+title=NEW Esatto Built-in 900W Combi Microwave Oven RRP $549
+images=https://i.ebayimg.com/00/s/NTcyWDg4MA==/z/BgcAAOSwCU1Y1aXG/$_20.JPG
+images=https://i.ebayimg.com/00/s/NTY4WDg4MA==/z/6pEAAOSwzgBY1aXT/$_20.JPG
+images=https://i.ebayimg.com/00/s/NDk1WDg4MA==/z/h-QAAOSwdGFY1aXh/$_20.JPG
+name=Dimitri
+phoneNumber=0410381932
+locationId=3004117
+geocodeLat=-33.794095
+geocodeLng=151.188817
+geocodeLocality=Chatswood
+description=NEW Esatto 25L Convetion Built-in 900W Microwave Oven (MC25BF)Recommended Retail Price (RRP) - $549 as of February 2017 based on a new product.Features900w microwave power1100w grill power2400w convection power10 pre-set food typesMicrowave cooking: 100% Microwave powerGrill cooking: 0% Microwave + 100% Grill powerCombi cooking: 55% Microwave + 45% Grill powerConvection cooking: 34% Microwave + 66% Grill powerDefrost mode: 33% Microwave powerSpecification:Microwave Volume: 25 LFinish Colour: BlackPower (W): 900 WattsOven Volume: 25 LitresOven Fuel Type: ElectricGrill: Separate electric grillDimension(W x D x H): 388 x 594 x 465mm&lt;/textarea&gt;
+attributeMap['hg_appliances_microwaves.highest_price_s']=220.0
+attributeMap['hg_appliances_microwaves.automatic_repost_ad_s']=false
+attributeMap['hg_appliances_microwaves.condition_s']=new
+attributeMap['hg_appliances_microwaves.paypal_accepted_seller_s']=false

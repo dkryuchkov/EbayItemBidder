@@ -1,0 +1,42 @@
+attributeMap['cars.greyimport']=
+postcode=2040
+houseNumber=
+streetName=
+adType=OFFER
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+_showLocationOnMap=on
+unacceptableGeocode=false
+level2CategoryId=
+quickOffer=
+_renew=on
+repost=false
+categoryId=20103
+price.amount=349
+price.type=FIXED
+minimumOfferPrice=
+title=Toilet Suite
+name=Dimitri
+phoneNumber=0410381932
+locationId=3003844
+mapAddress=Leichhardt, NSW, 2040
+geocodeLat=-33.882417
+geocodeLng=151.154762
+geocodeLocality=Leichhardt
+description=&lt;div class="content-section"&gt; &lt;h3&gt;Description&lt;/h3&gt;    &lt;div class="sanitised-markup"&gt;&lt;p&gt;&lt;strong&gt;Toilet Suite&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Caravelle white toilet seat 254007W&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Approx Dimension&#58; 47cm L X 37cm W X 6cm H.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Sovereign connector cistern 72715OW&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Approx Dims 38cm L X 19cm W X 49cm H&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;White trident care toilet 60631OW&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Approx Dims 62cm L X 36cm W X 44cm H&#40;SN&#58;254007W,72715OW,60631OW&#41; &#40;223773-344&#41;, &#40;SN&#58;254007W,72715OW,60631OW&#41; &#40;223773-345&#41;, &#40;SN&#58;254007W,72715OW,60631OW&#41; &#40;223773-346&#41;... Bundled item &#40;223773-468&#41;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt; Note&#58;&lt;/strong&gt;  &lt;/p&gt;    &lt;/div&gt;    &lt;/div&gt;&lt;br&gt;&lt;br&gt;THIS ADVERT IS MANAGED BY https://gumtree-intforce.rhcloud.com
+attributeMap['building_materials.paypal_accepted_seller_s']=false
+attributeMap['building_materials.automatic_repost_ad_s']=false
+attributeMap['building_materials.condition_s']=used
+attributeMap['building_materials.website_s']=gumtree-intforce.rhcloud.com
+attributeMap[building_materials.slogan_s]=Toilet Suite
+hourstomarket=-1
+bbImageBaseUrl=/bb-image.html
+images=https://i.ebayimg.com/00/s/NjMzWDg4MA==/z/G9MAAOSwNnRYicWS/$_20.JPG
+images=https://i.ebayimg.com/00/s/ODgwWDg3OA==/z/yBwAAOSwA3dYicWf/$_20.JPG
+images=https://i.ebayimg.com/00/s/ODgwWDgwMg==/z/eksAAOSw44BYicWt/$_20.JPG
+ctk=UpmjIBe0RT_sjOjjBPXRmw
+csrft=a45147d09b806eb16149e9483c035646
+bbUserInput=7585
+bbToken=6b38881c77f3749c5a506fc59617e49a0c5384f350f2f4a249f009f95e6487f3663798fd967bac39e6cf9c6ae7bf9c90ad12ade4ee0e2cae31741e74aa4349cb

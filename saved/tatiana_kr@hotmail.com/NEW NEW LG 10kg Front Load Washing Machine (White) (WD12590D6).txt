@@ -1,0 +1,40 @@
+attributeMap['cars.greyimport']=
+postcode=2067
+houseNumber=
+streetName=
+adType=OFFER
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+_showLocationOnMap=on
+unacceptableGeocode=false
+level2CategoryId=
+quickOffer=
+_renew=on
+repost=false
+categoryId=20066
+price.amount=900
+price.type=FIXED
+minimumOfferPrice=
+title=NEW LG 10kg Front Load Washing Machine (White) (WD12590D6)
+name=Dimitri
+phoneNumber=0410381932
+locationId=3003844
+mapAddress=Chatswood 2067, NSW
+geocodeLat=-33.882417
+geocodeLng=151.154762
+geocodeLocality=Chatswood
+description=&lt;div class="content-section"&gt; &lt;h3&gt;Description&lt;/h3&gt;    &lt;div class="sanitised-markup"&gt;&lt;p&gt;&lt;strong&gt;LG 10kg Front Load Washing Machine &#40;White&#41; &#40;WD12590D6&#41;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Recommended Retail Price &#40;RRP&#41; - &#36;2199 as of February 2017 based on a new product.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Colour&#58; White with Chrome door &lt;/li&gt;&lt;li&gt;Motor Type&#58; Inverter Direct Drive &lt;/li&gt;&lt;li&gt;Motor RPM&#58; 1200rpm &lt;/li&gt;&lt;li&gt;Variable Spin Speed&#58; Yes &#40;6 Settings&#41; &lt;/li&gt;&lt;li&gt;6 Motion Wash Technology&#58; Yes &lt;/li&gt;&lt;li&gt;Controls&#58; Electronic Push Button &lt;/li&gt;&lt;li&gt;Load Sensing&#58; Yes &lt;/li&gt;&lt;li&gt;Auto Balance&#58; Yes &lt;/li&gt;&lt;li&gt;Suds Detection&#58; Yes &lt;/li&gt;&lt;li&gt;Variable Temperature &#40;&#176;C&#41;&#58; 95&#47;60&#47;40&#47;30&#47;Cold &lt;/li&gt;&lt;li&gt;Door Diameter&#58; 410mm &lt;/li&gt;&lt;li&gt;Door Opening Angle&#58; 150&#176; &lt;/li&gt;&lt;li&gt;Smart Diagnosis 2.0&#58; Yes &lt;/li&gt;&lt;li&gt;Water Recirculation&#58; Yes &lt;/li&gt;&lt;li&gt;Washing Capacity&#58; 10kg &lt;/li&gt;&lt;li&gt;Dimensions &#40;HxWxD&#41;&#58; 982 x 686 x 767 mm&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;Item may show marks&#47;scratches&#47;dents or imperfections. Accessories may vary from standard.&lt;/li&gt;&lt;li&gt;Returns&#47;refunds based on marks&#47;scratches&#47;dents or imperfections will not be accepted&lt;/li&gt;&lt;li&gt;This item is classified as Grade 2 &#40;please refer to Grading tab for details&#41;&lt;/li&gt;&lt;li&gt;ORANGE &#35; Multiple marks and scratches on top panel&lt;/li&gt;&lt;li&gt;Green &#35; Multiple scratches on left panel&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;  &#40;238255-36&#41;&lt;/p&gt;&lt;p&gt;&lt;strong&gt; Note&#58;&lt;/strong&gt;  &lt;/p&gt;    &lt;/div&gt;    &lt;/div&gt;
+attributeMap['hg_appliances_washing_drying.paypal_accepted_seller_s']=false
+attributeMap['hg_appliances_washing_drying.automatic_repost_ad_s']=false
+attributeMap['hg_appliances_washing_drying.condition_s']=new
+attributeMap['hg_appliances_washing_drying.website_s']=gumtree-intforce.rhcloud.com
+attributeMap[hg_appliances_washing_drying.slogan_s]=NEW LG 10kg Front Load Washing Machine (White) (WD12590D6)
+hourstomarket=22
+images=https://i.ebayimg.com/00/s/ODgwWDY2MQ==/z/iB8AAOSwol5YzmWK/$_20.JPG
+images=https://i.ebayimg.com/00/s/ODgwWDY1Ng==/z/Rj4AAOSwdGFYzmWb/$_20.JPG
+images=https://i.ebayimg.com/00/s/NjQ1WDg4MA==/z/7zwAAOSw32lYzmWl/$_20.JPG
+images=https://i.ebayimg.com/00/s/ODc0WDg4MA==/z/xRgAAOSwWxNYzmWy/$_20.JPG
+ctk=YrC5qmFrKaDdHKMk81CgRw
+csrft=7acc4bd8c8d5d3572c15df37ee72c1a6

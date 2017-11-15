@@ -1,0 +1,30 @@
+description=Up for sale&lt;br&gt;Sealy posturepedic queen size mattress for sale&lt;br&gt;&lt;br&gt;Good condition, always with plastic cover on&lt;br&gt;&lt;br&gt;$250 or near offer&lt;br&gt;&lt;br&gt;Pick up available from Glenwood&lt;br&gt;&lt;br&gt;Call ******2979 + click to reveal
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+attributeMap['cars.greyimport']=
+houseNumber=
+unacceptableGeocode=false
+level2CategoryId=
+_renew=on,_showLocationOnMap
+categoryId=20074
+adType=OFFER
+price.amount=250
+price.type=NEGOTIABLE
+minimumOfferPrice=
+attributeMap[hg_furniture_beds.condition_s]=used
+title=Sealy Posturepedic queen size mattress
+images=https://i.ebayimg.com/00/s/MzAwWDQwMA==/z/KFoAAOSw68NZiAk2/$_20.JPG
+images=https://i.ebayimg.com/00/s/MzAwWDQwMA==/z/USgAAOSwLIhZiAk1/$_20.JPG
+images=https://i.ebayimg.com/00/s/MzAwWDQwMA==/z/ExkAAOSwq9lZiAk-/$_20.JPG
+name=Nav
+phoneNumber=0402602979
+locationId=3003481
+geocodeLat=-33.735577
+geocodeLng=150.93472
+geocodeLocality=Glenwood
+attributeMap['hg_furniture_beds.paypal_accepted_seller_s']=true
+attributeMap['hg_furniture_beds.condition_s']=used
+attributeMap['hg_furniture_beds.automatic_repost_ad_s']=false
+attributeMap['hg_furniture_beds.highest_price_s']=250.0

@@ -1,0 +1,37 @@
+attributeMap['cars.greyimport']=
+postcode=2040
+houseNumber=
+streetName=
+adType=OFFER
+adId=
+geocodeConfidence=OK
+files[]=
+bbImageBaseUrl=/bb-image.html
+galleryImageIndex=
+_showLocationOnMap=on
+unacceptableGeocode=false
+level2CategoryId=
+quickOffer=
+_renew=on
+repost=false
+categoryId=20103
+price.amount=349
+price.type=FIXED
+minimumOfferPrice=
+title=BRAND NEW, BOXED, Caroma  Caravelle Toilet Suite, RRP $1,086
+images=https://i.ebayimg.com/00/s/ODAwWDgwMA==/z/sKYAAOSwt5hYicdZ/$_20.JPG
+images=https://i.ebayimg.com/00/s/NjMzWDg4MA==/z/G9MAAOSwNnRYicWS/$_20.JPG
+images=https://i.ebayimg.com/00/s/ODgwWDg3OA==/z/yBwAAOSwA3dYicWf/$_20.JPG
+images=https://i.ebayimg.com/00/s/ODgwWDgwMg==/z/eksAAOSw44BYicWt/$_20.JPG
+images=https://i.ebayimg.com/00/s/ODAwWDgwMA==/z/QpsAAOSw5cNYicda/$_20.JPG
+name=Dimitri
+phoneNumber=0410381932
+locationId=3004117
+geocodeLat=-33.794095
+geocodeLng=151.188817
+geocodeLocality=Chatswood
+description=BRAND NEW, BOXED, Top Quality Caroma Complete Toilet Suite, RRP $1,086&lt;br&gt;consist of:&lt;br&gt;&lt;br&gt;Caravelle white toilet seat 254007W&lt;br&gt;Approx Dimension: 47cm L X 37cm W X 6cm&lt;br&gt;Sovereign connector cistern 72715OW&lt;br&gt;Approx Dims 38cm L X 19cm W X 49cm H&lt;br&gt;White trident care toilet 60631OW&lt;br&gt;Approx Dims 62cm L X 36cm W X 44cm H&lt;br&gt;&lt;br&gt;&lt;br&gt;THIS ADVERT IS MANAGED BY https://gumtree-intforce.rhcloud.com
+attributeMap['building_materials.paypal_accepted_seller_s']=false
+attributeMap['building_materials.automatic_repost_ad_s']=false
+attributeMap['building_materials.condition_s']=used
+attributeMap['building_materials.highest_price_s']=349.0

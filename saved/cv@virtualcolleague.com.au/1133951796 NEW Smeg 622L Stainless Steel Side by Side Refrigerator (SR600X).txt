@@ -1,0 +1,35 @@
+attributeMap['cars.greyimport']=
+postcode=2040
+houseNumber=
+streetName=
+adType=OFFER
+adId=
+geocodeConfidence=OK
+files[]=
+bbImageBaseUrl=/bb-image.html
+galleryImageIndex=
+_showLocationOnMap=on
+unacceptableGeocode=false
+level2CategoryId=
+quickOffer=
+_renew=on
+repost=false
+categoryId=20061
+price.amount=1600
+price.type=FIXED
+minimumOfferPrice=
+title=NEW Smeg 622L Stainless Steel Side by Side Refrigerator (SR600X)
+images=https://i.ebayimg.com/00/s/NjAwWDMyMA==/z/HGcAAOSwnHZYYy8X/$_20.JPG
+images=https://i.ebayimg.com/00/s/ODgwWDQ5OQ==/z/HrAAAOSwnHZYYy8s/$_20.JPG
+images=https://i.ebayimg.com/00/s/ODgwWDg0OQ==/z/QxYAAOSwZQRYYy85/$_20.JPG
+name=Dimitri
+phoneNumber=0410381932
+locationId=3003844
+geocodeLat=-33.882417
+geocodeLng=151.154762
+geocodeLocality=Leichhardt
+description=&lt;div class=&quot;content-section&quot;&gt; &lt;h3&gt;Description&lt;/h3&gt;    &lt;div class=&quot;sanitised-markup&quot;&gt;&lt;p&gt;&lt;strong&gt;Smeg 622L Stainless Steel Side by Side Refrigerator (SR600X)&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Recommended Retail Price (RRP) - $2790 as of May 2015 based on a new product.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Colour: Stainless Steel &lt;/li&gt;&lt;li&gt;Volume: 622L &lt;/li&gt;&lt;li&gt;Fridge Volume: 380L &lt;/li&gt;&lt;li&gt;Freezer Volume: 242L &lt;/li&gt;&lt;li&gt;Energy Star Rating: 2.5 &lt;/li&gt;&lt;li&gt;Energy Use (p.a.): 610kWh &lt;/li&gt;&lt;li&gt;Frost free&lt;/li&gt;&lt;li&gt;Turbo cooling&lt;/li&gt;&lt;li&gt;Express can chiller&lt;/li&gt;&lt;li&gt;Multi plus zone&lt;/li&gt;&lt;li&gt;LED touch display&lt;/li&gt;&lt;li&gt;Safety spill proof glass shelving&lt;/li&gt;&lt;li&gt;5 Shelves on each door &lt;/li&gt;&lt;li&gt;4 Shelves in both freezer and refrigerator&lt;/li&gt;&lt;li&gt;Large vegetable/fruit crispers&lt;/li&gt;&lt;li&gt;Freezer drawer&lt;/li&gt;&lt;li&gt;Quiet operation&lt;/li&gt;&lt;li&gt;Dimensions (HxWxD): 1770 x 912 x 735 mm&lt;/li&gt;&lt;li&gt;Item may show marks/scratches/dents or imperfections. Accessories may vary from standard.&lt;/li&gt;&lt;li&gt;Returns/refunds based on marks/scratches/dents or imperfections will not be accepted &lt;/li&gt;&lt;li&gt;This item is classified as Grade (1) (please refer to Grading tab for details)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt; (SN:SR600X) (232470-4)&lt;/p&gt;&lt;p&gt;&lt;strong&gt; Note:&lt;/strong&gt;  &lt;/p&gt;    &lt;/div&gt;    &lt;/div&gt;&lt;br&gt;&lt;br&gt;THIS ADVERT IS MANAGED BY https://gumtree-intforce.rhcloud.com
+attributeMap['hg_appliances_fridge_freezer.automatic_repost_ad_s']=false
+attributeMap['hg_appliances_fridge_freezer.paypal_accepted_seller_s']=false
+attributeMap['hg_appliances_fridge_freezer.highest_price_s']=1600.0
+attributeMap['hg_appliances_fridge_freezer.condition_s']=new

@@ -1,0 +1,33 @@
+attributeMap['cars.greyimport']=
+postcode=2040
+houseNumber=
+streetName=
+adType=OFFER
+adId=
+geocodeConfidence=OK
+files[]=
+bbImageBaseUrl=/bb-image.html
+galleryImageIndex=
+_showLocationOnMap=on
+unacceptableGeocode=false
+level2CategoryId=
+quickOffer=
+_renew=on
+repost=false
+categoryId=18555
+price.amount=189
+price.type=FIXED
+minimumOfferPrice=
+title=70% OFF BRAND NEW SEALED Dell S2815dn Multifunction Laser Printer
+images=https://i.ebayimg.com/00/s/NjQyWDg4MA==/z/Y4cAAOSwa~BYbwma/$_20.JPG
+name=Dimitri
+phoneNumber=0410381932
+locationId=3003844
+geocodeLat=-33.882417
+geocodeLng=151.154762
+geocodeLocality=Leichhardt
+description=THIS IS A BRAND NEW ITEM COMES IN ORIGINAL UNOPENED SEALED BOX. RRP is $499. ONLY 1 LEFT AND NOW OFFERED WITH 70% DISCOUNT ! &lt;br&gt;BE QUICK !&lt;br&gt;&lt;div class=&quot;content-section&quot;&gt; &lt;h3&gt;Description&lt;/h3&gt;    &lt;div class=&quot;sanitised-markup&quot;&gt;&lt;p&gt;&lt;strong&gt;Dell S2815dn Smart Multifunction Laser - monochrome Printer&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Black&lt;/li&gt;&lt;li&gt;Device Type: Fax / copier / printer / scanner&lt;/li&gt;&lt;li&gt;Monthly Duty Cycle: 80000 pages&lt;/li&gt;&lt;li&gt;Recommended Monthly: 750 - 4000 pages Volume&lt;/li&gt;&lt;li&gt;Display Diagonal Size: 4.3``&lt;/li&gt;&lt;li&gt;Display Features: Touch screen&lt;/li&gt;&lt;li&gt;PC Connection: USB 2.0, Gigabit LAN, USB 2.0 host&lt;/li&gt;&lt;li&gt;Office Machine Features: Print from USB flash drive, save to USB flash drive, scan to e-mail, scan to application, scan to network, scan to FTP, scan to SMB, Google Cloud Print 2.0&lt;/li&gt;&lt;li&gt;Memory: Standard Memory 1GB&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Copying&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Max Copying Speed: Up to 40 ppm&lt;/li&gt;&lt;li&gt;Max Copying Resolution: Up to 1200 x 1200 dpi&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Printing&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Max Printing Resolution: Up to 1200 x 1200 dpi&lt;/li&gt;&lt;li&gt;Max Printing Speed: Up to 40 ppm&lt;/li&gt;&lt;li&gt;Automatic Duplexing: Yes&lt;/li&gt;&lt;li&gt;First Print Out Time B/W: 7 sec&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Scanning &lt;/p&gt;&lt;ul&gt;&lt;li&gt;Scan Element: CCD&lt;/li&gt;&lt;li&gt;Automatic Duplexing: Yes&lt;/li&gt;&lt;li&gt;Optical Resolution: 1200 x 1200 dpi&lt;/li&gt;&lt;li&gt;Interpolated Resolution: 9600 x 9600 dpi&lt;/li&gt;&lt;li&gt;Gray Scale Depth: 8 bit&lt;/li&gt;&lt;li&gt;Color Depth: 24 bit&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Fax Machine&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Compatibility: Super G3&lt;/li&gt;&lt;li&gt;Max Transmission Speed: 33.6 Kbps&lt;/li&gt;&lt;li&gt;Speed Dialling: 200 station(s)&lt;/li&gt;&lt;li&gt;Document &amp; Media Handling Details: Bypass tray - 100 sheets, Input tray - 250 sheets, ADF - 50 sheets size: 5.5 in x 5.5 in - Legal (8.5 in x 14 in), Output tray - 150 sheets&lt;/li&gt;&lt;li&gt;Interfaces: 1 x USB 2.0 - 4 pin USB Type B, 1 x Gigabit LAN - RJ-45, 1 x USB 2.0 host - 4 pin USB Type A&lt;/li&gt;&lt;li&gt;Package contents: Dell S2815dn Smart Multifunction Laser - monochrome Printer, Black Toner, User Manual, and Power Cable &lt;/li&gt;&lt;/ul&gt;   &lt;/div&gt;    &lt;/div&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;THIS ADVERT IS MANAGED BY https://gumtree-intforce.rhcloud.com
+attributeMap['printers.condition_s']=new
+attributeMap['printers.paypal_accepted_seller_s']=false
+attributeMap['printers.highest_price_s']=189.0
+attributeMap['printers.automatic_repost_ad_s']=false

@@ -1,0 +1,40 @@
+attributeMap['cars.greyimport']=
+postcode=2067
+houseNumber=
+streetName=
+adType=OFFER
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+_showLocationOnMap=on
+unacceptableGeocode=false
+level2CategoryId=
+quickOffer=
+_renew=on
+repost=false
+categoryId=20079
+price.amount=599
+price.type=FIXED
+minimumOfferPrice=
+title=NEW Boston 3 seater Lounge – Red & Grey
+name=Dimitri
+phoneNumber=0410381932
+locationId=3003844
+mapAddress=Chatswood 2067, NSW
+geocodeLat=-33.882417
+geocodeLng=151.154762
+geocodeLocality=Chatswood
+description=&lt;br&gt;	 &lt;h3&gt;Description&lt;/h3&gt;&lt;br&gt;    &lt;div class="sanitised-markup"&gt;&lt;br&gt;		&lt;p&gt;&lt;strong&gt;Boston 3 seater Lounge &#8211; Red &#38; Grey&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;em&gt; &#8220;If you stay, I&#96;ll make you a night &#47; Like no night has been or will be again&#8221; &lt;/em&gt;&lt;/p&gt;&lt;p&gt;The Boston uses an Early Modern design language and introduces two different tactile surfaces &#8211; reconstituted leather and cashmere-feel fabric, creating a rich and multi-referential design. The padding pattern of the inner armrests continues also on the inner backrest, behind the removable cushions, so if the cushions are removed the Boston becomes a low-look settee with extra-deep seats. A very comfortable and unique combination, with special charms, to be used as a full seating system or as a single-piece design feature. &lt;/p&gt;&lt;ul&gt;&lt;li&gt;Reconstituted buffalo and cowhide leather on front parts&lt;/li&gt;&lt;li&gt;Matching grain synthetic leather on rear and hidden parts&lt;/li&gt;&lt;li&gt;Back cushions and accents in cashmere-feel fabric&lt;/li&gt;&lt;li&gt;Wide stainless steel feet&lt;/li&gt;&lt;li&gt;External measurements&#58; W194cm x D87cm x H86cm&lt;/li&gt;&lt;li&gt;Colour&#58; Red with grey&lt;br&gt;&lt;br&gt;THIS ADVERT IS MANAGED BY https://gumtree-intforce.rhcloud.com
+attributeMap['hg_furniture_sofas.paypal_accepted_seller_s']=false
+attributeMap['hg_furniture_sofas.automatic_repost_ad_s']=false
+attributeMap['hg_furniture_sofas.condition_s']=new
+attributeMap['hg_furniture_sofas.website_s']=gumtree-intforce.rhcloud.com
+attributeMap[hg_furniture_sofas.slogan_s]=NEW Boston 3 seater Lounge – Red & Grey
+hourstomarket=24
+images=https://i.ebayimg.com/00/s/ODE4WDg4MA==/z/YT8AAOSw-K9ZK-MQ/$_20.JPG
+images=https://i.ebayimg.com/00/s/NTEwWDg4MA==/z/Q28AAOSwZ4dZK-Mb/$_20.JPG
+ctk=DkAv22Gvke2_kOgjYoMBHg
+csrft=e19781675c6fc32ce997cd32423c44db
+bbUserInput=4535
+bbToken=5bdb6daf595568c40411ac9e0c2e290aee0d4796a4cfa2e4717ab6a978b972083c70eb8439d1cfa41d3b427edb195d4d432003d171c0bc009528dcc13b7fd737

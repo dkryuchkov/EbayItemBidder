@@ -1,0 +1,25 @@
+description=<div id="ad_description_details_content">                    <div id="job-description">                                        Looking for a truck driver with full HR license (without B condition) to transport/relocate (drive) a truck (Mercedes Benz 2435 6x4, flat deck) from Yarramundi NSW to Chatswood NSW (about 50 km) <p><br /></p> <p>Day: flexible, till 24 October, Mon-Sat</p> <p><br /></p></div>                                </div>        </div>
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+attributeMap['cars.greyimport']=
+houseNumber=
+unacceptableGeocode=false
+level2CategoryId=
+_renew=on,_showLocationOnMap
+categoryId=22252
+adType=OFFER
+title=Looking for a truck driver to relocate Mercedes 2435 Sydney area
+images=https://i.ebayimg.com/00/s/NDgwWDY0MA==/z/jAAAAOSw3WxZ5dE6/$_20.JPG
+name=Tatiana
+phoneNumber=0410381932
+locationId=3004117
+geocodeLat=-33.794095
+geocodeLng=151.188817
+geocodeLocality=Chatswood
+attributeMap['courier_driver_postal_service.minimumsalary_i']=0
+attributeMap['courier_driver_postal_service.salarytype_s']=hourlyrate
+attributeMap['courier_driver_postal_service.maximumsalary_i']=150
+attributeMap['courier_driver_postal_service.jobtype_s']=casual
+attributeMap['courier_driver_postal_service.advertisedby_s']=private

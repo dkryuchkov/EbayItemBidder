@@ -1,0 +1,33 @@
+description=BRAND NEW Tirfor Winch Titan with 20m cable.&lt;br&gt;Grab an absolute BARGAIN !&lt;br&gt;Retails for $946&lt;br&gt;800kg capacity&lt;br&gt;&lt;br&gt;Model: UT08&lt;br&gt;&lt;br&gt;With 20 metre wire rope&lt;br&gt;&lt;br&gt;WLL 800kg
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+attributeMap['cars.greyimport']=
+houseNumber=
+unacceptableGeocode=false
+level2CategoryId=
+_renew=on,_showLocationOnMap
+categoryId=20092
+adType=OFFER
+price.amount=299
+price.type=FIXED
+minimumOfferPrice=
+attributeMap[hg_tools_diy_other.condition_s]=new
+title=BRAND NEW Tirfor Winch Titan with 20m cable RRP $946
+images=https://i.ebayimg.com/00/s/NTg3WDg4MA==/z/oOIAAOSw95FZaUWI/$_20.JPG
+images=https://i.ebayimg.com/00/s/OTAxWDE2MDA=/z/EWUAAOSw5AFZaUbJ/$_20.JPG
+images=https://i.ebayimg.com/00/s/OTAxWDE2MDA=/z/XQEAAOSwhilZaUYq/$_20.JPG
+images=https://i.ebayimg.com/00/s/OTAxWDE2MDA=/z/9K0AAOSwEH9ZaUYl/$_20.JPG
+images=https://i.ebayimg.com/00/s/OTAxWDE2MDA=/z/ZPAAAOSwlXhZaUYr/$_20.JPG
+images=https://i.ebayimg.com/00/s/OTAxWDE2MDA=/z/8oUAAOSw0TxZaUYp/$_20.JPG
+name=Dimitri
+phoneNumber=0410381932
+locationId=3004117
+geocodeLat=-33.794095
+geocodeLng=151.188817
+geocodeLocality=Chatswood
+attributeMap['hg_tools_diy_other.paypal_accepted_seller_s']=false
+attributeMap['hg_tools_diy_other.condition_s']=new
+attributeMap['hg_tools_diy_other.automatic_repost_ad_s']=false
+attributeMap['hg_tools_diy_other.highest_price_s']=299.0

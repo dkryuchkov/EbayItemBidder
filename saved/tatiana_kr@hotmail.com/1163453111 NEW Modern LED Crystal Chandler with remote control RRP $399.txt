@@ -1,0 +1,28 @@
+description=<div id="ad_description_details_content">                    New Modern LED Crystal Chandler 47cm x 39cm x 80cm H cm high Pendant Height can be adjusted to required length Includes remote control&lt;br&gt;&lt;br&gt;Please note: Light color: red,blue,purple.&lt;br&gt;&lt;br&gt;I have 2 new led chandlers in original unopened boxes, they are slighty different in design.&lt;br&gt;&lt;br&gt;Also I have 2 ex demo models with price reduced further. Please check my other items.</div>        </div>
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+attributeMap['cars.greyimport']=
+houseNumber=
+unacceptableGeocode=false
+level2CategoryId=
+_renew=on,_showLocationOnMap
+categoryId=21023
+adType=OFFER
+price.amount=79
+price.type=FIXED
+minimumOfferPrice=
+attributeMap[hg_lighting_ceiling.condition_s]=new
+title=NEW Modern LED Crystal Chandler with remote control RRP $399
+images=https://i.ebayimg.com/00/s/ODAwWDgwMA==/z/YTsAAOSw~y9ZNQ-3/$_20.JPG
+name=Dimitri
+phoneNumber=0410381932
+locationId=3004117
+geocodeLat=-33.794095
+geocodeLng=151.188817
+geocodeLocality=Chatswood
+attributeMap['hg_lighting_ceiling.automatic_repost_ad_s']=false
+attributeMap['hg_lighting_ceiling.condition_s']=new
+attributeMap['hg_lighting_ceiling.highest_price_s']=79.0
+attributeMap['hg_lighting_ceiling.paypal_accepted_seller_s']=false

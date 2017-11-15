@@ -1,0 +1,33 @@
+description=<div class="vip-ad-description--fade-out"></div>                <div id="ad_description_details_content">                    Brand New (without box) Sirius Ceiling Cassette Model: SLT958EM , RRP $2,750 (without motor)&lt;br&gt;Please Note: this unit works with an external motor that is sold separately&lt;br&gt;CEILING CASSETETTE DESIGN - Streamline, modern and unobtrusive design, Island solution, remote controlled for ease of  use    &lt;br&gt;LED STRIP LIGHTING -  Energy efficient, Better illumination of cooking area, Longer life span than standard globes,  Modern aesthetic    &lt;br&gt;PERIMETRICAL EXTRACTION -  Designed to increase airflow. Stainless steel panel with aluminium internal filter    &lt;br&gt;INDUCTION COUTDOWN CONTROL -10 minute auto function used at the end of cooking to reduce condensation build up and to  remove cooking smells from the room    &lt;br&gt;LARGER DUCTING DIAMETER - Greater extraction and lower dB rating due to less air flow restriction    &lt;br&gt;CLEAN FILTER INDICATOR - Takes the guessing game out of maintaining your hood  &lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;br&gt;MADE IN ITALY &lt;br&gt;Units are designed specifically for the Australian market and manufactured in Italy by dedicated boutique specialist manufacturer    &lt;br&gt;&lt;br&gt;FEATURES:&lt;br&gt;LED strip lights&lt;br&gt;Independent Lighting Control&lt;br&gt;Parametrical Extraction&lt;br&gt;4 speed with Run on Feature&lt;br&gt;For Ducted Applications only&lt;br&gt;Flush with Ceiling or in Bulkhead&lt;br&gt;Size: 900mm x 440mm&lt;br&gt;Ducting: 150mm&lt;br&gt;Filter: Aluminium Internal&lt;br&gt;Must be installed at 1000mm to 1500mm above cooktop&lt;br&gt;Dimensions: 900 x 440 mm&lt;br&gt;&lt;br&gt;&lt;br&gt;</div>        </div>
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+attributeMap['cars.greyimport']=
+houseNumber=
+unacceptableGeocode=false
+level2CategoryId=
+_renew=on,_showLocationOnMap
+categoryId=20059
+adType=OFFER
+price.amount=250
+price.type=FIXED
+minimumOfferPrice=
+attributeMap[hg_appliances_cooktop_rangehood.condition_s]=new
+title=New Sirius 90cm Rangehood , SLT958EM RRP $2.750
+images=https://i.ebayimg.com/00/s/NjY4WDgwMA==/z/XYAAAOSwRbtZ-ui5/$_20.JPG
+images=https://i.ebayimg.com/00/s/NTMyWDgwMA==/z/dJQAAOSwVqlZ-ui8/$_20.JPG
+images=https://i.ebayimg.com/00/s/NTg0WDg4MA==/z/490AAOSwmMNZ5Fnv/$_20.JPG
+name=Dimitri
+phoneNumber=0410381932
+locationId=3004117
+geocodeLat=-33.794095
+geocodeLng=151.188817
+geocodeLocality=Chatswood
+locationLevel1=3008839
+locationLevel2=3003435
+attributeMap['hg_appliances_cooktop_rangehood.automatic_repost_ad_s']=false
+attributeMap['hg_appliances_cooktop_rangehood.condition_s']=new
+attributeMap['hg_appliances_cooktop_rangehood.paypal_accepted_seller_s']=false
+attributeMap['hg_appliances_cooktop_rangehood.adsense_query_title_s']=[{algorithmName
+attributeMap['title']=Sirius Rangehood SLT958EM RRP 2 750

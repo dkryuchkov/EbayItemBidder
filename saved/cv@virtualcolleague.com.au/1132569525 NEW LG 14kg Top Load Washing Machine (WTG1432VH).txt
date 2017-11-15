@@ -1,0 +1,36 @@
+attributeMap['cars.greyimport']=
+postcode=2040
+houseNumber=
+streetName=
+adType=OFFER
+adId=
+geocodeConfidence=OK
+files[]=
+bbImageBaseUrl=/bb-image.html
+galleryImageIndex=
+_showLocationOnMap=on
+unacceptableGeocode=false
+level2CategoryId=
+quickOffer=
+_renew=on
+repost=false
+categoryId=20066
+price.amount=900
+price.type=FIXED
+minimumOfferPrice=
+title=NEW LG 14kg Top Load Washing Machine (WTG1432VH)
+images=https://i.ebayimg.com/00/s/ODgwWDU0Mw==/z/93IAAOSw4GVYTSPK/$_20.JPG
+images=https://i.ebayimg.com/00/s/ODgwWDYyOA==/z/qsAAAOSwojRYTSPU/$_20.JPG
+images=https://i.ebayimg.com/00/s/NTQ4WDg4MA==/z/i-sAAOSwJ7RYTSPj/$_20.JPG
+images=https://i.ebayimg.com/00/s/NTk4WDg4MA==/z/~DMAAOSw4GVYTSP3/$_20.JPG
+name=Tatiana
+phoneNumber=0410381932
+locationId=3003844
+geocodeLat=-33.882417
+geocodeLng=151.154762
+geocodeLocality=Leichhardt
+description=www.gumtree-intforce.rhcloud.com&lt;br&gt;&lt;br&gt;&lt;div class=&quot;content-section&quot;&gt; &lt;h3&gt;Description&lt;/h3&gt;    &lt;div class=&quot;sanitised-markup&quot;&gt;&lt;p&gt;&lt;strong&gt;LG 14kg Top Load Washing Machine (WTG1432VH) (Reconditioned)&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Recommended Retail Price (RRP) - $2099 as of August 2016 based on a new product.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Features:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Smart diagnosis&trade; 3.0&lt;/li&gt;&lt;li&gt;Tag on NFC which enables the download of additional washing programs via a smartphone to the washer&lt;/li&gt;&lt;li&gt;6 Motion wash techonology&lt;/li&gt;&lt;li&gt;Stainless steel stub&lt;/li&gt;&lt;li&gt;Logic control&lt;/li&gt;&lt;li&gt;Built-in auto clean lint filter&lt;/li&gt;&lt;li&gt;On board water heater&lt;/li&gt;&lt;li&gt;Air dry (moisture reduction cycle)&lt;/li&gt;&lt;li&gt;Glass with soft closing lid&lt;/li&gt;&lt;li&gt;Digital display&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Specifications&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Finish Colour: Silver&lt;/li&gt;&lt;li&gt;Suitable For: 4+ People&lt;/li&gt;&lt;li&gt;Capacity Wash kg: 14 kg&lt;/li&gt;&lt;li&gt;Energy Star Rating: 3 Stars&lt;/li&gt;&lt;li&gt;Energy consumption: 240 Kwh&lt;/li&gt;&lt;li&gt;Water Star Rating: 4 Stars&lt;/li&gt;&lt;li&gt;Maximum Spin Speed: 950rpm&lt;/li&gt;&lt;li&gt;Water consumption: 144 L&lt;/li&gt;&lt;li&gt;Number of Programs: 12&lt;/li&gt;&lt;li&gt;Options: 6&lt;/li&gt;&lt;li&gt;Dimensions with Lid Open (W x D x H): 701 x 736 x 1415mm&lt;/li&gt;&lt;li&gt;Weight: 62kg&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;Item may show marks/scratches/dents or imperfections. Accessories may vary from standard.&lt;/li&gt;&lt;li&gt;Returns/refunds based on marks/scratches/dents or imperfections will not be accepted &lt;/li&gt;&lt;li&gt;This item is classified as Grade (1) (please refer to Grading tab for details)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt; (SN:WTG1432VH) (236047-86)&lt;/p&gt;&lt;p&gt;&lt;strong&gt; Note:&lt;/strong&gt;  &lt;/p&gt;    &lt;/div&gt;    &lt;/div&gt
+attributeMap['hg_appliances_washing_drying.paypal_accepted_seller_s']=false
+attributeMap['hg_appliances_washing_drying.condition_s']=new
+attributeMap['hg_appliances_washing_drying.automatic_repost_ad_s']=false
+attributeMap['hg_appliances_washing_drying.highest_price_s']=900.0

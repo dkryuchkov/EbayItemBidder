@@ -1,0 +1,31 @@
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+attributeMap['cars.greyimport']=
+houseNumber=
+unacceptableGeocode=false
+level2CategoryId=
+_renew=on,_showLocationOnMap
+categoryId=20103
+adType=OFFER
+price.amount=299
+price.type=FIXED
+minimumOfferPrice=
+attributeMap[building_materials.condition_s]=new
+title=The Avenir Base 10 Heated Towel Ladder TLH4-100X60 RRP $1,024
+images=https://i.ebayimg.com/00/s/NDA2WDQwNg==/z/ps8AAOSwVJhZW19C/$_20.JPG
+images=https://i.ebayimg.com/00/s/NDUwWDYwMA==/z/kUEAAOSw3YJZW19G/$_20.JPG
+images=https://i.ebayimg.com/00/s/ODgwWDU1Mw==/z/1BEAAOSwyltZW19P/$_20.JPG
+images=https://i.ebayimg.com/00/s/ODgwWDY0OQ==/z/zd8AAOSwyWZZW19e/$_20.JPG
+name=Dimitri
+phoneNumber=0410381932
+locationId=3004117
+geocodeLat=-33.794095
+geocodeLng=151.188817
+geocodeLocality=Chatswood
+description=NEW Avenir Base 10 Heated Towel Ladder RRP $1,024&lt;br&gt;The Avenir Base 10 Heated Towel Ladder &lt;br&gt;Product code: TLH4-100X60 - (1000mm High) is a bold geometric range of heated ladders that provide the perfect solution for keeping your towels warm, dry &amp; comfortable. Their ability to emit heat ensures a warm ambiance to your bathroom &amp; also helps to control the condensation in damp bathrooms, reducing mildew &amp; mould.&lt;br&gt;Manufactured in Australia&lt;br&gt;MDF Mounting Template SuppliedDimensions: &lt;br&gt;h: 1000mm &lt;br&gt;w: 638mm &lt;br&gt;d: 100mm &lt;br&gt;240V &lt;br&gt;80 Watts IPX5 AS/NZ 60335.2.43&lt;br&gt;Concealed wiring requires In-Wall Kit (TLCF) - SuppliedStandard configuration - Concealed Bottom LeftStainless Steel 304 Mirror Polished (Standard)
+attributeMap['building_materials.paypal_accepted_seller_s']=false
+attributeMap['building_materials.automatic_repost_ad_s']=false
+attributeMap['building_materials.condition_s']=new
+attributeMap['building_materials.highest_price_s']=299.0

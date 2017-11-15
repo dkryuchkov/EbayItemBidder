@@ -1,0 +1,32 @@
+description=NEW Latest LG 14 Place Dishwasher with Inverter Direct Drive (White) (LD-1481W4)&lt;br&gt;&lt;br&gt;Recommended Retail Price (RRP) - $1,199&lt;br&gt;&lt;br&gt;Colour: White&lt;br&gt;&lt;br&gt;Capacity (Total): 14 Place&lt;br&gt;&lt;br&gt;Settings Type: Free-standing&lt;br&gt;&lt;br&gt;Smart Diagnosis 2.0&lt;br&gt;&lt;br&gt;Controls: Fully Electronic&lt;br&gt;&lt;br&gt;Display Type: LED&lt;br&gt;&lt;br&gt;Aqua Stop Valve&lt;br&gt;&lt;br&gt;Motor Type: Inverter Direct Drive&lt;br&gt;&lt;br&gt;Tub Material: Stainless Steel&lt;br&gt;&lt;br&gt;Concealed Heating Element&lt;br&gt;&lt;br&gt;Smart Rack (Upper)&lt;br&gt;&lt;br&gt;Water Softener 5 Spray Directions&lt;br&gt;&lt;br&gt;Triple Filtration System&lt;br&gt;&lt;br&gt;Vario Washing System&lt;br&gt;&lt;br&gt;Soil Sensor&lt;br&gt;&lt;br&gt;Drying Method: Hybrid&lt;br&gt;&lt;br&gt;Dry Wash Programmes: 5&lt;br&gt;&lt;br&gt;Dual Wash (Dual Intensity)&lt;br&gt;&lt;br&gt;Quick Dry Wash Options: 3&lt;br&gt;&lt;br&gt;Spray Intensity: Soft&lt;br&gt;&lt;br&gt;Extra Hot&lt;br&gt;&lt;br&gt;Rinse Plus&lt;br&gt;&lt;br&gt;Half Load (Top&#47;Bottom)&lt;br&gt;&lt;br&gt;Child Lock&lt;br&gt;&lt;br&gt;Delay Start (1-19 Hours)&lt;br&gt;&lt;br&gt;Beeper On&#47;Off&lt;br&gt;&lt;br&gt;Energy Consumption: 230kwh&#47;365 uses&lt;br&gt;&lt;br&gt;Energy Rating: 4 Stars&lt;br&gt;&lt;br&gt;WELS Water Consumption: 11.5L&lt;br&gt;&lt;br&gt;WELS Water Ratings: 5 Stars&lt;br&gt;&lt;br&gt;Dimensions (HxWxD): 850 x 600 x 600 mm&lt;br&gt;&lt;br&gt;Weight Stand: 56 kg
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+attributeMap['cars.greyimport']=
+houseNumber=
+unacceptableGeocode=false
+level2CategoryId=
+_renew=on,_showLocationOnMap
+categoryId=20060
+adType=OFFER
+price.amount=599
+price.type=FIXED
+minimumOfferPrice=
+attributeMap[hg_appliances_dishwashers.condition_s]=new
+title=NEW Latest LG 14 Place Dishwasher with Inverter Direct Drive
+images=https://i.ebayimg.com/00/s/ODgwWDcyMQ==/z/7IAAAOSweIlZX1qy/$_20.JPG
+images=https://i.ebayimg.com/00/s/ODgwWDczOQ==/z/RAwAAOSwfJJZX1q5/$_20.JPG
+images=https://i.ebayimg.com/00/s/ODgwWDc1OQ==/z/N2wAAOSwu59ZX1q~/$_20.JPG
+images=https://i.ebayimg.com/00/s/ODgwWDY0NA==/z/xIMAAOSwhilZX1rH/$_20.JPG
+images=https://i.ebayimg.com/00/s/ODgwWDcyNg==/z/PXsAAOSwhgJZX1ra/$_20.JPG
+name=Dimitri
+phoneNumber=0410381932
+locationId=3004117
+geocodeLat=-33.794095
+geocodeLng=151.188817
+geocodeLocality=Chatswood
+attributeMap['hg_appliances_dishwashers.condition_s']=new
+attributeMap['hg_appliances_dishwashers.highest_price_s']=599.0
+attributeMap['hg_appliances_dishwashers.paypal_accepted_seller_s']=false
+attributeMap['hg_appliances_dishwashers.automatic_repost_ad_s']=false

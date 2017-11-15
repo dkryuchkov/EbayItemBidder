@@ -1,0 +1,34 @@
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+attributeMap['cars.greyimport']=
+houseNumber=
+unacceptableGeocode=false
+level2CategoryId=
+_renew=on,_showLocationOnMap
+categoryId=18597
+price.amount=39
+price.type=FIXED
+minimumOfferPrice=
+attributeMap[mobile_phones.condition_s]=new
+title=BRAND NEW iPhone Selfie Light Case with an Internal PowerBank
+images=https://i.ebayimg.com/00/s/NDgwWDQ3MQ==/z/KqEAAOSwCU1Y2rRX/$_20.JPG
+images=https://i.ebayimg.com/00/s/MTEzMVgxMTIw/z/8aUAAOSwXYtY2rRd/$_20.JPG
+images=https://i.ebayimg.com/00/s/ODQzWDQ4Ng==/z/BxsAAOSwmgJY2rRY/$_20.JPG
+images=https://i.ebayimg.com/00/s/ODU2WDQ5MA==/z/J-4AAOSwB-1Y2rRZ/$_20.JPG
+images=https://i.ebayimg.com/00/s/ODc2WDQ4Ng==/z/3RcAAOSwzgBY2rRb/$_20.JPG
+images=https://i.ebayimg.com/00/s/ODMwWDQ4Nw==/z/B-EAAOSwmgJY2rRd/$_20.JPG
+images=https://i.ebayimg.com/00/s/NzZYMzEx/z/BZsAAOSwuLZY2rRb/$_20.JPG
+images=https://i.ebayimg.com/00/s/MTM2OFgxMTI1/z/KQQAAOSwB-1Y2rRg/$_20.JPG
+name=Nav
+phoneNumber=0402602979
+locationId=3003499
+geocodeLat=-33.771962
+geocodeLng=150.843234
+geocodeLocality=Rooty Hill
+description=FREE Shipping Australia Wide! International Shipping Available&lt;br&gt;&lt;br&gt;InstaLight case has released the first Selfie Light Case with an Internal PowerBank to never leave you out of charge!&lt;br&gt;&lt;br&gt;No more dead batteries.&lt;br&gt;&lt;br&gt;BOTH SIDES BRIGHT LED LIGHTING! (For the perfect selfie)&lt;br&gt;&lt;br&gt;DURABLE &amp; SHOCKPROOF!&lt;br&gt;&lt;br&gt;&lt;br&gt;UP TO 5 HOURS OF CHARGE! (internal 2500mAh powerbank)&lt;br&gt;&lt;br&gt;MICRO USB &amp; IPHONE CHARGER INCLUDED!&lt;br&gt;&lt;br&gt;The perfect phone case that willLight Up Your Life !&lt;br&gt;Www.instalightcase.com&lt;br&gt;&lt;br&gt;Feel free to call me on 0402 602 979&lt;br&gt;&lt;br&gt;Postage can be arranged anywhere in Aus
+attributeMap['mobile_phones.paypal_accepted_seller_s']=true
+attributeMap['mobile_phones.highest_price_s']=39.0
+attributeMap['mobile_phones.condition_s']=new
+attributeMap['mobile_phones.automatic_repost_ad_s']=false

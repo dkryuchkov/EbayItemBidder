@@ -1,0 +1,38 @@
+attributeMap['cars.greyimport']=
+postcode=2040
+houseNumber=
+streetName=
+adType=OFFER
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+_showLocationOnMap=on
+unacceptableGeocode=false
+level2CategoryId=
+quickOffer=
+_renew=on
+repost=false
+categoryId=20093
+price.amount=150
+price.type=FIXED
+minimumOfferPrice=
+attributeMap['hg_tools_diy_power_tools.condition_s']=used
+title=Almost new Blackridge Air Compressor 2.5HP + 15m hose 120LPM
+images=https://i.ebayimg.com/00/s/MTIwMFgxMjAw/z/wQkAAOSwal5YDqSF/$_14.JPG
+images=https://i.ebayimg.com/00/s/OTAwWDE2MDA=/z/Fw0AAOSwo4pYDqSZ/$_14.JPG
+images=https://i.ebayimg.com/00/s/OTAwWDE2MDA=/z/b20AAOSwcLxYDqSf/$_14.JPG
+images=https://i.ebayimg.com/00/s/OTAwWDE2MDA=/z/AKsAAOSwMVdYDqSf/$_14.JPG
+images=https://i.ebayimg.com/00/s/OTAwWDE2MDA=/z/aKEAAOSwHMJYDqSo/$_14.JPG
+images=https://i.ebayimg.com/00/s/MTYwMFg5MDA=/z/F4EAAOSwo4pYDqSe/$_14.JPG
+name=Dimitri
+phoneNumber=0410381932
+locationId=3003844
+mapAddress=Leichhardt, NSW, 2040
+geocodeLat=-33.882417
+geocodeLng=151.154762
+geocodeLocality=Leichhardt
+description=Almost new used only for 1 small job, Blackridge Air Compressor Direct Drive 2.5HP - 120LPMPLUS 15M of almost new hose, that costed $50 on its own !!!120 Litres/min free air delivery40 Litre tank capacity2.5HP motorDirect drive design
+attributeMap['hg_tools_diy_power_tools.paypal_accepted_seller_s']=false
+attributeMap['hg_tools_diy_power_tools.automatic_repost_ad_s']=false
+attributeMap['hg_tools_diy_power_tools.highest_price_s']=150.0

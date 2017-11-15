@@ -1,0 +1,32 @@
+description=<div id="ad_description_details_content"> mysamsungstore.comysamsung.copro-mainservices.net.au&lt;br&gt;promainservices.com.au&lt;br&gt;promainservices.net.au&lt;br&gt;promainservices.com.au&lt;br&gt;crossfitcastlehill.com&lt;br&gt;xfitcastlehill.com.au&lt;br&gt;xfitcastlehill.net.au&lt;br&gt;crossfitcastlehill.net.au&lt;br&gt;aquahydrate.com.au&lt;br&gt;aquahydrate.net.au&lt;br&gt;mysamsung.com.au&lt;br&gt;mysamsungstore.com.au&lt;br&gt;appleios.com.au&lt;br&gt;apps4sale.com.au&lt;br&gt;Make me an offer and feel free to contact me&lt;br&gt;</div> </div>
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+attributeMap['cars.greyimport']=
+houseNumber=
+unacceptableGeocode=false
+level2CategoryId=
+_renew=on,_showLocationOnMap
+categoryId=18319
+adType=OFFER
+price.amount=
+price.type=SWAP_TRADE
+minimumOfferPrice=
+attributeMap[other_stuff_for_sale.condition_s]=new
+title=I have a list of domain names for sale make an offer for each one
+name=Nav
+phoneNumber=0402602979
+locationId=3003499
+geocodeLat=-33.771962
+geocodeLng=150.843234
+geocodeLocality=Rooty Hill
+attributeMap['other_stuff_for_sale.condition_s']=new
+attributeMap['other_stuff_for_sale.paypal_accepted_seller_s']=true
+attributeMap['other_stuff_for_sale.automatic_repost_ad_s']=false
+images=https://i.ebayimg.com/00/s/MzY1WDQwMw==/z/OVYAAOSww3tY8YXl/$_20.JPG
+ctk=T17MHO85cgUOqenTOvRT9Q
+csrft=93f617eb928639a5acb7f6825ddf3d1d
+_showLocationOnMap=on
+bbUserInput=8623
+bbToken=2523a3a4977f5f4fde81e9f919be3aca1d32b351c2f44f13da50c9c008286e6731233600ce693ed08a4378743553e65717b8ca15fa6b169cb03d2aa5d4e130b2

@@ -1,0 +1,30 @@
+description=<div id="ad_description_details_content">                    We have 50 New LED Downlight Square 1W For Ceiling or Kitchen Cabinets White 65mm daimeter and 50mm cut out Silver Alumnuim case (SN:SC-37) Price is $4 each&lt;br&gt;&lt;br&gt;&lt;br&gt;</div>        </div>
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+attributeMap['cars.greyimport']=
+houseNumber=
+unacceptableGeocode=false
+level2CategoryId=
+_renew=on,_showLocationOnMap
+categoryId=21023
+adType=OFFER
+price.amount=4
+price.type=FIXED
+minimumOfferPrice=
+attributeMap[hg_lighting_ceiling.condition_s]=new
+title=NEW LED Downlight  Square 1W 50 available. CHEAP !
+images=https://i.ebayimg.com/00/s/MTIwMFgxNjAw/z/68IAAOSwdYlZmA4T/$_20.JPG
+images=https://i.ebayimg.com/00/s/MzAxWDQ1MQ==/z/Gb0AAOSwGJlZNQZQ/$_20.JPG
+images=https://i.ebayimg.com/00/s/MTIwMFgxNjAw/z/c44AAOSwdrhZmA4S/$_20.JPG
+name=Dimitri
+phoneNumber=0410381932
+locationId=3004117
+geocodeLat=-33.794095
+geocodeLng=151.188817
+geocodeLocality=Chatswood
+attributeMap['hg_lighting_ceiling.paypal_accepted_seller_s']=false
+attributeMap['hg_lighting_ceiling.automatic_repost_ad_s']=false
+attributeMap['hg_lighting_ceiling.condition_s']=new
+attributeMap['hg_lighting_ceiling.highest_price_s']=4.0

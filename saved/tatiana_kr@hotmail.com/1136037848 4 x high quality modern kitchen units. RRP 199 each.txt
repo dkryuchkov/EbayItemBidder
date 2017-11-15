@@ -1,0 +1,34 @@
+attributeMap['cars.greyimport']=
+postcode=2040
+houseNumber=
+streetName=
+adType=OFFER
+adId=
+geocodeConfidence=OK
+files[]=
+bbImageBaseUrl=/bb-image.html
+galleryImageIndex=
+_showLocationOnMap=on
+unacceptableGeocode=false
+level2CategoryId=
+quickOffer=
+_renew=on
+repost=false
+categoryId=21014
+price.amount=50
+price.type=FIXED
+minimumOfferPrice=
+title=4 x high quality modern kitchen units. RRP 199 each
+images=https://i.ebayimg.com/00/s/MTYwMFg5MDE=/z/BpsAAOSwjDZYfGIX/$_20.JPG
+images=https://i.ebayimg.com/00/s/MTYwMFg5MDE=/z/2IIAAOSw5cNYfGIS/$_20.JPG
+name=Dimitri
+phoneNumber=0410381932
+locationId=3003845
+geocodeLat=-33.87109
+geocodeLng=151.161166
+geocodeLocality=Lilyfield
+description=4 x high quality modern kitchen units. These are $199 each. With an expensive SS handles&lt;br&gt;&lt;br&gt;We might have additional 2 same units later on
+attributeMap['hg_furniture_cabinets.highest_price_s']=50.0
+attributeMap['hg_furniture_cabinets.paypal_accepted_seller_s']=false
+attributeMap['hg_furniture_cabinets.automatic_repost_ad_s']=false
+attributeMap['hg_furniture_cabinets.condition_s']=used

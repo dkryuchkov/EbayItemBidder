@@ -1,0 +1,34 @@
+attributeMap['cars.greyimport']=
+postcode=2040
+houseNumber=
+streetName=
+adType=OFFER
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+_showLocationOnMap=on
+unacceptableGeocode=false
+level2CategoryId=
+quickOffer=
+_renew=on
+repost=false
+categoryId=20103
+price.amount=30
+price.type=FIXED
+minimumOfferPrice=
+title=BRAND NEW STYLUS VENECIA VITREOUS  500 VANITY BASIN RRP $200
+images=https://i.ebayimg.com/00/s/ODAwWDgwMA==/z/B1UAAOSwux5YMpHM/$_20.JPG
+images=https://i.ebayimg.com/00/s/NjAwWDgwMA==/z/8kkAAOSwImRYMpGb/$_20.JPG
+name=Tatiana
+phoneNumber=0410381932
+locationId=3003845
+mapAddress=Mary St, Lilyfield, NSW
+geocodeLat=-33.87109
+geocodeLng=151.161166
+geocodeLocality=Lilyfield
+description=BRAND NEW.  Giving it away. &lt;br&gt;STYLUS VENECIA VITREOUS  500 VANITY BASIN&lt;br&gt;Average Weight 6kg, White, Counter top mounted, single hole for sink mixer, comes with stainless steel swivel plug, new in box and overflow outlet.]]VENECIA
+attributeMap['building_materials.paypal_accepted_seller_s']=false
+attributeMap['building_materials.automatic_repost_ad_s']=false
+attributeMap['building_materials.condition_s']=new
+attributeMap['building_materials.highest_price_s']=30.0

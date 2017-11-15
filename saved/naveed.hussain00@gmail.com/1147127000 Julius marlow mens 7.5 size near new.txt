@@ -1,0 +1,33 @@
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+attributeMap['cars.greyimport']=
+houseNumber=
+unacceptableGeocode=false
+level2CategoryId=
+_renew=on,_showLocationOnMap
+categoryId=18573
+price.amount=49
+price.type=NEGOTIABLE
+minimumOfferPrice=
+attributeMap[mens_shoes.condition_s]=used
+title=Julius marlow mens 7.5 size near new
+images=https://i.ebayimg.com/00/s/MTA2N1gxNjAw/z/z5IAAOSw~AVYuU4u/$_20.JPG
+images=https://i.ebayimg.com/00/s/MTA2N1gxNjAw/z/vMEAAOSwOgdYuU3a/$_20.JPG
+images=https://i.ebayimg.com/00/s/OTIxWDE2MDA=/z/Fh0AAOSwAANY8ZcL/$_20.JPG
+images=https://i.ebayimg.com/00/s/MTI2NFg4NDM=/z/iP8AAOSwTuJYuU2q/$_20.JPG
+images=https://i.ebayimg.com/00/s/MTA2N1gxNjAw/z/ycMAAOSw4CFYuU4w/$_20.JPG
+images=https://i.ebayimg.com/00/s/MTA2N1gxNjAw/z/NU0AAOSwhlZYuU4v/$_20.JPG
+images=https://i.ebayimg.com/00/s/MTA2N1gxNjAw/z/u6sAAOSw4A5YuU2Y/$_20.JPG
+name=Nav
+phoneNumber=0402602979
+locationId=3003499
+geocodeLat=-33.771962
+geocodeLng=150.843234
+geocodeLocality=Rooty Hill
+description=Order the shoes online and realized I ordered a size smallWore them once and never wore them again7.5 in size paid $89$49 or near offerPostage is availableCall me on 0402602979
+attributeMap['mens_shoes.paypal_accepted_seller_s']=true
+attributeMap['mens_shoes.highest_price_s']=49.0
+attributeMap['mens_shoes.automatic_repost_ad_s']=false
+attributeMap['mens_shoes.condition_s']=used

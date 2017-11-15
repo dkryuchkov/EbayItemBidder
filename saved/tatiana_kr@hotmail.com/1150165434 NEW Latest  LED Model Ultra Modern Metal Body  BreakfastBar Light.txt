@@ -1,0 +1,28 @@
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+attributeMap['cars.greyimport']=
+houseNumber=
+unacceptableGeocode=false
+level2CategoryId=
+_renew=on,_showLocationOnMap
+categoryId=21023
+price.amount=49
+price.type=FIXED
+minimumOfferPrice=
+attributeMap[hg_lighting_ceiling.condition_s]=new
+title=NEW Latest  LED Model Ultra Modern Metal Body  BreakfastBar Light
+images=https://i.ebayimg.com/00/s/NTQwWDMzMw==/z/Z2AAAOSw3gJZNQYf/$_20.JPG
+images=https://i.ebayimg.com/00/s/MjkxWDQzNg==/z/HrwAAOSwIaFZNQYk/$_20.JPG
+name=Dimitri
+phoneNumber=0410381932
+locationId=3004117
+geocodeLat=-33.794095
+geocodeLng=151.188817
+geocodeLocality=Chatswood
+description=NEW Latest  LEDModel Ultra Modern Metal Body  Breakfast Bar Light RRP $199&lt;br&gt;&lt;br&gt;Features: Black  10W  Full Metal Body &lt;br&gt;    &lt;br&gt;    &lt;br&gt;&lt;br&gt;&lt;br&gt;THIS ADVERT IS MANAGED BY https://gumtree-intforce.rhcloud.com
+attributeMap['hg_lighting_ceiling.paypal_accepted_seller_s']=false
+attributeMap['hg_lighting_ceiling.automatic_repost_ad_s']=false
+attributeMap['hg_lighting_ceiling.condition_s']=new
+attributeMap['hg_lighting_ceiling.highest_price_s']=49.0

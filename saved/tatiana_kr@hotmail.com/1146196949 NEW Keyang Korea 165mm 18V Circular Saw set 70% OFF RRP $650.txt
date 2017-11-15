@@ -1,0 +1,32 @@
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+attributeMap['cars.greyimport']=
+houseNumber=
+unacceptableGeocode=false
+level2CategoryId=
+_renew=on,_showLocationOnMap
+categoryId=20093
+price.amount=179
+price.type=FIXED
+minimumOfferPrice=
+attributeMap[hg_tools_diy_power_tools.condition_s]=new
+title=NEW Keyang Korea 165mm 18V Circular Saw set 70% OFF RRP $650
+images=https://i.ebayimg.com/00/s/NDQwWDYxOA==/z/nBUAAOSw44BYT7ww/$_20.JPG
+images=https://i.ebayimg.com/00/s/NDgwWDY0MA==/z/2K0AAOSwCEdYTyo8/$_20.JPG
+images=https://i.ebayimg.com/00/s/NDgwWDY0MA==/z/sI0AAOSwJ7RYTypD/$_20.JPG
+images=https://i.ebayimg.com/00/s/NDgwWDY0MA==/z/lj8AAOSw-0xYTypJ/$_20.JPG
+images=https://i.ebayimg.com/00/s/NjAwWDYwMA==/z/I8cAAOSwSlBYrxBS/$_20.JPG
+images=https://i.ebayimg.com/00/s/NjAwWDgwMA==/z/xjQAAOSwCU1YrxBT/$_20.JPG
+name=Dimitri
+phoneNumber=0410381932
+locationId=3004117
+geocodeLat=-33.794095
+geocodeLng=151.188817
+geocodeLocality=Chatswood
+description=This tool retails at more than $650. I am selling with 70% discount ! KEYANG AUSTRALIA - Industrial Power Tools Keyang manufactures in South Korea and is the number 1 in Industrial Power Tools and has remained market leader for the last 10 years, in Korea, ahead of all the major brands known in the world wide market place. Since the birth of Keyang over 30 years ago, our values have remained true. To manufacture high quality Power Tools without compromise. This is a top quality professional tools brand, more expensive than DeWalt or Makita
+attributeMap['hg_tools_diy_power_tools.paypal_accepted_seller_s']=false
+attributeMap['hg_tools_diy_power_tools.condition_s']=new
+attributeMap['hg_tools_diy_power_tools.automatic_repost_ad_s']=false
+attributeMap['hg_tools_diy_power_tools.highest_price_s']=179.0

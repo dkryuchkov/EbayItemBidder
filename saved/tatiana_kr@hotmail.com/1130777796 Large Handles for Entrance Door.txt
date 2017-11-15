@@ -1,0 +1,37 @@
+attributeMap['cars.greyimport']=
+postcode=2040
+houseNumber=
+streetName=
+adType=OFFER
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+_showLocationOnMap=on
+unacceptableGeocode=false
+level2CategoryId=
+quickOffer=
+_renew=on
+repost=false
+categoryId=20103
+price.amount=35
+price.type=FIXED
+minimumOfferPrice=
+title=Large Handles for Entrance Door
+images=https://i.ebayimg.com/00/s/NjAwWDgwMA==/z/XaUAAOSwPRlXnyZ~/$_20.JPG
+images=https://i.ebayimg.com/00/s/NjAwWDgwMA==/z/jlEAAOSwH3NXnyZ~/$_20.JPG
+images=https://i.ebayimg.com/00/s/MTYwMFgxMjAw/z/XXsAAOSwPRlXnyZ-/$_20.JPG
+images=https://i.ebayimg.com/00/s/MTIwMFgxNjAw/z/NcMAAOSwqfNXnyaE/$_20.JPG
+images=https://i.ebayimg.com/00/s/MTIwMFgxNjAw/z/JJsAAOSwFdtX1oA-/$_20.JPG
+name=Tatiana
+phoneNumber=0410381932
+locationId=3003845
+mapAddress=Mary Street, Lilyfield, NSW
+geocodeLat=-33.87109
+geocodeLng=151.161166
+geocodeLocality=Lilyfield
+description=I have large entrance door handles - 3 different styles. &lt;br&gt;photo 1 and 2 - SS with walnut insert, 1200mm - 5 pairs are availalbe &lt;br&gt;photo 3 - SS, 1200, one pair is left &lt;br&gt;photo 4 - SS, 200 mm, small. One pair is left &lt;br&gt;Photo 5 - SS, 1200 mm, 9 pairs are availalbe. &lt;br&gt;All  handles are in original boxes and are in perfect brand new condition, heavy and high quality SS. &lt;br&gt;Screws included &lt;br&gt;&lt;br&gt;$35 for a pair &lt;br&gt;&lt;br&gt;Pick up from Leichhardt, NSW 2040
+attributeMap['building_materials.paypal_accepted_seller_s']=false
+attributeMap['building_materials.automatic_repost_ad_s']=false
+attributeMap['building_materials.condition_s']=new
+attributeMap['building_materials.highest_price_s']=35.0

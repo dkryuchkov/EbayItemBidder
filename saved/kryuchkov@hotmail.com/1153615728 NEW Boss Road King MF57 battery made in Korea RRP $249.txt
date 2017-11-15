@@ -1,0 +1,26 @@
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+attributeMap['cars.greyimport']=
+houseNumber=
+unacceptableGeocode=false
+level2CategoryId=
+_renew=on,_showLocationOnMap
+categoryId=18478
+adType=OFFER
+price.amount=119
+price.type=FIXED
+minimumOfferPrice=
+title=NEW Boss Road King MF57 battery made in Korea RRP $249
+images=https://i.ebayimg.com/00/s/OTAwWDEyMDA=/z/z-wAAOSw6ShZVI5E/$_20.JPG
+name=Dimitri
+phoneNumber=0410381932
+locationId=3004117
+geocodeLat=-33.794095
+geocodeLng=151.188817
+geocodeLocality=Chatswood
+description=Siutes larger vehicals, such as utes, vans, V6/V8, diesels etc. High performance, top quality, made in South Korea, RRP $249&lt;br&gt;&lt;br&gt;Boss Road King Hi Performance battery feature hard wearing internal components to reduce corrosion and enhance vibration resistance, while producing dependable power and performance.&lt;br&gt;&lt;br&gt;Calcium Calcium technology for longer service life&lt;br&gt;Enhanced active material reduces water loss &lt;br&gt;Improved internal components for superior corrosion resistance&lt;br&gt;Maintenance Free&lt;br&gt;Made in South Korea&lt;br&gt;&lt;br&gt;Technical Specifications:&lt;br&gt;&lt;br&gt;Voltage:	12V&lt;br&gt;CCA:	560&lt;br&gt;RC:	100&lt;br&gt;Ah:	57&lt;br&gt;Fitment Details:&lt;br&gt;&lt;br&gt;Length (mm):	231&lt;br&gt;Width (mm):	171&lt;br&gt;Case Height (mm):	184&lt;br&gt;Total Height (mm):	205&lt;br&gt;Weight (kg):	14.9
+attributeMap['other_parts_accessories.condition_s']=new
+attributeMap['other_parts_accessories.automatic_repost_ad_s']=false
+attributeMap['other_parts_accessories.highest_price_s']=119.0

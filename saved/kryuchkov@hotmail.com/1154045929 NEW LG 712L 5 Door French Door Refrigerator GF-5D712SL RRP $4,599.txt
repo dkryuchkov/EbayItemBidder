@@ -1,0 +1,33 @@
+description=ABSOLUTE BARGAIN ! THIS IS A TOP OF THE RANGE, BRAND NEW, LG 712L 5 Door, French Door Refrigerator GF-5D712SL Recommended Retail Price $4,599 Features: Hidden Hinges Air Ventilation Front to Front Door Open Alarm BioShield External Electronic Control Digital Sensors includes Room Temp Sensor Dual Speed Cooling Fan Evaporators Refrigerant Type R600 Inverter Linear Compressor Smart Diagnosis Door-In-Door Inverter Linear Compressor Pure N Fresh Slim In-Door Ice Maker Smart Storage System Water Dispenser LED Lighting Specifications Colour: Stainless Steel Capacity: 712 L Refrigerator: 383 L Freezer 301 L Ice Making Compartment: 28 L Dimension: WxHxD 964 x 1887 x 813 mm Weight: 143 kg
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+attributeMap['cars.greyimport']=
+houseNumber=
+unacceptableGeocode=false
+level2CategoryId=
+_renew=on,_showLocationOnMap
+categoryId=20061
+adType=OFFER
+price.amount=1900
+price.type=FIXED
+minimumOfferPrice=
+attributeMap[hg_appliances_fridge_freezer.condition_s]=new
+title=NEW LG 712L 5 Door French Door Refrigerator GF-5D712SL RRP $4,599
+images=https://i.ebayimg.com/00/s/NzI0WDg4MA==/z/usUAAOSwax5YznhA/$_20.JPG
+images=https://i.ebayimg.com/00/s/ODgwWDQ4Nw==/z/LqsAAOSw32lYznhK/$_20.JPG
+images=https://i.ebayimg.com/00/s/NTAxWDg4MA==/z/MEkAAOSwOgdYznig/$_20.JPG
+images=https://i.ebayimg.com/00/s/NDM4WDg4MA==/z/HZEAAOSwzgBYzniu/$_20.JPG
+images=https://i.ebayimg.com/00/s/MTIwMFgxNjAw/z/X5QAAOSwzgBY1N~m/$_20.JPG
+images=https://i.ebayimg.com/00/s/MTYwMFgxMjAw/z/DssAAOSwol5Y1Oex/$_20.JPG
+name=Dimitri
+phoneNumber=0410381932
+locationId=3004117
+geocodeLat=-33.794095
+geocodeLng=151.188817
+geocodeLocality=Chatswood
+attributeMap['hg_appliances_fridge_freezer.automatic_repost_ad_s']=false
+attributeMap['hg_appliances_fridge_freezer.paypal_accepted_seller_s']=false
+attributeMap['hg_appliances_fridge_freezer.highest_price_s']=1900.0
+attributeMap['hg_appliances_fridge_freezer.condition_s']=new

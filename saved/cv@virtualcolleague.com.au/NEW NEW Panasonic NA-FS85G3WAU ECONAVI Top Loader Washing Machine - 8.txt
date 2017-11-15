@@ -1,0 +1,43 @@
+attributeMap['cars.greyimport']=
+postcode=2040
+houseNumber=
+streetName=
+adType=OFFER
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+_showLocationOnMap=on
+unacceptableGeocode=false
+level2CategoryId=
+quickOffer=
+_renew=on
+repost=false
+categoryId=20066
+price.amount=500
+price.type=FIXED
+minimumOfferPrice=
+title=NEW Panasonic NA-FS85G3WAU ECONAVI Top Loader Washing Machine - 8
+name=Tatiana
+phoneNumber=0410381932
+locationId=3003844
+mapAddress=Leichhardt, NSW, 2040
+geocodeLat=-33.882417
+geocodeLng=151.154762
+geocodeLocality=Leichhardt
+description=www.gumtree-intforce.rhcloud.com<br><br>&lt;div class="content-section"&gt; &lt;h3&gt;Description&lt;/h3&gt;    &lt;div class="sanitised-markup"&gt;&lt;p&gt;&lt;strong&gt;Panasonic NA-FS85G3WAU ECONAVI Top Loader Washing Machine - 8.5kg &#40;Refurbished&#41;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Original Retail Price &#40;ORP&#41; - &#36;999 as of November 2014 based on a new product.&lt;/p&gt;&lt;p&gt;These sleek and stylish models offer advanced eco technology to reduce energy and water waste, and clever wash features that treat your clothes with tender care.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;SPECIFICATIONS&lt;/strong&gt; &lt;/p&gt;&lt;ul&gt;&lt;li&gt;8.5kg Load Capacity &lt;/li&gt;&lt;li&gt;650rpm Spin Speed &lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;EFFICIENCY&lt;/strong&gt; &lt;/p&gt;&lt;ul&gt;&lt;li&gt;4.0 Star Water Rating &lt;/li&gt;&lt;li&gt;2.5 Star Energy Rating &lt;/li&gt;&lt;li&gt;Energy Consumption&#58; Warm Wash - 575 kWh&#47;year&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;FEATURES&lt;/strong&gt; &lt;/p&gt;&lt;ul&gt;&lt;li&gt;Sazanami Drum&lt;/li&gt;&lt;li&gt;ECONAVI &#40;Cloth Load &#38; Water Temp&#41;&lt;/li&gt;&lt;li&gt;Aquabeat Wash - Single Type&lt;/li&gt;&lt;li&gt;Aqua Spin Rinse&lt;/li&gt;&lt;li&gt;Inverter Motor&lt;/li&gt;&lt;li&gt;Control Panel Type - Double Layer Sheet&lt;/li&gt;&lt;li&gt;Foam Wash&lt;/li&gt;&lt;li&gt;Digital Indicator&lt;/li&gt;&lt;li&gt;Pre Set Timer &#40;Delay Start&#41;&#58; 2 - 24 Hrs &lt;/li&gt;&lt;li&gt;Child Lock&lt;/li&gt;&lt;li&gt;Auto Restart&lt;/li&gt;&lt;li&gt;Big Lint Filter &#40;Big 1 &#43; Small 1&#41;&lt;/li&gt;&lt;li&gt;Tempered Glass Lid &#40;Smoke&#41;&lt;/li&gt;&lt;li&gt;Colour &#40;Lid&#41; White &lt;/li&gt;&lt;li&gt;Colour &#40;Body&#41; White &lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;PROGRAMS &#40;8 Programs&#41;&lt;/strong&gt; &lt;/p&gt;&lt;ul&gt;&lt;li&gt;Normal &#40;Cotton&#41; &lt;/li&gt;&lt;li&gt;Speedy &#40;Quick Wash&#41; &lt;/li&gt;&lt;li&gt;Baby-Care &lt;/li&gt;&lt;li&gt;Comforter &#40;Bedding&#41; &lt;/li&gt;&lt;li&gt;Intensive &lt;/li&gt;&lt;li&gt;Delicate&lt;/li&gt;&lt;li&gt;Power Wash &#40;Soak &#43; Intensive&#41;&lt;/li&gt;&lt;li&gt;Water Save &#40;Cotton-Eco&#41; &lt;/li&gt;&lt;li&gt;Air Dry &#40;30&#47;60&#47;90min&#41; Yes &lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;GENERAL&lt;/strong&gt; &lt;/p&gt;&lt;ul&gt;&lt;li&gt;Dimensions &#40;HxWxD&#41;&#58; 1070 x 640 x 690 mm &#40;With Hose&#41;&lt;/li&gt;&lt;li&gt;Weight&#58; 52 kg &#40;Net&#41;&lt;/li&gt;&lt;li&gt;Item may show marks&#47;scratches&#47;dents or imperfections. Accessories may vary from standard.&lt;/li&gt;&lt;li&gt;Returns&#47;refunds based on marks&#47;scratches&#47;dents or imperfections will not be accepted &lt;/li&gt;&lt;li&gt;This item is classified as Grade &#40;3&#41; &#40;please refer to Grading tab for details&#41; &lt;/li&gt;&lt;/ul&gt;&lt;p&gt; &#40;SN&#58;231379-16&#41; &lt;/p&gt;&lt;ul&gt;&lt;li&gt;Orange-Dents-Front Panel  &#40;231379-16&#41;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt; Note&#58;&lt;/strong&gt;  &lt;/p&gt;    &lt;/div&gt;    &lt;/div&gt;
+attributeMap['hg_appliances_washing_drying.paypal_accepted_seller_s']=false
+attributeMap['hg_appliances_washing_drying.automatic_repost_ad_s']=false
+attributeMap['hg_appliances_washing_drying.condition_s']=new
+attributeMap['hg_appliances_washing_drying.website_s']=gumtree-intforce.rhcloud.com
+hourstomarket=1
+bbImageBaseUrl=/bb-image.html
+images=https://i.ebayimg.com/00/s/ODAwWDgwMA==/z/UH4AAOSw5cNYTl7J/$_20.JPG
+images=https://i.ebayimg.com/00/s/ODgwWDU2NQ==/z/28oAAOSwImRYTl7R/$_20.JPG
+images=https://i.ebayimg.com/00/s/NzU5WDg4MA==/z/DMoAAOSwcUBYTl7Z/$_20.JPG
+images=https://i.ebayimg.com/00/s/NTgyWDg4MA==/z/oLIAAOSwa~BYTl7h/$_20.JPG
+images=https://i.ebayimg.com/00/s/NjcxWDg4MA==/z/5dgAAOSwA3dYTl7n/$_20.JPG
+ctk=Ya5haTdVzTDW_T0N89KXDg
+csrft=28278f4753cf5dc2c4d7cc936b7aa774
+bbUserInput=5277
+bbToken=344da05fb6110593720fbccf4566440cbe14c6dc84328e1a094550877bf8032b4329c332be097646408f10c61a11d6ff455f1ef1df83849a74a49accdc93e800

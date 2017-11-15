@@ -1,0 +1,30 @@
+description=<div class="vip-ad-description--fade-out"></div>                <div id="ad_description_details_content">                    New, RRP $999,&lt;br&gt;&lt;br&gt;BrandKleenmaid&lt;br&gt;&lt;br&gt;ColourStainless Steel&lt;br&gt;Features&lt;br&gt;�?? Cold front&lt;br&gt;&lt;br&gt;�?? Completely extractable drawer&lt;br&gt;&lt;br&gt;�?? Convection fan&lt;br&gt;&lt;br&gt;�?? Defrosting&lt;br&gt;&lt;br&gt;�?? Maintaining the temperature of cooked foods&lt;br&gt;&lt;br&gt;�?? Preheating of coffee cups&lt;br&gt;&lt;br&gt;�?? Preheating of crockery&lt;br&gt;&lt;br&gt;�?? Stainless Steel, Touch-Proof&lt;br&gt;&lt;br&gt;�?? Tempered glass internal surface&lt;br&gt;&lt;br&gt;�?? Thermostat&lt;br&gt;&lt;br&gt;Height (mm)145mm&lt;br&gt;&lt;br&gt;Width (mm)594mm&lt;br&gt;&lt;br&gt;Depth (mm)562mm&lt;br&gt;&lt;br&gt;TypeWarming Drawer&lt;br&gt;&lt;br&gt;Model NumberWD14010&lt;br&gt;More Specs&lt;br&gt;Technical characteristics&lt;br&gt;&lt;br&gt;Line: Compacto 45&lt;br&gt;&lt;br&gt;Operating indicator light&lt;br&gt;&lt;br&gt;Power supply (V&#47;Hz): 230&#47;50&lt;br&gt;&lt;br&gt;Power supply cord: 10A&lt;br&gt;&lt;br&gt;Slow cooking: 30&lt;br&gt;&lt;br&gt;Thermostat regulation max: 70&lt;br&gt;&lt;br&gt;Thermostat regulation min: 30&lt;br&gt;&lt;br&gt;Type: Warming drawer&lt;br&gt;&lt;br&gt;Not in a box, bubble wrapped&lt;br&gt;&lt;br&gt;&lt;br&gt;</div>        </div>
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+attributeMap['cars.greyimport']=
+houseNumber=
+unacceptableGeocode=false
+level2CategoryId=
+_renew=on,_showLocationOnMap
+categoryId=18402
+adType=OFFER
+price.amount=350
+price.type=FIXED
+minimumOfferPrice=
+attributeMap[hg_appliances_other.condition_s]=new
+title=New Kleenmaid Warming Drawer, RRP $999
+images=https://i.ebayimg.com/00/s/NjQ4WDg4MA==/z/WPIAAOSwO5tZ5FQU/$_20.JPG
+images=https://i.ebayimg.com/00/s/NTAxWDg4MA==/z/WZoAAOSwHTJZ5FQU/$_20.JPG
+name=Dimitri
+phoneNumber=0410381932
+locationId=3004117
+geocodeLat=-33.794095
+geocodeLng=151.188817
+geocodeLocality=Chatswood
+locationLevel1=3008839
+locationLevel2=3003435
+attributeMap['hg_appliances_other.condition_s']=new
+attributeMap['hg_appliances_other.adsense_query_title_s']=[{algorithmName
+attributeMap['title']=Warming Drawer RRP 999

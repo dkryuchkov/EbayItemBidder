@@ -1,0 +1,24 @@
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+attributeMap['cars.greyimport']=
+houseNumber=
+unacceptableGeocode=false
+level2CategoryId=
+_renew=on,_showLocationOnMap
+categoryId=18360
+title=Free Gumtree Renewal Service. Sales increase garanteed! CHEAP!
+images=https://i.ebayimg.com/00/s/MjI4WDIyMg==/z/yVEAAOSwmgJY59ro/$_20.JPG
+locationId=3004117
+geocodeLat=-33.794095
+geocodeLng=151.188817
+geocodeLocality=Chatswood
+name=Dimitri
+phoneNumber=0410381932
+description=Increase your sales through gumtree by many folds using our service. Try it for free. Sutisfactory is garanteed or MONEY BACK !&lt;br&gt;Free advertising on gumtree requires a frequent renewal to keep your adverts on top. Manual renewal is a painful process and takes a lot of time. Subscribe for our Gumtree.com.au adverts auto-renewal service to always keep your adverts on top !&lt;br&gt;We offer 3 FREE renewals and then you can choose to subscribe for our very attractive plansUsing our service are much cheaper than paying for gumtree premium while delivering the similar visibility to your adverts &lt;/p&gt;Plans: 3 FREE renewals.5 renewals. $115 renewals. $225 renewals. $350 renewals. $5100 renewals. $7200 renewals. $10*Unlimited renewals for 1 week. $20*Unlimited renewals for 2 weeks. $25*Unlimited renewals for 1 month. $30
+attributeMap['other_business_services.slogan_s']=Renew your gumtree adverts for FREE !
+attributeMap['other_business_services.website_s']=gumtree-intforce.rhcloud.com
+attributeMap['other_business_services.free_extended_ad_s']=true
+attributeMap['other_business_services.automatic_repost_ad_s']=false
+attributeMap['other_business_services.paypal_accepted_seller_s']=false

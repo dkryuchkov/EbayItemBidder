@@ -1,0 +1,37 @@
+description=MAKE AN REASONABLE OFFERI have Instalightcase.com up for sale (USA has Lumee, AUS has InstaLightCase)It comes with the following domains:instalightcase.com.auinstalightcase.comThe store is a shopify based storeI have had sales accross multiple channells:- Online - international- Markets- Gumtree- Word Of mouth- InstagramRecently re-designed the website which took some time as I have not had much time to provide feedback to the designers and development team.Costs:Shopify - $29.95 USDWhat you will get:- Current stock- Domains- Supplier Details- Facebook- Instagram- EmailI have about 150 cases left for Iphone 6, 6s ,6 plus, iphone 7Feel free to call me on ******** 979 click to revealMAKE ME A RESONABLE OFFER OR HAPPY TO SWAP FOR A CARWWW.INSTALIGHTCASE.COMStock can be posted anywhere in Australia
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+attributeMap['cars.greyimport']=
+houseNumber=
+unacceptableGeocode=false
+level2CategoryId=
+_renew=on,_showLocationOnMap
+categoryId=18468
+adType=OFFER
+price.amount=
+price.type=SWAP_TRADE
+minimumOfferPrice=
+title=IPHONE LIGHT CASE - INSTALIGHTCASE.COM UP FOR SALE, SOME STOCK
+name=Nav
+phoneNumber=0402602979
+locationId=3003924
+geocodeLat=-33.836618
+geocodeLng=151.208702
+geocodeLocality=North Sydney
+attributeMap['business_for_sale.businesstype_s']=retail
+attributeMap['business_for_sale.automatic_repost_ad_s']=false
+attributeMap['business_for_sale.highest_price_s']=9000.0
+_showLocationOnMap=on
+images=https://i.ebayimg.com/00/s/ODgzWDE2MDA=/z/4lIAAOSwcaFZIiZc/$_20.JPG
+images=https://i.ebayimg.com/00/s/MjE2WDMwMQ==/z/2ekAAOSwlMFZIiZb/$_20.JPG
+images=https://i.ebayimg.com/00/s/MTAyNFg2OTM=/z/dekAAOSwJH1ZIiZb/$_20.JPG
+images=https://i.ebayimg.com/00/s/MTAyNFg2NzI=/z/OC8AAOSw5cRZIiZc/$_20.JPG
+images=https://i.ebayimg.com/00/s/MTAyNFg2NzI=/z/Pb0AAOSwZ4dZIiZb/$_20.JPG
+images=https://i.ebayimg.com/00/s/MTAyNFg2NzI=/z/16IAAOSw~y9ZIiZd/$_20.JPG
+images=https://i.ebayimg.com/00/s/MTcwWDg1MA==/z/oQ4AAOSwn-tZIiZb/$_20.PNG
+ctk=-tLDe28lqgc0toM4CGFa1A
+csrft=ea69a6f0b3ddf729c3ae6794ca681313
+bbUserInput=7657
+bbToken=2139f93062903423487dba51428ab38dcd96ce7d4e6e302eba6695717c7abd4597d4955cff99e095f1db9d1a8b17631e619636596d805be4369053e8c6b31194

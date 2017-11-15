@@ -1,0 +1,36 @@
+attributeMap['cars.greyimport']=
+postcode=2040
+houseNumber=
+streetName=
+adType=OFFER
+adId=
+geocodeConfidence=OK
+files[]=
+bbImageBaseUrl=/bb-image.html
+galleryImageIndex=
+_showLocationOnMap=on
+unacceptableGeocode=false
+level2CategoryId=
+quickOffer=
+_renew=on
+repost=false
+categoryId=20079
+price.amount=750
+price.type=FIXED
+minimumOfferPrice=
+title=NEW UNICA Jersey 2.5 Seat Sofa with Chaise in Fabric
+images=https://i.ebayimg.com/00/s/NTY4WDg4MA==/z/FPEAAOSw241YYxsy/$_20.JPG
+images=https://i.ebayimg.com/00/s/NTY2WDg4MA==/z/RI8AAOSwt5hYYxtF/$_20.JPG
+images=https://i.ebayimg.com/00/s/ODgwWDY3Nw==/z/b7kAAOSwImRYYxtX/$_20.JPG
+images=https://i.ebayimg.com/00/s/NTQ0WDg4MA==/z/zMoAAOSw-0xYYxtk/$_20.JPG
+name=Dimitri
+phoneNumber=0410381932
+locationId=3003844
+geocodeLat=-33.882417
+geocodeLng=151.154762
+geocodeLocality=Leichhardt
+description=&lt;div class=&quot;content-section&quot;&gt; &lt;h3&gt;Description&lt;/h3&gt;    &lt;div class=&quot;sanitised-markup&quot;&gt;&lt;p&gt;&lt;strong&gt;UNICA Jersey 2.5 Seat Sofa with Chaise in Fabric&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Recommended Retail Price as of November 2016: $2,449&lt;/p&gt;&lt;p&gt;Introducing the UNICA 2017 range of sofas and accent chairs. Designed to be both functional and stylish, there is an option to suit any space and budget. With most pieces available in a choice of colours, you`ll be sure to find a piece that you will love.&lt;/p&gt;&lt;p&gt;The Jersey sofa with chaise by UNICA is a new take on a well loved classic. With its metal bar legs and plush, stitched seats and backs, the Jersey will be a favourite in any space. Choose between two colour options: London Cloud in our soft, Lerici fabric, or Carbon in our special Bandero fabric.&lt;/p&gt;&lt;p&gt;The Jersey comes in 2 sections for easy transport and requires the legs to be attached once you get it home.&lt;/p&gt;&lt;p&gt;Dimensions:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;2.5 Seat Section: L193 x D86 x H84cm&lt;/li&gt;&lt;li&gt;Chaise Section: L178 x D107 x H84cm &lt;/li&gt;&lt;/ul&gt;   &lt;/div&gt;   &lt;/div&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;THIS ADVERT IS MANAGED BY https://gumtree-intforce.rhcloud.com
+attributeMap['hg_furniture_sofas.highest_price_s']=750.0
+attributeMap['hg_furniture_sofas.condition_s']=new
+attributeMap['hg_furniture_sofas.automatic_repost_ad_s']=false
+attributeMap['hg_furniture_sofas.paypal_accepted_seller_s']=false

@@ -1,0 +1,27 @@
+description=<div id="job-description">                                We are looking for a carpenter to install a pivot door into the existing opening. <br /> <br />The door is large about 1135 cm X 2350, from hume doors range, <br /> <br />The installation kit need to be used: <br /> <p><b>Hafele Non Hold Open Transom Closer932.79.111</b></p> <p><b>Hafele Non Hold Open Transom Closer<br />932.79.111</b></p> <p><b>Includes:</b><br />1x Transom Closer Body<br />1x Side Load Arm<br />1x Angle Bracket<br />1x Floor Pivot</p> <p>Designed and manufactured using superior standards, Hafele's floor springs will fit many applications, where long lasting dependability are a priority.</p> <p><b>Features:</b><br />For single &amp; double action aluminium framed doors<br />Suitable for left and right hand doors<br />Adjustable closing and latching speed<br />Laterally adjustable<br />Material: Cast iron and steel</p> <p>Max. door opening angle: 130&deg;<br />Max. door leaf width x weight: 950mm x 100kg<br />Closing force: EN3 complying with EN 1154<br />Dimensions (mm): shown in images<br />Supplied with fixing materials and installation instructions.</p></div>                        </div>
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+attributeMap['cars.greyimport']=
+houseNumber=
+unacceptableGeocode=false
+level2CategoryId=
+_renew=on,_showLocationOnMap
+categoryId=22345
+adType=OFFER
+title=pivot door installer
+images=https://i.ebayimg.com/00/s/MTYwMFgxMjAw/z/f0cAAOSw4HlZbdmS/$_20.JPG
+images=https://i.ebayimg.com/00/s/NDAwWDMwMA==/z/r5UAAOSwhMFZbdmS/$_20.JPG
+images=https://i.ebayimg.com/00/s/MTYwMFgxMjAw/z/acsAAOSwxg9ZbdmV/$_20.JPG
+name=Dimitri
+phoneNumber=0410381932
+locationId=3004117
+geocodeLat=-33.794095
+geocodeLng=151.188817
+geocodeLocality=Chatswood
+attributeMap['carpentry_cabinet_making.salarytype_s']=hourlyrate
+attributeMap['carpentry_cabinet_making.advertisedby_s']=private
+attributeMap['carpentry_cabinet_making.minimumsalary_i']=40
+attributeMap['carpentry_cabinet_making.maximumsalary_i']=100
+attributeMap['carpentry_cabinet_making.jobtype_s']=casual

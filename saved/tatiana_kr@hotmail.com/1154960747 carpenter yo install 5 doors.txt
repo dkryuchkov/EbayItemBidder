@@ -1,0 +1,25 @@
+description=<div id="job-description">                                i am looking for an experienced carpenter with own tools to install 4 internal doors and one external into existing frame. <br />we bought the standard sized doors 820x2040 ,one lite glass... may need to trim a bit, hinges, handles and one lock. <br /> in chatswood <br /> <br /> <br /></div>                        </div>
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+attributeMap['cars.greyimport']=
+houseNumber=
+unacceptableGeocode=false
+level2CategoryId=
+_renew=on,_showLocationOnMap
+categoryId=22345
+adType=OFFER
+title=carpenter yo install 5 doors
+images=
+name=Dimitri
+phoneNumber=0410381932
+locationId=3004117
+geocodeLat=-33.794095
+geocodeLng=151.188817
+geocodeLocality=Chatswood
+attributeMap['carpentry_cabinet_making.salarytype_s']=hourlyrate
+attributeMap['carpentry_cabinet_making.advertisedby_s']=private
+attributeMap['carpentry_cabinet_making.minimumsalary_i']=35
+attributeMap['carpentry_cabinet_making.maximumsalary_i']=60
+attributeMap['carpentry_cabinet_making.jobtype_s']=casual

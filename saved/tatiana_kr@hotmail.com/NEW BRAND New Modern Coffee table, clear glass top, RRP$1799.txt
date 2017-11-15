@@ -1,0 +1,33 @@
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+attributeMap['cars.greyimport']=
+houseNumber=
+unacceptableGeocode=false
+level2CategoryId=
+_renew=on,_showLocationOnMap
+categoryId=21009
+price.amount=250
+price.type=FIXED
+minimumOfferPrice=
+attributeMap[hg_furniture_coffee_tables.condition_s]=new
+title=BRAND New Modern Coffee table, clear glass top, RRP$1799
+name=Dimitri
+phoneNumber=0410381932
+locationId=3003844
+geocodeLat=-33.882417
+geocodeLng=151.154762
+geocodeLocality=Leichhardt
+description=THIS IS A BRAND NEW, DESIGNER ITEM, RRP$1799 It comes in 2 boxes. Description    Coffee table, clear bent glass top, white polyurethane finish base, approx 1420 x 800 x 360(h)mm, RRP$1799         You need a trailer or a ute.&lt;br&gt;The photo shows display item, your coffee table is a brand new item and comes in 2 original  boxes.brand - Merlino furniture.&lt;br&gt;&lt;br&gt;THIS ADVERT IS MANAGED BY https://gumtree-intforce.rhcloud.com
+attributeMap['hg_furniture_coffee_tables.paypal_accepted_seller_s']=false
+attributeMap['hg_furniture_coffee_tables.condition_s']=new
+attributeMap['hg_furniture_coffee_tables.automatic_repost_ad_s']=false
+attributeMap['hg_furniture_coffee_tables.highest_price_s']=250.0
+_showLocationOnMap=on
+images=https://i.ebayimg.com/00/s/NTg3WDg4MA==/z/CeYAAOSw-0xYf0Z9/$_20.JPG
+images=https://i.ebayimg.com/00/s/MTYwMFg5MDE=/z/2mUAAOSwt5hYgp9h/$_20.JPG
+ctk=wnH8ugH-Yf0GT017t0NZtg
+csrft=3f8ef33b8c8b9d1ac42a3618bd5a50d0
+bbUserInput=3560
+bbToken=1585c84d48fae26cd3d1b8265b192cc1bb22206ce8284db5913e6f2f9be7da0cf49984138413377fa9e98260a94da5df942e0ce8d5a51aa3b703a01febe93a9f

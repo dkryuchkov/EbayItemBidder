@@ -1,0 +1,40 @@
+description=<div class="vip-ad-description--fade-out"></div>                <div id="ad_description_details_content">                    Dell Latitude 14 ( E5470 ) 5000 Series Laptop&lt;br&gt;&lt;br&gt;Intel Core i5-6300HQ (Quad Core, 2.3GHz, 6MB cache)&lt;br&gt;16GB (1x16G) 2133MHz DDR4 Memory&lt;br&gt;M.2 256GB SATA Class 20 Solid State Drive&lt;br&gt;No Optical Drive&lt;br&gt;Intel(R) HD Graphics&lt;br&gt;(14.0``) FHD (1920x1080) Non-Touch Anti-Glare LCD .&lt;br&gt;Waves Maxx Audio Royalty&lt;br&gt;10&#47;100&#47;1000 Ethernet&lt;br&gt;Intel Dual Band Wireless 8260 (802.11ac) W&#47; Bluetooth&lt;br&gt;Integrated Camera&#47;Mic&lt;br&gt;SD 4.0 Memory Card Reader&lt;br&gt;3 USB 3.0 (one with PowerShare), HDMI Port, VGA Port, RJ45 Port&lt;br&gt;Windows 10 Pre-Installed, OS Recovery Disc Not Included&lt;br&gt;&lt;br&gt;&lt;br&gt;</div>        </div>
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+attributeMap['cars.greyimport']=
+houseNumber=
+unacceptableGeocode=false
+level2CategoryId=
+_renew=on,_showLocationOnMap
+categoryId=18553
+adType=OFFER
+price.amount=1100
+price.type=FIXED
+minimumOfferPrice=
+attributeMap[laptops.condition_s]=new
+title=New Dell Latitude 14 E5470 i5 6300HQ Quad Core 16GB RAM 256GB SSD
+images=https://i.ebayimg.com/00/s/MTA4MFgxNTc2/z/5mMAAOSwSXdZzlWv/$_20.JPG
+images=https://i.ebayimg.com/00/s/MzExWDQwMA==/z/EecAAOSwqF9ZzlWq/$_20.JPG
+images=https://i.ebayimg.com/00/s/Mjc1WDI3NQ==/z/aU4AAOSw0oBZzlWr/$_20.JPG
+images=https://i.ebayimg.com/00/s/MTA2NVgxNjAw/z/pJEAAOSw9fRZzlWy/$_20.JPG
+images=https://i.ebayimg.com/00/s/NTMyWDg4MA==/z/TG8AAOSwKE9ZzlW6/$_20.JPG
+images=https://i.ebayimg.com/00/s/MTIwMFgxNjAw/z/5ucAAOSwM7JZ3DKr/$_20.JPG
+images=https://i.ebayimg.com/00/s/MTIwMFgxNjAw/z/hP0AAOSwIdpZ3DKt/$_20.JPG
+images=https://i.ebayimg.com/00/s/MTIwMFgxNjAw/z/cvwAAOSwe2FZ3DK~/$_20.JPG
+images=https://i.ebayimg.com/00/s/MTIwMFgxNjAw/z/72YAAOSw~ZBZ3DMR/$_20.JPG
+name=Dimitri
+phoneNumber=0410381932
+locationId=3004117
+geocodeLat=-33.794095
+geocodeLng=151.188817
+geocodeLocality=Chatswood
+locationLevel1=3008839
+locationLevel2=3003435
+attributeMap['laptops.automatic_repost_ad_s']=false
+attributeMap['laptops.paypal_accepted_seller_s']=false
+attributeMap['laptops.highest_price_s']=1100.0
+attributeMap['laptops.condition_s']=new
+attributeMap['laptops.adsense_query_title_s']=[{algorithmName
+attributeMap['title']=Dell Latitude 14 E5470 6300HQ Quad Core RAM 256GB SSD

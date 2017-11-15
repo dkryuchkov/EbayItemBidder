@@ -1,0 +1,47 @@
+attributeMap['cars.greyimport']=
+postcode=2040
+houseNumber=
+streetName=
+adType=OFFER
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+_showLocationOnMap=on
+unacceptableGeocode=false
+level2CategoryId=
+quickOffer=
+_renew=on
+repost=false
+categoryId=20061
+price.amount=750
+price.type=FIXED
+minimumOfferPrice=
+title=NEW Fisher & Paykel 610L Stainless Steel Side by Side Fridge (RX6
+name=Dimitri
+phoneNumber=0410381932
+locationId=3003844
+mapAddress=Leichhardt, NSW, 2040
+geocodeLat=-33.882417
+geocodeLng=151.154762
+geocodeLocality=Leichhardt
+description=&lt;div class="content-section"&gt; &lt;h3&gt;Description&lt;/h3&gt;    &lt;div class="sanitised-markup"&gt;&lt;p&gt;&lt;strong&gt;Fisher &#38; Paykel 610L Stainless Steel Side by Side Fridge &#40;RX611DUX1&#41;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Recommended Retail Price &#40;RRP&#41; - &#36;2899 as of September 2016 based on a new product.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Finish&#58; Stainless Steel&lt;/li&gt;&lt;li&gt;Concealed hinges &lt;/li&gt;&lt;li&gt;Silver prepaint cabinet &lt;/li&gt;&lt;li&gt;Stainless steel doors &lt;/li&gt;&lt;li&gt;Straight designer handle&lt;/li&gt;&lt;li&gt;Energy Star rating&#58; 2&lt;/li&gt;&lt;li&gt;Energy usage &#40;kWh&#47;yr&#41;&#58; 641&lt;/li&gt;&lt;li&gt;Refrigerator gross volume&#58; 385 litres&lt;/li&gt;&lt;li&gt;Freezer gross volume&#58; 225 litres&lt;/li&gt;&lt;li&gt;Total gross volume&#58; 610 litres&lt;/li&gt;&lt;li&gt;Total net volume&#58; 552 litres&lt;/li&gt;&lt;li&gt;Air circulating fan &lt;/li&gt;&lt;li&gt;Automatic defrost &lt;/li&gt;&lt;li&gt;Built in ice maker &lt;/li&gt;&lt;li&gt;Chill mode &lt;/li&gt;&lt;li&gt;Door open alarm &lt;/li&gt;&lt;li&gt;Electronic interface &lt;/li&gt;&lt;li&gt;External water dispenser &lt;/li&gt;&lt;li&gt;Fast freeze &lt;/li&gt;&lt;li&gt;Frost free &lt;/li&gt;&lt;li&gt;Holiday mode &lt;/li&gt;&lt;li&gt;LED lighting in the fridge &#38; freezer &lt;/li&gt;&lt;li&gt;Max cool mode &lt;/li&gt;&lt;li&gt;R600a refrigerant &lt;/li&gt;&lt;li&gt;Touch control - glass interface&lt;/li&gt;&lt;li&gt;Dimensions &#40;HxWxD&#41;&#58; 1795 x 910 x 700mm&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;Item may show marks&#47;scratches&#47;dents or imperfections. Accessories may vary from standard.&lt;/li&gt;&lt;li&gt;Returns&#47;refunds based on marks&#47;scratches&#47;dents or imperfections will not be accepted &lt;/li&gt;&lt;li&gt;This item is classified as Grade &#40;3&#41; &#40;please refer to Grading tab for details&#41;&lt;/li&gt;&lt;li&gt;RED &#35; Multiple dents &#38; scratches on the items front panel&lt;/li&gt;&lt;li&gt;ORANGE &#35; Multiple dents &#38; scratches on the items left panel&lt;/li&gt;&lt;li&gt;GREEN &#35; Multiple dents &#38; scratches on the items right panel&lt;/li&gt;&lt;/ul&gt;&lt;p&gt; &#40;234688-121&#41;&lt;/p&gt;&lt;p&gt;&lt;strong&gt; Note&#58;&lt;/strong&gt;  &lt;/p&gt;    &lt;/div&gt;    &lt;/div&gt;&lt;br&gt;&lt;br&gt;THIS ADVERT IS MANAGED BY https://gumtree-intforce.rhcloud.com
+attributeMap['hg_appliances_fridge_freezer.paypal_accepted_seller_s']=false
+attributeMap['hg_appliances_fridge_freezer.automatic_repost_ad_s']=false
+attributeMap['hg_appliances_fridge_freezer.condition_s']=new
+attributeMap['hg_appliances_fridge_freezer.website_s']=gumtree-intforce.rhcloud.com
+attributeMap[hg_appliances_fridge_freezer.slogan_s]=NEW Fisher & Paykel 610L Stainless Steel Side by Side Fridge (RX6
+hourstomarket=4
+bbImageBaseUrl=/bb-image.html
+images=https://i.ebayimg.com/00/s/NDgxWDI0Ng==/z/4q4AAOSw5cNYYzHu/$_20.JPG
+images=https://i.ebayimg.com/00/s/ODgwWDY2MQ==/z/4WAAAOSwo4pYYzH9/$_20.JPG
+images=https://i.ebayimg.com/00/s/NjkzWDg4MA==/z/aiAAAOSwnHZYYzIF/$_20.JPG
+images=https://i.ebayimg.com/00/s/ODAwWDg4MA==/z/~eAAAOSwt5hYYzId/$_20.JPG
+images=https://i.ebayimg.com/00/s/ODgwWDQzMQ==/z/~mcAAOSwt5hYYzIj/$_20.JPG
+images=https://i.ebayimg.com/00/s/ODgwWDQyOA==/z/-8QAAOSw241YYzIo/$_20.JPG
+images=https://i.ebayimg.com/00/s/ODgwWDg0Mg==/z/agkAAOSwopRYYzI4/$_20.JPG
+images=https://i.ebayimg.com/00/s/NDI0WDg4MA==/z/~DkAAOSwjDZYYzI~/$_20.JPG
+ctk=3rw0t31LWWXkkr2A_CX6gA
+csrft=d184a51808e9eaefe546b1ff9f003fd6
+bbUserInput=5485
+bbToken=de7dcbb9142b6da1c852d5a7336088b298896119bc36a055bd679bbdbec9239a5527cf249da2dad394ee5cccb4cd43c53afde02fe7e71f5db48249425d62b366

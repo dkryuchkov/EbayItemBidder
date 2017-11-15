@@ -1,0 +1,29 @@
+description=Artusi 59cm Cooktop (Black) (CACC60)&lt;br&gt;&lt;br&gt;used&lt;br&gt;&lt;br&gt;Four zone&lt;br&gt;&lt;br&gt;Residual heat indicato&lt;br&gt;&lt;br&gt;rEasy clean surface&lt;br&gt;&lt;br&gt;Touch control&lt;br&gt;&lt;br&gt;2 small and 2 large zones&lt;br&gt;&lt;br&gt;Ceran glass&lt;br&gt;&lt;br&gt;Minute timerChild lockLow profile&lt;br&gt;&lt;br&gt;Dimensions (HxWxD): 48 x 590 x 520 mm
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+attributeMap['cars.greyimport']=
+houseNumber=
+unacceptableGeocode=false
+level2CategoryId=
+_renew=on,_showLocationOnMap
+categoryId=20059
+adType=OFFER
+price.amount=30
+price.type=FIXED
+minimumOfferPrice=
+attributeMap[hg_appliances_cooktop_rangehood.condition_s]=used
+title=Artusi 59cm Cooktop (Black) (CACC60)
+images=https://i.ebayimg.com/00/s/NDAwWDQwMA==/z/wnEAAOSw0GJZmTNr/$_20.JPG
+images=https://i.ebayimg.com/00/s/NjQ5WDg4MA==/z/Aa8AAOSwvYZZmTN1/$_20.JPG
+name=Dimitri
+phoneNumber=0410381932
+locationId=3004117
+geocodeLat=-33.794095
+geocodeLng=151.188817
+geocodeLocality=Chatswood
+attributeMap['hg_appliances_cooktop_rangehood.paypal_accepted_seller_s']=false
+attributeMap['hg_appliances_cooktop_rangehood.condition_s']=used
+attributeMap['hg_appliances_cooktop_rangehood.highest_price_s']=30.0
+attributeMap['hg_appliances_cooktop_rangehood.automatic_repost_ad_s']=false

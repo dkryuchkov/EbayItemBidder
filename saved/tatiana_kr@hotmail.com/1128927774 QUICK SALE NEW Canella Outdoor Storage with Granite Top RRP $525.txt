@@ -1,0 +1,38 @@
+attributeMap['cars.greyimport']=
+postcode=2040
+houseNumber=
+streetName=
+adType=OFFER
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+_showLocationOnMap=on
+unacceptableGeocode=false
+level2CategoryId=
+quickOffer=
+_renew=on
+repost=false
+categoryId=20070
+price.amount=100
+price.type=FIXED
+minimumOfferPrice=
+attributeMap['hg_garden_outdoor_dinning_furniture.condition_s']=new
+title=QUICK SALE NEW Canella Outdoor Storage with Granite Top RRP $525
+images=https://i.ebayimg.com/00/s/NTg5WDg4MA==/z/jPcAAOSwXeJYCV25/$_14.JPG
+images=https://i.ebayimg.com/00/s/NTg4WDg4MA==/z/4A0AAOSwn7JYCV24/$_14.JPG
+images=https://i.ebayimg.com/00/s/NTg4WDg4MA==/z/wKQAAOSwcLxYCV24/$_14.JPG
+images=https://i.ebayimg.com/00/s/NTg4WDg4MA==/z/xqUAAOSw4f5YCV28/$_14.JPG
+images=https://i.ebayimg.com/00/s/NTkxWDg4MA==/z/v8YAAOSwUEVYCV26/$_14.JPG
+images=https://i.ebayimg.com/00/s/NTkwWDg4MA==/z/ZaAAAOSw44BYCV27/$_14.JPG
+name=Tatiana
+phoneNumber=0410381932
+locationId=3003844
+mapAddress=Leichhardt, NSW, 2040
+geocodeLat=-33.882417
+geocodeLng=151.154762
+geocodeLocality=Leichhardt
+description=FOR QUICK SALE, FIRST COMES FIRST SERVED !!! ABSOLUTE BARGAIN !!!ITEM IS VERY HEAVY, 2 BOXES each in access of 20kg !!! TOP QUALITY PRODUCT !BRAND NEW UNOPEN and CHEAP !!!DescriptionCanella Outdoor Open Double Storage Unit with Granite TopFeatures:1 x Wooden Bench Trolley with Granite TopColour: As ShownDimensions of Bench: 920 (L) 900 (H) 600 (W) mmEasily Moved with Wheel &amp; HandlePerfect for Outdoor Storage.Product is flatpacked. Assembly is required.POSTAGE CAN BE ORGINISED AND COST AROUND $50 DEPENDING ON YOUR POST CODE
+attributeMap['hg_garden_outdoor_dinning_furniture.paypal_accepted_seller_s']=false
+attributeMap['hg_garden_outdoor_dinning_furniture.automatic_repost_ad_s']=false
+attributeMap['hg_garden_outdoor_dinning_furniture.highest_price_s']=100.0

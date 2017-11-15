@@ -1,0 +1,29 @@
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+attributeMap['cars.greyimport']=
+houseNumber=
+unacceptableGeocode=false
+level2CategoryId=
+_renew=on,_showLocationOnMap
+categoryId=20103
+price.amount=250
+price.type=FIXED
+minimumOfferPrice=
+attributeMap[building_materials.condition_s]=new
+title=BRAND NEW KWC Ava Swivel Spout 160 Kitchen Tap RRP $929
+images=https://i.ebayimg.com/00/s/NjAwWDYwMA==/z/MCwAAOSwTM5Y1re9/$_20.PNG
+images=https://i.ebayimg.com/00/s/MTIwMFgxMjAw/z/aQUAAOSwB-1Y1rfD/$_20.JPG
+images=https://i.ebayimg.com/00/s/NDMyWDg4MA==/z/oVAAAOSwzgBY1aNB/$_20.JPG
+name=Dimitri
+phoneNumber=0410381932
+locationId=3004117
+geocodeLat=-33.794095
+geocodeLng=151.188817
+geocodeLocality=Chatswood
+description=BRAND NEW KWC Ava Swivel Spout 160&deg; Kitchen Tap (Chrome) (10191023000)&lt;strong&gt;&lt;p&gt;&lt;p&gt;Recommended Retail Price (RRP) - $929 as of January 2017 based on a new product.&lt;p&gt;&lt;ul&gt;Finish Colour: ChromeWELS Star Rating: 5Spout reach: 210mmFastening by means of threaded sleeve M33 x 1.5Mounting hole size: &oslash;35 mm&lt;ul&gt;&lt;ul&gt;WELS Star Rating: 5Spout reach: 210mmFastening by means of threaded sleeve M33 x 1.5Mounting hole size: &oslash;35 mm
+attributeMap['building_materials.paypal_accepted_seller_s']=false
+attributeMap['building_materials.automatic_repost_ad_s']=false
+attributeMap['building_materials.condition_s']=new
+attributeMap['building_materials.highest_price_s']=250.0

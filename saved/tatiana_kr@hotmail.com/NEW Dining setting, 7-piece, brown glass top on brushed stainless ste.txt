@@ -1,0 +1,42 @@
+attributeMap['cars.greyimport']=
+postcode=2040
+houseNumber=
+streetName=
+adType=OFFER
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+_showLocationOnMap=on
+unacceptableGeocode=false
+level2CategoryId=
+quickOffer=
+_renew=on
+repost=false
+categoryId=20080
+price.amount=899
+price.type=FIXED
+minimumOfferPrice=
+title=Dining setting, 7-piece, brown glass top on brushed stainless ste
+name=Dimitri
+phoneNumber=0410381932
+locationId=3003844
+mapAddress=Leichhardt, NSW, 2040
+geocodeLat=-33.882417
+geocodeLng=151.154762
+geocodeLocality=Leichhardt
+description=&lt;div class="content-section"&gt; &lt;h3&gt;Description&lt;/h3&gt;    &lt;div class="sanitised-markup"&gt;&lt;p&gt;Dining setting, 7-piece, brown glass top on brushed stainless steel base table, with in-built lazy susan, approx 1400 x 1400mm, 6 x black fabric upholstered cantilever chairs, RRP&#36;3999 &#40;237169-315&#41;&lt;/p&gt;&lt;p&gt;&lt;strong&gt; Note&#58;&lt;/strong&gt;  &lt;/p&gt;    &lt;/div&gt;    &lt;/div&gt;&lt;br&gt;&lt;br&gt;THIS ADVERT IS MANAGED BY https://gumtree-intforce.rhcloud.com
+attributeMap['hg_furniture_tables.paypal_accepted_seller_s']=false
+attributeMap['hg_furniture_tables.automatic_repost_ad_s']=false
+attributeMap['hg_furniture_tables.condition_s']=used
+attributeMap['hg_furniture_tables.website_s']=gumtree-intforce.rhcloud.com
+attributeMap[hg_furniture_tables.slogan_s]=Dining setting, 7-piece, brown glass top on brushed stainless ste
+hourstomarket=-1
+bbImageBaseUrl=/bb-image.html
+images=https://i.ebayimg.com/00/s/NTg3WDg4MA==/z/B94AAOSwJ7RYV7BX/$_20.JPG
+images=https://i.ebayimg.com/00/s/NTg3WDg4MA==/z/0YMAAOSwa~BYV7Bw/$_20.JPG
+images=https://i.ebayimg.com/00/s/ODgwWDU4Nw==/z/aToAAOSwZQRYV7CJ/$_20.JPG
+ctk=-q3I0oPam25UGyW8SWypNg
+csrft=f99dbd49fc23026470ec4276f037e1dd
+bbUserInput=4524
+bbToken=97cec7560235f7fff297aa0d47d16505cae0d0559e0d0f1e4e96a2a4e0e5a3c87683dbeac2ff2f3acae6339c2d20fab3707673310de1c2f42f358138e07a1d20

@@ -1,0 +1,36 @@
+_showLocationOnMap=on
+unacceptableGeocode=false
+streetName=
+houseNumber=
+galleryImageIndex=
+postcode=2040
+geocodeConfidence=OK
+level2CategoryId=
+adId=
+attributeMap['cars.greyimport']=
+repost=false
+adType=OFFER
+quickOffer=
+files[]=
+_renew=on
+categoryId=21002
+price.amount=30
+price.type=FIXED
+minimumOfferPrice=
+attributeMap['hg_appliances_blenders_juicers_foodprocessors.condition_s']=new
+title=New Slurpee machine plus free gift pack of 100 baloons, RRP $99
+images=http://i.ebayimg.com/00/s/NjAwWDMwMw==/z/ESwAAOSwQYZWvZ~g/$_14.JPG
+images=http://i.ebayimg.com/00/s/NjAwWDgwMA==/z/-foAAOSwll1WvZ~h/$_14.JPG
+images=http://i.ebayimg.com/00/s/NjAwWDgwMA==/z/gH4AAOSwx-9WvZ~h/$_14.JPG
+images=http://i.ebayimg.com/00/s/NjAwWDgwMA==/z/TUoAAOSwB4NWvZ~g/$_14.JPG
+images=http://i.ebayimg.com/00/s/NjAwWDgwMA==/z/onwAAOSwG-1WvZ~g/$_14.JPG
+name=Tatiana
+phoneNumber=0410381932
+locationId=3003844
+mapAddress=Leichhardt, NSW, 2040
+geocodeLat=-33.882417
+geocodeLng=151.154762
+geocodeLocality=Leichhardt
+description=BRAND NEW DORA THE EXPLORER SLUSHIE SLUSHY SLURPEE MACHINE(Plus free gift pack of 100 baloons worth $15 ( Pack contains of 100 baloons of just one colour, but the choice is yours, text me a colour you want - blue, yellow, purple, red, green or ornage)Model: SM708LenoxxPurpleNew in original box.ITEM SPECIFICATIONS:Capacity 1.1 litreTap and drink trayEasy to use and clean240v 50 HZ 25 WLocking canister lid with ice and salt inlet and cap to prevent spillsAluminum ice canisterIce cansiter has protection for both the ice and slushie outsideFree deliveryOr pick it up from Leichhard
+attributeMap['hg_appliances_blenders_juicers_foodprocessors.paypal_accepted_seller_s']=false
+attributeMap['hg_appliances_blenders_juicers_foodprocessors.highest_price_s']=35.0

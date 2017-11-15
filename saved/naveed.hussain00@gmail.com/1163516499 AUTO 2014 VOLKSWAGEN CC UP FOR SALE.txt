@@ -1,0 +1,54 @@
+description=<div id="ad_description_details_content">                    2014 VOLKSWAGEN CC UP FOR SALE&lt;br&gt;FIRST AND ONLY OWNER. CAR WAS PURCHASED BRAND NEW.&lt;br&gt;LOG BOOKS AND FULL SERVICE HISTORY&lt;br&gt;&lt;br&gt;49,500KMS&lt;br&gt;&lt;br&gt;2 KEYS&lt;br&gt;&lt;br&gt;REGO TILL JULY 2017&lt;br&gt;&lt;br&gt;POWER OPTIONS&lt;br&gt;&lt;br&gt;LEATHER INTERIOR&lt;br&gt;&lt;br&gt;GPS&lt;br&gt;&lt;br&gt;REVERSE SENSING SYSTEM&lt;br&gt;&lt;br&gt;REAR VISION &#47; REVERSING CAMERA.&lt;br&gt;&lt;br&gt;8 AIRBAGS - SIDE AIRBAGS, PASSENGER AIRBAG AND DRIVER AIRBAG&lt;br&gt;&lt;br&gt;BRAKE ASSIST&lt;br&gt;&lt;br&gt;FRONT PARKING SENSORS&lt;br&gt;&lt;br&gt;ABS BRAKES,&lt;br&gt;WELL LOOKED AFTER&lt;br&gt;EXTRA FEATURES INCLUDE:&lt;br&gt;&lt;br&gt;- COOLED GLOVEBOX&lt;br&gt;&lt;br&gt;- LEATHER SEATS&lt;br&gt;&lt;br&gt;- ACTIVE CORNERING HEADLAMPS&lt;br&gt;&lt;br&gt;- CARGO TIE DOWN HOOKS&#47;RINGS&lt;br&gt;&lt;br&gt;- HILL HOLDER&lt;br&gt;&lt;br&gt;- CENTRAL LOCKING&lt;br&gt;&lt;br&gt;- LEATHER GEAR KNOB&lt;br&gt;&lt;br&gt;- LEATHER STEERING WHEEL&lt;br&gt;&lt;br&gt;- FRONT & REAR POWER WINDOWS&lt;br&gt;&lt;br&gt;- HEATED FRONT SEATS&lt;br&gt;&lt;br&gt;- USB AUDIO INPUT&lt;br&gt;&lt;br&gt;- ELECTRIC FRONT SEATS&lt;br&gt;&lt;br&gt;- REMOTE CENTRAL LOCKING&lt;br&gt;&lt;br&gt;- 19&quot; ALLOY WHEELS&lt;br&gt;$29,990 OR NEAR OFFER&lt;br&gt;REASON FOR SELLING IS WE HAVE BOUGHT A NEW CAR&lt;br&gt;FEEL FREE TO CALL ME ON TO ARRANGE FOR AN INSPECTION LOCATED NEAR CASTLE HILL OR CAN MEET HALF WAY&lt;br&gt;&lt;br&gt;&lt;br&gt;</div>        </div>
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+attributeMap['cars.greyimport']=
+houseNumber=
+unacceptableGeocode=false
+level2CategoryId=
+_renew=on,_showLocationOnMap
+categoryId=18320
+adType=OFFER
+price.amount=29990
+price.type=NEGOTIABLE
+minimumOfferPrice=
+title=AUTO 2014 VOLKSWAGEN CC UP FOR SALE
+images=https://i.ebayimg.com/00/s/MTIwMFgxNjAw/z/2SsAAOSwaLpZ3oZC/$_20.JPG
+images=https://i.ebayimg.com/00/s/OTU2WDExMjU=/z/U-sAAOSwM91Z3oY-/$_20.JPG
+images=https://i.ebayimg.com/00/s/ODQwWDExMDU=/z/Z6IAAOSw7PZZ3oY-/$_20.JPG
+images=https://i.ebayimg.com/00/s/MTIwMFgxNjAw/z/R0MAAOSwnANZ3oZB/$_20.JPG
+images=https://i.ebayimg.com/00/s/ODEwWDExMjU=/z/hGYAAOSwrwxZ3oZC/$_20.JPG
+images=https://i.ebayimg.com/00/s/MTYwMFgxMTEx/z/ewgAAOSwdSNZ3oZC/$_20.JPG
+images=https://i.ebayimg.com/00/s/MTIwMFgxNjAw/z/HPoAAOSwrWZZ3oZN/$_20.JPG
+images=https://i.ebayimg.com/00/s/ODI1WDEwODA=/z/7LAAAOSwEnlZ3oZG/$_20.JPG
+images=https://i.ebayimg.com/00/s/MTIwMFgxNjAw/z/WF8AAOSwKPdZ3oZS/$_20.JPG
+images=https://i.ebayimg.com/00/s/MTIwMFgxNjAw/z/njoAAOSwFXVZ3oZK/$_20.JPG
+name=Nav
+phoneNumber=0402602979
+locationId=3003481
+geocodeLat=-33.735577
+geocodeLng=150.93472
+geocodeLocality=Glenwood
+attributeMap['cars.variant_s']=130 TDI
+attributeMap['cars.nvic_s']=QV614C
+attributeMap['cars.fueltype_s']=diesel
+attributeMap['cars.forsaleby_s']=ownr
+attributeMap['cars.registrationexpiry_tdt']=2018-07-12T00:00:00Z
+attributeMap['cars.engine_capacity_litres_s']=2.0L
+attributeMap['cars.ancap_rating_s']=5
+attributeMap['cars.airconditioning_s']=y
+attributeMap['cars.cylinder_configuration_s']=4 cyl
+attributeMap['cars.carbodytype_s']=coup
+attributeMap['cars.colour_s']=black
+attributeMap['cars.highest_price_s']=29990.0
+attributeMap['cars.caryear_i']=2014
+attributeMap['cars.carmake_s']=volkswagen
+attributeMap['cars.paypal_accepted_seller_s']=true
+attributeMap['cars.green_overall_rating_s']=3.5
+attributeMap['cars.carmileageinkms_i']=49600
+attributeMap['cars.carmodel_s']=volkswagen_cc
+attributeMap['cars.cartransmission_s']=a
+attributeMap['cars.registered_s']=y
+attributeMap['cars.automatic_repost_ad_s']=false
+attributeMap['cars.drivetrain_s']=fwd

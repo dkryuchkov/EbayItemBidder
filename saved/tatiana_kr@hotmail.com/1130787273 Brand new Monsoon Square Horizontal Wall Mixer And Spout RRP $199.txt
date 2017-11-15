@@ -1,0 +1,34 @@
+attributeMap['cars.greyimport']=
+postcode=2040
+houseNumber=
+streetName=
+adType=OFFER
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+_showLocationOnMap=on
+unacceptableGeocode=false
+level2CategoryId=
+quickOffer=
+_renew=on
+repost=false
+categoryId=20103
+price.amount=50
+price.type=FIXED
+minimumOfferPrice=
+title=Brand new Monsoon Square Horizontal Wall Mixer And Spout RRP $199
+images=https://i.ebayimg.com/00/s/NTAwWDUwMA==/z/0NwAAOSwo4pYNlbk/$_20.JPG
+images=https://i.ebayimg.com/00/s/OTAwWDE2MDA=/z/BAIAAOSw-0xYNlbq/$_20.JPG
+name=Dimitri
+phoneNumber=0410381932
+locationId=3003844
+mapAddress=Leichhardt, NSW, 2040
+geocodeLat=-33.882417
+geocodeLng=151.154762
+geocodeLocality=Leichhardt
+description=Retils for $199&lt;br&gt;&lt;br&gt;http://www.templeandwebster.com.au/3-Star-Square-Horizontal-Wall-Mixer-And-Spout-20-8051-1-34S-MOSO1077.html?refid=GPAAU447-MOSO1077&amp;device=c&amp;ptid=69269775982&amp;gclid=CjwKEAiAmdXBBRD0hZCVkYHTl20SJACWsZj9BeXT00D9t0qvLFE83DmbZEypbrFGdV_tpSr-nneFHhoCC4nw_wcB&lt;br&gt;&lt;br&gt;Brand new in the original packaging. 3 Star Square Horizontal Wall Mixer And Spout. Wall mounted basin mixer Monsoon&lt;br&gt;NZ/AU approved&lt;br&gt;Chrome plated solid brass wall mounted basin or bath mixer and spout. Stunning design that will last and last.&lt;br&gt;Features:&lt;br&gt;Monsoon Showers brings you shower products that ensure that every showering experience enlivens your senses. Our shower designs are bold and exciting with a focus on water saving.&lt;br&gt;Please consult a licensed installer to check that this is the correct spout for your installation.&lt;br&gt;Watermark Australian Standards Approved; Wels 3 Star 9 L/Min RATING&lt;br&gt;Mixer tap with a single lever that lifts forwards and swivels from side to side&lt;br&gt;Made from polished chrome on solid brass&lt;br&gt;9.5cm H x 21cm W
+attributeMap['building_materials.paypal_accepted_seller_s']=false
+attributeMap['building_materials.automatic_repost_ad_s']=false
+attributeMap['building_materials.condition_s']=used
+attributeMap['building_materials.highest_price_s']=50.0

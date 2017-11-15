@@ -1,0 +1,35 @@
+description=Dell Latitude 14 ( E5470 ) 5000 Series LaptopIntel Core i5-6300HQ (Quad Core, 2.3GHz, 6MB cache)16GB (1x16G) 2133MHz DDR4 MemoryM.2 256GB SATA Class 20 Solid State DriveNo Optical DriveIntel(R) HD Graphics(14.0``) FHD (1920x1080) Non-Touch Anti-Glare LCD .Waves Maxx Audio Royalty10/100/1000 EthernetIntel Dual Band Wireless 8260 (802.11ac) W/ BluetoothIntegrated Camera/MicSD 4.0 Memory Card Reader3 USB 3.0 (one with PowerShare), HDMI Port, VGA Port, RJ45 PortWindows 10 Pre-Installed, OS Recovery Disc Not Included
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+attributeMap['cars.greyimport']=
+houseNumber=
+unacceptableGeocode=false
+level2CategoryId=
+_renew=on,_showLocationOnMap
+categoryId=18553
+adType=OFFER
+price.amount=1300
+price.type=FIXED
+minimumOfferPrice=
+attributeMap[laptops.condition_s]=new
+title=New Dell Latitude 14 E5470 i5 6300HQ Quad Core 16GB RAM 256GB SSD
+name=Dimitri
+phoneNumber=0410381932
+locationId=3004117
+geocodeLat=-33.794095
+geocodeLng=151.188817
+geocodeLocality=Chatswood
+attributeMap['laptops.paypal_accepted_seller_s']=false
+attributeMap['laptops.automatic_repost_ad_s']=false
+attributeMap['laptops.highest_price_s']=1300.0
+attributeMap['laptops.condition_s']=new
+images=https://i.ebayimg.com/00/s/MTA4MFgxNTc2/z/5mMAAOSwSXdZzlWv/$_20.JPG
+images=https://i.ebayimg.com/00/s/MzExWDQwMA==/z/EecAAOSwqF9ZzlWq/$_20.JPG
+images=https://i.ebayimg.com/00/s/Mjc1WDI3NQ==/z/aU4AAOSw0oBZzlWr/$_20.JPG
+images=https://i.ebayimg.com/00/s/MTA2NVgxNjAw/z/pJEAAOSw9fRZzlWy/$_20.JPG
+images=https://i.ebayimg.com/00/s/NTMyWDg4MA==/z/TG8AAOSwKE9ZzlW6/$_20.JPG
+ctk=e_fV9PE4eu-amqZxAEY0Rw
+csrft=14897541a288e1da467a530cbfbf7d34
+_showLocationOnMap=on

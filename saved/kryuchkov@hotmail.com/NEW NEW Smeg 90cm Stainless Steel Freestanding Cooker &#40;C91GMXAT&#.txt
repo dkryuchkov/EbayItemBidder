@@ -1,0 +1,40 @@
+attributeMap['cars.greyimport']=
+postcode=2067
+houseNumber=
+streetName=
+adType=OFFER
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+_showLocationOnMap=on
+unacceptableGeocode=false
+level2CategoryId=
+quickOffer=
+_renew=on
+repost=false
+categoryId=20063
+price.amount=1000
+price.type=FIXED
+minimumOfferPrice=
+title=NEW Smeg 90cm Stainless Steel Freestanding Cooker &#40;C91GMXAT&#
+name=Dimitri
+phoneNumber=0410381932
+locationId=3003844
+mapAddress=Chatswood 2067, NSW
+geocodeLat=-33.882417
+geocodeLng=151.154762
+geocodeLocality=Chatswood
+description=Description <div class="sanitised-markup">		Smeg 90cm Stainless Steel Freestanding Cooker (C91GMXAT)Recommended Retail Price (RRP) - $4890 as of April 2015 based on a new product.Colour: Stainless steelCooking Fuel: Electric oven with gas cooktopGas Type: Natural GasCapacity: 96L Burners: 6 Including Wok BurnerTwin Fan Forced Digital ClockFlame Failure Safety DevicesDouble Glazed Door Dimensions (HxWxD): 916 x 900 x 600 mmItem may show marks/scratches/dents or imperfections. Accessories may vary from standard.Returns/refunds based on marks/scratches/dents or imperfections will not be accepted This item is classified as Grade 2 (please refer to Grading tab for details)Red - Multiple large dents on the items back panelNo other accessories. No manual included . (SN:4032024491) (216208-21) Note:
+attributeMap['hg_appliances_ovens.paypal_accepted_seller_s']=false
+attributeMap['hg_appliances_ovens.automatic_repost_ad_s']=false
+attributeMap['hg_appliances_ovens.condition_s']=new
+attributeMap['hg_appliances_ovens.website_s']=gumtree-intforce.rhcloud.com
+attributeMap[hg_appliances_ovens.slogan_s]=NEW Smeg 90cm Stainless Steel Freestanding Cooker &#40;C91GMXAT&#
+hourstomarket=24
+images=https://i.ebayimg.com/00/s/NDYzWDU0MQ==/z/AgoAAOSweCVZwt0D/$_20.JPG
+images=https://i.ebayimg.com/00/s/NjkzWDg4MA==/z/unEAAOSwEKNZwt0P/$_20.JPG
+images=https://i.ebayimg.com/00/s/ODgwWDg0NA==/z/YnwAAOSwZuRZwt0f/$_20.JPG
+images=https://i.ebayimg.com/00/s/NzQyWDg4MA==/z/nwEAAOSweJ1Zwt0q/$_20.JPG
+ctk=hl_cYDONehPZO_2bKpGQFA
+csrft=22024acaa316efa1a9e8301a398dfb38

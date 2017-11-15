@@ -1,0 +1,30 @@
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+attributeMap['cars.greyimport']=
+houseNumber=
+unacceptableGeocode=false
+level2CategoryId=
+_renew=on,_showLocationOnMap
+categoryId=20093
+price.amount=250
+price.type=FIXED
+minimumOfferPrice=
+attributeMap[hg_tools_diy_power_tools.condition_s]=used
+title=Trademaster 12 Air Compressor Pilot, 12CFM, 335 L/Min RRP $1,100
+images=https://i.ebayimg.com/00/s/OTAxWDE2MDA=/z/TlcAAOSwn-tZJp4X/$_20.JPG
+images=https://i.ebayimg.com/00/s/MTYwMFg5MDE=/z/UbwAAOSwq1JZJp4T/$_20.JPG
+images=https://i.ebayimg.com/00/s/OTAxWDE2MDA=/z/QycAAOSw9OFZJp4S/$_20.JPG
+images=https://i.ebayimg.com/00/s/MTYwMFg5MDE=/z/elQAAOSwjL5ZJp4N/$_20.JPG
+name=Tania
+phoneNumber=0410381932
+locationId=3004117
+geocodeLat=-33.794095
+geocodeLng=151.188817
+geocodeLocality=Chatswood
+description=Pilot TM12 Trademaster Series 58L 2.2HP Belt Drive Air Compressor&lt;br&gt;&lt;br&gt;Good condition, fully operational. retails over $1,000 !!! CHEAP professional trade compressor &lt;br&gt;&lt;br&gt;The Pilot Air Compressor Trademaster Series! The Trademaster series has high quality and oversized componentry to give the air compression longer, trouble free life with less wear and tear. This unit is also Australian made and has the Pilot Air Seal of Excellence.&lt;br&gt;12 CFM&lt;br&gt;Cylinder TypeMotor SizeTank Size&lt;br&gt;2.25hp&lt;br&gt;58L&lt;br&gt;12CFM&lt;br&gt;335 L/Min&lt;br&gt;The Right Design:&lt;br&gt;The Trademaster&quot; Series is Pilot Air&#39;s most popular range of air compressors which are suited to those trades and occupations that need a reliable source of compressed air. The Right Reliability:&lt;br&gt;The &quot;Trademaster&quot; Series has high quality and oversized componentry to give the air compressor longer, trouble free life with less wear and tear. The Right Features:&lt;br&gt;Features include non perishable copper discharge pipes, heavy duty wheels, heavy duty lifting handles and electric motor overload protection. All Receivers are AS1210 approved. Specifications:MODELPIST. DIST.MOTORVOLTSCYLINDERSMAX. PRESS.RECEIVER&lt;br&gt;LITRES APPROX.SIZE (mm )&lt;br&gt;L x W x HAPPROX.&lt;br&gt;kg L/MINCFMKWHPKPAPSITM1233411.81.652.2524021000145581200x460x72055&lt;br&gt;High standards ensure reliability and service life. However, the Trademaster Series features a complete 12 month warranty and a 3 year warranty on the pump only.&lt;br&gt;Pilot Air Compressors is proud to be a member of the Australian Commercial Air Compressor Association. All models are rated in accordance with A.C.A.C.A. &quot; Protocol 2000&quot; uniform testing method.&lt;br&gt;Pilot Air reserves the right to modification without notice for design or technical improvements. 1 Year Full Warranty&lt;br&gt;&lt;br&gt;THIS ADVERT IS MANAGED BY https://gumtree-intforce.rhcloud.com
+attributeMap['hg_tools_diy_power_tools.paypal_accepted_seller_s']=false
+attributeMap['hg_tools_diy_power_tools.condition_s']=used
+attributeMap['hg_tools_diy_power_tools.automatic_repost_ad_s']=false
+attributeMap['hg_tools_diy_power_tools.highest_price_s']=250.0

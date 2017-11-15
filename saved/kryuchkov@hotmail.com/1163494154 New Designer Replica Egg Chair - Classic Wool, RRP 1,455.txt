@@ -1,0 +1,31 @@
+description=<div id="ad_description_details_content">                    New, Replica Egg Chair&lt;br&gt;&lt;br&gt;This iconic chair embraces the organic, timeless shape of one of nature`s most proportional creations.It has harmonised a luxurious, aesthetic form without compromising comfort and functionality&lt;br&gt;&lt;br&gt;&lt;br&gt;</div>        </div>
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+attributeMap['cars.greyimport']=
+houseNumber=
+unacceptableGeocode=false
+level2CategoryId=
+_renew=on,_showLocationOnMap
+categoryId=21006
+adType=OFFER
+price.amount=500
+price.type=FIXED
+minimumOfferPrice=
+attributeMap[hg_furniture_office_chairs.condition_s]=new
+title=New Designer Replica Egg Chair - Classic Wool, RRP 1,455
+images=https://i.ebayimg.com/00/s/MzUyWDMwMA==/z/MXwAAOSwJ3VZewIs/$_20.JPG
+images=https://i.ebayimg.com/00/s/MTIwMFgxNjAw/z/gZkAAOSwduNZzvUH/$_20.JPG
+images=https://i.ebayimg.com/00/s/MTIwMFgxNjAw/z/6v4AAOSwVgtZzvXN/$_20.JPG
+images=https://i.ebayimg.com/00/s/MTIwMFgxNjAw/z/bjcAAOSw~V9ZzvRZ/$_20.JPG
+name=Dimitri
+phoneNumber=0410381932
+locationId=3004117
+geocodeLat=-33.794095
+geocodeLng=151.188817
+geocodeLocality=Chatswood
+attributeMap['hg_furniture_office_chairs.automatic_repost_ad_s']=false
+attributeMap['hg_furniture_office_chairs.paypal_accepted_seller_s']=false
+attributeMap['hg_furniture_office_chairs.condition_s']=new
+attributeMap['hg_furniture_office_chairs.highest_price_s']=500.0

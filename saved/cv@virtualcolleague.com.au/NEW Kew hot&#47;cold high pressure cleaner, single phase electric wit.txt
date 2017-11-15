@@ -1,0 +1,42 @@
+attributeMap['cars.greyimport']=
+postcode=2040
+houseNumber=
+streetName=
+adType=OFFER
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+_showLocationOnMap=on
+unacceptableGeocode=false
+level2CategoryId=
+quickOffer=
+_renew=on
+repost=false
+categoryId=20093
+price.amount=178
+price.type=FIXED
+minimumOfferPrice=
+title=Kew hot&#47;cold high pressure cleaner, single phase electric wit
+name=Tatiana
+phoneNumber=0410381932
+locationId=3003844
+mapAddress=Leichhardt, NSW, 2040
+geocodeLat=-33.882417
+geocodeLng=151.154762
+geocodeLocality=Leichhardt
+description=&lt;div class="content-section"&gt; &lt;h3&gt;Description&lt;/h3&gt;    &lt;div class="sanitised-markup"&gt;&lt;p&gt;Kew hot&#47;cold high pressure cleaner, single phase electric with high pressure hose and lance &#40;234807-12&#41;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;GST Note&#58;&lt;/strong&gt; GST will be added to the final bid price of this item. GST will be added to the buyers premium.&lt;/p&gt;    &lt;/div&gt;    &lt;/div&gt;
+attributeMap['hg_tools_diy_power_tools.paypal_accepted_seller_s']=false
+attributeMap['hg_tools_diy_power_tools.automatic_repost_ad_s']=false
+attributeMap['hg_tools_diy_power_tools.condition_s']=used
+hourstomarket=41
+images=https://i.ebayimg.com/00/s/NDk1WDg4MA==/z/3nEAAOSwux5YQp8p/$_20.JPG
+images=https://i.ebayimg.com/00/s/ODgwWDQ5NQ==/z/PL4AAOSwA3dYQp8z/$_20.JPG
+images=https://i.ebayimg.com/00/s/NDk1WDg4MA==/z/HxAAAOSwiDFYQp87/$_20.JPG
+images=https://i.ebayimg.com/00/s/ODgwWDQ5NQ==/z/pAkAAOSwcUBYQp9B/$_20.JPG
+images=https://i.ebayimg.com/00/s/NDk1WDg4MA==/z/s6MAAOSwj85YQp9M/$_20.JPG
+images=https://i.ebayimg.com/00/s/NDk1WDg4MA==/z/~h4AAOSwMstYQp9W/$_20.JPG
+ctk=daHBfHh6E6EHo4vLVqubJQ
+csrft=c6f641e36a048b89ad0cf2af63e3307b
+bbUserInput=8185
+bbToken=46d4940357e132f2430cfc2924bcdc7d828850ebda8903140cddee8e98b5f9f53a439f84f6e129ad202a61e05b255481c03894c0b3f37b10c76abe98cd8d99da

@@ -1,0 +1,29 @@
+description=<div id="ad_description_details_content">                    Monsoon Shower &#47; Bath Mixer Tap with Square Wall Plate.Monsoon Showers pushes the boundaries of contemporary design in all of their products from kitchens and cabinet hardware, to taps, sinks and bathroom accessories.Features: This is a genuine Monsoon Showers product Watermark Australian standards approved Mixer tap with a single lever that lifts backwards for water pressure and swivels from side to side for temperature control.Made from polished chrome on solid brass&lt;br&gt;&lt;br&gt;&lt;br&gt;</div>        </div>
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+attributeMap['cars.greyimport']=
+houseNumber=
+unacceptableGeocode=false
+level2CategoryId=
+_renew=on,_showLocationOnMap
+categoryId=20103
+adType=OFFER
+price.amount=29
+price.type=FIXED
+minimumOfferPrice=
+attributeMap[building_materials.condition_s]=used
+title=NEW Monsoon Shower / Bath Mixer Tap with Square Wall Plate
+images=https://i.ebayimg.com/00/s/MzU0WDMzNg==/z/6fwAAOSw8lpZNM-1/$_20.JPG
+images=https://i.ebayimg.com/00/s/MzE3WDQ0OA==/z/ZV0AAOSwlY1ZNM-2/$_20.JPG
+name=Dimitri
+phoneNumber=0410381932
+locationId=3004117
+geocodeLat=-33.794095
+geocodeLng=151.188817
+geocodeLocality=Chatswood
+attributeMap['building_materials.paypal_accepted_seller_s']=false
+attributeMap['building_materials.automatic_repost_ad_s']=false
+attributeMap['building_materials.condition_s']=used
+attributeMap['building_materials.highest_price_s']=29.0

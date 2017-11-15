@@ -1,0 +1,27 @@
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+attributeMap['cars.greyimport']=
+houseNumber=
+unacceptableGeocode=false
+level2CategoryId=
+_renew=on,_showLocationOnMap
+categoryId=20079
+price.amount=749
+price.type=FIXED
+minimumOfferPrice=
+attributeMap[hg_furniture_sofas.condition_s]=new
+title=NEW Boston Lounge with Chais. Black &amp; Grey RRP $3,782
+images=https://i.ebayimg.com/00/s/NDg4WDg4MA==/z/YpcAAOSwfpVZK-yy/$_20.JPG
+name=Dimitri
+phoneNumber=0410381932
+locationId=3004117
+geocodeLat=-33.794095
+geocodeLng=151.188817
+geocodeLocality=Chatswood
+description=Boston Lounge with Chaise &ndash; Black &amp; Grey RRP $3,782&lt;br&gt;&ldquo;If you stay, I`ll make you a night / Like no night has been or will be again&rdquo; &lt;br&gt;&lt;br&gt;The Boston uses an Early Modern design language and introduces two different tactile surfaces &ndash; reconstituted leather and cashmere-feel fabric, creating a rich and multi-referential design. The padding pattern of the inner armrests continues also on the inner backrest, behind the removable cushions, so if the cushions are removed the Boston becomes a low-look settee with extra-deep seats. A very comfortable and unique combination, with special charms, to be used as a full seating system or as a single-piece design feature.&lt;br&gt;&lt;br&gt;Reconstituted buffalo and cowhide leather on front parts&lt;br&gt;Matching grain synthetic leather on rear and hidden parts&lt;br&gt;Back cushions and accents in cashmere-feel fabric&lt;br&gt;Wide stainless steel feet&lt;br&gt;Right hand chaise (right when facing the lounge) &ndash; as on image&lt;br&gt;External measurements: Back W235cm x Chaise W146cm x D87cm x H86cm&lt;br&gt;Colour: Black with grey, please refer to images&lt;br&gt;&lt;br&gt;&lt;br&gt;THIS ADVERT IS MANAGED BY https://gumtree-intforce.rhcloud.com
+attributeMap['hg_furniture_sofas.highest_price_s']=749.0
+attributeMap['hg_furniture_sofas.condition_s']=new
+attributeMap['hg_furniture_sofas.automatic_repost_ad_s']=false
+attributeMap['hg_furniture_sofas.paypal_accepted_seller_s']=false

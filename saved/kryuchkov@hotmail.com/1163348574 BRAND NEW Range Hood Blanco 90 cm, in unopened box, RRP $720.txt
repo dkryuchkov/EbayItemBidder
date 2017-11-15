@@ -1,0 +1,29 @@
+description=<div id="ad_description_details_content">                    Blanco 90cm Wall Canopy BWCE9X WALL CANOPY , New&lt;br&gt;Box is damaged.&lt;br&gt;&lt;br&gt;Features:&lt;br&gt;&lt;br&gt;3 speed motor&lt;br&gt;650m3&#47;hr air movement&lt;br&gt;Push Button controls&lt;br&gt;2 x 28W halogen lights&lt;br&gt;Stainless steel&lt;br&gt;Dimensions: 900W x 495D x 260H (mm)&lt;br&gt;Power Requirement: 240 V 10 Amps&lt;br&gt;Airflow: 650m3&#47;hr&lt;br&gt;Noise Level at high: 58dB&lt;br&gt;&lt;br&gt;&lt;br&gt;</div>        </div>
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+attributeMap['cars.greyimport']=
+houseNumber=
+unacceptableGeocode=false
+level2CategoryId=
+_renew=on,_showLocationOnMap
+categoryId=20059
+adType=OFFER
+price.amount=300
+price.type=FIXED
+minimumOfferPrice=
+attributeMap[hg_appliances_cooktop_rangehood.condition_s]=new
+title=BRAND NEW Range Hood Blanco 90 cm, in unopened box, RRP $720
+images=https://i.ebayimg.com/00/s/NDg1WDg4MA==/z/~9oAAOSwRzBZ5Fey/$_20.JPG
+images=https://i.ebayimg.com/00/s/NTg1WDg4MA==/z/~coAAOSwkaVZ5Fe3/$_20.JPG
+name=Dimitri
+phoneNumber=0410381932
+locationId=3004117
+geocodeLat=-33.794095
+geocodeLng=151.188817
+geocodeLocality=Chatswood
+attributeMap['hg_appliances_cooktop_rangehood.paypal_accepted_seller_s']=false
+attributeMap['hg_appliances_cooktop_rangehood.condition_s']=new
+attributeMap['hg_appliances_cooktop_rangehood.highest_price_s']=300.0
+attributeMap['hg_appliances_cooktop_rangehood.automatic_repost_ad_s']=false
