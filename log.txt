@@ -1,0 +1,186 @@
+Thu Nov 30 21:12:45 AEDT 2017: Started for: cv@virtualcolleague.com.au
+Thu Nov 30 21:12:54 AEDT 2017: Started for: tatiana_kr@hotmail.com
+Thu Nov 30 21:12:58 AEDT 2017: Started for: kryuchkov@hotmail.com
+Thu Nov 30 21:13:41 AEDT 2017: Looking for messages in: C:\git\EbayitemBidder\messages\cv@virtualcolleague.com.au
+Thu Nov 30 21:13:43 AEDT 2017: Looking for adverts to load in : C:\git\EbayitemBidder\load\cv@virtualcolleague.com.au\load.txt
+Thu Nov 30 21:13:45 AEDT 2017: Started Adds to post for: cv@virtualcolleague.com.au
+Thu Nov 30 21:13:47 AEDT 2017: Looking for failed files in: C:\git\EbayitemBidder\failed\cv@virtualcolleague.com.au
+Thu Nov 30 21:13:50 AEDT 2017: Looking for messages in: C:\git\EbayitemBidder\messages\tatiana_kr@hotmail.com
+Thu Nov 30 21:13:51 AEDT 2017: Looking for adverts to delete in: C:\git\EbayitemBidder\delete\cv@virtualcolleague.com.au
+Thu Nov 30 21:13:52 AEDT 2017: Looking for adverts to load in : C:\git\EbayitemBidder\load\tatiana_kr@hotmail.com\load.txt
+Thu Nov 30 21:13:53 AEDT 2017: Finished renewal for: cv@virtualcolleague.com.au
+Thu Nov 30 21:13:55 AEDT 2017: Started Adds to post for: tatiana_kr@hotmail.com
+Thu Nov 30 21:13:56 AEDT 2017: Looking for failed files in: C:\git\EbayitemBidder\failed\tatiana_kr@hotmail.com
+Thu Nov 30 21:13:56 AEDT 2017: Found file to load: C:\git\EbayitemBidder\failed\tatiana_kr@hotmail.com\1167249662.txt
+Thu Nov 30 21:14:04 AEDT 2017: Looking for messages in: C:\git\EbayitemBidder\messages\kryuchkov@hotmail.com
+Thu Nov 30 21:14:06 AEDT 2017: Looking for adverts to load in : C:\git\EbayitemBidder\load\kryuchkov@hotmail.com\load.txt
+Thu Nov 30 21:14:10 AEDT 2017: Started Adds to post for: kryuchkov@hotmail.com
+Thu Nov 30 21:14:11 AEDT 2017: Looking for failed files in: C:\git\EbayitemBidder\failed\kryuchkov@hotmail.com
+Thu Nov 30 21:14:11 AEDT 2017: Found file to load: C:\git\EbayitemBidder\failed\kryuchkov@hotmail.com\1167380302.txt
+Thu Nov 30 21:14:22 AEDT 2017: Posting: C:\git\EbayitemBidder\failed\tatiana_kr@hotmail.com\1167249662.txt
+Thu Nov 30 21:14:23 AEDT 2017: Posted but needs be checked: C:\git\EbayitemBidder\failed\tatiana_kr@hotmail.com\1167249662.txt
+Thu Nov 30 21:14:23 AEDT 2017: Saved post to: C:\git\EbayitemBidder\failed\tatiana_kr@hotmail.com\a497861b0eaf4f21bb8993f08d518b3d.txt
+Thu Nov 30 21:14:27 AEDT 2017: Random: 54. Got bbUserInputValue: 0085 for: a497861b0eaf4f21bb8993f08d518b3d
+Thu Nov 30 21:14:33 AEDT 2017: Random: 58. Got bbUserInputValue: 7297 for: a497861b0eaf4f21bb8993f08d518b3d
+Thu Nov 30 21:14:34 AEDT 2017: Random: 52. Got bbUserInputValue: 6844 for: a497861b0eaf4f21bb8993f08d518b3d
+Thu Nov 30 21:14:35 AEDT 2017: Random: 65. Got bbUserInputValue: 2438 for: a497861b0eaf4f21bb8993f08d518b3d
+Thu Nov 30 21:14:42 AEDT 2017: Random: 61. Got bbUserInputValue: 8377 for: a497861b0eaf4f21bb8993f08d518b3d
+Thu Nov 30 21:14:45 AEDT 2017: Random: 63. Got bbUserInputValue: 8335 for: a497861b0eaf4f21bb8993f08d518b3d
+Thu Nov 30 21:14:47 AEDT 2017: Random: 54. Got bbUserInputValue: 3758 for: a497861b0eaf4f21bb8993f08d518b3d
+Thu Nov 30 21:14:50 AEDT 2017: Random: 59. Got bbUserInputValue: 0466 for: a497861b0eaf4f21bb8993f08d518b3d
+Thu Nov 30 21:14:51 AEDT 2017: Random: 53. Got bbUserInputValue: 5220 for: a497861b0eaf4f21bb8993f08d518b3d
+Thu Nov 30 21:14:53 AEDT 2017: Random: 56. Got bbUserInputValue: 0432 for: a497861b0eaf4f21bb8993f08d518b3d
+Thu Nov 30 21:14:54 AEDT 2017: Random: 63. Got bbUserInputValue: 2439 for: a497861b0eaf4f21bb8993f08d518b3d
+Thu Nov 30 21:14:55 AEDT 2017: Random: 66. Got bbUserInputValue: 7822 for: a497861b0eaf4f21bb8993f08d518b3d
+Thu Nov 30 21:14:59 AEDT 2017: Random: 68. Got bbUserInputValue: 9471 for: a497861b0eaf4f21bb8993f08d518b3d
+Thu Nov 30 21:15:02 AEDT 2017: Random: 68. Got bbUserInputValue: 4920 for: a497861b0eaf4f21bb8993f08d518b3d
+Thu Nov 30 21:15:03 AEDT 2017: Random: 51. Got bbUserInputValue: 4254 for: a497861b0eaf4f21bb8993f08d518b3d
+Thu Nov 30 21:15:13 AEDT 2017: Random: 53. Got bbUserInputValue: 4123 for: a497861b0eaf4f21bb8993f08d518b3d
+Thu Nov 30 21:15:15 AEDT 2017: Random: 67. Got bbUserInputValue: 0105 for: a497861b0eaf4f21bb8993f08d518b3d
+Thu Nov 30 21:15:15 AEDT 2017: Posting: C:\git\EbayitemBidder\failed\kryuchkov@hotmail.com\1167380302.txt
+Thu Nov 30 21:15:15 AEDT 2017: Posted advert: A Pair of New LED Downlighs
+Thu Nov 30 21:15:15 AEDT 2017: Deleted file C:\git\EbayitemBidder\failed\tatiana_kr@hotmail.com\a497861b0eaf4f21bb8993f08d518b3d.txt
+Thu Nov 30 21:15:17 AEDT 2017: Posted but needs be checked: C:\git\EbayitemBidder\failed\kryuchkov@hotmail.com\1167380302.txt
+Thu Nov 30 21:15:17 AEDT 2017: Saved post to: C:\git\EbayitemBidder\failed\kryuchkov@hotmail.com\5f9e9cd2c8374272b325573130270cf6.txt
+Thu Nov 30 21:15:23 AEDT 2017: Saved post to: C:\git\EbayitemBidder\saved\tatiana_kr@hotmail.com\NEW A Pair of New LED Downlighs.txt
+Thu Nov 30 21:15:23 AEDT 2017: Found file to load: C:\git\EbayitemBidder\failed\tatiana_kr@hotmail.com\1167249754.txt
+Thu Nov 30 21:15:28 AEDT 2017: Random: 60. Got bbUserInputValue: 6121 for: 5f9e9cd2c8374272b325573130270cf6
+Thu Nov 30 21:15:30 AEDT 2017: Random: 66. Got bbUserInputValue: 2351 for: 5f9e9cd2c8374272b325573130270cf6
+Thu Nov 30 21:15:34 AEDT 2017: Random: 58. Got bbUserInputValue: 3482 for: 5f9e9cd2c8374272b325573130270cf6
+Thu Nov 30 21:15:34 AEDT 2017: Posted advert: New Internal Doors Painted New 870X2040;
+Thu Nov 30 21:15:34 AEDT 2017: Deleted file C:\git\EbayitemBidder\failed\kryuchkov@hotmail.com\5f9e9cd2c8374272b325573130270cf6.txt
+Thu Nov 30 21:15:40 AEDT 2017: Saved post to: C:\git\EbayitemBidder\saved\kryuchkov@hotmail.com\NEW New Internal Doors Painted New 870X2040;.txt
+Thu Nov 30 21:15:40 AEDT 2017: Found file to load: C:\git\EbayitemBidder\failed\kryuchkov@hotmail.com\1167380914.txt
+Thu Nov 30 21:15:54 AEDT 2017: Posting: C:\git\EbayitemBidder\failed\tatiana_kr@hotmail.com\1167249754.txt
+Thu Nov 30 21:15:55 AEDT 2017: Posted but needs be checked: C:\git\EbayitemBidder\failed\tatiana_kr@hotmail.com\1167249754.txt
+Thu Nov 30 21:15:55 AEDT 2017: Saved post to: C:\git\EbayitemBidder\failed\tatiana_kr@hotmail.com\bd86970c0eef4134a4e065752c151434.txt
+Thu Nov 30 21:16:01 AEDT 2017: Random: 65. Got bbUserInputValue: 1637 for: bd86970c0eef4134a4e065752c151434
+Thu Nov 30 21:16:05 AEDT 2017: Random: 55. Got bbUserInputValue: 0235 for: bd86970c0eef4134a4e065752c151434
+Thu Nov 30 21:16:08 AEDT 2017: Random: 65. Got bbUserInputValue: 3605 for: bd86970c0eef4134a4e065752c151434
+Thu Nov 30 21:16:09 AEDT 2017: Posted advert: NEW Ultra Modern Triple Breakfast bar Pendant Light RRP $299
+Thu Nov 30 21:16:09 AEDT 2017: Deleted file C:\git\EbayitemBidder\failed\tatiana_kr@hotmail.com\bd86970c0eef4134a4e065752c151434.txt
+Thu Nov 30 21:16:16 AEDT 2017: Saved post to: C:\git\EbayitemBidder\saved\tatiana_kr@hotmail.com\NEW NEW Ultra Modern Triple Breakfast bar Pendant Light RRP $299.txt
+Thu Nov 30 21:16:16 AEDT 2017: Found file to load: C:\git\EbayitemBidder\failed\tatiana_kr@hotmail.com\1167376553.txt
+Thu Nov 30 21:16:17 AEDT 2017: Posting: C:\git\EbayitemBidder\failed\kryuchkov@hotmail.com\1167380914.txt
+Thu Nov 30 21:16:19 AEDT 2017: Posted but needs be checked: C:\git\EbayitemBidder\failed\kryuchkov@hotmail.com\1167380914.txt
+Thu Nov 30 21:16:19 AEDT 2017: Saved post to: C:\git\EbayitemBidder\failed\kryuchkov@hotmail.com\fd59ec6c79e743d39beac945cd9d03e3.txt
+Thu Nov 30 21:16:27 AEDT 2017: Random: 64. Got bbUserInputValue: 9281 for: fd59ec6c79e743d39beac945cd9d03e3
+Thu Nov 30 21:16:31 AEDT 2017: Random: 56. Got bbUserInputValue: 7874 for: fd59ec6c79e743d39beac945cd9d03e3
+Thu Nov 30 21:16:32 AEDT 2017: Random: 55. Got bbUserInputValue: 5622 for: fd59ec6c79e743d39beac945cd9d03e3
+Thu Nov 30 21:16:33 AEDT 2017: Posted advert: Bulk sale Door Furniture/Door Hardware
+Thu Nov 30 21:16:33 AEDT 2017: Deleted file C:\git\EbayitemBidder\failed\kryuchkov@hotmail.com\fd59ec6c79e743d39beac945cd9d03e3.txt
+Thu Nov 30 21:16:45 AEDT 2017: Posting: C:\git\EbayitemBidder\failed\tatiana_kr@hotmail.com\1167376553.txt
+Thu Nov 30 21:16:46 AEDT 2017: Posted but needs be checked: C:\git\EbayitemBidder\failed\tatiana_kr@hotmail.com\1167376553.txt
+Thu Nov 30 21:16:46 AEDT 2017: Saved post to: C:\git\EbayitemBidder\failed\tatiana_kr@hotmail.com\e26cb8441fe9492cb8f4cdb9b053b0c3.txt
+Thu Nov 30 21:16:48 AEDT 2017: Saved post to: C:\git\EbayitemBidder\saved\kryuchkov@hotmail.com\NEW Bulk sale Door Furniture-Door Hardware.txt
+Thu Nov 30 21:16:48 AEDT 2017: Random: 58. Got bbUserInputValue: 7619 for: e26cb8441fe9492cb8f4cdb9b053b0c3
+Thu Nov 30 21:16:51 AEDT 2017: Random: 59. Got bbUserInputValue: 3613 for: e26cb8441fe9492cb8f4cdb9b053b0c3
+Thu Nov 30 21:16:54 AEDT 2017: Random: 62. Got bbUserInputValue: 4374 for: e26cb8441fe9492cb8f4cdb9b053b0c3
+Thu Nov 30 21:16:56 AEDT 2017: Random: 55. Got bbUserInputValue: 4631 for: e26cb8441fe9492cb8f4cdb9b053b0c3
+Thu Nov 30 21:16:57 AEDT 2017: Random: 66. Got bbUserInputValue: 0256 for: e26cb8441fe9492cb8f4cdb9b053b0c3
+Thu Nov 30 21:16:57 AEDT 2017: Posted advert: post anchor full stirrup, a pair
+Thu Nov 30 21:16:57 AEDT 2017: Deleted file C:\git\EbayitemBidder\failed\tatiana_kr@hotmail.com\e26cb8441fe9492cb8f4cdb9b053b0c3.txt
+Thu Nov 30 21:17:08 AEDT 2017: Saved post to: C:\git\EbayitemBidder\saved\tatiana_kr@hotmail.com\NEW post anchor full stirrup, a pair.txt
+Thu Nov 30 21:17:08 AEDT 2017: Found file to load: C:\git\EbayitemBidder\failed\tatiana_kr@hotmail.com\2f16e8d8f860479aa168f6803880c0aa.txt
+Thu Nov 30 21:17:11 AEDT 2017: Looking for adverts to delete in: C:\git\EbayitemBidder\delete\kryuchkov@hotmail.com
+Thu Nov 30 21:17:30 AEDT 2017: Started Adds renewal for: kryuchkov@hotmail.com
+Thu Nov 30 21:17:40 AEDT 2017: Posting: C:\git\EbayitemBidder\failed\tatiana_kr@hotmail.com\2f16e8d8f860479aa168f6803880c0aa.txt
+Thu Nov 30 21:17:43 AEDT 2017: Posted but needs be checked: C:\git\EbayitemBidder\failed\tatiana_kr@hotmail.com\2f16e8d8f860479aa168f6803880c0aa.txt
+Thu Nov 30 21:17:43 AEDT 2017: Saved post to: C:\git\EbayitemBidder\failed\tatiana_kr@hotmail.com\e8d457492fad4f5490d2a4f4c209c302.txt
+Thu Nov 30 21:17:50 AEDT 2017: Random: 56. Got bbUserInputValue: 6442 for: e8d457492fad4f5490d2a4f4c209c302
+Thu Nov 30 21:17:54 AEDT 2017: Random: 65. Got bbUserInputValue: 4843 for: e8d457492fad4f5490d2a4f4c209c302
+Thu Nov 30 21:17:57 AEDT 2017: Random: 65. Got bbUserInputValue: 2490 for: e8d457492fad4f5490d2a4f4c209c302
+Thu Nov 30 21:17:57 AEDT 2017: Posted advert: Gainsborough Venice Lever Sets
+Thu Nov 30 21:17:57 AEDT 2017: Deleted file C:\git\EbayitemBidder\failed\tatiana_kr@hotmail.com\e8d457492fad4f5490d2a4f4c209c302.txt
+Thu Nov 30 21:18:03 AEDT 2017: Saved post to: C:\git\EbayitemBidder\saved\kryuchkov@hotmail.com\1167382574 NEW TESA ZPM PRIVACY MORTISE, MADE IN SPAIN, COMMERCIAL GRADE.txt
+Thu Nov 30 21:18:03 AEDT 2017: Saved post to: C:\git\EbayitemBidder\failed\kryuchkov@hotmail.com\1167382574.txt
+Thu Nov 30 21:18:06 AEDT 2017: Deleted advert: NEW TESA ZPM PRIVACY MORTISE, MADE IN SPAIN, COMMERCIAL GRADE
+Thu Nov 30 21:18:09 AEDT 2017: Saved post to: C:\git\EbayitemBidder\saved\tatiana_kr@hotmail.com\NEW Gainsborough Venice Lever Sets.txt
+Thu Nov 30 21:18:30 AEDT 2017: Looking for adverts to delete in: C:\git\EbayitemBidder\delete\tatiana_kr@hotmail.com
+Thu Nov 30 21:18:40 AEDT 2017: Started Adds renewal for: tatiana_kr@hotmail.com
+Thu Nov 30 21:18:41 AEDT 2017: Random: 51. Got bbUserInputValue: 5562 for: 1167382574
+Thu Nov 30 21:18:47 AEDT 2017: Random: 51. Got bbUserInputValue: 0486 for: 1167382574
+Thu Nov 30 21:18:49 AEDT 2017: Random: 64. Got bbUserInputValue: 0384 for: 1167382574
+Thu Nov 30 21:18:50 AEDT 2017: Posted advert: NEW TESA ZPM PRIVACY MORTISE, MADE IN SPAIN, COMMERCIAL GRADE
+Thu Nov 30 21:18:50 AEDT 2017: Deleted file C:\git\EbayitemBidder\failed\kryuchkov@hotmail.com\1167382574.txt
+Thu Nov 30 21:19:05 AEDT 2017: Saved post to: C:\git\EbayitemBidder\saved\kryuchkov@hotmail.com\1167382540 Brand new top quality Internal Doors Painted New 870X2040.txt
+Thu Nov 30 21:19:05 AEDT 2017: Saved post to: C:\git\EbayitemBidder\failed\kryuchkov@hotmail.com\1167382540.txt
+Thu Nov 30 21:19:08 AEDT 2017: Saved post to: C:\git\EbayitemBidder\saved\tatiana_kr@hotmail.com\1167382198 New large designer entrance door handles Stainless Steel RRP $600.txt
+Thu Nov 30 21:19:08 AEDT 2017: Saved post to: C:\git\EbayitemBidder\failed\tatiana_kr@hotmail.com\1167382198.txt
+Thu Nov 30 21:19:11 AEDT 2017: Deleted advert: Brand new top quality Internal Doors Painted New 870X2040
+Thu Nov 30 21:19:12 AEDT 2017: Deleted advert: New large designer entrance door handles Stainless Steel RRP $600
+Thu Nov 30 21:19:28 AEDT 2017: Random: 62. Got bbUserInputValue: 9967 for: 1167382540
+Thu Nov 30 21:19:28 AEDT 2017: Posted advert: Brand new top quality Internal Doors Painted New 870X2040
+Thu Nov 30 21:19:28 AEDT 2017: Deleted file C:\git\EbayitemBidder\failed\kryuchkov@hotmail.com\1167382540.txt
+Thu Nov 30 21:19:30 AEDT 2017: Random: 68. Got bbUserInputValue: 0217 for: 1167382198
+Thu Nov 30 21:19:34 AEDT 2017: Random: 62. Got bbUserInputValue: 7221 for: 1167382198
+Thu Nov 30 21:19:37 AEDT 2017: Random: 59. Got bbUserInputValue: 9840 for: 1167382198
+Thu Nov 30 21:19:38 AEDT 2017: Saved post to: C:\git\EbayitemBidder\saved\kryuchkov@hotmail.com\1167382378 Newsolid timber door-side panel 520x2040x35 Clear glass.txt
+Thu Nov 30 21:19:38 AEDT 2017: Saved post to: C:\git\EbayitemBidder\failed\kryuchkov@hotmail.com\1167382378.txt
+Thu Nov 30 21:19:38 AEDT 2017: Random: 67. Got bbUserInputValue: 5256 for: 1167382198
+Thu Nov 30 21:19:40 AEDT 2017: Random: 60. Got bbUserInputValue: 7319 for: 1167382198
+Thu Nov 30 21:19:40 AEDT 2017: Posted advert: New large designer entrance door handles Stainless Steel RRP $600
+Thu Nov 30 21:19:40 AEDT 2017: Deleted file C:\git\EbayitemBidder\failed\tatiana_kr@hotmail.com\1167382198.txt
+Thu Nov 30 21:19:45 AEDT 2017: Deleted advert: Newsolid timber door/side panel 520x2040x35 Clear glass
+Thu Nov 30 21:19:50 AEDT 2017: Saved post to: C:\git\EbayitemBidder\saved\tatiana_kr@hotmail.com\1167302953 NEW ex demo Modern LED Crystal Chandler RRP $399.txt
+Thu Nov 30 21:19:50 AEDT 2017: Saved post to: C:\git\EbayitemBidder\failed\tatiana_kr@hotmail.com\1167302953.txt
+Thu Nov 30 21:19:53 AEDT 2017: Deleted advert: NEW ex demo Modern LED Crystal Chandler RRP $399
+Thu Nov 30 21:19:57 AEDT 2017: Random: 52. Got bbUserInputValue: 8783 for: 1167382378
+Thu Nov 30 21:19:58 AEDT 2017: Posted advert: Newsolid timber door/side panel 520x2040x35 Clear glass
+Thu Nov 30 21:19:58 AEDT 2017: Deleted file C:\git\EbayitemBidder\failed\kryuchkov@hotmail.com\1167382378.txt
+Thu Nov 30 21:20:08 AEDT 2017: Random: 66. Got bbUserInputValue: 4200 for: 1167302953
+Thu Nov 30 21:20:11 AEDT 2017: Saved post to: C:\git\EbayitemBidder\saved\kryuchkov@hotmail.com\1167382162 New ornamental glass external door solid wood 820 x 2040 RRP $780.txt
+Thu Nov 30 21:20:11 AEDT 2017: Saved post to: C:\git\EbayitemBidder\failed\kryuchkov@hotmail.com\1167382162.txt
+Thu Nov 30 21:20:12 AEDT 2017: Random: 55. Got bbUserInputValue: 6706 for: 1167302953
+Thu Nov 30 21:20:15 AEDT 2017: Random: 56. Got bbUserInputValue: 3226 for: 1167302953
+Thu Nov 30 21:20:16 AEDT 2017: Posted advert: NEW ex demo Modern LED Crystal Chandler RRP $399
+Thu Nov 30 21:20:16 AEDT 2017: Deleted file C:\git\EbayitemBidder\failed\tatiana_kr@hotmail.com\1167302953.txt
+Thu Nov 30 21:20:16 AEDT 2017: Deleted advert: New ornamental glass external door solid wood 820 x 2040 RRP $780
+Thu Nov 30 21:20:26 AEDT 2017: Saved post to: C:\git\EbayitemBidder\saved\tatiana_kr@hotmail.com\1167276185 NEW Modern LED Crystal Chandler with remote control RRP $399.txt
+Thu Nov 30 21:20:26 AEDT 2017: Saved post to: C:\git\EbayitemBidder\failed\tatiana_kr@hotmail.com\1167276185.txt
+Thu Nov 30 21:20:29 AEDT 2017: Deleted advert: NEW Modern LED Crystal Chandler with remote control RRP $399
+Thu Nov 30 21:20:47 AEDT 2017: Random: 64. Got bbUserInputValue: 9990 for: 1167382162
+Thu Nov 30 21:20:51 AEDT 2017: Random: 63. Got bbUserInputValue: 9606 for: 1167382162
+Thu Nov 30 21:20:54 AEDT 2017: Random: 54. Got bbUserInputValue: 2437 for: 1167382162
+Thu Nov 30 21:20:56 AEDT 2017: Random: 52. Got bbUserInputValue: 4612 for: 1167276185
+Thu Nov 30 21:20:59 AEDT 2017: Random: 64. Got bbUserInputValue: 6981 for: 1167382162
+Thu Nov 30 21:20:59 AEDT 2017: Random: 66. Got bbUserInputValue: 4497 for: 1167276185
+Thu Nov 30 21:21:00 AEDT 2017: Posted advert: NEW Modern LED Crystal Chandler with remote control RRP $399
+Thu Nov 30 21:21:00 AEDT 2017: Deleted file C:\git\EbayitemBidder\failed\tatiana_kr@hotmail.com\1167276185.txt
+Thu Nov 30 21:21:01 AEDT 2017: Random: 53. Got bbUserInputValue: 1651 for: 1167382162
+Thu Nov 30 21:21:02 AEDT 2017: Random: 57. Got bbUserInputValue: 5324 for: 1167382162
+Thu Nov 30 21:21:07 AEDT 2017: Random: 54. Got bbUserInputValue: 1888 for: 1167382162
+Thu Nov 30 21:21:08 AEDT 2017: Random: 66. Got bbUserInputValue: 4465 for: 1167382162
+Thu Nov 30 21:21:08 AEDT 2017: Posted advert: New ornamental glass external door solid wood 820 x 2040 RRP $780
+Thu Nov 30 21:21:08 AEDT 2017: Deleted file C:\git\EbayitemBidder\failed\kryuchkov@hotmail.com\1167382162.txt
+Thu Nov 30 21:21:10 AEDT 2017: Saved post to: C:\git\EbayitemBidder\saved\tatiana_kr@hotmail.com\1167242894 NEW LED Downlight  Square 1W 50 available. CHEAP !.txt
+Thu Nov 30 21:21:10 AEDT 2017: Saved post to: C:\git\EbayitemBidder\failed\tatiana_kr@hotmail.com\1167242894.txt
+Thu Nov 30 21:21:12 AEDT 2017: Deleted advert: NEW LED Downlight  Square 1W 50 available. CHEAP !
+Thu Nov 30 21:21:18 AEDT 2017: Saved post to: C:\git\EbayitemBidder\saved\kryuchkov@hotmail.com\1167381390 2 New External Door Panels 770x2040.txt
+Thu Nov 30 21:21:18 AEDT 2017: Saved post to: C:\git\EbayitemBidder\failed\kryuchkov@hotmail.com\1167381390.txt
+Thu Nov 30 21:21:20 AEDT 2017: Deleted advert: 2 New External Door Panels 770x2040
+Thu Nov 30 21:21:37 AEDT 2017: Random: 54. Got bbUserInputValue: 4544 for: 1167381390
+Thu Nov 30 21:21:40 AEDT 2017: Random: 62. Got bbUserInputValue: 5121 for: 1167381390
+Thu Nov 30 21:21:40 AEDT 2017: Random: 69. Got bbUserInputValue: 2828 for: 1167242894
+Thu Nov 30 21:21:41 AEDT 2017: Posted advert: NEW LED Downlight  Square 1W 50 available. CHEAP !
+Thu Nov 30 21:21:41 AEDT 2017: Deleted file C:\git\EbayitemBidder\failed\tatiana_kr@hotmail.com\1167242894.txt
+Thu Nov 30 21:21:45 AEDT 2017: Random: 53. Got bbUserInputValue: 5534 for: 1167381390
+Thu Nov 30 21:21:47 AEDT 2017: Random: 67. Got bbUserInputValue: 0685 for: 1167381390
+Thu Nov 30 21:21:52 AEDT 2017: Random: 52. Got bbUserInputValue: 1471 for: 1167381390
+Thu Nov 30 21:21:52 AEDT 2017: Saved post to: C:\git\EbayitemBidder\saved\tatiana_kr@hotmail.com\1166859364 4 X NEW LED Art Decor Blue Wall Lights CHEAP !.txt
+Thu Nov 30 21:21:52 AEDT 2017: Saved post to: C:\git\EbayitemBidder\failed\tatiana_kr@hotmail.com\1166859364.txt
+Thu Nov 30 21:21:54 AEDT 2017: Random: 57. Got bbUserInputValue: 7330 for: 1167381390
+Thu Nov 30 21:21:55 AEDT 2017: Deleted advert: 4 X NEW LED Art Decor Blue Wall Lights CHEAP !
+Thu Nov 30 21:21:59 AEDT 2017: Random: 63. Got bbUserInputValue: 8525 for: 1167381390
+Thu Nov 30 21:22:00 AEDT 2017: Posted advert: 2 New External Door Panels 770x2040
+Thu Nov 30 21:22:00 AEDT 2017: Deleted file C:\git\EbayitemBidder\failed\kryuchkov@hotmail.com\1167381390.txt
+Thu Nov 30 21:22:08 AEDT 2017: Random: 58. Got bbUserInputValue: 3123 for: 1166859364
+Thu Nov 30 21:22:14 AEDT 2017: Random: 69. Got bbUserInputValue: 5055 for: 1166859364
+Thu Nov 30 21:22:14 AEDT 2017: Posted advert: 4 X NEW LED Art Decor Blue Wall Lights CHEAP !
+Thu Nov 30 21:22:14 AEDT 2017: Deleted file C:\git\EbayitemBidder\failed\tatiana_kr@hotmail.com\1166859364.txt
+Thu Nov 30 21:22:16 AEDT 2017: Saved post to: C:\git\EbayitemBidder\saved\kryuchkov@hotmail.com\1167381340 3 lengths of good condition Oregon Timber approx 2.7m each.txt
+Thu Nov 30 21:22:16 AEDT 2017: Saved post to: C:\git\EbayitemBidder\failed\kryuchkov@hotmail.com\1167381340.txt
+Thu Nov 30 21:22:22 AEDT 2017: Deleted advert: 3 lengths of good condition Oregon Timber approx 2.7m each
+Thu Nov 30 21:22:28 AEDT 2017: Saved post to: C:\git\EbayitemBidder\saved\tatiana_kr@hotmail.com\1166859326 New Pair of modern LED wall lights.txt
+Thu Nov 30 21:22:28 AEDT 2017: Saved post to: C:\git\EbayitemBidder\failed\tatiana_kr@hotmail.com\1166859326.txt
+Thu Nov 30 21:22:32 AEDT 2017: Deleted advert: New Pair of modern LED wall lights
