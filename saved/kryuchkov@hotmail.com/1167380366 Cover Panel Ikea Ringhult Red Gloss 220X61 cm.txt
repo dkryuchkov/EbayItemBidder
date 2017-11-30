@@ -1,0 +1,34 @@
+description=<div class="vip-ad-description--fade-out"></div>                <div id="ad_description_details_content">                    Ikea Cover Panel Red High Gloss H 220, w 61 cm, tickness 1.3 cm&lt;br&gt;&lt;br&gt;No longer available in Ikea, was discontinued in beg. 2017&lt;br&gt;&lt;br&gt;New Panel in unopened pack.&lt;br&gt;&lt;br&gt;Use it for replacement of existing damaged panel, add&#47;change color to your kitchen or for your other diy projects.&lt;br&gt;&lt;br&gt;&lt;br&gt;</div>        </div>
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+attributeMap['cars.greyimport']=
+houseNumber=
+unacceptableGeocode=false
+level2CategoryId=
+_renew=on,_showLocationOnMap
+categoryId=20103
+adType=OFFER
+price.amount=90
+price.type=FIXED
+minimumOfferPrice=
+attributeMap[building_materials.condition_s]=new
+title=Cover Panel Ikea Ringhult Red Gloss 220X61 cm
+images=https://i.ebayimg.com/00/s/MzU1WDM1NQ==/z/zKgAAOSwz3JaG4-e/$_20.JPG
+images=https://i.ebayimg.com/00/s/NDM1WDQzNQ==/z/n3MAAOSw6GJaG4-a/$_20.JPG
+images=https://i.ebayimg.com/00/s/NDAwWDMwMA==/z/iYsAAOSwRbtaG4-p/$_20.JPG
+images=https://i.ebayimg.com/00/s/MTYwMFgxMjAw/z/pIcAAOSwnDpaG4-3/$_20.JPG
+name=Dimitri
+phoneNumber=0410381932
+locationId=3004117
+geocodeLat=-33.80077
+geocodeLng=151.17959999999994
+geocodeLocality=Chatswood
+locationLevel1=3008839
+locationLevel2=3003435
+attributeMap['building_materials.automatic_repost_ad_s']=false
+attributeMap['building_materials.highest_price_s']=90.0
+attributeMap['building_materials.paypal_accepted_seller_s']=false
+attributeMap['building_materials.adsense_query_title_s']=[{algorithmName
+attributeMap['title']=Cover Panel Ikea Ringhult Gloss 220X61 cm

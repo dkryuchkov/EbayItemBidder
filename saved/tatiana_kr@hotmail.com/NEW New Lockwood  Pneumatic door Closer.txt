@@ -1,4 +1,4 @@
-description=<div id="ad_description_details_content"> Lookwood for medium weigth doors up to 31 kg, for right or left hand doors new, in package original price $57&lt;br&gt;</div> </div>
+description=<div class="vip-ad-description--fade-out"></div> <div id="ad_description_details_content"> Lookwood for medium weigth doors up to 31 kg, for right or left hand doors new, in package original price $57&lt;br&gt;</div> </div>
 adId=
 geocodeConfidence=OK
 files[]=
@@ -21,15 +21,18 @@ locationId=3004117
 geocodeLat=-33.794095
 geocodeLng=151.188817
 geocodeLocality=Chatswood
+locationLevel1=3008839
+locationLevel2=3003435
 attributeMap['building_materials.automatic_repost_ad_s']=false
 attributeMap['building_materials.highest_price_s']=25.0
 attributeMap['building_materials.paypal_accepted_seller_s']=false
-attributeMap['building_materials.condition_s']=new
+attributeMap['building_materials.adsense_query_title_s']=[{algorithmName
+attributeMap['title']=Lockwood door Closer
 images=https://i.ebayimg.com/00/s/MTIwMFgxNjAw/z/fq4AAOSwEH9ZaL~d/$_20.JPG
 images=https://i.ebayimg.com/00/s/MTIwMFgxNjAw/z/gzkAAOSwrf1ZaL~Y/$_20.JPG
 images=https://i.ebayimg.com/00/s/MTIwMFgxNjAw/z/yQoAAOSwvc1ZaMGF/$_20.JPG
-ctk=dM_xa3BVEUmcKDldxnj5Hg
-csrft=0c043ed0fdbb73f6abaf7eb68f44773d
+ctk=-I6HUA6uA5H4QhmKhA41Ow
+csrft=21ff2d2a696dbb712e6a410a889d07a0
 _showLocationOnMap=on
-bbUserInput=8563
-bbToken=b4330398b2d4cb7f6028e64fb84f75985b2951cdca87c23a903eea9f828e5d70381c504bd970282998a3bcba70b7069e26e5ad1f590839b3a3eb8b2145481a03
+bbUserInput=8426
+bbToken=f40278c3fb78d6d2e3891bfbb019f29523c2807d34393b4074dead72ecd34978405eb5ee2d812658386f8e07d3eaccdccbe5e760df4de525498d9a28173348da

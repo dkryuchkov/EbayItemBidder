@@ -1,4 +1,4 @@
-description=<div id=BUL SALE, 37 BOXED MORTISES FOR ONLY $ 250 OR $7 EACH !!!! THESE ARE COMMERCIAL GRADE, TOP QUALITY ITEMS RETAIL FOR $237 EACH!&lt;br&gt;SOLID BRASS Polished Privacy Mortise&lt;br&gt;Made in Spain&lt;br&gt;New in original Boxes.
+description=<div class="vip-ad-description--fade-out"></div> <div id="ad_description_details_content"> &lt;div id=BUL SALE, 37 BOXED MORTISES FOR ONLY $ 250 OR $7 EACH !!!! THESE ARE COMMERCIAL GRADE, TOP QUALITY ITEMS RETAIL FOR $237 EACH!&lt;br&gt;SOLID BRASS Polished Privacy Mortise&lt;br&gt;Made in Spain&lt;br&gt;New in original Boxes.&lt;br&gt;</div> </div>
 adId=
 geocodeConfidence=OK
 files[]=
@@ -21,13 +21,19 @@ locationId=3004117
 geocodeLat=-33.794095
 geocodeLng=151.188817
 geocodeLocality=Chatswood
+locationLevel1=3008839
+locationLevel2=3003435
 attributeMap['building_materials.automatic_repost_ad_s']=false
-attributeMap['building_materials.highest_price_s']=20.0
+attributeMap['building_materials.minimum_offer_price_s']=249
+attributeMap['building_materials.highest_price_s']=250.0
 attributeMap['building_materials.paypal_accepted_seller_s']=false
-attributeMap['building_materials.condition_s']=new
+attributeMap['building_materials.adsense_query_title_s']=[{algorithmName
+attributeMap['title']=BULK SALE 37 X TESA ZPM MORTISE SPAIN MADE GRADE
 images=https://i.ebayimg.com/00/s/MTIwMFgxNjAw/z/n3cAAOSwySlZ5v9q/$_20.JPG
 images=https://i.ebayimg.com/00/s/MTIwMFgxNjAw/z/ZncAAOSwW6BZ5v9s/$_20.JPG
 images=https://i.ebayimg.com/00/s/MTIwMFgxNjAw/z/5NwAAOSwIJlZ5v9q/$_20.JPG
-ctk=CST51n_HyEOIPf7_aQMJDA
-csrft=43b9ee9926a0b5c680705a207f934142
+ctk=CvUuMTz_hc84QeQ8WNIGDQ
+csrft=917bfc60aad94fa79f721325d2f873a2
 _showLocationOnMap=on
+bbUserInput=0310
+bbToken=2d946aaf21148c4437984dd91177ceb7a88f540fe0fbb701221534d5b8fdfbbe22fa054f620aecf4e56188a02ab90aba9931d89f725ca80a734b011cfb0cf9f0

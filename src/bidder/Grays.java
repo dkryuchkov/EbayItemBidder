@@ -5,6 +5,7 @@
  */
 package bidder;
 
+import com.intforce.gumtree.Renewer;
 import java.net.URI;
 import java.util.ArrayList;
 import java.util.List;
@@ -28,7 +29,7 @@ public class Grays {
     private static String pkey = "ctl00$content$loginControl$login$Password";
     private static String user = "kryuchkov@hotmail.com";
     private static String password = "N0t4any1";
-    private static final Gumtree gumtree = new Gumtree();
+    private static final Renewer renewer = new Renewer(null);
     
     static String _login
             = "ReqCrossSiteImage=true; mbox=check#true#1460167572|session#1460167511269-197201#1460169372"
@@ -44,7 +45,7 @@ public class Grays {
 
     public static void main(String[] args) throws Exception {
         System.out.println(login());
-        System.out.println(gumtree.getPageByURL(url, itemBidder, null));
+        System.out.println(renewer.getPageByURL(url, itemBidder, null));
     }
 
     public static String login() throws Exception {
@@ -68,15 +69,15 @@ public class Grays {
     }
 
     static List<NameValuePair> getPage(String url) throws Exception {
-        String out = gumtree.getPageByURL(url, itemBidder, null);
+        String out = renewer.getPageByURL(url, itemBidder, null);
         out = com.intforce.utils.Helper.split(out, "<form ", "/form>").get(1);
 
         List<NameValuePair> nvps = new ArrayList<NameValuePair>();
         for (String text : com.intforce.utils.Helper.split(out, "<input ", ">")) {
-            String vid = gumtree.getValue(text, "id");
-            String value = gumtree.getValue(text, " value");
-            String type = gumtree.getValue(text, "type");
-            String checked = gumtree.getValue(text, "checked");
+            String vid = renewer.getValue(text, "id");
+            String value = renewer.getValue(text, " value");
+            String type = renewer.getValue(text, "type");
+            String checked = renewer.getValue(text, "checked");
             nvps.add(new BasicNameValuePair(vid, value));
         }
         return nvps;
