@@ -184,3 +184,24 @@ Thu Nov 30 21:22:22 AEDT 2017: Deleted advert: 3 lengths of good condition Orego
 Thu Nov 30 21:22:28 AEDT 2017: Saved post to: C:\git\EbayitemBidder\saved\tatiana_kr@hotmail.com\1166859326 New Pair of modern LED wall lights.txt
 Thu Nov 30 21:22:28 AEDT 2017: Saved post to: C:\git\EbayitemBidder\failed\tatiana_kr@hotmail.com\1166859326.txt
 Thu Nov 30 21:22:32 AEDT 2017: Deleted advert: New Pair of modern LED wall lights
+Thu Nov 30 21:23:00 AEDT 2017: Random: 61. Got bbUserInputValue: 4831 for: 1167381340
+Thu Nov 30 21:23:07 AEDT 2017: Random: 57. Got bbUserInputValue: 9502 for: 1167381340
+Thu Nov 30 21:23:09 AEDT 2017: Random: 65. Got bbUserInputValue: 0770 for: 1166859326
+Thu Nov 30 21:23:10 AEDT 2017: Random: 58. Got bbUserInputValue: 7005 for: 1167381340
+Thu Nov 30 21:23:10 AEDT 2017: Posted advert: 3 lengths of good condition Oregon Timber approx 2.7m each
+Thu Nov 30 21:23:10 AEDT 2017: Deleted file C:\git\EbayitemBidder\failed\kryuchkov@hotmail.com\1167381340.txt
+Thu Nov 30 21:23:15 AEDT 2017: Random: 68. Got bbUserInputValue: 3363 for: 1166859326
+Thu Nov 30 21:23:18 AEDT 2017: Random: 52. Got bbUserInputValue: 8604 for: 1166859326
+Thu Nov 30 21:23:18 AEDT 2017: Posted advert: New Pair of modern LED wall lights
+Thu Nov 30 21:23:18 AEDT 2017: Deleted file C:\git\EbayitemBidder\failed\tatiana_kr@hotmail.com\1166859326.txt
+Thu Nov 30 21:23:24 AEDT 2017: Finished Adds renewal for: tatiana_kr@hotmail.com
+Thu Nov 30 21:23:24 AEDT 2017: Finished renewal for: tatiana_kr@hotmail.com
+Thu Nov 30 21:23:30 AEDT 2017: Saved post to: C:\git\EbayitemBidder\saved\kryuchkov@hotmail.com\1167381289 New Bifold Door Panels, 435mmx2040 each.txt
+Thu Nov 30 21:23:30 AEDT 2017: Saved post to: C:\git\EbayitemBidder\failed\kryuchkov@hotmail.com\1167381289.txt
+Thu Nov 30 21:23:35 AEDT 2017: Deleted advert: New Bifold Door Panels, 435mmx2040 each
+Thu Nov 30 21:23:48 AEDT 2017: Random: 64. Got bbUserInputValue: 7778 for: 1167381289
+Thu Nov 30 21:23:51 AEDT 2017: Random: 64. Got bbUserInputValue: 6488 for: 1167381289
+Thu Nov 30 21:23:52 AEDT 2017: Posted advert: New Bifold Door Panels, 435mmx2040 each
+Thu Nov 30 21:23:52 AEDT 2017: Deleted file C:\git\EbayitemBidder\failed\kryuchkov@hotmail.com\1167381289.txt
+Thu Nov 30 21:23:58 AEDT 2017: Finished Adds renewal for: kryuchkov@hotmail.com
+Thu Nov 30 21:23:58 AEDT 2017: Finished renewal for: kryuchkov@hotmail.com
