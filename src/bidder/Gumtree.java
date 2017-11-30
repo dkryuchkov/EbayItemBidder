@@ -7,12 +7,12 @@ package bidder;
 
 import static bidder.ImageRecog.getNumber;
 import static bidder.ImageRecog.randInt;
-import static bidder.Utils.encodeValue;
 import static bidder.Utils.encrypt;
 import com.intforce.db.entity.Item;
 import com.intforce.exception.ForbiddenException;
 import com.intforce.html.parsers.EbayItemParser;
 import com.intforce.md5.MD5Hash;
+import ij.gui.GUI;
 import java.awt.Image;
 import java.awt.image.BufferedImage;
 import java.io.BufferedReader;
@@ -33,13 +33,10 @@ import java.text.SimpleDateFormat;
 import java.util.ArrayList;
 import java.util.Date;
 import java.util.HashMap;
-import java.util.Iterator;
 import java.util.List;
 import java.util.Map;
 import java.util.UUID;
 import java.util.concurrent.TimeUnit;
-import java.util.logging.Level;
-import java.util.logging.Logger;
 import javax.imageio.ImageIO;
 import javax.json.Json;
 import javax.json.JsonArray;
@@ -53,11 +50,9 @@ import org.apache.http.HttpStatus;
 import org.apache.http.NameValuePair;
 import org.apache.http.NoHttpResponseException;
 import org.apache.http.client.entity.UrlEncodedFormEntity;
-import org.apache.http.client.methods.HttpEntityEnclosingRequestBase;
 import org.apache.http.client.methods.HttpGet;
 import org.apache.http.client.methods.HttpPost;
 import org.apache.http.client.methods.HttpRequestBase;
-import org.apache.http.client.methods.HttpUriRequest;
 import org.apache.http.conn.ConnectionPoolTimeoutException;
 import org.apache.http.conn.HttpHostConnectException;
 import org.apache.http.entity.mime.MultipartEntity;
@@ -212,6 +207,8 @@ public class Gumtree {
     private static final String textarea = "</textarea>";
     private static final boolean waitWhileActioned = false;
     private static Map<String, String> userMap = new HashMap<>();
+    private static final String NOT_RENEW = "__NOR__";
+    private static final String ALWAYS_RENEW = "__ALR__";
 
     @Override
     protected void finalize() throws Throwable {
@@ -650,7 +647,7 @@ public class Gumtree {
                     //new com.intforce.html.parsers.HtmlParser(description).getBodyNamedTagTextById("div", "ad-description-details");
                     description = description.trim();
 
-                    if (out.contains("__NOR__")) {
+                    if (out.contains(NOT_RENEW)) {
                         continue;
                     }
                     List<NameValuePair> nvps = new ArrayList<NameValuePair>();
@@ -1449,6 +1446,18 @@ public class Gumtree {
                     try {
                         if (!putAddsToPostOnly) {
                             if (!duplicate && checkPost(false, out, nvps1, UUID.randomUUID().toString().replace("-", ""))) {
+
+                                sendItem(((JsonObject) jsonObject).getString("name"),
+                                        const_Item.replace("<id>", UUID.randomUUID().toString())
+                                                .replace("<user>", ((JsonObject) jsonObject).getString("email"))
+                                                .replace("<title>", getKey(nvps1, "title"))
+                                                .replace("<page>", "1")
+                                                .replace("<visits>", "0")
+                                                .replace("<minvisits>", "0")
+                                                .replace("<hourstomarket>", "24")
+                                                .replace("<managed>", "false")
+                                                .replace("<active>", "true"));
+
                                 saveAdvert(username, "NEW", nvps1);
                             }
                         }

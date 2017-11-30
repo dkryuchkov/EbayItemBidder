@@ -1,4 +1,4 @@
-description=Economical cleaning station fitted with two packets of lens cleaning tissues (500 tissues each) and 225ml bottle of cleaning solution complete with atomiser spray head. Wall mountable (sc
+description=<div class="vip-ad-description--fade-out"></div> <div id="ad_description_details_content"> Economical cleaning station fitted with two packets of lens cleaning tissues (500 tissues each) and 225ml bottle of cleaning solution complete with atomiser spray head. Wall mountable (sc&lt;br&gt;</div> </div>
 adId=
 geocodeConfidence=OK
 files[]=
@@ -21,14 +21,15 @@ locationId=3004117
 geocodeLat=-33.794095
 geocodeLng=151.188817
 geocodeLocality=Chatswood
-attributeMap['other_home_garden.highest_price_s']=25.0
-attributeMap['other_home_garden.condition_s']=new
+locationLevel1=3008839
+locationLevel2=3003435
 attributeMap['other_home_garden.automatic_repost_ad_s']=false
+attributeMap['other_home_garden.highest_price_s']=25.0
 attributeMap['other_home_garden.paypal_accepted_seller_s']=false
-_showLocationOnMap=on
+attributeMap['other_home_garden.adsense_query_title_s']=[{algorithmName
+attributeMap['title']=Uvex Lens Cleaning Station
 images=https://i.ebayimg.com/00/s/NTAwWDUwMA==/z/z6UAAOSwux5YRNXb/$_20.JPG
 images=https://i.ebayimg.com/00/s/MTIwMFgxNjAw/z/0V8AAOSwux5YRNXv/$_20.JPG
-ctk=kwcBkAX24IKBiX2f7Ceqdw
-csrft=e966dad0d3a9134b6ee25c43269e0261
-bbUserInput=4440
-bbToken=15b5939877669fd6a61a32ea059c6f34015dde168d56179e0139a00838a4ae0ec98db42bf0c08e5a89ed55baac0e5ed1938e01b6e6179be2e13a5f1deffea1f7
+ctk=b7qlajCveRo0CLu6x6oKxA
+csrft=724a5601cd13bdf0fee3bbf38f31cfa5
+_showLocationOnMap=on

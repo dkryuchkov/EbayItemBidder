@@ -1,0 +1,31 @@
+description=<div class="vip-ad-description--fade-out"></div>                <div id="ad_description_details_content">                    NEW Ultra Modern LED Triple Breakfast bar Pendant Light 1.2 M Full metal&lt;br&gt;&lt;br&gt;Also available in red.&lt;br&gt;&lt;br&gt;In original unopened box. ( from closing down shop)&lt;br&gt;&lt;br&gt;&lt;br&gt;</div>        </div>
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+attributeMap['cars.greyimport']=
+houseNumber=
+unacceptableGeocode=false
+level2CategoryId=
+_renew=on,_showLocationOnMap
+categoryId=21023
+adType=OFFER
+price.amount=159
+price.type=FIXED
+minimumOfferPrice=
+attributeMap[hg_lighting_ceiling.condition_s]=new
+title=NEW Ultra Modern LED Triple Breakfast bar Pendant Light  RRP $299
+images=https://i.ebayimg.com/00/s/NTUwWDUwNw==/z/7JkAAOSwX9FZNQsJ/$_20.JPG
+images=https://i.ebayimg.com/00/s/MTIwMFgxNjAw/z/ioAAAOSwgeRZmBCr/$_20.JPG
+images=https://i.ebayimg.com/00/s/MTIwMFgxNjAw/z/ouIAAOSwvZVZmBCx/$_20.JPG
+images=https://i.ebayimg.com/00/s/MTIwMFgxNjAw/z/uBoAAOSw0DlZmBCy/$_20.JPG
+name=Dimitri
+phoneNumber=0410381932
+locationId=3004117
+geocodeLat=-33.794095
+geocodeLng=151.188817
+geocodeLocality=Chatswood
+locationLevel1=3008839
+locationLevel2=3003435
+attributeMap['hg_lighting_ceiling.adsense_query_title_s']=[{algorithmName
+attributeMap['title']=LED Breakfast bar Light RRP 299

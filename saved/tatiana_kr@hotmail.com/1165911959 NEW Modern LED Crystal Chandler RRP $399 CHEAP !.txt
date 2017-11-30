@@ -1,0 +1,32 @@
+description=<div class="vip-ad-description--fade-out"></div>                <div id="ad_description_details_content">                    New LED Crystal Chandler 47cm x 37cm x 80cm H Pendant height can be adjusted to required length....Ex demo model, not in a box&lt;br&gt;Please note: it&#39;s an entertainment chandler, not a main electricity supply for a room, as it&#39;s slowly changing light colour ( blue, lilyc, red)&lt;br&gt;2 ex demo Chandlers are available, slightly different in design. leftovers from closing down a business&lt;br&gt;&lt;br&gt;&lt;br&gt;</div>        </div>
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+attributeMap['cars.greyimport']=
+houseNumber=
+unacceptableGeocode=false
+level2CategoryId=
+_renew=on,_showLocationOnMap
+categoryId=21023
+adType=OFFER
+price.amount=65
+price.type=FIXED
+minimumOfferPrice=60
+attributeMap[hg_lighting_ceiling.condition_s]=new
+title=NEW Modern LED Crystal Chandler RRP $399 CHEAP !
+images=https://i.ebayimg.com/00/s/Mjg1WDQ3MQ==/z/dGAAAOSws5pZNQtd/$_20.JPG
+images=https://i.ebayimg.com/00/s/MTYwMFg5MDE=/z/CZoAAOSwz~VZmBZM/$_20.JPG
+images=https://i.ebayimg.com/00/s/MTYwMFg5MDE=/z/ZZEAAOSwvJdZmBZL/$_20.JPG
+images=https://i.ebayimg.com/00/s/OTAxWDE2MDA=/z/h4IAAOSwPydZmBZH/$_20.JPG
+images=https://i.ebayimg.com/00/s/OTAxWDE2MDA=/z/uu4AAOSw71xZmBZJ/$_20.JPG
+name=Dimitri
+phoneNumber=0410381932
+locationId=3004117
+geocodeLat=-33.794095
+geocodeLng=151.188817
+geocodeLocality=Chatswood
+locationLevel1=3008839
+locationLevel2=3003435
+attributeMap['hg_lighting_ceiling.adsense_query_title_s']=[{algorithmName
+attributeMap['title']=LED Crystal Chandler 399

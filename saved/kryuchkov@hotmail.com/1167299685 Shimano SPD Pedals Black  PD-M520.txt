@@ -1,0 +1,29 @@
+description=<div class="vip-ad-description--fade-out"></div>                <div id="ad_description_details_content">                    Shipping -$8, or pick up from Chatswood&lt;br&gt;&lt;br&gt;A brand-new, unused, unopened, undamaged item.&lt;br&gt;&lt;br&gt;Colour: Black&lt;br&gt;&lt;br&gt;MPN: EPDM520L Manufacturer Part Number: EPDM520L&lt;br&gt;&lt;br&gt;Brand: SHIMANO UPC: 4524667060475&lt;br&gt;&lt;br&gt;EAN: 4524667060475&lt;br&gt;&lt;br&gt;Black Finish&lt;br&gt;&lt;br&gt;9&#47;16&quot; Thread (To suit all 3-Piece Cranksets)&lt;br&gt;&lt;br&gt;Off-Road Racing Pedal.&lt;br&gt;&lt;br&gt;Includes genuine Shimano SPD Cleats.&lt;br&gt;&lt;br&gt;Shimano PD-M520 SPD Mountain Bike Pedals are THE most reliable and cost effective clipless pedal for the price!&lt;br&gt;This pedal was first introduced in 1986, but has remained a favourite among riders due to its unmatched and unbeatable combination of value, performance, and ease of use!&lt;br&gt;This is the ideal pedal to introduce YOU to clipless pedals or if you&#39;re on a budget and want rock-solid reliability!&lt;br&gt;Features&lt;br&gt;Open binding mechanism and lighter weight are perfect for MTB or road cyclists&lt;br&gt;&lt;br&gt;Compact body design will be popular with road cyclists&#47;century riders&lt;br&gt;&lt;br&gt;The best mud and debris shedding ability of any other pedal in its class&lt;br&gt;&lt;br&gt;Chrome-moly spindle and low maintenance sealed bearing cartridge axle&lt;br&gt;&lt;br&gt;Adjustable cleat tension feature great for beginners&lt;br&gt;&lt;br&gt;&lt;br&gt;</div>        </div>
+adId=
+geocodeConfidence=OK
+files[]=
+galleryImageIndex=
+attributeMap['cars.greyimport']=
+houseNumber=
+unacceptableGeocode=false
+level2CategoryId=
+_renew=on,_showLocationOnMap
+categoryId=18540
+adType=OFFER
+price.amount=55
+price.type=FIXED
+minimumOfferPrice=
+attributeMap[bicycle_parts_and_accessories.condition_s]=used
+title=Shimano SPD Pedals Black  PD-M520
+images=https://i.ebayimg.com/00/s/MTIwMFgxNjAw/z/Lp8AAOSwErFZzwc9/$_20.JPG
+images=https://i.ebayimg.com/00/s/Mzc1WDUwMA==/z/C9MAAOSwuZlZzwdb/$_20.JPG
+name=Dimitri
+phoneNumber=0410381932
+locationId=3004117
+geocodeLat=-33.794095
+geocodeLng=151.188817
+geocodeLocality=Chatswood
+locationLevel1=3008839
+locationLevel2=3003435
+attributeMap['bicycle_parts_and_accessories.adsense_query_title_s']=[{algorithmName
+attributeMap['title']=Shimano SPD Pedals PD M520
